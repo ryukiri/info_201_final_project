@@ -15,9 +15,9 @@ ZK:
 My test result(use my account)
 
 The first page 
-![the first page](/Users/abc/Desktop/Screen Shot 2017-05-22 at 2.48.07 PM.png)
-After login my account
-![My test result(use my personal account)](/Users/abc/Desktop/Screen Shot 2017-05-22 at 2.47.44 PM.png)
+![the first page](pic/Screen Shot 2017-05-22 at 2.49.54 PM.png)
+Page After login my account
+![My test result(use my personal account)](pic/Screen Shot 2017-05-22 at 2.47.44 PM.png)
 
 [here is the link for instruction of setting up](https://developer.spotify.com/web-api/tutorial/)
 
