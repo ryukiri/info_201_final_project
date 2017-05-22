@@ -15,9 +15,9 @@ ZK:
 My test result(use my account)
 
 The first page 
-![the first page](pic/Screen Shot 2017-05-22 at 2.49.54 PM.png)
+![the first page](https://raw.githubusercontent.com/ryukiri/info_201_final_project/master/test%20%20Authorization%20/pic/Screen%20Shot%202017-05-22%20at%202.49.54%20PM.png)
 Page After login my account
-![My test result(use my personal account)](pic/Screen Shot 2017-05-22 at 2.47.44 PM.png)
+![My test result(use my personal account)](https://raw.githubusercontent.com/ryukiri/info_201_final_project/master/test%20%20Authorization%20/pic/Screen%20Shot%202017-05-22%20at%202.47.44%20PM.png)
 
 [here is the link for instruction of setting up](https://developer.spotify.com/web-api/tutorial/)
 
