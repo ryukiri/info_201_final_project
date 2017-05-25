@@ -1,0 +1,10 @@
+name: test
+title: test
+account: zklin
+server: shinyapps.io
+appId: 182788
+bundleId: 836979
+url: https://zklin.shinyapps.io/test/
+when: 1495508669.79304
+asMultiple: FALSE
+asStatic: FALSE
