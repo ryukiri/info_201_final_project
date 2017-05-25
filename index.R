@@ -1,19 +1,22 @@
-install.packages("rPython")
-install.packages("rjson")
 install.packages("devtools")
-library(rjson)
-library(jsonlite)
-library(rPython)
+install_github("tiagomendesdantas/Rspotify")
 library(devtools)
 library(Rspotify)
 
 ## Set Working Directory
-setwd("~/Documents/Info 201/info_201_final_project")
+# setwd("~/Documents/Info 201/info_201_final_project")
+setwd("C:/Users/Austin Quach/Google Drive/College/Sophomore/Info 201/Homework/info_201_final_project")
 
-songs <- read.csv("songs2.csv")
+songs.2016 <- read.csv("Songs - 2016.csv")
+songs.2015 <- read.csv("Songs - 2015.csv")
+songs.2014 <- read.csv("Songs - 2014.csv")
+songs.2013 <- read.csv("Songs - 2013.csv")
+songs.2012 <- read.csv("Songs - 2012.csv")
+songs.2011 <- read.csv("Songs - 2011.csv")
+songs.2010 <- read.csv("Songs - 2010.csv")
+songs.2009 <- read.csv("Songs - 2009.csv")
+songs.2008 <- read.csv("Songs - 2008.csv")
 keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
-
-song.test <- lapply(songs$Spotify.ID, getAudioFeatures)
 
 getAudioFeatures <- function(my_song) {
   if (my_song != "Not on Spotify") {
@@ -22,3 +25,13 @@ getAudioFeatures <- function(my_song) {
   }
 }
 
+
+features.2016 <- as.data.frame(do.call(rbind, lapply(songs.2016$Spotify.ID, getAudioFeatures) ))
+features.2015 <- as.data.frame(do.call(rbind, lapply(songs.2015$Spotify.ID, getAudioFeatures) ))
+features.2014 <- as.data.frame(do.call(rbind, lapply(songs.2014$Spotify.ID, getAudioFeatures) ))
+features.2013 <- as.data.frame(do.call(rbind, lapply(songs.2013$Spotify.ID, getAudioFeatures) ))
+features.2012 <- as.data.frame(do.call(rbind, lapply(songs.2012$Spotify.ID, getAudioFeatures) ))
+features.2011 <- as.data.frame(do.call(rbind, lapply(songs.2011$Spotify.ID, getAudioFeatures) ))
+features.2010 <- as.data.frame(do.call(rbind, lapply(songs.2010$Spotify.ID, getAudioFeatures) ))
+features.2009 <- as.data.frame(do.call(rbind, lapply(songs.2009$Spotify.ID, getAudioFeatures) ))
+features.2008 <- as.data.frame(do.call(rbind, lapply(songs.2008$Spotify.ID, getAudioFeatures) ))
