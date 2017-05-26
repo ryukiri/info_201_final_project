@@ -2,6 +2,7 @@ install.packages("devtools")
 install_github("tiagomendesdantas/Rspotify")
 library(devtools)
 library(Rspotify)
+library(dplyr)
 
 ## Set Working Directory
 # setwd("~/Documents/Info 201/info_201_final_project")
@@ -20,10 +21,64 @@ keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae2
 
 source("functions/GetSongData.R")
 
+## Merging audio features and songs together
 merge.2016 <- features.2016 %>% 
   mutate(Spotify.ID = id) %>% 
-  left_join(songs.2016, by = 'Spotify.ID')
+  left_join(songs.2016, by = 'Spotify.ID') %>%
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo)
 
+merge.2015 <- features.2015 %>% 
+  mutate(Spotify.ID= id) %>% 
+  left_join(songs.2015, by = 'Spotify.ID') %>%
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo)
+
+merge.2014 <- features.2014 %>% 
+  mutate(Spotify.ID = id) %>% 
+  left_join(songs.2014, by = 'Spotify.ID') %>%
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo)
+
+merge.2013 <- features.2013 %>% 
+  mutate(Spotify.ID = id) %>% 
+  left_join(songs.2013, by = 'Spotify.ID') %>%
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo)
+
+merge.2012 <- features.2012 %>% 
+  mutate(Spotify.ID = id) %>% 
+  left_join(songs.2012, by = 'Spotify.ID') %>%
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo)
+
+merge.2011 <- features.2011 %>% 
+  mutate(Spotify.ID = id) %>% 
+  left_join(songs.2011, by = 'Spotify.ID') %>%
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo)
+
+merge.2010 <- features.2010 %>% 
+  mutate(Spotify.ID = id) %>% 
+  left_join(songs.2010, by = 'Spotify.ID') %>%
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo)
+
+merge.2009 <- features.2009 %>% 
+  mutate(Spotify.ID = id) %>% 
+  left_join(songs.2009, by = 'Spotify.ID') %>%
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo)
+
+merge.2008 <- features.2008 %>% 
+  mutate(Spotify.ID = id) %>% 
+  left_join(songs.2008, by = 'Spotify.ID') %>%
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo)
+
+write.csv(merge.2016, file="songsMerged/songs.merged.2016.csv")
+write.csv(merge.2015, file="songsMerged/songs.merged.2015.csv")
+write.csv(merge.2014, file="songsMerged/songs.merged.2014.csv")
+write.csv(merge.2013, file="songsMerged/songs.merged.2013.csv")
+write.csv(merge.2012, file="songsMerged/songs.merged.2012.csv")
+write.csv(merge.2011, file="songsMerged/songs.merged.2011.csv")
+write.csv(merge.2010, file="songsMerged/songs.merged.2010.csv")
+write.csv(merge.2009, file="songsMerged/songs.merged.2009.csv")
+write.csv(merge.2008, file="songsMerged/songs.merged.2008.csv")
+
+
+## Grabbing audio features
 features.2016 <- as.data.frame(do.call(rbind, lapply(songs.2016$Spotify.ID, getAudioFeatures) ))
 features.2015 <- as.data.frame(do.call(rbind, lapply(songs.2015$Spotify.ID, getAudioFeatures) ))
 features.2014 <- as.data.frame(do.call(rbind, lapply(songs.2014$Spotify.ID, getAudioFeatures) ))
@@ -34,6 +89,7 @@ features.2010 <- as.data.frame(do.call(rbind, lapply(songs.2010$Spotify.ID, getA
 features.2009 <- as.data.frame(do.call(rbind, lapply(songs.2009$Spotify.ID, getAudioFeatures) ))
 features.2008 <- as.data.frame(do.call(rbind, lapply(songs.2008$Spotify.ID, getAudioFeatures) ))
 
+## Writing audio features to a file
 write.csv(as.data.frame(do.call(rbind, lapply(songs.2016[["Spotify.ID"]], getAudioFeatures) )), file="features.2016.csv")
 write.csv(as.data.frame(do.call(rbind, lapply(songs.2015[["Spotify.ID"]], getAudioFeatures) )), file="features.2015.csv")
 write.csv(as.data.frame(do.call(rbind, lapply(songs.2014[["Spotify.ID"]], getAudioFeatures) )), file="features.2014.csv")

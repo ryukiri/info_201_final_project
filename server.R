@@ -2,6 +2,7 @@
 library(devtools)
 library(Rspotify)
 library(dplyr)
+library(knitr)
 
 shinyServer(function(input, output) {
   ## Authorizes Spotify API with keys
@@ -117,6 +118,41 @@ shinyServer(function(input, output) {
         # Consturcts a bar plot
         ggplot(data=dat, aes(x=year, y=tempo)) +
           geom_bar(stat="identity")
+    }
+  })
+  
+  output$tablePlot <- renderDataTable({
+    merged.2016 <- read.csv("songsMerged/songs.merged.2016.csv")
+    merged.2015 <- read.csv("songsMerged/songs.merged.2015.csv")
+    merged.2014 <- read.csv("songsMerged/songs.merged.2014.csv")
+    merged.2013 <- read.csv("songsMerged/songs.merged.2013.csv")
+    merged.2012 <- read.csv("songsMerged/songs.merged.2012.csv")
+    merged.2011 <- read.csv("songsMerged/songs.merged.2011.csv")
+    merged.2010 <- read.csv("songsMerged/songs.merged.2010.csv")
+    merged.2009 <- read.csv("songsMerged/songs.merged.2009.csv")
+    merged.2008 <- read.csv("songsMerged/songs.merged.2008.csv")
+    
+    # Select years to show
+    if(input$year == "2016") {
+      merged.2016
+    } else if(input$year == "2015") {
+      merged.2015
+    } else if(input$year == "2015") {
+      merged.2015
+    } else if(input$year == "2014") {
+      merged.2014
+    } else if(input$year == "2013") {
+      merged.2013
+    } else if(input$year == "2012") {
+      merged.2012
+    } else if(input$year == "2011") {
+      merged.2011
+    } else if(input$year == "2010") {
+      merged.2010
+    } else if(input$year == "2009") {
+      merged.2009
+    } else if(input$year == "2008") {
+      merged.2008
     }
   })
 })
