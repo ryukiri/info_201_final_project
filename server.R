@@ -99,7 +99,7 @@ shinyServer(function(input, output) {
                          features.2008.energy))
         
         # Consturcts a bar plot
-        ggplot(data=dat, aes(x=year, y=energy)) +
+        ggplot(data=dat, aes(x=year, y=energy), color=year) +
           geom_bar(stat="identity")
         
     } else if(input$features == "Tempo"){
@@ -116,7 +116,7 @@ shinyServer(function(input, output) {
                          features.2008.tempo))
         
         # Consturcts a bar plot
-        ggplot(data=dat, aes(x=year, y=tempo)) +
+        ggplot(data=dat, aes(x=year, y=tempo), color=year) +
           geom_bar(stat="identity")
     }
   })
