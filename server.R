@@ -82,7 +82,7 @@ shinyServer(function(input, output) {
                          features.2008.danceability))
         
         # Consturcts a bar plot
-        ggplot(data=dat, aes(x=year, y=danceability)) +
+        ggplot(data=dat, aes(x=year, y=danceability), color=year) +
           geom_bar(stat="identity")
         
     } else if(input$features == "Energy"){
