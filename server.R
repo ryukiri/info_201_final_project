@@ -137,8 +137,6 @@ shinyServer(function(input, output) {
       merged.2016
     } else if(input$year == "2015") {
       merged.2015
-    } else if(input$year == "2015") {
-      merged.2015
     } else if(input$year == "2014") {
       merged.2014
     } else if(input$year == "2013") {
