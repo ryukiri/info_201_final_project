@@ -20,6 +20,10 @@ keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae2
 
 source("functions/GetSongData.R")
 
+merge.2016 <- features.2016 %>% 
+  mutate(Spotify.ID = id) %>% 
+  left_join(songs.2016, by = 'Spotify.ID')
+
 features.2016 <- as.data.frame(do.call(rbind, lapply(songs.2016$Spotify.ID, getAudioFeatures) ))
 features.2015 <- as.data.frame(do.call(rbind, lapply(songs.2015$Spotify.ID, getAudioFeatures) ))
 features.2014 <- as.data.frame(do.call(rbind, lapply(songs.2014$Spotify.ID, getAudioFeatures) ))
