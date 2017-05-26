@@ -41,7 +41,7 @@ shinyUI(fluidPage(
                         
                         # Show a plot of the generated distribution
                         mainPanel(
-                          h2('The mtcars data'),
+                          h2('Hot 100'),
                           dataTableOutput('tablePlot')
                         )
                       )
