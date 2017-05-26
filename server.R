@@ -186,7 +186,7 @@ shinyServer(function(input, output) {
                   features.2008.loudness))
       
       # Consturcts a bar plot
-      ggplot(data=dat, aes(x=year, y=loudness), color=year) +
+      ggplot(data=dat, aes(x=year, y=tempo, color=year)) +
         geom_bar(stat="identity")
     } else if(input$features == "Speechiness"){
       dat <- data.frame(
@@ -202,7 +202,7 @@ shinyServer(function(input, output) {
                      features.2008.speechiness))
       
       # Consturcts a bar plot
-      ggplot(data=dat, aes(x=year, y=speechiness), color=year) +
+      ggplot(data=dat, aes(x=year, y=tempo, color=year)) +
         geom_bar(stat="identity")
     } else if(input$features == "Acousticness"){
       dat <- data.frame(
@@ -218,7 +218,7 @@ shinyServer(function(input, output) {
                         features.2008.acousticness))
       
       # Consturcts a bar plot
-      ggplot(data=dat, aes(x=year, y=acousticness), color=year) +
+      ggplot(data=dat, aes(x=year, y=tempo, color=year)) +
         geom_bar(stat="identity")
     } else if(input$features == "Liveness"){
       dat <- data.frame(
@@ -234,7 +234,7 @@ shinyServer(function(input, output) {
                          features.2008.liveness))
       
       # Consturcts a bar plot
-      ggplot(data=dat, aes(x=year, y=liveness), color=year) +
+      ggplot(data=dat, aes(x=year, y=tempo, color=year)) +
         geom_bar(stat="identity")
     } else if(input$features == "Instrumentalness"){
       dat <- data.frame(
@@ -250,7 +250,7 @@ shinyServer(function(input, output) {
                      features.2008.instrumentalness))
       
       # Consturcts a bar plot
-      ggplot(data=dat, aes(x=year, y=instrumentalness), color=year) +
+      ggplot(data=dat, aes(x=year, y=tempo, color=year)) +
         geom_bar(stat="identity")
     }
   })
