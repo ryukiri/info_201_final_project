@@ -1,99 +1,99 @@
-"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo"
-"1","Love Yourself","Justin Bieber",2016,"50kpGaPAhYJ3sGmk6vplg0",0.607,0.376,102.541
-"2","Sorry","Justin Bieber",2016,"09CtPGIpYB4BrO8qb1RGsF",0.605,0.768,100.209
-"3","One Dance","Drake (ft. WizKid & Kyla)",2016,"12VWzyPDBCc8fqeWCAfNwR",0.785,0.617,103.981
-"4","Work","Rihanna (ft. Drake)",2016,"32lmL4vQAAotg6MrJnhlQZ",0.667,0.538,91.296
-"5","Stressed Out","Twenty One Pilots",2016,"3CRDbSIZ4r5MsZ0YwxuEkn",0.734,0.637,169.977
-"6","Panda","Desiigner",2016,"275a9yzwGB6ncAW4SxY7q3",0.72,0.748,145.22
-"7","Hello","Adele",2016,"0ENSn4fwAbCGeFGVUbXEU3",0.481,0.451,157.966
-"8","Don't Let Me Down","The Chainsmokers (ft. Daya)",2016,"1i1fxkWeaMmKEB4T7zqbzK",0.532,0.869,159.803
-"9","Can't Stop the Feeling!","Justin Timberlake",2016,"1WkMMavIMc4JZ8cfMmxHkI",0.669,0.832,113.035
-"10","Closer","The Chainsmokers (ft. Halsey)",2016,"7BKLCZ1jbUBVqRi2FVlTVw",0.748,0.524,95.01
-"11","Cheap Thrills","Sia (ft. Sean Paul)",2016,"3S4px9f4lceWdKf0gWciFu",0.628,0.698,89.976
-"12","7 Years","Lukas Graham",2016,"5kqIPrATaCc2LqxVWzQGbk",0.765,0.473,119.992
-"13","Needed Me","Rihanna",2016,"1Tt4sE4pXi57mTD1GCzsqm",0.688,0.325,110.888
-"14","My House","Flo Rida",2016,"6Knv6wdA0luoMUuuoYi2i1",0.688,0.702,94.006
-"15","I Took a Pill in Ibiza","Mike Posner",2016,"1MtUq6Wp1eQ8PC6BbPCj8P",0.665,0.725,101.96
-"16","Work from Home","Fifth Harmony (ft. Ty Dolla $ign)",2016,"4tCtwWceOPWzenK2HAIJSb",0.803,0.585,105.017
-"17","This is What You Came For","Calvin Harris (ft. Rihanna)",2016,"0azC730Exh71aQlOt9Zj3y",0.63,0.928,123.963
-"18","Cake by the Ocean","DNCE",2016,"76hfruVvmfQbw0eYn1nmeC",0.774,0.765,119.001
-"19","Me, Myself & I","G-Eazy x Bebe Rexha",2016,"40YcuQysJ0KlGQTeGUosTC",0.757,0.672,111.996
-"20","Ride","Twenty One Pilots",2016,"2Z8WuEywRWYTKe1NybPQEW",0.645,0.713,74.989
-"21","Heathens","Twenty One Pilots",2016,"6i0V12jOa3mr6uu4WYhUBr",0.732,0.396,90.024
-"22","Pillowtalk","Zayn",2016,"0PDUDa38GO8lMxLCRc4lL1",0.584,0.7,124.944
-"23","Stitches","Shawn Mendes",2016,"5jsw9uXEGuKyJzs0boZ1bT",0.592,0.752,74.784
-"24","Hotline Bling","Drake",2016,"0wwPcA6wtMf6HUMpIRdeP7",0.903,0.621,134.969
-"25","Cold Water","Major Lazer (ft. Justin Beiber & MO)",2016,"7zsXy7vlHdItvUSH8EwQss",0.602,0.797,92.928
-"26","Send My Love (To Your New Lover)","Adele",2016,"3LGxef3inmn5jMLGDz9lqw",0.69,0.524,164.023
-"27","Roses","The Chainsmokers (ft. Rozes)",2016,"3vv9phIu6Y1vX3jcqaGz5Z",0.713,0.802,100.001
-"28","Treat You Better","Shawn Mendes",2016,"3QGsuHI8jO1Rx4JWLUh9jd",0.672,0.81,82.888
-"29","Too Good","Drake (ft. Rihanna)",2016,"7fJtPlEZKxu6gvkfBFc5tW",0.804,0.65,117.984
-"30","Low Life","Future (ft. the Weeknd)",2016,"7EiZI6JVHllARrX9PUvAdX",0.722,0.331,143.974
-"31","What Do You Mean?","Justin Bieber",2016,"4B0JvthVoAAuygILe3n4Bs",0.837,0.571,125.034
-"32","The Hills","The Weeknd",2016,"7fBv7CLKzipRk6EC6TWHOB",0.54,0.561,113.295
-"33","Just Like Fire","P!nk",2016,"7K5dzhGda2vRTaAWYI3hrb",0.632,0.701,162.958
-"34","Broccoli","D.R.A.M. (ft. Lil Yachty)",2016,"0qy5D3OJre7SPJNMOL9I71",0.886,0.525,145.99
-"35","Don't","Bryson Tiller",2016,"3pXF1nA74528Edde4of9CC",0.765,0.356,97.001
-"36","Dangerous Woman","Ariana Grande",2016,"7l94dyN2hX9c6wWcZQuOGJ",0.672,0.605,134.015
-"37","Jumpman","Drake & Future",2016,"27GmP9AWRs744SzKcpJsTZ",0.853,0.547,142.065
-"38","I Hate U I Love U","gnash (ft. Olivia O'Brien)",2016,"7vRriwrloYVaoAe3a9wJHe",0.492,0.275,92.6
-"39","Here","Alessia Cara",2016,"1wYZZtamWTQAoj8B812uKQ",0.375,0.822,123.363
-"40","Same Old Love","Selena Gomez",2016,"1BZG99C7Co1r6QUC3zaS59",0.671,0.596,98.025
-"41","Controlla","Drake",2016,"4CpKEkdGbOJV51cSvx7SoG",0.747,0.477,93.44
-"42","Like I'm Gonna Lose You","Meghan Trainer (ft. John Legend)",2016,"2YlZnw2ikdb837oKMKjBkW",0.63,0.53,108.038
-"43","One Call Away","Charlie Puth",2016,"7soJgKhQTO8hLP2JPRkL5O",0.667,0.613,91.024
-"44","Let It Go","James Bay",2016,"13HVjjWUZFaWilh2QUJKsP",0.568,0.293,147.175
-"45","No","Meghan Trainer",2016,"3ge54HUrk1ht3EX5SMhIzZ",0.471,0.802,88.615
-"46","Never Forget You","Zara Larsson & MNEK",2016,"6hmhG1b4LEyNuashVvuIAo",0.583,0.732,145.992
-"47","Let Me Love You","DJ Snake (ft. Justin Bieber)",2016,"0lYBSQXN6rCTvUZvg9S0lU",0.652,0.713,100.023
-"48","Don't Mind","Kent Jones",2016,"27PmvZoffODNFW2p7ehZTQ",0.464,0.771,158.777
-"49","H.O.L.Y.","Florida Georgia Line",2016,"0BCy325UZyR9z0t0uxwn2N",0.525,0.685,78.003
-"50","We Don't Talk Anymore","Charlie Puth (ft. Selena Gomez)",2016,"37FXw5QGFN7uwwsLy8uAc0",0.728,0.563,100.017
-"51","Into You","Ariana Grande",2016,"2meEiZKWkiN28gITzFwQo5",0.636,0.728,107.986
-"52","Gold","Kiiara",2016,"6ZSO7kPn8IMJFymyticbJO",0.6,0.412,113.049
-"53","Exchange","Bryson Tiller",2016,"43PuMrRfbyyuz4QpZ3oAwN",0.53,0.433,160.14
-"54","679","Fetty Wap (ft. Remy Boyz)",2016,"5NQbUaeTEOGdD6hHcre0dZ",0.618,0.717,190.05
-"55","OUI","Jeremih",2016,"0PJIbOdMs3bd5AT8liULMQ",0.715,0.703,119.749
-"56","Hands to Myself","Selena Gomez",2016,"1LoriJC05IrHIDwj3q0KC1",0.803,0.504,111.014
-"57","2 Phones","Kevin Gates",2016,"0wdKiSBUT7aZkXUIdJWcwC",0.895,0.681,121.918
-"58","Starboy","The Weeknd (ft. Daft Punk)",2016,"7MXVkk9YMctZqd1Srtv4MB",0.675,0.595,185.998
-"59","For Free","DJ Khaled (ft. Drake)",2016,"4JDZl9nKIAhAhDjw753u4X",0.916,0.571,103.521
-"60","Never Be Like You","Flume (ft. Kai)",2016,"6y0igZArWVi6Iz0rj35c1Y",0.54,0.59,119.878
-"61","In the Night","The Weeknd",2016,"25KybV9BOUlvcnv7nN3Pyo",0.317,0.683,167.615
-"62","Me Too","Meghan Trainor",2016,"1m4dXbkplvaOO4Wbdjbwxs",0.934,0.694,123.822
-"63","Ex's & Oh's","Elle King",2016,"70eDxAyAraNTiD6lx2ZEnH",0.612,0.921,139.986
-"64","Die A Happy Man","Thomas Rhett",2016,"5kNe7PE09d6Kvw5pAsx23n",0.66,0.383,83.096
-"65","White Iverson","Post Malone",2016,"6eT7xZZlB2mwyzJ2sUKG6w",0.674,0.568,130.081
-"66","Close","Nick Jonas (ft. Love Lo)",2016,"3lSDIJ2abCrOdDJ6pshUap",0.667,0.624,124.012
-"67","Unsteady","X Ambassadors",2016,"7lGKEWMXVWWTt3X71Bv44I",0.598,0.673,117.02
-"68","Sucker For Pain","Lil Wayne, Wi",2016,"4dASQiO1Eoo3RJvt74FtXB",0.502,0.786,169.021
-"69","Down in the DM","Yo Gotti (ft. Nicki Minaj)",2016,"1LxKKYsJNPeBdOwdudsJzv",0.776,0.662,152.927
-"70","LUV","Tory Lanez",2016,"16Ah4QqH4mgYVXqfC4mdSd",0.487,0.532,138.13
-"71","Can't Feel My Face","The Weeknd",2016,"22VdIZQfgXJea34mQxlt81",0.711,0.783,107.972
-"72","Hymn For The Weekend","Coldplay",2016,"6s3GEN8wK0OMzzzZbXj0fu",0.565,0.849,102.034
-"73","Say It","Tory Lanez",2016,"2Gyc6e2cLxA5hoX1NOvYnU",0.384,0.512,107.241
-"74","Antidote","Travis Scott",2016,"1wHZx0LgzFHyeIZkUydNXq",0.713,0.526,131.05
-"75","Lost Boy","Ruth B",2016,"4h0zU3O9R5xzuTmNO7dNDU",0.71,0.0565,123.994
-"76","Side to Side","Ariana Grande (ft. Nicki Minaj)",2016,"1pKeFVVUOPjFsOABub0OaV",0.65,0.728,159.167
-"77","Sit Still, Look Pretty","Daya",2016,"0EGuSSpuu9wmHCtvb4PdLO",0.657,0.739,181.994
-"78","Middle","DJ Snake (ft. Bipolar Sunshine)",2016,"0g5EKLgdKvNlln7TNqBByK",0.586,0.701,104.957
-"79","On My Mind","Ellie Goulding",2016,"4nS1sut0R2mgmFitKIShVe",0.697,0.687,154.921
-"80","Pop Style","Drake (ft. The Throne)",2016,"23NWj2izXAJ4yL6Nah73wf",0.795,0.482,132.985
-"81","When We Were Young","Adele",2016,"7IWkJwX9C0J7tHurTD7ViL",0.381,0.594,143.86
-"82","Hide Away","Daya",2016,"0uyZ5ckiIUbFZd3P6RWmrj",0.885,0.801,95.011
-"83","Lean On","Major Lazer & DJ Snake (ft. MO)",2016,"5wldXGLEOoRXxMWJ8rIUWE",0.723,0.809,98.007
-"84","I Know What You Did Last Summer","Shawn Mendes & Camila Cabello",2016,"7M9t7BCy51ITF8IMyiemzk",0.692,0.782,113.881
-"85","All the Way Up","Fat Joe, Rem",2016,"61QSuw5VlC0LTS8WMO356g",0.536,0.721,117.139
-"86","Watch Me","Silento",2016,"5RIVoVdkDLEygELLCniZFr",0.825,0.77,139.982
-"87","Back to Sleep","Chris Brown",2016,"6dlpABcXrQKRU9G00i6Zba",0.647,0.646,92.981
-"88","No Limit","Usher (ft. Young Thug)",2016,"4DRDMf5vftalExCy0fHbHl",0.717,0.516,127.026
-"89","Cut It","O.T. Genasis (ft. Young Dolph)",2016,"376KnY4TrgBITxjlnbnmIy",0.875,0.673,130
-"90","Really Really","Kevin Gates",2016,"10I3CmmwT0BkOVhduDy53o",0.762,0.666,118.97
-"91","All In My Head (Flex)","Fifth Harmony (ft. Fetty Wap)",2016,"7nD9nN3jord9wWcfW3Gkcm",0.689,0.791,95.04
-"92","Starving","Hailee Steinfield & Grey (ft. Zedd)",2016,"4Ce37cRWvM1vIGGynKcs22",0.712,0.62,99.953
-"93","Adventure of a Lifetime","Coldplay",2016,"69uxyAqqPIsUyTO8txoP2M",0.638,0.924,111.995
-"94","Humble and Kind","Tim McGraw",2016,"3Rkk851fZjIsglV2jbBPDd",0.349,0.486,101.053
-"95","Wicked","Future ",2016,"6BbINUfGabVyiNFJpQXn3x",0.718,0.679,157.97
-"96","Tiimmy Turner","Desiigner",2016,"3NJG6vMH1ZsectZkocMEm0",0.597,0.743,122.798
-"97","See You Again","Wiz Khalifa (ft. Charlie Puth)",2016,"7wqSzGeodspE3V6RBD5W8L",0.689,0.481,80.025
-"98","Perfect","One Direction",2016,"3NLnwwAQbbFKcEcV8hDItk",0.647,0.823,99.933
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
+"1","Love Yourself","Justin Bieber",2016,"50kpGaPAhYJ3sGmk6vplg0",0.607,0.376,102.541,-9.954,0.453,0.856,0,0.285
+"2","Sorry","Justin Bieber",2016,"09CtPGIpYB4BrO8qb1RGsF",0.605,0.768,100.209,-3.724,0.0476,0.0865,0,0.308
+"3","One Dance","Drake (ft. WizKid & Kyla)",2016,"12VWzyPDBCc8fqeWCAfNwR",0.785,0.617,103.981,-5.871,0.0522,0.00902,0.00246,0.351
+"4","Work","Rihanna (ft. Drake)",2016,"32lmL4vQAAotg6MrJnhlQZ",0.667,0.538,91.296,-6.294,0.0953,0.0644,0,0.0928
+"5","Stressed Out","Twenty One Pilots",2016,"3CRDbSIZ4r5MsZ0YwxuEkn",0.734,0.637,169.977,-5.677,0.141,0.0462,2.29e-05,0.0602
+"6","Panda","Desiigner",2016,"275a9yzwGB6ncAW4SxY7q3",0.72,0.748,145.22,-5.522,0.393,0.0235,0,0.369
+"7","Hello","Adele",2016,"0ENSn4fwAbCGeFGVUbXEU3",0.481,0.451,157.966,-6.095,0.0347,0.336,0,0.0872
+"8","Don't Let Me Down","The Chainsmokers (ft. Daya)",2016,"1i1fxkWeaMmKEB4T7zqbzK",0.532,0.869,159.803,-5.094,0.172,0.157,0.00508,0.136
+"9","Can't Stop the Feeling!","Justin Timberlake",2016,"1WkMMavIMc4JZ8cfMmxHkI",0.669,0.832,113.035,-5.72,0.0682,0.0106,0,0.0968
+"10","Closer","The Chainsmokers (ft. Halsey)",2016,"7BKLCZ1jbUBVqRi2FVlTVw",0.748,0.524,95.01,-5.599,0.0338,0.414,0,0.111
+"11","Cheap Thrills","Sia (ft. Sean Paul)",2016,"3S4px9f4lceWdKf0gWciFu",0.628,0.698,89.976,-5.608,0.105,0.0472,0.00143,0.0907
+"12","7 Years","Lukas Graham",2016,"5kqIPrATaCc2LqxVWzQGbk",0.765,0.473,119.992,-5.829,0.0514,0.287,0,0.391
+"13","Needed Me","Rihanna",2016,"1Tt4sE4pXi57mTD1GCzsqm",0.688,0.325,110.888,-8.083,0.251,0.107,0,0.0837
+"14","My House","Flo Rida",2016,"6Knv6wdA0luoMUuuoYi2i1",0.688,0.702,94.006,-4.792,0.0499,0.0215,0,0.128
+"15","I Took a Pill in Ibiza","Mike Posner",2016,"1MtUq6Wp1eQ8PC6BbPCj8P",0.665,0.725,101.96,-6.588,0.12,0.034,9.17e-06,0.0864
+"16","Work from Home","Fifth Harmony (ft. Ty Dolla $ign)",2016,"4tCtwWceOPWzenK2HAIJSb",0.803,0.585,105.017,-5.861,0.0432,0.103,3.94e-06,0.0644
+"17","This is What You Came For","Calvin Harris (ft. Rihanna)",2016,"0azC730Exh71aQlOt9Zj3y",0.63,0.928,123.963,-2.787,0.0331,0.199,0.124,0.148
+"18","Cake by the Ocean","DNCE",2016,"76hfruVvmfQbw0eYn1nmeC",0.774,0.765,119.001,-5.439,0.0502,0.156,0,0.0373
+"19","Me, Myself & I","G-Eazy x Bebe Rexha",2016,"40YcuQysJ0KlGQTeGUosTC",0.757,0.672,111.996,-6.524,0.0955,0.0186,0,0.158
+"20","Ride","Twenty One Pilots",2016,"2Z8WuEywRWYTKe1NybPQEW",0.645,0.713,74.989,-5.355,0.0393,0.00835,0,0.113
+"21","Heathens","Twenty One Pilots",2016,"6i0V12jOa3mr6uu4WYhUBr",0.732,0.396,90.024,-9.348,0.0286,0.0841,3.58e-05,0.105
+"22","Pillowtalk","Zayn",2016,"0PDUDa38GO8lMxLCRc4lL1",0.584,0.7,124.944,-4.275,0.0456,0.117,0,0.0939
+"23","Stitches","Shawn Mendes",2016,"5jsw9uXEGuKyJzs0boZ1bT",0.592,0.752,74.784,-6.589,0.114,0.0196,0,0.0477
+"24","Hotline Bling","Drake",2016,"0wwPcA6wtMf6HUMpIRdeP7",0.903,0.621,134.969,-8.132,0.0578,0.00302,0.000186,0.0504
+"25","Cold Water","Major Lazer (ft. Justin Beiber & MO)",2016,"7zsXy7vlHdItvUSH8EwQss",0.602,0.797,92.928,-5.084,0.0534,0.055,0,0.187
+"26","Send My Love (To Your New Lover)","Adele",2016,"3LGxef3inmn5jMLGDz9lqw",0.69,0.524,164.023,-8.39,0.103,0.0415,3.16e-06,0.17
+"27","Roses","The Chainsmokers (ft. Rozes)",2016,"3vv9phIu6Y1vX3jcqaGz5Z",0.713,0.802,100.001,-7.055,0.0561,0.0435,0.00377,0.309
+"28","Treat You Better","Shawn Mendes",2016,"3QGsuHI8jO1Rx4JWLUh9jd",0.672,0.81,82.888,-4.104,0.226,0.118,0,0.106
+"29","Too Good","Drake (ft. Rihanna)",2016,"7fJtPlEZKxu6gvkfBFc5tW",0.804,0.65,117.984,-7.79,0.118,0.0606,7.05e-05,0.102
+"30","Low Life","Future (ft. the Weeknd)",2016,"7EiZI6JVHllARrX9PUvAdX",0.722,0.331,143.974,-7.789,0.0725,0.337,0.283,0.146
+"31","What Do You Mean?","Justin Bieber",2016,"4B0JvthVoAAuygILe3n4Bs",0.837,0.571,125.034,-8.273,0.0922,0.61,0.000898,0.0849
+"32","The Hills","The Weeknd",2016,"7fBv7CLKzipRk6EC6TWHOB",0.54,0.561,113.295,-6.987,0.0699,0.0635,0,0.137
+"33","Just Like Fire","P!nk",2016,"7K5dzhGda2vRTaAWYI3hrb",0.632,0.701,162.958,-5.921,0.146,0.0114,0,0.108
+"34","Broccoli","D.R.A.M. (ft. Lil Yachty)",2016,"0qy5D3OJre7SPJNMOL9I71",0.886,0.525,145.99,-7.39,0.132,0.236,0,0.057
+"35","Don't","Bryson Tiller",2016,"3pXF1nA74528Edde4of9CC",0.765,0.356,97.001,-5.556,0.196,0.222,0,0.0963
+"36","Dangerous Woman","Ariana Grande",2016,"7l94dyN2hX9c6wWcZQuOGJ",0.672,0.605,134.015,-5.353,0.0378,0.0499,0,0.357
+"37","Jumpman","Drake & Future",2016,"27GmP9AWRs744SzKcpJsTZ",0.853,0.547,142.065,-7.535,0.194,0.0565,0,0.341
+"38","I Hate U I Love U","gnash (ft. Olivia O'Brien)",2016,"7vRriwrloYVaoAe3a9wJHe",0.492,0.275,92.6,-13.4,0.3,0.687,0,0.101
+"39","Here","Alessia Cara",2016,"1wYZZtamWTQAoj8B812uKQ",0.375,0.822,123.363,-4.029,0.167,0.0716,0,0.0694
+"40","Same Old Love","Selena Gomez",2016,"1BZG99C7Co1r6QUC3zaS59",0.671,0.596,98.025,-4.005,0.031,0.0236,0,0.228
+"41","Controlla","Drake",2016,"4CpKEkdGbOJV51cSvx7SoG",0.747,0.477,93.44,-11.062,0.276,0.0962,0,0.114
+"42","Like I'm Gonna Lose You","Meghan Trainer (ft. John Legend)",2016,"2YlZnw2ikdb837oKMKjBkW",0.63,0.53,108.038,-7.259,0.0434,0.4,0,0.177
+"43","One Call Away","Charlie Puth",2016,"7soJgKhQTO8hLP2JPRkL5O",0.667,0.613,91.024,-5.353,0.0344,0.403,0,0.115
+"44","Let It Go","James Bay",2016,"13HVjjWUZFaWilh2QUJKsP",0.568,0.293,147.175,-10.253,0.0313,0.804,1.26e-05,0.107
+"45","No","Meghan Trainer",2016,"3ge54HUrk1ht3EX5SMhIzZ",0.471,0.802,88.615,-3.599,0.27,0.0125,1.45e-06,0.702
+"46","Never Forget You","Zara Larsson & MNEK",2016,"6hmhG1b4LEyNuashVvuIAo",0.583,0.732,145.992,-5.728,0.0457,0.00312,9.86e-06,0.269
+"47","Let Me Love You","DJ Snake (ft. Justin Bieber)",2016,"0lYBSQXN6rCTvUZvg9S0lU",0.652,0.713,100.023,-5.311,0.0368,0.0771,1.02e-05,0.144
+"48","Don't Mind","Kent Jones",2016,"27PmvZoffODNFW2p7ehZTQ",0.464,0.771,158.777,-4.503,0.336,0.0235,0,0.063
+"49","H.O.L.Y.","Florida Georgia Line",2016,"0BCy325UZyR9z0t0uxwn2N",0.525,0.685,78.003,-3.954,0.0351,0.385,0,0.0731
+"50","We Don't Talk Anymore","Charlie Puth (ft. Selena Gomez)",2016,"37FXw5QGFN7uwwsLy8uAc0",0.728,0.563,100.017,-8.053,0.134,0.621,0,0.179
+"51","Into You","Ariana Grande",2016,"2meEiZKWkiN28gITzFwQo5",0.636,0.728,107.986,-5.871,0.0999,0.0153,1.46e-06,0.154
+"52","Gold","Kiiara",2016,"6ZSO7kPn8IMJFymyticbJO",0.6,0.412,113.049,-9.343,0.344,0.615,0.0025,0.134
+"53","Exchange","Bryson Tiller",2016,"43PuMrRfbyyuz4QpZ3oAwN",0.53,0.433,160.14,-10.598,0.185,0.108,0,0.135
+"54","679","Fetty Wap (ft. Remy Boyz)",2016,"5NQbUaeTEOGdD6hHcre0dZ",0.618,0.717,190.05,-5.738,0.318,0.00256,0,0.625
+"55","OUI","Jeremih",2016,"0PJIbOdMs3bd5AT8liULMQ",0.715,0.703,119.749,-3.825,0.0503,0.192,0,0.113
+"56","Hands to Myself","Selena Gomez",2016,"1LoriJC05IrHIDwj3q0KC1",0.803,0.504,111.014,-7.218,0.0979,0.0165,5.25e-06,0.335
+"57","2 Phones","Kevin Gates",2016,"0wdKiSBUT7aZkXUIdJWcwC",0.895,0.681,121.918,-5.267,0.358,0.157,0,0.189
+"58","Starboy","The Weeknd (ft. Daft Punk)",2016,"7MXVkk9YMctZqd1Srtv4MB",0.675,0.595,185.998,-7.033,0.284,0.168,3.36e-06,0.136
+"59","For Free","DJ Khaled (ft. Drake)",2016,"4JDZl9nKIAhAhDjw753u4X",0.916,0.571,103.521,-8.241,0.2,0.0173,1.11e-06,0.153
+"60","Never Be Like You","Flume (ft. Kai)",2016,"6y0igZArWVi6Iz0rj35c1Y",0.54,0.59,119.878,-4.359,0.0528,0.446,0,0.14
+"61","In the Night","The Weeknd",2016,"25KybV9BOUlvcnv7nN3Pyo",0.317,0.683,167.615,-4.989,0.134,0.0794,0,0.0465
+"62","Me Too","Meghan Trainor",2016,"1m4dXbkplvaOO4Wbdjbwxs",0.934,0.694,123.822,-5.849,0.1,0.0963,1.21e-06,0.479
+"63","Ex's & Oh's","Elle King",2016,"70eDxAyAraNTiD6lx2ZEnH",0.612,0.921,139.986,-2.879,0.0848,0.0183,0,0.0576
+"64","Die A Happy Man","Thomas Rhett",2016,"5kNe7PE09d6Kvw5pAsx23n",0.66,0.383,83.096,-9.377,0.0304,0.381,0,0.119
+"65","White Iverson","Post Malone",2016,"6eT7xZZlB2mwyzJ2sUKG6w",0.674,0.568,130.081,-7.678,0.0349,0.216,0,0.0863
+"66","Close","Nick Jonas (ft. Love Lo)",2016,"3lSDIJ2abCrOdDJ6pshUap",0.667,0.624,124.012,-5.397,0.0698,0.258,0,0.145
+"67","Unsteady","X Ambassadors",2016,"7lGKEWMXVWWTt3X71Bv44I",0.598,0.673,117.02,-6.134,0.0469,0.177,0.000316,0.203
+"68","Sucker For Pain","Lil Wayne, Wi",2016,"4dASQiO1Eoo3RJvt74FtXB",0.502,0.786,169.021,-4.378,0.317,0.255,0,0.65
+"69","Down in the DM","Yo Gotti (ft. Nicki Minaj)",2016,"1LxKKYsJNPeBdOwdudsJzv",0.776,0.662,152.927,-7.016,0.0489,0.00157,2.1e-05,0.0887
+"70","LUV","Tory Lanez",2016,"16Ah4QqH4mgYVXqfC4mdSd",0.487,0.532,138.13,-8.129,0.245,0.0129,0,0.123
+"71","Can't Feel My Face","The Weeknd",2016,"22VdIZQfgXJea34mQxlt81",0.711,0.783,107.972,-5.407,0.0423,0.109,0,0.0947
+"72","Hymn For The Weekend","Coldplay",2016,"6s3GEN8wK0OMzzzZbXj0fu",0.565,0.849,102.034,-3.516,0.0517,0.00868,4.68e-06,0.12
+"73","Say It","Tory Lanez",2016,"2Gyc6e2cLxA5hoX1NOvYnU",0.384,0.512,107.241,-10.545,0.0753,0.0798,1.19e-05,0.129
+"74","Antidote","Travis Scott",2016,"1wHZx0LgzFHyeIZkUydNXq",0.713,0.526,131.05,-5.046,0.032,0.00767,0.000148,0.124
+"75","Lost Boy","Ruth B",2016,"4h0zU3O9R5xzuTmNO7dNDU",0.71,0.0565,123.994,-15.099,0.0534,0.965,0,0.0889
+"76","Side to Side","Ariana Grande (ft. Nicki Minaj)",2016,"1pKeFVVUOPjFsOABub0OaV",0.65,0.728,159.167,-5.914,0.232,0.0373,0,0.328
+"77","Sit Still, Look Pretty","Daya",2016,"0EGuSSpuu9wmHCtvb4PdLO",0.657,0.739,181.994,-4.081,0.274,0.141,0,0.178
+"78","Middle","DJ Snake (ft. Bipolar Sunshine)",2016,"0g5EKLgdKvNlln7TNqBByK",0.586,0.701,104.957,-5.326,0.0416,0.0203,0,0.055
+"79","On My Mind","Ellie Goulding",2016,"4nS1sut0R2mgmFitKIShVe",0.697,0.687,154.921,-6.574,0.0537,0.279,5.11e-06,0.0861
+"80","Pop Style","Drake (ft. The Throne)",2016,"23NWj2izXAJ4yL6Nah73wf",0.795,0.482,132.985,-8.995,0.22,0.234,3.99e-06,0.104
+"81","When We Were Young","Adele",2016,"7IWkJwX9C0J7tHurTD7ViL",0.381,0.594,143.86,-5.97,0.0486,0.348,0,0.0925
+"82","Hide Away","Daya",2016,"0uyZ5ckiIUbFZd3P6RWmrj",0.885,0.801,95.011,-4.716,0.0882,0.225,1.65e-06,0.0733
+"83","Lean On","Major Lazer & DJ Snake (ft. MO)",2016,"5wldXGLEOoRXxMWJ8rIUWE",0.723,0.809,98.007,-3.081,0.0625,0.00346,0.00123,0.565
+"84","I Know What You Did Last Summer","Shawn Mendes & Camila Cabello",2016,"7M9t7BCy51ITF8IMyiemzk",0.692,0.782,113.881,-4.588,0.0861,0.116,0,0.152
+"85","All the Way Up","Fat Joe, Rem",2016,"61QSuw5VlC0LTS8WMO356g",0.536,0.721,117.139,-6.44,0.386,0.062,0,0.824
+"86","Watch Me","Silento",2016,"5RIVoVdkDLEygELLCniZFr",0.825,0.77,139.982,-8.508,0.134,0.265,0,0.334
+"87","Back to Sleep","Chris Brown",2016,"6dlpABcXrQKRU9G00i6Zba",0.647,0.646,92.981,-5.483,0.243,0.0424,0,0.0888
+"88","No Limit","Usher (ft. Young Thug)",2016,"4DRDMf5vftalExCy0fHbHl",0.717,0.516,127.026,-6.466,0.0601,0.0794,0,0.164
+"89","Cut It","O.T. Genasis (ft. Young Dolph)",2016,"376KnY4TrgBITxjlnbnmIy",0.875,0.673,130,-4.184,0.0932,0.135,0,0.292
+"90","Really Really","Kevin Gates",2016,"10I3CmmwT0BkOVhduDy53o",0.762,0.666,118.97,-6.055,0.0916,0.00427,0,0.127
+"91","All In My Head (Flex)","Fifth Harmony (ft. Fetty Wap)",2016,"7nD9nN3jord9wWcfW3Gkcm",0.689,0.791,95.04,-5.194,0.053,0.023,0,0.0526
+"92","Starving","Hailee Steinfield & Grey (ft. Zedd)",2016,"4Ce37cRWvM1vIGGynKcs22",0.712,0.62,99.953,-4.187,0.0888,0.39,0,0.0994
+"93","Adventure of a Lifetime","Coldplay",2016,"69uxyAqqPIsUyTO8txoP2M",0.638,0.924,111.995,-3.887,0.0359,0.00205,0.000173,0.149
+"94","Humble and Kind","Tim McGraw",2016,"3Rkk851fZjIsglV2jbBPDd",0.349,0.486,101.053,-7.232,0.0289,0.693,1.73e-06,0.122
+"95","Wicked","Future ",2016,"6BbINUfGabVyiNFJpQXn3x",0.718,0.679,157.97,-5.899,0.0706,0.00191,0.0104,0.385
+"96","Tiimmy Turner","Desiigner",2016,"3NJG6vMH1ZsectZkocMEm0",0.597,0.743,122.798,-3.095,0.042,0.181,0,0.0796
+"97","See You Again","Wiz Khalifa (ft. Charlie Puth)",2016,"7wqSzGeodspE3V6RBD5W8L",0.689,0.481,80.025,-7.503,0.0815,0.369,1.03e-06,0.0649
+"98","Perfect","One Direction",2016,"3NLnwwAQbbFKcEcV8hDItk",0.647,0.823,99.933,-5.231,0.0762,0.0598,0,0.119
