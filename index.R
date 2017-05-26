@@ -25,7 +25,6 @@ getAudioFeatures <- function(my_song) {
   }
 }
 
-
 features.2016 <- as.data.frame(do.call(rbind, lapply(songs.2016$Spotify.ID, getAudioFeatures) ))
 features.2015 <- as.data.frame(do.call(rbind, lapply(songs.2015$Spotify.ID, getAudioFeatures) ))
 features.2014 <- as.data.frame(do.call(rbind, lapply(songs.2014$Spotify.ID, getAudioFeatures) ))
@@ -35,3 +34,13 @@ features.2011 <- as.data.frame(do.call(rbind, lapply(songs.2011$Spotify.ID, getA
 features.2010 <- as.data.frame(do.call(rbind, lapply(songs.2010$Spotify.ID, getAudioFeatures) ))
 features.2009 <- as.data.frame(do.call(rbind, lapply(songs.2009$Spotify.ID, getAudioFeatures) ))
 features.2008 <- as.data.frame(do.call(rbind, lapply(songs.2008$Spotify.ID, getAudioFeatures) ))
+
+write.csv(as.data.frame(do.call(rbind, lapply(songs.2016[["Spotify.ID"]], getAudioFeatures) )), file="features.2016.csv")
+write.csv(as.data.frame(do.call(rbind, lapply(songs.2015[["Spotify.ID"]], getAudioFeatures) )), file="features.2015.csv")
+write.csv(as.data.frame(do.call(rbind, lapply(songs.2014[["Spotify.ID"]], getAudioFeatures) )), file="features.2014.csv")
+write.csv(as.data.frame(do.call(rbind, lapply(songs.2013[["Spotify.ID"]], getAudioFeatures) )), file="features.2013.csv")
+write.csv(as.data.frame(do.call(rbind, lapply(songs.2012[["Spotify.ID"]], getAudioFeatures) )), file="features.2012.csv")
+write.csv(as.data.frame(do.call(rbind, lapply(songs.2011[["Spotify.ID"]], getAudioFeatures) )), file="features.2011.csv")
+write.csv(as.data.frame(do.call(rbind, lapply(songs.2010[["Spotify.ID"]], getAudioFeatures) )), file="features.2010.csv")
+write.csv(as.data.frame(do.call(rbind, lapply(songs.2009[["Spotify.ID"]], getAudioFeatures) )), file="features.2009.csv")
+write.csv(as.data.frame(do.call(rbind, lapply(songs.2008[["Spotify.ID"]], getAudioFeatures) )), file="features.2008.csv")
