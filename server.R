@@ -66,6 +66,60 @@ shinyServer(function(input, output) {
   features.2009.tempo <- mean(features.2009$tempo)
   features.2008.tempo <- mean(features.2008$tempo)
   
+  ## Calculate loudness averages
+  features.2016.loudness <- mean(features.2016$loudness)
+  features.2015.loudness <- mean(features.2015$loudness)
+  features.2014.loudness <- mean(features.2014$loudness)
+  features.2013.loudness <- mean(features.2013$loudness)
+  features.2012.loudness <- mean(features.2012$loudness)
+  features.2011.loudness <- mean(features.2011$loudness)
+  features.2010.loudness <- mean(features.2010$loudness)
+  features.2009.loudness <- mean(features.2009$loudness)
+  features.2008.loudness <- mean(features.2008$loudness)
+  
+  ## Calculate speechiness averages
+  features.2016.speechiness <- mean(features.2016$speechiness)
+  features.2015.speechiness <- mean(features.2015$speechiness)
+  features.2014.speechiness <- mean(features.2014$speechiness)
+  features.2013.speechiness <- mean(features.2013$speechiness)
+  features.2012.speechiness <- mean(features.2012$speechiness)
+  features.2011.speechiness <- mean(features.2011$speechiness)
+  features.2010.speechiness <- mean(features.2010$speechiness)
+  features.2009.speechiness <- mean(features.2009$speechiness)
+  features.2008.speechiness <- mean(features.2008$speechiness)
+  
+  ## Calculate acousticness averages
+  features.2016.acousticness <- mean(features.2016$acousticness)
+  features.2015.acousticness <- mean(features.2015$acousticness)
+  features.2014.acousticness <- mean(features.2014$acousticness)
+  features.2013.acousticness <- mean(features.2013$acousticness)
+  features.2012.acousticness <- mean(features.2012$acousticness)
+  features.2011.acousticness <- mean(features.2011$acousticness)
+  features.2010.acousticness <- mean(features.2010$acousticness)
+  features.2009.acousticness <- mean(features.2009$acousticness)
+  features.2008.acousticness <- mean(features.2008$acousticness)
+  
+  ## Calculate acousticness averages
+  features.2016.liveness <- mean(features.2016$liveness)
+  features.2015.liveness <- mean(features.2015$liveness)
+  features.2014.liveness <- mean(features.2014$liveness)
+  features.2013.liveness <- mean(features.2013$liveness)
+  features.2012.liveness <- mean(features.2012$liveness)
+  features.2011.liveness <- mean(features.2011$liveness)
+  features.2010.liveness <- mean(features.2010$liveness)
+  features.2009.liveness <- mean(features.2009$liveness)
+  features.2008.liveness <- mean(features.2008$liveness)
+  
+  ## Calculate instrumentalness averages
+  features.2016.instrumentalness <- mean(features.2016$instrumentalness)
+  features.2015.instrumentalness <- mean(features.2015$instrumentalness)
+  features.2014.instrumentalness <- mean(features.2014$instrumentalness)
+  features.2013.instrumentalness <- mean(features.2013$instrumentalness)
+  features.2012.instrumentalness <- mean(features.2012$instrumentalness)
+  features.2011.instrumentalness <- mean(features.2011$instrumentalness)
+  features.2010.instrumentalness <- mean(features.2010$instrumentalness)
+  features.2009.instrumentalness <- mean(features.2009$instrumentalness)
+  features.2008.instrumentalness <- mean(features.2008$instrumentalness)
 
     # Select audio features to show
     if(input$features == "Danceability") {
@@ -118,6 +172,86 @@ shinyServer(function(input, output) {
         # Consturcts a bar plot
         ggplot(data=dat, aes(x=year, y=tempo), color=year) +
           geom_bar(stat="identity")
+    } else if(input$features == "Loudness"){
+      dat <- data.frame(
+        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
+        loudness = c(features.2016.loudness,
+                  features.2015.loudness,
+                  features.2014.loudness,
+                  features.2013.loudness,
+                  features.2012.loudness,
+                  features.2011.loudness,
+                  features.2010.loudness,
+                  features.2009.loudness,
+                  features.2008.loudness))
+      
+      # Consturcts a bar plot
+      ggplot(data=dat, aes(x=year, y=loudness), color=year) +
+        geom_bar(stat="identity")
+    } else if(input$features == "Speechiness"){
+      dat <- data.frame(
+        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
+        speechiness = c(features.2016.speechiness,
+                     features.2015.speechiness,
+                     features.2014.speechiness,
+                     features.2013.speechiness,
+                     features.2012.speechiness,
+                     features.2011.speechiness,
+                     features.2010.speechiness,
+                     features.2009.speechiness,
+                     features.2008.speechiness))
+      
+      # Consturcts a bar plot
+      ggplot(data=dat, aes(x=year, y=speechiness), color=year) +
+        geom_bar(stat="identity")
+    } else if(input$features == "Acousticness"){
+      dat <- data.frame(
+        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
+        acousticness = c(features.2016.acousticness,
+                        features.2015.acousticness,
+                        features.2014.acousticness,
+                        features.2013.acousticness,
+                        features.2012.acousticness,
+                        features.2011.acousticness,
+                        features.2010.acousticness,
+                        features.2009.acousticness,
+                        features.2008.acousticness))
+      
+      # Consturcts a bar plot
+      ggplot(data=dat, aes(x=year, y=acousticness), color=year) +
+        geom_bar(stat="identity")
+    } else if(input$features == "Liveness"){
+      dat <- data.frame(
+        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
+        liveness = c(features.2016.liveness,
+                         features.2015.liveness,
+                         features.2014.liveness,
+                         features.2013.liveness,
+                         features.2012.liveness,
+                         features.2011.liveness,
+                         features.2010.liveness,
+                         features.2009.liveness,
+                         features.2008.liveness))
+      
+      # Consturcts a bar plot
+      ggplot(data=dat, aes(x=year, y=liveness), color=year) +
+        geom_bar(stat="identity")
+    } else if(input$features == "Instrumentalness"){
+      dat <- data.frame(
+        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
+        instrumentalness = c(features.2016.instrumentalness,
+                     features.2015.instrumentalness,
+                     features.2014.instrumentalness,
+                     features.2013.instrumentalness,
+                     features.2012.instrumentalness,
+                     features.2011.instrumentalness,
+                     features.2010.instrumentalness,
+                     features.2009.instrumentalness,
+                     features.2008.instrumentalness))
+      
+      # Consturcts a bar plot
+      ggplot(data=dat, aes(x=year, y=instrumentalness), color=year) +
+        geom_bar(stat="identity")
     }
   })
   

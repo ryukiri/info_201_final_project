@@ -14,7 +14,7 @@ shinyUI(fluidPage(
                           
                           selectInput(inputId = "features",
                                       label = "Features:",
-                                      choices = c("Danceability", "Energy", "Tempo"),
+                                      choices = c("Danceability", "Energy", "Tempo", "Loudness", "Speechiness", "Acousticness", "Liveness", "Instrumentalness"),
                                       selected = "Danceability")
                           
                         ),
