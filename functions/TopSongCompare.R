@@ -18,5 +18,6 @@ TopSongCompare <- function(year_one, year_two, song_count){
   year_two_average <- year_two %>%
                       colMeans() %>% 
                       round(digits = 5)
+  
   do.call(rbind, Map(data.frame, Year_One=year_one_average, Year_Two=year_two_average))
 }
