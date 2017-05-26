@@ -7,23 +7,18 @@ library(Rspotify)
 # setwd("~/Documents/Info 201/info_201_final_project")
 setwd("C:/Users/Austin Quach/Google Drive/College/Sophomore/Info 201/Homework/info_201_final_project")
 
-songs.2016 <- read.csv("Songs - 2016.csv")
-songs.2015 <- read.csv("Songs - 2015.csv")
-songs.2014 <- read.csv("Songs - 2014.csv")
-songs.2013 <- read.csv("Songs - 2013.csv")
-songs.2012 <- read.csv("Songs - 2012.csv")
-songs.2011 <- read.csv("Songs - 2011.csv")
-songs.2010 <- read.csv("Songs - 2010.csv")
-songs.2009 <- read.csv("Songs - 2009.csv")
-songs.2008 <- read.csv("Songs - 2008.csv")
+songs.2016 <- read.csv("Songs/Songs - 2016.csv")
+songs.2015 <- read.csv("Songs/Songs - 2015.csv")
+songs.2014 <- read.csv("Songs/Songs - 2014.csv")
+songs.2013 <- read.csv("Songs/Songs - 2013.csv")
+songs.2012 <- read.csv("Songs/Songs - 2012.csv")
+songs.2011 <- read.csv("Songs/Songs - 2011.csv")
+songs.2010 <- read.csv("Songs/Songs - 2010.csv")
+songs.2009 <- read.csv("Songs/Songs - 2009.csv")
+songs.2008 <- read.csv("Songs/Songs - 2008.csv")
 keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
 
-getAudioFeatures <- function(my_song) {
-  if (my_song != "Not on Spotify") {
-    audio.features <- getFeatures(my_song, token=keys)
-    return(audio.features)
-  }
-}
+source("functions/GetSongData.R")
 
 features.2016 <- as.data.frame(do.call(rbind, lapply(songs.2016$Spotify.ID, getAudioFeatures) ))
 features.2015 <- as.data.frame(do.call(rbind, lapply(songs.2015$Spotify.ID, getAudioFeatures) ))

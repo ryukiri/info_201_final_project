@@ -13,7 +13,7 @@ shinyUI(fluidPage(
                   label = "Features:",
                   choices = c("Danceability", "Energy", "Tempo"),
                   selected = "Danceability")
-
+      
     ),
     
     # Show a plot of the generated distribution

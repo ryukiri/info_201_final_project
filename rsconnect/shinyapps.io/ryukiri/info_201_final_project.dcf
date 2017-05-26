@@ -2,9 +2,9 @@ name: info_201_final_project
 title: info_201_final_project
 account: ryukiri
 server: shinyapps.io
-appId: 183897
-bundleId: 841603
+appId: 183898
+bundleId: 841606
 url: https://ryukiri.shinyapps.io/info_201_final_project/
-when: 1495791344.64929
+when: 1495791467.50959
 asMultiple: FALSE
 asStatic: FALSE
