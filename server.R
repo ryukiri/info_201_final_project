@@ -9,12 +9,13 @@ shinyServer(function(input, output) {
   keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
   source("functions/GetSongData.R")
   source("functions/Combine.features.by.year.R")
+  source("functions/GetRecommendations.R")
   
   output$rolePlot <- renderPlot({
   
   ## Read in songs for each year
  
-      songs.2015 <- read.csv("Songs/Songs - 2015.csv")
+  songs.2015 <- read.csv("Songs/Songs - 2015.csv")
   songs.2014 <- read.csv("Songs/Songs - 2014.csv")
   songs.2013 <- read.csv("Songs/Songs - 2013.csv")
   songs.2012 <- read.csv("Songs/Songs - 2012.csv")
@@ -309,7 +310,22 @@ shinyServer(function(input, output) {
     }
   })
   
+  ## Radio buttons
   output$values <- renderPrint({
     input$radio
+  })
+  
+  ## Text field
+  output$value <- renderPrint({ 
+    searched.song <- input$text
+    recommendations <- GetRecommendations(searched.song)
+    recommendations
+  })
+  
+  # Search Button
+  output$action <- renderPrint({ 
+    observeEvent(input$action, {
+      
+    })
   })
 })

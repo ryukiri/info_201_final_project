@@ -61,7 +61,7 @@ shinyUI(fluidPage(
                       actionButton("action", label = "Search"),
                       
                       hr(),
-                      fluidRow(column(2, verbatimTextOutput("value")))
+                      fluidRow(column(8, verbatimTextOutput("value")))
                       
                       )
   )
