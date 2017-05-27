@@ -17,7 +17,7 @@ GetRecommendations <- function(my.song) {
   rec.response <- httr::GET("https://api.spotify.com/v1/recommendations", query = rec.params, httr::config(token = keys))
   rec.body <- content(rec.response, "text")
   rec.data <- fromJSON(rec.body)
-  rec.df <- as.data.frame(rec.data) %>% select(tracks.name, tracks.id, tracks.artists)
+  rec.df <- as.data.frame(rec.data) %>% select(tracks.name, tracks.id)
   
   colnames(rec.df) <- c("Song", "Spotify ID")
   
