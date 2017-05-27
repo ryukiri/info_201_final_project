@@ -287,4 +287,8 @@ shinyServer(function(input, output) {
       merged.2008
     }
   })
+  
+  output$values <- renderPrint({
+    input$radio
+  })
 })

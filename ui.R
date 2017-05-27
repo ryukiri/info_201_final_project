@@ -17,7 +17,10 @@ shinyUI(fluidPage(
                                       choices = c("Danceability", "Energy", "Tempo", "Loudness", "Speechiness", "Acousticness", "Liveness", "Instrumentalness"),
                                       selected = "Danceability"),
                           
-                          
+                          radioButtons(inputId = "plot_types",
+                                       label = "Plot Type",
+                                       choices = c("Barplot", "Boxplot", "Smoothplot"),
+                                       selected = "Barplot")
                         ),
                         
                         
