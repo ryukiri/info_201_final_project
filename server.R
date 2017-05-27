@@ -172,15 +172,15 @@ shinyServer(function(input, output) {
     } else if(input$features == "Tempo"){
         dat <- data.frame(
         year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
-        stat_average = c(features.2009.tempo,
+        stat_average = c(features.2008.tempo,
+                         features.2009.tempo,
                          features.2010.tempo,
                          features.2011.tempo,
                          features.2012.tempo,
                          features.2013.tempo,
                          features.2014.tempo,
                          features.2015.tempo,
-                         features.2016.tempo,
-                         features.201.tempo),
+                         features.2016.tempo),
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'tempo'))
         )
 
@@ -194,7 +194,7 @@ shinyServer(function(input, output) {
                   features.2012.loudness,
                   features.2013.loudness,
                   features.2014.loudness,
-                  features.2005.loudness,
+                  features.2015.loudness,
                   features.2016.loudness),
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'loudness'))
       )
