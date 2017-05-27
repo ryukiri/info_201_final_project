@@ -15,9 +15,11 @@ shinyUI(fluidPage(
                           selectInput(inputId = "features",
                                       label = "Features:",
                                       choices = c("Danceability", "Energy", "Tempo", "Loudness", "Speechiness", "Acousticness", "Liveness", "Instrumentalness"),
-                                      selected = "Danceability")
+                                      selected = "Danceability"),
+                          
                           
                         ),
+                        
                         
                         # Show a plot of the generated distribution
                         mainPanel(
