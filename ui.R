@@ -3,7 +3,7 @@ library(shiny)
 library(plotly)
 library(knitr)
 
-shinyUI(fluidPage(
+shinyUI(fluidPage(theme = "bootstrap.css",
   # Add a descriptive application title
   titlePanel("Spotify Audio Features"),
   
