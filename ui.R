@@ -15,9 +15,14 @@ shinyUI(fluidPage(
                           selectInput(inputId = "features",
                                       label = "Features:",
                                       choices = c("Danceability", "Energy", "Tempo", "Loudness", "Speechiness", "Acousticness", "Liveness", "Instrumentalness"),
-                                      selected = "Danceability")
+                                      selected = "Danceability"),
+                          
+                          radioButtons("radio", label = h3("Charts"),
+                                       choices = list("Bar" = 1, "Choice 2" = 2, "Choice 3" = 3), 
+                                       selected = 1)
                           
                         ),
+                        
                         
                         # Show a plot of the generated distribution
                         mainPanel(
