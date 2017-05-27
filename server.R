@@ -141,121 +141,121 @@ shinyServer(function(input, output) {
     # Select audio features to show
     if(input$features == "Danceability") {
         dat <- data.frame(
-        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        stat_average = c(features.2016.danceability,
-                         features.2015.danceability,
-                         features.2014.danceability,
-                         features.2013.danceability,
-                         features.2012.danceability,
-                         features.2011.danceability,
-                         features.2010.danceability,
+        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.2008.danceability,
                          features.2009.danceability,
-                         features.2008.danceability),
+                         features.2010.danceability,
+                         features.2011.danceability,
+                         features.2012.danceability,
+                         features.2013.danceability,
+                         features.2014.danceability,
+                         features.2015.danceability,
+                         features.2016.danceability),
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'danceability'))
         )
         
     } else if(input$features == "Energy"){
         dat <- data.frame(
-        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        stat_average = c(features.2016.energy,
-                         features.2015.energy,
-                         features.2014.energy,
-                         features.2013.energy,
-                         features.2012.energy,
-                         features.2011.energy,
-                         features.2010.energy,
+        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.2008.energy,
                          features.2009.energy,
-                         features.2008.energy),
+                         features.2010.energy,
+                         features.2011.energy,
+                         features.2012.energy,
+                         features.2013.energy,
+                         features.2014.energy,
+                         features.2015.energy,
+                         features.2016.energy),
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'energy'))
         )
         
     } else if(input$features == "Tempo"){
         dat <- data.frame(
-        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        stat_average = c(features.2016.tempo,
-                         features.2015.tempo,
-                         features.2014.tempo,
-                         features.2013.tempo,
-                         features.2012.tempo,
-                         features.2011.tempo,
+        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.2009.tempo,
                          features.2010.tempo,
-                         features.2009.tempo,
-                         features.2008.tempo),
+                         features.2011.tempo,
+                         features.2012.tempo,
+                         features.2013.tempo,
+                         features.2014.tempo,
+                         features.2015.tempo,
+                         features.2016.tempo,
+                         features.201.tempo),
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'tempo'))
         )
 
     } else if(input$features == "Loudness"){
       dat <- data.frame(
-        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        stat_average = c(features.2016.loudness,
-                  features.2015.loudness,
-                  features.2014.loudness,
-                  features.2013.loudness,
-                  features.2012.loudness,
-                  features.2011.loudness,
-                  features.2010.loudness,
+        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.2008.loudness,
                   features.2009.loudness,
-                  features.2008.loudness),
+                  features.2010.loudness,
+                  features.2011.loudness,
+                  features.2012.loudness,
+                  features.2013.loudness,
+                  features.2014.loudness,
+                  features.2005.loudness,
+                  features.2016.loudness),
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'loudness'))
       )
 
     } else if(input$features == "Speechiness"){
       dat <- data.frame(
-        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        stat_average = c(features.2016.speechiness,
-                     features.2015.speechiness,
-                     features.2014.speechiness,
-                     features.2013.speechiness,
-                     features.2012.speechiness,
-                     features.2011.speechiness,
-                     features.2010.speechiness,
+        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.2008.speechiness,
                      features.2009.speechiness,
-                     features.2008.speechiness),
+                     features.2010.speechiness,
+                     features.2011.speechiness,
+                     features.2012.speechiness,
+                     features.2013.speechiness,
+                     features.2014.speechiness,
+                     features.2015.speechiness,
+                     features.2016.speechiness),
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'speechiness'))
       )
 
     } else if(input$features == "Acousticness"){
       dat <- data.frame(
-        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        stat_average = c(features.2016.acousticness,
-                        features.2015.acousticness,
-                        features.2014.acousticness,
-                        features.2013.acousticness,
-                        features.2012.acousticness,
-                        features.2011.acousticness,
-                        features.2010.acousticness,
+        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.2008.acousticness,
                         features.2009.acousticness,
-                        features.2008.acousticness),
+                        features.2010.acousticness,
+                        features.2011.acousticness,
+                        features.2012.acousticness,
+                        features.2013.acousticness,
+                        features.2014.acousticness,
+                        features.2015.acousticness,
+                        features.2016.acousticness),
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'acousticness'))
       )
 
     } else if(input$features == "Liveness"){
       dat <- data.frame(
-        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        stat_average = c(features.2016.liveness,
-                         features.2015.liveness,
-                         features.2014.liveness,
-                         features.2013.liveness,
-                         features.2012.liveness,
-                         features.2011.liveness,
-                         features.2010.liveness,
+        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.2008.liveness,
                          features.2009.liveness,
-                         features.2008.liveness),
+                         features.2010.liveness,
+                         features.2011.liveness,
+                         features.2012.liveness,
+                         features.2013.liveness,
+                         features.2014.liveness,
+                         features.2015.liveness,
+                         features.2016.liveness),
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'liveness'))
       )
 
     } else if(input$features == "Instrumentalness"){
       dat <- data.frame(
-        year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        stat_average = c(features.2016.instrumentalness,
-                     features.2015.instrumentalness,
-                     features.2014.instrumentalness,
-                     features.2013.instrumentalness,
-                     features.2012.instrumentalness,
-                     features.2011.instrumentalness,
-                     features.2010.instrumentalness,
+        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.2008.instrumentalness,
                      features.2009.instrumentalness,
-                     features.2008.instrumentalness),
+                     features.2010.instrumentalness,
+                     features.2011.instrumentalness,
+                     features.2012.instrumentalness,
+                     features.2013.instrumentalness,
+                     features.2014.instrumentalness,
+                     features.2015.instrumentalness,
+                     features.2016.instrumentalness),
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'instrumentalness'))
       )
       
