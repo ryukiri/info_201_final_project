@@ -8,12 +8,13 @@ shinyServer(function(input, output) {
   ## Authorizes Spotify API with keys
   keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
   source("functions/GetSongData.R")
+  source("functions/Combine.features.by.year.R")
   
   output$rolePlot <- renderPlot({
   
   ## Read in songs for each year
-  songs.2016 <- read.csv("Songs/Songs - 2016.csv")
-  songs.2015 <- read.csv("Songs/Songs - 2015.csv")
+ 
+      songs.2015 <- read.csv("Songs/Songs - 2015.csv")
   songs.2014 <- read.csv("Songs/Songs - 2014.csv")
   songs.2013 <- read.csv("Songs/Songs - 2013.csv")
   songs.2012 <- read.csv("Songs/Songs - 2012.csv")
@@ -32,6 +33,19 @@ shinyServer(function(input, output) {
   features.2010 <- read.csv("features/features.2010.csv")
   features.2009 <- read.csv("features/features.2009.csv")
   features.2008 <- read.csv("features/features.2008.csv")
+  
+  ## all the features and years list
+  all.features <- list(
+      'features.2008' = features.2008,
+      'features.2009' = features.2009,
+      'features.2010' = features.2010,
+      'features.2011' = features.2011,
+      'features.2012' = features.2012,
+      'features.2013' = features.2013,
+      'features.2014' = features.2014,
+      'features.2015' = features.2015,
+      'features.2016' = features.2016
+  )
   
   ## Merge them into one for use in some graphs
   features.all.songs <- read.csv("songsMerged/songs.merged.all.csv")
@@ -136,7 +150,9 @@ shinyServer(function(input, output) {
                          features.2011.danceability,
                          features.2010.danceability,
                          features.2009.danceability,
-                         features.2008.danceability))
+                         features.2008.danceability),
+        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'danceability'))
+        )
         
     } else if(input$features == "Energy"){
         dat <- data.frame(
@@ -149,7 +165,9 @@ shinyServer(function(input, output) {
                          features.2011.energy,
                          features.2010.energy,
                          features.2009.energy,
-                         features.2008.energy))
+                         features.2008.energy),
+        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'energy'))
+        )
         
     } else if(input$features == "Tempo"){
         dat <- data.frame(
@@ -162,7 +180,9 @@ shinyServer(function(input, output) {
                          features.2011.tempo,
                          features.2010.tempo,
                          features.2009.tempo,
-                         features.2008.tempo))
+                         features.2008.tempo),
+        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'tempo'))
+        )
 
     } else if(input$features == "Loudness"){
       dat <- data.frame(
@@ -175,7 +195,9 @@ shinyServer(function(input, output) {
                   features.2011.loudness,
                   features.2010.loudness,
                   features.2009.loudness,
-                  features.2008.loudness))
+                  features.2008.loudness),
+        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'loudness'))
+      )
 
     } else if(input$features == "Speechiness"){
       dat <- data.frame(
@@ -188,7 +210,9 @@ shinyServer(function(input, output) {
                      features.2011.speechiness,
                      features.2010.speechiness,
                      features.2009.speechiness,
-                     features.2008.speechiness))
+                     features.2008.speechiness),
+        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'speechiness'))
+      )
 
     } else if(input$features == "Acousticness"){
       dat <- data.frame(
@@ -201,7 +225,9 @@ shinyServer(function(input, output) {
                         features.2011.acousticness,
                         features.2010.acousticness,
                         features.2009.acousticness,
-                        features.2008.acousticness))
+                        features.2008.acousticness),
+        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'acousticness'))
+      )
 
     } else if(input$features == "Liveness"){
       dat <- data.frame(
@@ -214,7 +240,9 @@ shinyServer(function(input, output) {
                          features.2011.liveness,
                          features.2010.liveness,
                          features.2009.liveness,
-                         features.2008.liveness))
+                         features.2008.liveness),
+        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'liveness'))
+      )
 
     } else if(input$features == "Instrumentalness"){
       dat <- data.frame(
@@ -227,7 +255,9 @@ shinyServer(function(input, output) {
                      features.2011.instrumentalness,
                      features.2010.instrumentalness,
                      features.2009.instrumentalness,
-                     features.2008.instrumentalness))
+                     features.2008.instrumentalness),
+        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'instrumentalness'))
+      )
       
       
     }
@@ -236,7 +266,9 @@ shinyServer(function(input, output) {
       ggplot(data=dat, aes(x=year, y=stat_average, color=year)) +
         geom_bar(stat="identity")
     } else if(input$plot_types == "Boxplot") {
-      
+      ggplot(stack(all.years.feature[,-1]), aes(x = ind, y = values, color = ind)) +
+        geom_boxplot()+
+        labs(x = "Years", y = "Percentage")
     } else if(input$plot_types == "Quantile") {
       ##requires a list of all songs with year and features
     }
