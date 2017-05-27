@@ -271,6 +271,8 @@ shinyServer(function(input, output) {
         labs(x = "Years", y = "Percentage")
     } else if(input$plot_types == "Quantile") {
       ##requires a list of all songs with year and features
+      ## I just created a function call all.features in the function file(Combine.features.by.year.R) 
+      ## that collect all the songs with years for only one features, hope that helps though
     }
   })
   
