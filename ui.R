@@ -19,7 +19,7 @@ shinyUI(fluidPage(
                           
                           radioButtons(inputId = "plot_types",
                                        label = "Plot Type",
-                                       choices = c("Barplot", "Boxplot", "Smoothplot"),
+                                       choices = c("Barplot", "Boxplot", "Quantile"),
                                        selected = "Barplot")
                         ),
                         

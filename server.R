@@ -33,6 +33,10 @@ shinyServer(function(input, output) {
   features.2009 <- read.csv("features/features.2009.csv")
   features.2008 <- read.csv("features/features.2008.csv")
   
+  ## Merge them into one for use in some graphs
+  features.all.songs <- read.csv("features/features.all.songs.csv")
+  ###### WE NEED TO MERGE THIS WITH NAMES AND YEARS DATA
+  
   ## Calculate danceability averages
   features.2016.danceability <- mean(features.2016$danceability)
   features.2015.danceability <- mean(features.2015$danceability)
@@ -125,7 +129,7 @@ shinyServer(function(input, output) {
     if(input$features == "Danceability") {
         dat <- data.frame(
         year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        danceability = c(features.2016.danceability,
+        stat_average = c(features.2016.danceability,
                          features.2015.danceability,
                          features.2014.danceability,
                          features.2013.danceability,
@@ -135,14 +139,10 @@ shinyServer(function(input, output) {
                          features.2009.danceability,
                          features.2008.danceability))
         
-        # Consturcts a bar plot
-        ggplot(data=dat, aes(x=year, y=danceability, color=year)) +
-          geom_bar(stat="identity")
-        
     } else if(input$features == "Energy"){
         dat <- data.frame(
         year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        energy = c(features.2016.energy,
+        stat_average = c(features.2016.energy,
                          features.2015.energy,
                          features.2014.energy,
                          features.2013.energy,
@@ -152,14 +152,10 @@ shinyServer(function(input, output) {
                          features.2009.energy,
                          features.2008.energy))
         
-        # Consturcts a bar plot
-        ggplot(data=dat, aes(x=year, y=energy, color=year)) +
-          geom_bar(stat="identity")
-        
     } else if(input$features == "Tempo"){
         dat <- data.frame(
         year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        tempo = c(features.2016.tempo,
+        stat_average = c(features.2016.tempo,
                          features.2015.tempo,
                          features.2014.tempo,
                          features.2013.tempo,
@@ -168,14 +164,11 @@ shinyServer(function(input, output) {
                          features.2010.tempo,
                          features.2009.tempo,
                          features.2008.tempo))
-        
-        # Consturcts a bar plot
-        ggplot(data=dat, aes(x=year, y=tempo, color=year)) +
-          geom_bar(stat="identity")
+
     } else if(input$features == "Loudness"){
       dat <- data.frame(
         year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        loudness = c(features.2016.loudness,
+        stat_average = c(features.2016.loudness,
                   features.2015.loudness,
                   features.2014.loudness,
                   features.2013.loudness,
@@ -184,14 +177,11 @@ shinyServer(function(input, output) {
                   features.2010.loudness,
                   features.2009.loudness,
                   features.2008.loudness))
-      
-      # Consturcts a bar plot
-      ggplot(data=dat, aes(x=year, y=loudness, color=year)) +
-        geom_bar(stat="identity")
+
     } else if(input$features == "Speechiness"){
       dat <- data.frame(
         year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        speechiness = c(features.2016.speechiness,
+        stat_average = c(features.2016.speechiness,
                      features.2015.speechiness,
                      features.2014.speechiness,
                      features.2013.speechiness,
@@ -200,14 +190,11 @@ shinyServer(function(input, output) {
                      features.2010.speechiness,
                      features.2009.speechiness,
                      features.2008.speechiness))
-      
-      # Consturcts a bar plot
-      ggplot(data=dat, aes(x=year, y=speechiness, color=year)) +
-        geom_bar(stat="identity")
+
     } else if(input$features == "Acousticness"){
       dat <- data.frame(
         year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        acousticness = c(features.2016.acousticness,
+        stat_average = c(features.2016.acousticness,
                         features.2015.acousticness,
                         features.2014.acousticness,
                         features.2013.acousticness,
@@ -216,14 +203,11 @@ shinyServer(function(input, output) {
                         features.2010.acousticness,
                         features.2009.acousticness,
                         features.2008.acousticness))
-      
-      # Consturcts a bar plot
-      ggplot(data=dat, aes(x=year, y=acousticness, color=year)) +
-        geom_bar(stat="identity")
+
     } else if(input$features == "Liveness"){
       dat <- data.frame(
         year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        liveness = c(features.2016.liveness,
+        stat_average = c(features.2016.liveness,
                          features.2015.liveness,
                          features.2014.liveness,
                          features.2013.liveness,
@@ -232,14 +216,11 @@ shinyServer(function(input, output) {
                          features.2010.liveness,
                          features.2009.liveness,
                          features.2008.liveness))
-      
-      # Consturcts a bar plot
-      ggplot(data=dat, aes(x=year, y=liveness, color=year)) +
-        geom_bar(stat="identity")
+
     } else if(input$features == "Instrumentalness"){
       dat <- data.frame(
         year = factor(c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008), levels=c(2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008)),
-        instrumentalness = c(features.2016.instrumentalness,
+        stat_average = c(features.2016.instrumentalness,
                      features.2015.instrumentalness,
                      features.2014.instrumentalness,
                      features.2013.instrumentalness,
@@ -249,9 +230,16 @@ shinyServer(function(input, output) {
                      features.2009.instrumentalness,
                      features.2008.instrumentalness))
       
-      # Consturcts a bar plot
-      ggplot(data=dat, aes(x=year, y=instrumentalness, color=year)) +
+      
+    }
+  
+    if(input$plot_types == "Barplot") {
+      ggplot(data=dat, aes(x=year, y=stat_average, color=year)) +
         geom_bar(stat="identity")
+    } else if(input$plot_types == "Boxplot") {
+      
+    } else if(input$plot_types == "Quantile") {
+      ##requires a list of all songs with year and features
     }
   })
   
