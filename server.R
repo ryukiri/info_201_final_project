@@ -34,9 +34,8 @@ shinyServer(function(input, output) {
   features.2008 <- read.csv("features/features.2008.csv")
   
   ## Merge them into one for use in some graphs
-  features.all.songs <- read.csv("features/features.all.songs.csv")
-  ###### WE NEED TO MERGE THIS WITH NAMES AND YEARS DATA
-  
+  features.all.songs <- read.csv("songsMerged/songs.merged.all.csv")
+
   ## Calculate danceability averages
   features.2016.danceability <- mean(features.2016$danceability)
   features.2015.danceability <- mean(features.2015$danceability)
