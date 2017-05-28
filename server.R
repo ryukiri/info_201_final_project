@@ -269,9 +269,9 @@ shinyServer(function(input, output) {
         geom_boxplot()+
         labs(x = "Years", y = "Percentage")
     } else if(input$plot_types == "Quantile") {
-      qplot(Year, feature,data = feature.years, col = Year,
-            xlab = 'Year', ylab = 'Percentage')
-    }
+      qplot(Year, feature,data = feature.years,
+            xlab = 'Year', ylab = 'Percentage',geom = c("point", "smooth"),span = 0.2,  col = Year)
+       }
   })
   
   output$tablePlot <- renderDataTable({
