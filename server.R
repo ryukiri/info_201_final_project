@@ -50,6 +50,7 @@ shinyServer(function(input, output) {
   
   ## Merge them into one for use in some graphs
   features.all.songs <- read.csv("songsMerged/songs.merged.all.csv")
+  
 
   ## Calculate danceability averages
   features.2016.danceability <- mean(features.2016$danceability)
@@ -151,10 +152,9 @@ shinyServer(function(input, output) {
                          features.2013.danceability,
                          features.2014.danceability,
                          features.2015.danceability,
-                         features.2016.danceability),
+                         features.2016.danceability))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'danceability'))
-        )
-        
+        feature.years <- features.all.songs%>%select(feature = danceability, Year)
     } else if(input$features == "Energy"){
         dat <- data.frame(
         year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
@@ -166,9 +166,9 @@ shinyServer(function(input, output) {
                          features.2013.energy,
                          features.2014.energy,
                          features.2015.energy,
-                         features.2016.energy),
+                         features.2016.energy))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'energy'))
-        )
+        feature.years <- features.all.songs%>%select(feature = energy, Year)
         
     } else if(input$features == "Tempo"){
         dat <- data.frame(
@@ -181,9 +181,9 @@ shinyServer(function(input, output) {
                          features.2013.tempo,
                          features.2014.tempo,
                          features.2015.tempo,
-                         features.2016.tempo),
+                         features.2016.tempo))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'tempo'))
-        )
+        feature.years <- features.all.songs%>%select(feature = tempo, Year)
 
     } else if(input$features == "Loudness"){
       dat <- data.frame(
@@ -196,9 +196,9 @@ shinyServer(function(input, output) {
                   features.2013.loudness,
                   features.2014.loudness,
                   features.2015.loudness,
-                  features.2016.loudness),
+                  features.2016.loudness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'loudness'))
-      )
+        feature.years <- features.all.songs%>%select(feature = loudness, Year)
 
     } else if(input$features == "Speechiness"){
       dat <- data.frame(
@@ -211,9 +211,9 @@ shinyServer(function(input, output) {
                      features.2013.speechiness,
                      features.2014.speechiness,
                      features.2015.speechiness,
-                     features.2016.speechiness),
+                     features.2016.speechiness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'speechiness'))
-      )
+        feature.years <- features.all.songs%>%select(feature = speechiness, Year)
 
     } else if(input$features == "Acousticness"){
       dat <- data.frame(
@@ -226,9 +226,9 @@ shinyServer(function(input, output) {
                         features.2013.acousticness,
                         features.2014.acousticness,
                         features.2015.acousticness,
-                        features.2016.acousticness),
+                        features.2016.acousticness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'acousticness'))
-      )
+        feature.years <- features.all.songs%>%select(feature = acousticness, Year)
 
     } else if(input$features == "Liveness"){
       dat <- data.frame(
@@ -241,9 +241,9 @@ shinyServer(function(input, output) {
                          features.2013.liveness,
                          features.2014.liveness,
                          features.2015.liveness,
-                         features.2016.liveness),
+                         features.2016.liveness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'liveness'))
-      )
+        feature.years <- features.all.songs%>%select(feature = liveness, Year)
 
     } else if(input$features == "Instrumentalness"){
       dat <- data.frame(
@@ -256,24 +256,21 @@ shinyServer(function(input, output) {
                      features.2013.instrumentalness,
                      features.2014.instrumentalness,
                      features.2015.instrumentalness,
-                     features.2016.instrumentalness),
+                     features.2016.instrumentalness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'instrumentalness'))
-      )
-      
-      
+        feature.years <- features.all.songs%>%select(feature = instrumentalness, Year)
     }
   
     if(input$plot_types == "Barplot") {
-      ggplot(data=dat, aes(x=year, y=stat_average, color=year)) +
+      ggplot(data=dat, aes(x=year, y=stat_average, fill=year)) +
         geom_bar(stat="identity")
     } else if(input$plot_types == "Boxplot") {
       ggplot(stack(all.years.feature[,-1]), aes(x = ind, y = values, color = ind)) +
         geom_boxplot()+
         labs(x = "Years", y = "Percentage")
     } else if(input$plot_types == "Quantile") {
-      ##requires a list of all songs with year and features
-      ## I just created a function call all.features in the function file(Combine.features.by.year.R) 
-      ## that collect all the songs with years for only one features, hope that helps though
+      qplot(x = feature.years$Year, y = feature.years$feature, col = feature.years$Year,
+            xlab = 'Year', ylab = 'Percentage' )
     }
   })
   
