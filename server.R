@@ -26,7 +26,20 @@ shinyServer(function(input, output) {
   songs.2010 <- read.csv("Songs/Songs - 2010.csv")
   songs.2009 <- read.csv("Songs/Songs - 2009.csv")
   songs.2008 <- read.csv("Songs/Songs - 2008.csv")
-
+  songs.2007 <- read.csv("Songs/Songs - 2007.csv")
+  songs.2006 <- read.csv("Songs/Songs - 2006.csv")
+  songs.2005 <- read.csv("Songs/Songs - 2005.csv")
+  songs.2004 <- read.csv("Songs/Songs - 2004.csv")
+  songs.2003 <- read.csv("Songs/Songs - 2003.csv")
+  songs.2002 <- read.csv("Songs/Songs - 2002.csv")
+  songs.2001 <- read.csv("Songs/Songs - 2001.csv")
+  songs.2000 <- read.csv("Songs/Songs - 2000.csv")
+  songs.1999 <- read.csv("Songs/Songs - 1999.csv")
+  songs.1998 <- read.csv("Songs/Songs - 1998.csv")
+  songs.1997 <- read.csv("Songs/Songs - 1997.csv")
+  songs.1996 <- read.csv("Songs/Songs - 1996.csv")
+  songs.1995 <- read.csv("Songs/Songs - 1995.csv")
+  
   ## Grabbing audio features for the years and putting them into respective data frames
   features.2016 <- read.csv("features/features.2016.csv")
   features.2015 <- read.csv("features/features.2015.csv")
