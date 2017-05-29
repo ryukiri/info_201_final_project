@@ -10,7 +10,9 @@ shinyServer(function(input, output) {
   keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
   source("functions/GetSongData.R")
   source("functions/Combine.features.by.year.R")
+  source("functions/GetTrackID.R")
   source("functions/GetRecommendations.R")
+  source("functions/GetRecommendedYears.R")
   
   output$rolePlot <- renderPlot({
   
@@ -322,7 +324,8 @@ shinyServer(function(input, output) {
   ## Text field
   output$value <- renderPrint({ 
     searched.song <- input$text
-    recommendations <- GetRecommendations(searched.song)
+    track.id <- GetTrackID(searched.song)
+    recommendations <- GetRecommendations(track.id)
     output$tablep <- renderDataTable({
       datatable(recommendations, options = list(dom = 't'))
     })
