@@ -3,7 +3,6 @@ library(devtools)
 library(Rspotify)
 library(dplyr)
 library(knitr)
-library(DT)
 
 shinyServer(function(input, output) {
   ## Authorizes Spotify API with keys
@@ -327,7 +326,7 @@ shinyServer(function(input, output) {
     track.id <- GetTrackID(searched.song)
     recommendations <- GetRecommendations(track.id)
     output$tablep <- renderDataTable({
-      datatable(recommendations, options = list(dom = 't'))
+      #datatable(recommendations, options = list(dom = 't'))
     })
   })
 })

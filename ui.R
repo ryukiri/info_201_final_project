@@ -53,7 +53,6 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                         )
                       )
  
-
                       ),
              tabPanel("Search", 
                       # Text input box
@@ -63,7 +62,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                        actionButton("action", label = "Search"),
                       
                       #submitButton("Get Recommendations", icon("refresh")),
-                      dataTableOutput('tablep'),
+                      #dataTableOutput('tablep'),
                       
                       hr(),
                       fluidRow(column(12, verbatimTextOutput("value")))
