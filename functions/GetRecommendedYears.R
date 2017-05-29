@@ -1,4 +1,5 @@
 library(dplyr)
+library(Rspotify)
 
 GetRecommendedYears <- function(track.id) {
   keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
@@ -134,9 +135,10 @@ GetRecommendedYears <- function(track.id) {
   least.diff.instrumentalness <- (features %>% filter(instrumentalness == min(instrumentalness)) %>% select(year))[[1]]
   
   least.diff.years <- c(least.diff.danceability, least.diff.energy, least.diff.tempo, least.diff.loudness, least.diff.speechiness, least.diff.acousticness, least.diff.liveness, least.diff.instrumentalness)
-  least.diff.years.df <- data.frame(least.diff)
-  least.diff.years.freq <- data.frame(table(least.diff.years.df %>% group_by(least.diff)))
+  least.diff.years.df <- data.frame(least.diff.years)
+  least.diff.years.freq <- data.frame(table(least.diff.years.df %>% group_by(least.diff.years)))
   rec.years <- least.diff.years.freq %>% filter(Freq == max(Freq)) %>% select(Var1)
-  colnames(rec.years) <- "Recommended Years"
+  colnames(rec.years) <- "years"
   return(rec.years)
 }
+
