@@ -2,9 +2,9 @@ name: info_201
 title: info_201
 account: ryukiri
 server: shinyapps.io
-appId: 184423
-bundleId: 844014
+appId: 184425
+bundleId: 844044
 url: https://ryukiri.shinyapps.io/info_201/
-when: 1496026396.56817
+when: 1496027652.1046
 asMultiple: FALSE
 asStatic: FALSE

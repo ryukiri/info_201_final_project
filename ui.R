@@ -2,6 +2,7 @@
 library(shiny)
 library(plotly)
 library(knitr)
+library(DT)
 
 shinyUI(fluidPage(theme = "bootstrap.css",
   # Add a descriptive application title
@@ -61,8 +62,8 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                       # Action button
                        actionButton("action", label = "Search"),
                       
-                      #submitButton("Get Recommendations", icon("refresh")),
-                      #dataTableOutput('tablep'),
+                      #submitButton("Get Recommendations"),
+                      dataTableOutput('tablep'),
                       
                       hr(),
                       fluidRow(column(12, verbatimTextOutput("value")))
