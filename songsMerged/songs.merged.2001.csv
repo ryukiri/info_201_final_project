@@ -1,0 +1,93 @@
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
+"1","Hanging By A Moment","Lifehouse",2001,"0maGllQEuiHk3UbOBLC05d",0.549,0.854,124.578,-5.408,0.036,0.00115,0,0.082
+"2","Fallin'","Alicia Keys",2001,"3unsLiH5FXmaDWtT5Imolu",0.653,0.609,95.982,-7.519,0.037,0.263,0.00101,0.233
+"3","All For You","Janet Jackson",2001,"21Hb463GK8hP890bsNVCfg",0.76,0.897,113.521,-5.111,0.112,0.0157,0.0531,0.297
+"4","Drops of Jupiter","Train",2001,"23rc0FT9mCa12LjYSeDXlW",0.468,0.64,79.297,-5.862,0.0275,0.154,0,0.154
+"5","I'm Real - Murder Remix featuring Ja Rule-Clean Version","Jennifer Lopez",2001,"1gaUODQzPR6eNcJtNe0cyZ",0.735,0.58,83.447,-7.555,0.115,0.368,0,0.0671
+"6","If You're Gone - Remastered Version","Matchbox Twenty",2001,"5rdRPZnY9B2pxJNWImbsFn",0.399,0.681,109.716,-6.457,0.031,0.507,1.23e-06,0.102
+"7","Let Me Blow Ya Mind","Eve",2001,"3RmKpob8xzv1pzHEQrMJah",0.909,0.539,90.038,-4.278,0.116,0.243,0,0.0674
+"8","Thank You","Dido",2001,"54PVf8d9j84aJXj4ZTssBr",0.722,0.595,79.98,-9.928,0.0415,0.284,0.000538,0.0694
+"9","Again","Lenny Kravitz",2001,"16gvJsVyauI16RqmOrwJJk",0.554,0.82,79.155,-5.035,0.0296,0.0186,4.91e-05,0.161
+"10","Independent Women, Pt. I - #1's Edit","Destiny's Child",2001,"2tZZGKQDPIk37SkmNm0Od7",0.672,0.593,97.887,-3.957,0.216,0.348,3.36e-06,0.114
+"11","Hit 'Em up Style (Oops!)","Blu Cantrell",2001,"5k3sanOGourYTSWNvphUnz",0.682,0.827,89.979,-2.594,0.042,0.226,0,0.434
+"12","It Wasn't Me","Shaggy",2001,"0OaunKfsxkgBvPv68jBbmm",0.849,0.619,94.762,-4.774,0.0695,0.0618,0,0.353
+"13","Stutter - Double Take Remix","Joe",2001,"7C5XOHS3FXH8PWbAB9WdWS",0.764,0.732,89.976,-7.232,0.139,0.0544,0,0.31
+"14","It's Been Awhile","Staind",2001,"0d2YnyIPgmPQqNSzDg8s8Q",0.509,0.774,116.529,-4.054,0.0338,0.00189,0.000549,0.143
+"15","U Remind Me","Usher",2001,"2QsZVnbWVSjKMXK6K3uRBL",0.657,0.629,93.985,-4.938,0.0782,0.194,0,0.254
+"16","Where the Party At","Jagged Edge",2001,"5mNV8Mz59bzyuQ53gTw0c0",0.596,0.661,129.491,-6.239,0.226,0.31,0,0.0847
+"17","Angel","Shaggy",2001,"4LhtNlYHIEZYAAE4UN5x6b",0.799,0.761,85.282,-3.163,0.0967,0.127,0,0.0655
+"18","Ride Wit Me - Album Version/Edited","Nelly",2001,"1D70EbZoedMGzZWYZvfQIY",0.852,0.685,101.846,-6.581,0.0645,0.0658,0,0.0381
+"19","Follow Me","Uncle Kracker",2001,"4KoecuyOpZaNFZ0UqVsllc",0.817,0.585,105.014,-4.688,0.0301,0.439,0,0.147
+"20","Peaches & Cream (feat. P. Diddy)","112",2001,"6iajHa34cSiD5s42Cq9miJ",0.706,0.537,203.746,-6.347,0.348,0.00887,0,0.129
+"21","Drive","Incubus",2001,"4IyDlKobNAzDkl6USG7rO2",0.645,0.835,90.56,-5.975,0.0372,0.0597,0.0139,0.158
+"22","What Would You Do?","City High",2001,"1tJkic0TURTCXw3rBhYgWu",0.732,0.793,95.918,-7.053,0.24,0.278,0,0.418
+"23","Survivor","Destiny's Child",2001,"3ckAfCo4YxRXU8CwvF9BIK",0.586,0.873,161.07,-2.117,0.245,0.0976,0,0.183
+"24","Lady Marmalade","Various Artists",2001,"63j3B2fEUNlPy964K5PVTO",0.756,0.52,109.926,-6.263,0.0313,0.00153,2.63e-06,0.127
+"25","Ms. Jackson","OutKast",2001,"0I3q5fE6wg7LIfHGngUTnV",0.843,0.805,94.946,-5.946,0.269,0.142,0,0.0771
+"26","Love Don't Cost A Thing","Jennifer Lopez",2001,"4ktd4eFTNwfBft4zQxSCqO",0.791,0.81,97.558,-5.869,0.0958,0.00403,1.33e-06,0.425
+"27","The Way You Love Me","Faith Hill",2001,"6vgN6KGstss0GnBbKlMNK9",0.627,0.716,101.99,-7.175,0.0352,0.127,0,0.0344
+"28","He Loves U Not","The Hit Crew",2001,"2YGm6IyhHutoxJDUTow1Fg",0.685,0.779,155.923,-8.13,0.256,0.345,0,0.358
+"29","Butterfly","Crazy Town",2001,"6GQ3WTaNHMFlVmN4burGat",0.74,0.811,103.499,-4.148,0.0768,0.00155,0.000229,0.107
+"30","Put It On Me","Ja Rule",2001,"0OvwzS8FX73Bw7ykMRmffU",0.687,0.785,186.244,-4.953,0.325,0.00332,0,0.0516
+"31","Family Affair","Mary J. Blige",2001,"2D5QhvAWddOJTvk1XawrTU",0.926,0.568,92.902,-2.308,0.0461,0.2,4.53e-05,0.0806
+"32","I Hope You Dance","Lee Ann Womack",2001,"65B1tEOv5W294uCKbmEcFV",0.416,0.446,151.328,-9.557,0.0291,0.0524,0,0.0891
+"33","Don't Tell Me","Madonna",2001,"5sC4GlhZ9zCb6gPxSIbX5j",0.711,0.696,100.124,-5.605,0.0511,0.0273,0.000911,0.105
+"34","Get Ur Freak On","Missy Elliott",2001,"13KEdaWIc7T6ozEmnJjHy1",0.78,0.787,177.835,-6.653,0.209,0.533,0.134,0.122
+"35","Crazy","K-Ci & JoJo",2001,"3opZewONQQhh90M75Qrm83",0.686,0.659,116.161,-4.525,0.0268,0.0957,0,0.594
+"36","Fill Me In","Craig David",2001,"2LJ58vWuLhFQ2bJPqzhveL",0.686,0.742,132.495,-6.981,0.0389,0.418,0.00728,0.0871
+"37","Someone To Call My Lover","Janet Jackson",2001,"1ZlkTsDGC9SMF3oXSXJLFY",0.731,0.936,127.918,-3.029,0.0355,0.2,0.00338,0.0971
+"38","With Arms Wide Open","Creed",2001,"7q36HE7sjosbeD8AHoOjRL",0.412,0.542,138.925,-8.427,0.0306,0.00394,0.000758,0.124
+"39","Case Of The Ex (Whatcha Gonna Do)","M<U+00FD>a",2001,"1ak0S3NhwWrUgNlQhJ1412",0.78,0.69,98.002,-4.958,0.0445,0.0565,8.19e-05,0.0716
+"40","All or Nothing","O-Town",2001,"0WdaRmHBMhUoLPqHLdb9yg",0.641,0.453,126.872,-4.98,0.0281,0.262,0,0.284
+"41","Bootylicious","Destiny's Child",2001,"2jZESuj23z92RqbooSsMqV",0.808,0.835,103.382,-4.586,0.273,0.00344,0,0.174
+"42","I'm Like A Bird","Nelly Furtado",2001,"40ZViEcg2JVcLysJc627Rz",0.62,0.639,89.656,-5.049,0.039,0.144,1.07e-06,0.252
+"43","Kryptonite","3 Doors Down",2001,"0S0d7Qad5v7ZLQiAuwQxab",0.544,0.866,99.021,-4.889,0.0297,0.00547,1.62e-05,0.15
+"44","Fiesta - Remix","R. Kelly",2001,"50aYYSNIEfwUjCvjDgkrQe",0.92,0.487,92.836,-5.578,0.182,0.0103,0,0.0411
+"45","When It's Over - Remastered","Sugar Ray",2001,"3eWxADd1CLwJVhyPzrCpl8",0.677,0.771,99.91,-5.852,0.0471,0.0465,0,0.165
+"46","Jaded","Aerosmith",2001,"3OslNpSeQuiOtlBa8CyjZg",0.526,0.885,118.043,-4.015,0.0499,0.00516,1.71e-05,0.0878
+"47","Promise","Jagged Edge",2001,"1X1KDnhTnb28tpJlgOV3lD",0.751,0.568,128.002,-5.431,0.0872,0.136,0,0.0288
+"48","Missing You","Case",2001,"0CmXXEwul09Kf8X68lPA5l",0.613,0.602,86.328,-6.496,0.0497,0.287,0,0.0705
+"49","Differences","Ginuwine",2001,"0O5b1927V6FbLsZRtf7idi",0.622,0.492,63.06,-8.305,0.0665,0.335,0,0.222
+"50","This I Promise You","*NSYNC",2001,"46n2EGFnPC3tzWCN1Aqe26",0.55,0.587,165.975,-6.279,0.0329,0.354,0,0.128
+"51","Izzo (H.O.V.A.)","JAY Z",2001,"4h5KBcltGefua73AUPYps7",0.769,0.839,86.71,-4.314,0.319,0.0193,2.65e-05,0.0639
+"52","Crazy For This Girl","Evan And Jaron",2001,"0RYs96jdB4c3yXSaJ6h1Ca",0.462,0.933,94.072,-4.851,0.0368,0.000734,2.9e-05,0.0959
+"53","Nobody Wants to Be Lonely - Ricky Martin with Christina Aguilera","Ricky Martin",2001,"7Lhk5XvGAHTC607T88mvVi",0.638,0.856,100.875,-5.035,0.0626,0.00599,0.00728,0.0596
+"54","I Just Wanna Love U (Give It 2 Me)","JAY Z",2001,"1UdsBQTJOqpXXr13su0uI3",0.859,0.959,98.131,-1.875,0.29,0.368,0,0.0351
+"55","One Minute Man (feat. Ludacris)","Missy Elliott",2001,"4v6V17Q3pypLu7zayg8vMa",0.848,0.638,93.881,-8.395,0.306,0.0193,7.15e-06,0.131
+"56","Danger (Been So Long) featuring Nivea - Clean LP Version","Mystikal",2001,"67ZwG9JhGMFKOojZrwZKLT",0.915,0.856,97.963,-5.482,0.198,0.213,9.24e-05,0.0682
+"57","Only Time - Original Version","Enya",2001,"3Otjx9ULpmWdUbkDTYDXHc",0.418,0.249,82.803,-13.744,0.0301,0.841,0.661,0.112
+"58","I Do!!","Toya",2001,"610sx23crS0FOQISsn2e49",0.782,0.694,156.087,-5.196,0.055,0.0712,0.00223,0.0764
+"59","Never Had A Dream Come True","S Club 7",2001,"1rzssdgfZiGs7VAMsYN9SF",0.642,0.547,122.951,-5.481,0.0283,0.487,0,0.0923
+"60","Stranger In My House","Tamia",2001,"08GOEVXupC6ECbulhPGQKm",0.676,0.601,119.94,-4.905,0.0297,0.103,0,0.147
+"61","Irresistible","Jessica Simpson",2001,"2TVSa07y6g3HRn4oLWv57M",0.659,0.966,93.008,-2.783,0.0538,0.0279,8.25e-05,0.0489
+"62","Heard It All Before","Sunshine Anderson",2001,"0xikWgPgYN9BEes0ieZ8Co",0.698,0.925,96.953,-4.209,0.222,0.0611,0,0.095
+"63","The Space Between","Dave Matthews Band",2001,"65KzDXZm9aQt8sA1k0ZVG3",0.406,0.73,170.032,-6.278,0.0315,0.0471,0,0.229
+"64","There You'll Be - Remastered","Faith Hill",2001,"1s2khOWzC99udpUaPICLJI",0.325,0.532,129.021,-7.208,0.0308,0.496,0,0.134
+"65","No More (Baby I'ma Do Right)","3LW",2001,"5zn1hpm9N0ylKB7kOtpCw2",0.721,0.723,88.933,-7.08,0.0631,0.102,4.4e-06,0.0651
+"66","Turn Off The Light","Nelly Furtado",2001,"4WOjFgYXA9UtYAwdwSTYZ6",0.735,0.674,90.152,-6.177,0.0641,0.0862,0.000678,0.409
+"67","Ain't Nothing 'Bout You","Brooks & Dunn",2001,"6CkydK3NOAMScIhViRzXoB",0.326,0.887,202.354,-4.199,0.0565,0.144,1.35e-06,0.49
+"68","Play","Jennifer Lopez",2001,"4FeiRHc70lZuOslNE5iYbp",0.762,0.751,104.734,-4.235,0.154,0.0378,0.00416,0.0409
+"69","I'm Already There","Lonestar",2001,"34Vn9nKfztyLco9lJazy4j",0.377,0.395,133.296,-8.622,0.0332,0.61,0,0.295
+"70","My Baby","Lil' Romeo",2001,"0s9A4pUBLw68E76vY8LU9K",0.82,0.76,97.422,-2.714,0.219,0.0481,0,0.257
+"71","Beautiful Day","U2",2001,"5t514bZ4eZPtKJbKfuZJCA",0.541,0.906,136.285,-6.938,0.0479,0.0183,0.000291,0.334
+"72","Austin","Blake Shelton",2001,"2WQAknZHrJAEQOFXe0F44P",0.605,0.609,119.914,-7.063,0.0278,0.188,0,0.0982
+"73","Southern Hospitality (Featuring Pharrell)","Ludacris",2001,"4cNhx6OO1XpvwT6xZnb83B",0.628,0.9,94.992,-4.877,0.258,0.043,0,0.0884
+"74","Livin' It Up","Ja Rule",2001,"1kEruIJPLnM1agV8bnCmSZ",0.878,0.775,106.023,-4.002,0.324,0.0666,0,0.0327
+"75","Loverboy - Remix","Mariah Carey",2001,"25MCAEyclNeWJUFirtTRSv",0.699,0.789,103.021,-8.223,0.116,0.247,0,0.342
+"76","Contagious","The Isley Brothers",2001,"7HjJQunSPwkXXVnGeItUEH",0.697,0.447,113.034,-7.498,0.0409,0.244,0,0.148
+"77","Who I Am","Jessica Andrews",2001,"3tEYaYV2rrsAcL6AcPxetH",0.419,0.671,83.908,-5.364,0.0312,0.0125,0,0.115
+"78","Music - feat. Marvin Gaye","Erick Sermon",2001,"2g4SumkFZpHOypfF5xng9Z",0.896,0.457,100.043,-9.075,0.0777,0.224,1.47e-06,0.0832
+"79","I Wanna Be Bad - No rap with vocorder","Willa Ford",2001,"5E5BK9zDVTsntNcU3euxk2",0.645,0.789,179.946,-4.483,0.0551,0.192,0.00152,0.0385
+"80","Don't Happen Twice","Kenny Chesney",2001,"7tlQ2lyasHeorLuWkJljUc",0.503,0.695,158.839,-7.042,0.0289,0.00543,1.41e-05,0.0422
+"81","One More Day","Diamond Rio",2001,"3TNoNv8Z80M3pfm6CcODsh",0.668,0.405,131.064,-7.629,0.0277,0.592,0,0.115
+"82","I Wish - Radio Edit","R. Kelly",2001,"0ERtLLDn1sSl4hbA8VSGG7",0.461,0.527,79.982,-7.643,0.137,0.0667,0,0.592
+"83","It's A Great Day To Be Alive","Travis Tritt",2001,"3oW6SWwGqiZSPTiAp7ZQoH",0.595,0.653,128.93,-4.935,0.0265,0.246,0,0.264
+"84","I'm A Thug","Trick Daddy",2001,"6j2aNuhJJUnRj6UHcvn5PI",0.933,0.562,139.981,-5.963,0.122,0.0275,0,0.102
+"85","Here's to the Night","Eve 6",2001,"4tgeQrPu5xkrnwErym2JsJ",0.583,0.652,97.469,-6.255,0.0244,0.0405,0.000378,0.0781
+"86","You Shouldn't Kiss Me Like This","Toby Keith",2001,"5taqvRgn1DdZ117p2DhPXQ",0.431,0.641,168.824,-7.522,0.0332,0.479,7.02e-05,0.251
+"87","Dance With Me","Debelah Morgan",2001,"1C2Q3AymKS17bw7T5gfq6p",0.85,0.674,115.005,-7.981,0.0373,0.309,0.000645,0.0356
+"88","So Fresh, So Clean","OutKast",2001,"6glsMWIMIxQ4BedzLqGVi4",0.725,0.64,166.029,-7.905,0.332,0.0278,0,0.099
+"89","E.I.","Nelly",2001,"703b51gh4ah7GYTYwKphj5",0.835,0.497,89.861,-7.876,0.16,0.0884,0,0.0777
+"90","Be Like That","3 Doors Down",2001,"3PbHle8KhJp6GuO1jLdEmQ",0.494,0.697,95.951,-5.473,0.025,0.00607,7.79e-06,0.128
+"91","Oochie Wally - Remix","Nas",2001,"4F8FfoCCovgRfFMpQRKPMb",0.619,0.719,93.533,-6.924,0.322,0.0564,0.00125,0.77
+"92","Hemorrhage (In My Hands)","Fuel",2001,"3E8eSqBoqLs8ELbrK3NJHs",0.315,0.829,152.135,-4.117,0.0422,0.000142,0.00077,0.217

@@ -1,0 +1,87 @@
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
+"1","Too Close","Next",1998,"2fyTojfPYs67KBWN4WYRX7",0.85,0.398,99.717,-9.816,0.0534,0.0117,0,0.263
+"2","You're Still The One","Shania Twain",1998,"7wCH9DbgRs7ujHeqNy6oAS",0.551,0.527,133.758,-7.119,0.0302,0.45,0,0.0867
+"3","Truly Madly Deeply","Savage Garden",1998,"69MmmKaqTGd2lBh1qNVpeP",0.612,0.706,84.083,-8.875,0.0256,0.418,0,0.0797
+"4","Together Again","Janet Jackson",1998,"1GrikfH0jDejDvrxo84n4P",0.873,0.591,123.091,-8.942,0.102,0.0788,0.0071,0.104
+"5","All My Life","K-Ci & JoJo",1998,"2LuubKHueqlJbx0ylKGFmy",0.628,0.496,128.019,-9.308,0.0318,0.144,1.05e-06,0.0642
+"6","Candle In The Wind","Elton John",1998,"1ZvS1DmW1cF0oknYGCVNK7",0.6,0.414,124.43,-13.182,0.0291,0.172,5.91e-06,0.264
+"7","Nice & Slow","Usher",1998,"2KVVKbrg81ipix7moSsfzI",0.821,0.305,121.924,-11.922,0.111,0.173,0,0.305
+"8","I Don't Want To Wait","Paula Cole",1998,"1qJemJSZsdqH2DEqXAZWNJ",0.338,0.606,178.568,-4.772,0.0351,0.253,2.52e-06,0.0969
+"9","How's It Going To Be","Third Eye Blind",1998,"3Uvx1TO0Kg5HgGPk58lHXv",0.562,0.593,80.289,-9.362,0.0263,0.00327,0.00139,0.0967
+"10","No, No, No Pt. 2","Destiny's Child",1998,"5kHgrRO3hMDPehtH9VhYQc",0.67,0.582,181.841,-3.574,0.224,0.3,0,0.0845
+"11","My Heart Will Go On - Love Theme from ""Titanic""","C<U+00E9>line Dion",1998,"27ncbKwESFYzgBo9RN9IXe",0.421,0.36,99.414,-8.872,0.0297,0.723,0,0.194
+"12","Gettin' Jiggy Wit It","Will Smith",1998,"0weAUscowxeqDtpCgtbpgp",0.881,0.874,107.891,-4.505,0.139,0.0175,1.19e-06,0.154
+"13","You Make Me Wanna...","Usher",1998,"1Ddf5oGQwHnRoacJIr8M1j",0.761,0.632,164.049,-7.583,0.0578,0.035,0,0.0895
+"14","My Way","Usher",1998,"7v3IfbATd71qapVuZ190L5",0.815,0.518,90.062,-8.206,0.147,0.013,0,0.0597
+"15","My All","Mariah Carey",1998,"797yAHy8UMEiPJC9bc0H6k",0.607,0.311,108.107,-10.449,0.0286,0.734,4.1e-05,0.0907
+"16","Been Around The World (feat. The Notorious B.I.G. & Mase)","Diddy",1998,"1siDRjAa8MdxNoCHTiiQ7B",0.815,0.529,99.439,-10.117,0.28,0.0191,0,0.406
+"17","Adia","Sarah McLachlan",1998,"4bDkk5cXzzRnxC2iDLussL",0.521,0.422,76.048,-8.696,0.0248,0.673,0,0.159
+"18","Crush","Jennifer Paige",1998,"6wAV49hRfOiCTHztORMy8Y",0.735,0.693,115.04,-5.644,0.0294,0.0296,0,0.0836
+"19","Everybody (Backstreet's Back) - Extended Version","Backstreet Boys",1998,"5WTxbyWTpoqhdxEN2szOnl",0.792,0.811,108.054,-5.198,0.0367,0.00602,0.000155,0.224
+"20","I Don't Want to Miss a Thing","Aerosmith",1998,"225xvV8r1yKMHErSWivnow",0.383,0.662,121.154,-5.162,0.0333,0.165,0,0.248
+"21","This Kiss","Faith Hill",1998,"5EYWGM3Ns3iYew8ws0FatB",0.398,0.804,186.752,-5.559,0.0451,0.175,0,0.181
+"22","I Don't Ever Want to See You Again","Uncle Sam",1998,"4oJEy4qDPwDk5ac26yEMeL",0.607,0.497,125.951,-7.017,0.0374,0.38,0,0.0681
+"23","Let's Ride","Montell Jordan",1998,"6dAcEOlAWwczHIEoWZJXpO",0.816,0.558,121.908,-5.145,0.106,0.0263,0,0.117
+"24","Sex And Candy","Marcy Playground",1998,"5kh2oynEmiwMl13WzxqLIR",0.659,0.546,80.925,-9.279,0.0249,0.224,0,0.095
+"25","Show Me Love - Radio Version","Robyn",1998,"6SluaPiV04KOaRTOIScoff",0.546,0.643,181.838,-4.069,0.0437,0.0746,0,0.213
+"26","A Song For Mama","Boyz II Men",1998,"6xGAe69Vn07PnQQPQI083T",0.571,0.447,75.019,-8.757,0.0338,0.499,0,0.125
+"27","What You Want (feat. Total)","Mase",1998,"2nqVVwUI2MJ7MaphpCF1P3",0.88,0.726,93.814,-5.855,0.257,0.0218,7.66e-05,0.389
+"28","Frozen","Madonna",1998,"0YT8MKXuaRdhOnDG9Jm1Dv",0.591,0.736,108.011,-7.722,0.0336,0.511,0.00304,0.179
+"29","Gone Till November","Wyclef Jean",1998,"0jOXmNowR2j1hVpZMqnz9P",0.677,0.503,85.926,-9.027,0.0867,0.0888,1.48e-05,0.182
+"30","My Body - Remastered Single Version","LSG",1998,"0ZWyPcjHsy6C3RrqPNAx9k",0.708,0.484,119.746,-5.766,0.0409,0.192,0,0.0653
+"31","Tubthumping","Chumbawamba",1998,"5YScXJKtefsgdskIy60N7A",0.606,0.864,103.834,-7.504,0.0919,0.117,0,0.366
+"32","D<U+00E9>j<U+00E0> Vu (Uptown Baby)","Lord Tariq",1998,"33i1NxhGadaXhPgJaiD6ad",0.804,0.61,96.904,-8.433,0.428,0.136,0,0.366
+"33","I Want You Back - Radio Edit","*NSYNC",1998,"5YTMRAT4yKgFrepF8Hi3mY",0.758,0.93,112.042,-3.22,0.0425,0.0503,0.000226,0.325
+"34","When the Lights Go Out - Radio Edit","Five",1998,"6W04EMrXtUum6yhcxkUGJJ",0.848,0.819,104.003,-6.464,0.0336,0.0557,0,0.175
+"35","They Don't Know","Jon B.",1998,"6YdEfXtj0YI5IbiJqVyT1c",0.697,0.402,125.822,-10.358,0.0476,0.614,3.35e-06,0.0757
+"36","Make 'Em Say Uhh - Edited;2005 Digital Remaster","Master P",1998,"6pGMEaR9abfB03jcoFSQID",0.7,0.76,170.297,-5.881,0.473,0.0124,0,0.154
+"37","In Da Street - feat. Missy ""Misdemeanor"" Elliott & Mocha","Nicole",1998,"5e9YtPAN6hnCQKwHkKaOgd",0.757,0.467,82.016,-9.265,0.0993,0.162,4.02e-05,0.364
+"38","Never Ever - All Star Remix","All Saints",1998,"6nC75SPjkzY3CGvBckFD0w",0.703,0.629,90.05,-4.895,0.115,0.276,2.31e-05,0.239
+"39","I Get Lonely","Janet Jackson",1998,"5xLDmkobOw674TLTBBmnuN",0.799,0.514,125.104,-6.794,0.0478,0.291,0,0.518
+"40","Feel So Good","Mase",1998,"0jyyCvDkMCEza2SpBSvllh",0.828,0.637,105.155,-9.75,0.232,0.223,0,0.0983
+"41","Say It","Voices of Theory",1998,"5919i3Sp9U2IE5m7hhlgSw",0.381,0.415,61.908,-10.298,0.0691,0.675,0,0.0795
+"42","Kiss The Rain","Billie Myers",1998,"4wtHbIS26FOtpjMkaQQ8Zk",0.452,0.684,178.052,-6.981,0.0435,0.00119,5.75e-05,0.173
+"43","It's All About Me","M<U+00FD>a",1998,"5xzJNGSd8AcyDO5HAwqjwc",0.8,0.506,137.011,-7.655,0.0905,0.323,0,0.104
+"44","I Will Come To You","Hanson",1998,"6ZIuoDs3i1KjKurJf9miSs",0.431,0.735,139.984,-6.995,0.0508,0.0945,0.000111,0.117
+"45","One Week","Barenaked Ladies",1998,"1C0pmryC2MdXfa7MZ9uIrU",0.702,0.898,112.845,-6.003,0.0373,0.00854,0.000154,0.0917
+"46","Swing My Way - Remix","K.P. & Envyi",1998,"35KcXRWo7BTYdJiyMOy2Zu",0.769,0.636,136.709,-7.168,0.0443,0.119,5.9e-06,0.0448
+"47","The Arms of the One Who Loves You","Xscape",1998,"6Zyk31Yyk7AUU1TTJn7plb",0.657,0.456,115.4,-8.917,0.0345,0.311,0,0.0922
+"48","My Love Is The Shhh!","Somethin' For The People",1998,"3TS25nchaYIPb2Y2fw6cbb",0.779,0.715,126.036,-5.886,0.0368,0.297,0,0.157
+"49","Semi-Charmed Life","Third Eye Blind",1998,"6luSHkUXVmx3DKGN4TuRqF",0.637,0.902,102.014,-5.077,0.0325,0.00752,0,0.323
+"50","I Do","Lisa Loeb",1998,"2NXZJ3qWUbAnoJA2Be1Xlj",0.732,0.732,110.165,-7.148,0.031,0.329,0.000157,0.232
+"51","Lookin' At Me (feat. Puff Daddy)","Mase",1998,"2dieHErJLwG7fOzD8WAtFO",0.743,0.516,188.247,-8.27,0.397,0.028,1.89e-05,0.273
+"52","Quit Playing Games (With My Heart)","Backstreet Boys",1998,"1nRwyxNsqCLeA17qR8Nfxx",0.8,0.875,100.033,-4.952,0.0338,0.0615,2.79e-06,0.13
+"53","I Still Love You","Next",1998,"6zZJkvtu3N9GhbSQdVzsKT",0.578,0.447,170.775,-10.49,0.0682,0.506,0,0.308
+"54","Time After Time","INOJ",1998,"5I0Pt0YFaShP1OoXPyUnX8",0.762,0.56,131.734,-8.705,0.0323,0.2,0.00635,0.101
+"55","Are You Jimmy Ray?","Jimmy Ray",1998,"6VWFrHAnLDyNUEJbJvpkZA",0.75,0.914,99.083,-5.707,0.0704,0.13,2.33e-05,0.392
+"56","Cruel Summer","Ace of Base",1998,"4r0cvovFtVTXWtWgR1F4kd",0.729,0.849,109.98,-1.863,0.0278,0.0328,0.00117,0.0579
+"57","I Got The Hook Up - Edited","Master P",1998,"51lBC5ABJMVg7UClbowjki",0.624,0.7,79.719,-6.089,0.255,0.0497,0,0.349
+"58","Victory (feat. The Notorious B.I.G. & Busta Rhymes)","Diddy",1998,"2B9aYvlGefTIgKLhM6ia8t",0.609,0.731,91.778,-6.846,0.322,0.397,0,0.664
+"59","Too Much - Edit","Spice Girls",1998,"6hYRKDPeQY7BO2cFzwZh9F",0.671,0.579,120.056,-6.37,0.0324,0.497,0,0.376
+"60","Ghetto Supastar (That is What You Are)","Pras",1998,"31bf9SEOppLU6lQ85d8om6",0.818,0.653,99.931,-8.396,0.204,0.0335,5.46e-06,0.22
+"61","How Deep Is Your Love - Single Version","Dru Hill",1998,"4eCPhyxoEVR5NiDEjBYPvH",0.452,0.643,93.479,-8.011,0.133,0.0231,0,0.226
+"62","Friend Of Mine","Kelly Price",1998,"0mVLmRNJyloNRTKZ1bdoJR",0.572,0.605,119.515,-6.336,0.0596,0.0754,0,0.196
+"63","Turn It Up / Fire It Up - Remix","Busta Rhymes",1998,"34D19QbdMD2SL1pivaJzRX",0.817,0.84,104.295,-8.598,0.0922,0.00506,0.00034,0.288
+"64","I'll Be (45 Version)","Edwin McCain",1998,"3rR0XoCFCtPkGr1SOJGABW",0.367,0.604,136.591,-5.574,0.0301,0.359,0,0.097
+"65","Ray Of Light","Madonna",1998,"0vVchT7htyhheP8anAnLMR",0.554,0.932,127.209,-6.194,0.0314,0.000497,0.455,0.0614
+"66","All For You","Sister Hazel",1998,"2skmOCFU64Bg7Ytkgwliwe",0.631,0.756,137.039,-6.378,0.0376,0.0399,4.37e-05,0.0924
+"67","Money, Power and Respect (feat. DMX and Lil' Kim)","The Lox",1998,"2cXWKSIbNwqxz1TEKdOupS",0.814,0.707,95.827,-4.975,0.258,0.00597,0,0.164
+"68","Bitter Sweet Symphony - 2004 Digital Remaster","The Verve",1998,"1WYEDcS7WGjv0rG7rmMX3o",0.354,0.908,171.135,-5.997,0.0447,0.0405,0,0.181
+"69","Dangerous - Amended Version","Busta Rhymes",1998,"3hA1SpBM4kiw5Qn0QVT6Nb",0.919,0.598,103.175,-8.422,0.206,0.0102,0,0.189
+"70","Spice Up Your Life","Spice Girls",1998,"5qGwqO0lkbBXw4xNfzT7SF",0.556,0.993,124.016,-5.067,0.0464,0.0105,0.0341,0.403
+"71","Because Of You","98<U+00BA>",1998,"7xoN94HgqWTerSUbG5Hf9O",0.732,0.658,104.503,-6.147,0.0269,0.296,0,0.113
+"72","All Cried Out - Behind the scenes Video","Allure",1998,"57vYbt3PuAPJhZ4NSZ1y2t",0.613,0.464,139.802,-8.918,0.0241,0.176,0,0.103
+"73","Still Not a Player","Big Pun",1998,"2ntj6zoYOXfdQDzxo2kHrD",0.902,0.653,94.069,-5.425,0.284,0.19,0.000983,0.0895
+"74","Foolish Games","Jewel",1998,"6Ee5Y6kCdlZfoFhyR8xPVt",0.298,0.0735,131.045,-16.472,0.0378,0.944,0.000401,0.0976
+"75","Love You Down","INOJ",1998,"4bDXOwif9Io5Ai62Pokzg7",0.736,0.479,134.15,-8.672,0.0403,0.0341,0.0289,0.0576
+"76","Do For Love","2Pac",1998,"4AE7Lj39VnSZNOmGH2iZaq",0.87,0.645,94.998,-3.956,0.307,0.0536,0.00152,0.0651
+"77","Raise The Roof","No Good But So Good",1998,"3v36ebSeYtvoGwB9Gs0YTQ",0.82,0.78,142.456,-8.066,0.253,0.0408,0,0.59
+"78","The Party Continues - Video Version","Jermaine Dupri",1998,"0zSaR3TpVlqfQzbSCbhWfU",0.898,0.495,101.072,-11.679,0.226,0.033,0,0.275
+"79","Sock It 2 Me (feat. Da Brat)","Missy Elliott",1998,"0tmmvIUPYYP3W1Z06bvwkF",0.873,0.487,82.007,-9.21,0.2,0.00438,0.0223,0.0957
+"80","Butta Love","Next",1998,"6fRLVZ4jKzuqyDPlIdbq9q",0.735,0.441,108.015,-8.412,0.0407,0.0972,0,0.0967
+"81","A Rose Is Still a Rose","Aretha Franklin",1998,"3l5xmQanfESQMy31erDoJF",0.692,0.766,87.912,-8.304,0.18,0.193,0,0.261
+"82","4 Seasons Of Loneliness","Boyz II Men",1998,"0RwDPdfoitpL7Uk2pN7l1K",0.585,0.482,98.537,-10.536,0.0413,0.802,3.45e-05,0.111
+"83","Father","LL Cool J",1998,"7C6SAjOGDoARWqNZjDCAUP",0.753,0.519,98.832,-10.903,0.258,0.0529,0.0736,0.189
+"84","Thinkin' Bout It","Gerald Levert",1998,"4DDhR1Zd6WYbNiCd13Uu4i",0.734,0.659,116.485,-5.191,0.0711,0.0983,0,0.252
+"85","Nobody's Supposed to Be Here","Deborah Cox",1998,"51QxenFmXlJXUN9mpvxlaL",0.662,0.531,119.957,-5.3,0.0361,0.202,1.16e-05,0.595
+"86","Westside","TQ",1998,"6I3LsZncKrJG9mwv12FCEg",0.685,0.62,82.52,-6.665,0.0406,0.19,0,0.158

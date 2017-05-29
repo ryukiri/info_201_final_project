@@ -93,6 +93,35 @@ shinyServer(function(input, output) {
   features.2010.danceability <- mean(features.2010$danceability)
   features.2009.danceability <- mean(features.2009$danceability)
   features.2008.danceability <- mean(features.2008$danceability)
+  features.2007.danceability <- mean(features.2007$danceability)
+  features.2006.danceability <- mean(features.2006$danceability)
+  features.2005.danceability <- mean(features.2005$danceability)
+  features.2004.danceability <- mean(features.2004$danceability)
+  features.2003.danceability <- mean(features.2003$danceability)
+  features.2002.danceability <- mean(features.2002$danceability)
+  features.2001.danceability <- mean(features.2001$danceability)
+  features.2000.danceability <- mean(features.2000$danceability)
+  features.1999.danceability <- mean(features.1999$danceability)
+  features.1998.danceability <- mean(features.1998$danceability)
+  features.1997.danceability <- mean(features.1997$danceability)
+  features.1996.danceability <- mean(features.1996$danceability)
+  features.1995.danceability <- mean(features.1995$danceability)
+  features.1994.danceability <- mean(features.1994$danceability)
+  features.1993.danceability <- mean(features.1993$danceability)
+  features.1992.danceability <- mean(features.1992$danceability)
+  features.1991.danceability <- mean(features.1991$danceability)
+  features.1990.danceability <- mean(features.1990$danceability)
+  features.1989.danceability <- mean(features.1989$danceability)
+  features.1988.danceability <- mean(features.1988$danceability)
+  features.1987.danceability <- mean(features.1987$danceability)
+  features.1986.danceability <- mean(features.1986$danceability)
+  features.1985.danceability <- mean(features.1985$danceability)
+  features.1984.danceability <- mean(features.1984$danceability)
+  features.1983.danceability <- mean(features.1983$danceability)
+  features.1982.danceability <- mean(features.1982$danceability)
+  features.1981.danceability <- mean(features.1981$danceability)
+  features.1980.danceability <- mean(features.1980$danceability)
+
   
   ## Calculate energy averages
   features.2016.energy <- mean(features.2016$energy)
@@ -320,6 +349,35 @@ shinyServer(function(input, output) {
     merged.2010 <- read.csv("songsMerged/songs.merged.2010.csv")
     merged.2009 <- read.csv("songsMerged/songs.merged.2009.csv")
     merged.2008 <- read.csv("songsMerged/songs.merged.2008.csv")
+    merged.2007 <- read.csv("songsMerged/songs.merged.2007.csv")
+    merged.2006 <- read.csv("songsMerged/songs.merged.2006.csv")
+    merged.2005 <- read.csv("songsMerged/songs.merged.2005.csv")
+    merged.2004 <- read.csv("songsMerged/songs.merged.2004.csv")
+    merged.2003 <- read.csv("songsMerged/songs.merged.2003.csv")
+    merged.2002 <- read.csv("songsMerged/songs.merged.2002.csv")
+    merged.2001 <- read.csv("songsMerged/songs.merged.2001.csv")
+    merged.2000 <- read.csv("songsMerged/songs.merged.2000.csv")
+    merged.1999 <- read.csv("songsMerged/songs.merged.1999.csv")
+    merged.1998 <- read.csv("songsMerged/songs.merged.1998.csv")
+    merged.1997 <- read.csv("songsMerged/songs.merged.1997.csv")
+    merged.1996 <- read.csv("songsMerged/songs.merged.1996.csv")
+    merged.1995 <- read.csv("songsMerged/songs.merged.1995.csv")
+    merged.1994 <- read.csv("songsMerged/songs.merged.1994.csv")
+    merged.1993 <- read.csv("songsMerged/songs.merged.1993.csv")
+    merged.1992 <- read.csv("songsMerged/songs.merged.1992.csv")
+    merged.1991 <- read.csv("songsMerged/songs.merged.1991.csv")
+    merged.1990 <- read.csv("songsMerged/songs.merged.1990.csv")
+    merged.1989 <- read.csv("songsMerged/songs.merged.1989.csv")
+    merged.1988 <- read.csv("songsMerged/songs.merged.1988.csv")
+    merged.1987 <- read.csv("songsMerged/songs.merged.1987.csv")
+    merged.1986 <- read.csv("songsMerged/songs.merged.1986.csv")
+    merged.1985 <- read.csv("songsMerged/songs.merged.1985.csv")
+    merged.1984 <- read.csv("songsMerged/songs.merged.1984.csv")
+    merged.1983 <- read.csv("songsMerged/songs.merged.1983.csv")
+    merged.1982 <- read.csv("songsMerged/songs.merged.1982.csv")
+    merged.1981 <- read.csv("songsMerged/songs.merged.1981.csv")
+    merged.1980 <- read.csv("songsMerged/songs.merged.1980.csv")
+    
     
     # Select years to show
     if(input$year == "2016") {
@@ -340,6 +398,62 @@ shinyServer(function(input, output) {
       merged.2009
     } else if(input$year == "2008") {
       merged.2008
+    } else if(input$year == "2007") {
+      merged.2007
+    } else if(input$year == "2006") {
+      merged.2006
+    } else if(input$year == "2005") {
+      merged.2005
+    } else if(input$year == "2004") {
+      merged.2004
+    } else if(input$year == "2003") {
+      merged.2003
+    } else if(input$year == "2002") {
+      merged.2002
+    } else if(input$year == "2001") {
+      merged.2001
+    } else if(input$year == "2000") {
+      merged.2000
+    } else if(input$year == "1999") {
+      merged.1999
+    } else if(input$year == "1998") {
+      merged.1998
+    } else if(input$year == "1997") {
+      merged.1997
+    } else if(input$year == "1996") {
+      merged.1996
+    } else if(input$year == "1995") {
+      merged.1995
+    } else if(input$year == "1994") {
+      merged.1994
+    } else if(input$year == "1993") {
+      merged.1993
+    } else if(input$year == "1992") {
+      merged.1992
+    } else if(input$year == "1991") {
+      merged.1991
+    } else if(input$year == "1990") {
+      merged.1990
+    } else if(input$year == "1989") {
+      merged.1989
+    } else if(input$year == "1988") {
+      merged.1988
+    } else if(input$year == "1987") {
+      merged.1987
+    } else if(input$year == "1986") {
+      merged.1986
+    } else if(input$year == "1985") {
+      merged.1985
+    } else if(input$year == "1984") {
+      merged.1984
+    } else if(input$year == "1983") {
+      merged.1983
+    } else if(input$year == "1982") {
+      merged.1982
+    } else if(input$year == "1981") {
+      merged.1981
+    } else if(input$year == "1980") {
+      merged.1980
     }
   })
   

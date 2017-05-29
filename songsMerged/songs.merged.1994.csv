@@ -1,0 +1,96 @@
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
+"1","The Sign","Ace of Base",1994,"3DYVWvPh3kGwPasp7yjahc",0.802,0.828,97.01,-6.366,0.0426,0.0127,0.0683,0.0293
+"2","I Swear","All-4-One",1994,"3V0PeMg2mhbYRtk9bioAwF",0.532,0.407,83.207,-9.658,0.0233,0.235,0,0.117
+"3","I'll Make Love To You","Boyz II Men",1994,"61sQYdFNS6sEBYCyr1q5gn",0.557,0.509,142.408,-7.928,0.0243,0.119,0,0.0794
+"4","The Power of Love","Céline Dion",1994,"5kK1Iru9ogP3Iy1zsANU1n",0.546,0.519,140.054,-9.072,0.0291,0.36,0.00046,0.24
+"5","Hero","Mariah Carey",1994,"09FuY6hZase3NInKvJ6yBt",0.515,0.391,120.107,-9.327,0.0289,0.732,0,0.0989
+"6","Stay ( I Missed You )","Party All Night",1994,"2adVNXrXovy54XcsqT2XdD",0.729,0.455,80.995,-10.489,0.0677,0.393,4.26e-06,0.0815
+"7","Stay","Lisa Loeb & Nine Stories",1994,"0jlgrHvssAloyAidZ1aJzs",0.67,0.607,80.396,-6.827,0.0496,0.475,0,0.126
+"8","Breathe Again - Radio Edit","Toni Braxton",1994,"3G4AmR8pxRVXkMyAvcHCws",0.697,0.729,153.939,-4.387,0.0318,0.062,1.04e-06,0.0825
+"9","All For Love - The Three Musketeers/Soundtrack Version","Bryan Adams",1994,"5h92ib6UGUe0BkUvNz8AtP",0.503,0.581,74.902,-6.651,0.0263,0.174,0,0.141
+"10","All That She Wants","Ace of Base",1994,"4PifbP29I4IF0I437LTMW3",0.795,0.497,93.744,-13.661,0.0659,0.00571,6.75e-05,0.118
+"11","Don't Turn Around","Ace of Base",1994,"0AWpG6NUEaRZvS3eMvXkBg",0.693,0.77,95.624,-7.675,0.0748,0.000214,0.143,0.0642
+"12","Bump n' Grind","R. Kelly",1994,"2OeSwSbwlmn9u8SsutfxPO",0.677,0.525,130.218,-6.429,0.0344,0.126,0,0.296
+"13","Again","Janet Jackson",1994,"0IaMMHVbpJ0LrRAeigWOXr",0.358,0.287,130.128,-9.51,0.0303,0.882,0.00607,0.186
+"14","I'll Remember - Theme From The Motion Picture ""With Honors""","Madonna",1994,"00U0pedRUMEzREpyRqbVT6",0.691,0.601,167.796,-9.698,0.0428,0.628,0.017,0.0709
+"15","Whatta Man","Salt-N-Pepa",1994,"7yQsd17sVkOLaDwa4tz9dT",0.755,0.68,173.16,-6.75,0.195,0.133,2.56e-05,0.191
+"16","Wild Night","John Mellencamp",1994,"4oGhmx44KuEslzELC1Qogw",0.674,0.885,144.332,-4.456,0.0576,0.0486,0.00157,0.089
+"17","Never Forget You","Mariah Carey",1994,"0LIHLdi5PkQRT1iMHaBpXC",0.505,0.517,150.141,-7.44,0.0284,0.194,0,0.321
+"18","You Mean The World To Me - Radio Edit","Toni Braxton",1994,"4Cx3bvSoTRBu4CNw3yDBwP",0.617,0.794,167.691,-4.409,0.0348,0.0946,6.93e-06,0.126
+"19","Can You Feel The Love Tonight","Elton John",1994,"5G0es3LsTx5a3ZeGGVKUXY",0.301,0.328,123.608,-10.464,0.0312,0.818,0.000233,0.101
+"20","Fantastic Voyage","Coolio",1994,"2cGJoju7i7CsAPBMNx33cP",0.888,0.584,104.704,-13.308,0.112,0.0389,3.25e-06,0.0625
+"21","Baby, I Love Your Way","Big Mountain",1994,"1Rvl8qsKJurfFTyWLBI9ib",0.651,0.747,147.518,-7.269,0.0698,0.0528,0,0.207
+"22","Regulate","Warren G",1994,"2QtzFBlRh4V1jiL3RjbOqg",0.855,0.661,95.258,-8.33,0.218,0.0923,0,0.111
+"23","If You Go","Jon Secada",1994,"5NsFyPVJSHh1aQsHdoFN6N",0.626,0.818,106.008,-8.102,0.0333,0.0775,0,0.158
+"24","Back & Forth","Aaliyah",1994,"45wneA2j0Z0WMnYNDO6Ad0",0.706,0.727,92.938,-8.06,0.0317,0.0698,5.31e-06,0.115
+"25","Now And Forever","Richard Marx",1994,"2V2pxcEfn5zs79sE7qcewA",0.441,0.258,77.988,-11.227,0.0276,0.661,0,0.106
+"26","When Can I See You","Babyface",1994,"3MMgcPP6temZXIgMhQlyDU",0.753,0.457,169.21,-11.839,0.0746,0.23,3.21e-05,0.116
+"27","Please Forgive Me","Bryan Adams",1994,"2LQktBKYD12TpS38YOZJH4",0.553,0.438,67.004,-8.347,0.0275,0.554,5.62e-06,0.105
+"28","So Much In Love","All-4-One",1994,"7i5rgcLujd8GZo50Xhmesb",0.322,0.25,137.714,-11.451,0.03,0.892,0,0.12
+"29","Any Time, Any Place","Janet Jackson",1994,"2yOm4lN7aTygtXanJFNFWU",0.571,0.232,128.785,-11.309,0.0699,0.604,0.000246,0.119
+"30","Shine [Radio Edit] (45 Version)","Collective Soul",1994,"4IquPezkhJHBDrFdH5AnVH",0.612,0.301,150.168,-12.23,0.0315,0.316,0.000411,0.113
+"31","Said I Loved You...But I Lied","Michael Bolton",1994,"3jx22G2S78iNVEmyG0XXXo",0.544,0.507,159.639,-10.789,0.0276,0.191,6.47e-05,0.188
+"32","Return To Innocence","Enigma",1994,"2UKkLqST2xWpK8n1b0Xr5Z",0.476,0.584,88.026,-12.357,0.038,0.119,0,0.274
+"33","All I Wanna Do","Sheryl Crow",1994,"0TxFZthE81cgf5zZvpnkPP",0.811,0.759,120.092,-4.945,0.0312,0.148,0.00157,0.301
+"34","Mmm Mmm Mmm Mmm","Crash Test Dummies",1994,"31v2AQlx4pDI7kmnLxBkem",0.58,0.575,92.934,-7.72,0.0231,0.25,1.83e-05,0.0813
+"35","Can We Talk","Tevin Campbell",1994,"5vXEj2R1LZFG4D5U70jXnz",0.658,0.711,172.365,-7.424,0.0425,0.0759,1.77e-05,0.0446
+"36","Funkdafied","Da Brat",1994,"29VrHhpC5AS9b7XJYDPhqb",0.802,0.461,90.995,-12.367,0.302,0.0757,0,0.109
+"37","I'd Do Anything For Love (But I Won't Do That) - Single Edit","Meat Loaf",1994,"391CwgcBxvUHmEKda2b5In",0.417,0.659,104.818,-6.385,0.113,0.602,0,0.419
+"38","Gangsta Lean - Radio Edit","D.R.S.",1994,"7czpT3vsR3ONw7JFVXC5dD",0.745,0.233,82.609,-12.633,0.0367,0.292,0,0.0893
+"39","Because The Night [ Feat. Jo Francis ]","Jo Francis",1994,"7kJUkIhw7crh4dNHbbUh8M",0.685,0.941,138.031,-7.696,0.0526,0.504,4.89e-05,0.143
+"40","Cantaloop (Flip Fantasia)","Us3",1994,"2OGBDP8x4tAmljSGAQb8BG",0.852,0.732,115.978,-8.652,0.0532,0.0999,2.91e-05,0.143
+"41","Whoomp! (There It Is)","Tag Team",1994,"4DCHUu9qgrtFIY5o184J6z",0.806,0.669,129.473,-7.942,0.0544,0.00133,5.79e-06,0.229
+"42","Come To My Window - Single Edit","Melissa Etheridge",1994,"5WcpqJMDqpIf7U3guPS9hR",0.509,0.815,97.119,-5.791,0.0267,0.093,1.38e-05,0.121
+"43","Stroke You Up","Changing Faces",1994,"4VcV0t8VN6AZcWTznJOUUN",0.73,0.731,131.396,-3.438,0.0279,0.278,0,0.258
+"44","I'm Ready","Tevin Campbell",1994,"3vQQ6sNWRLfWXrnL04bIe0",0.684,0.687,91.201,-6.393,0.0228,0.0631,1.29e-05,0.0601
+"45","100% Pure Love","Crystal Waters",1994,"5pkMrPKCZ7gMYacSzFBZCl",0.812,0.685,120.254,-8.241,0.0508,0.0954,0.00679,0.0643
+"46","Anytime You Need A Friend","Mariah Carey",1994,"5SIEtbfskRxTtwWppNnw3g",0.573,0.561,136.155,-7.941,0.0318,0.487,6.68e-06,0.0626
+"47","Because Of Love","Janet Jackson",1994,"40kJxdeSmQieEgTgShXumm",0.764,0.878,112.37,-5.647,0.0523,0.287,0.00356,0.18
+"48","Linger","The Cranberries",1994,"4ijyALTCWwDqWgfkfFrhtx",0.445,0.629,94.843,-8.657,0.0269,0.0909,4.11e-05,0.332
+"49","Loser","Beck",1994,"6h6p4WuDlZVdBfmGqT0dcR",0.61,0.661,170.776,-9.724,0.122,0.0319,5.7e-05,0.387
+"50","Found Out About You","Gin Blossoms",1994,"7MSwmEXgsHzFPkCW1ZaPjo",0.458,0.925,134.06,-4.514,0.0463,0.325,0.00044,0.352
+"51","Gin And Juice (feat. Dat Nigga Daz)","Snoop Dogg",1994,"0WKYRFtH6KKbaNWjsxqm70",0.549,0.853,94.695,-4.293,0.188,0.0285,0.000296,0.618
+"52","Never Lie","Immature",1994,"62utntNdsx80hraXA5ha0Q",0.7,0.41,142.118,-10.644,0.0301,0.648,1.53e-05,0.111
+"53","Streets of Philadelphia","Bruce Springsteen",1994,"6WgBIPHwkQhCqMNnR5hQCN",0.708,0.19,93.669,-16.578,0.0326,0.194,0.226,0.0916
+"54","Getto Jam","Domino",1994,"3LajJpNuQ7M85LRwvgQu7Q",0.802,0.547,86.576,-12.085,0.131,0.0312,1.34e-06,0.326
+"55","Endless Love","Luther Vandross",1994,"3p4qjN0XgvY9CV7vsH93pE",0.432,0.467,96.024,-8.155,0.0263,0.731,1.65e-06,0.138
+"56","I Miss You","Aaron Hall",1994,"1TWhpLaqdToKoHHpFnCxsd",0.713,0.766,120.084,-5.268,0.0284,0.0323,0,0.139
+"57","Understanding","Xscape",1994,"4yKbbM56fLCxwR5CTH6QkP",0.7,0.465,137.823,-10.43,0.0562,0.36,0.000157,0.143
+"58","This D.J.","Warren G",1994,"2ImuQo1g14CTR9hZAZD3aQ",0.804,0.438,92.034,-10.563,0.138,0.0327,0.0129,0.112
+"59","Cry For You","Jodeci",1994,"5Wk92Up9XYyRiCppqtLDqD",0.655,0.681,115.73,-6.584,0.0309,0.273,0,0.138
+"60","Keep Ya Head Up","2Pac",1994,"4Tttv4p2xuAq1LpQ7LI95E",0.598,0.742,172.26,-6.51,0.417,0.134,0,0.448
+"61","Who Am I (What's My Name)?","Snoop Dogg",1994,"5XhkV07Vou38wnrzwURUOC",0.692,0.833,96.814,-3.974,0.0492,0.000136,1.98e-05,0.515
+"62","Another Night","Real McCoy",1994,"3pEuO9J2MTEmec8kUfYYvl",0.813,0.882,125.983,-7.575,0.0402,0.0908,0.00457,0.147
+"63","Your Body's Callin'","R. Kelly",1994,"0piH1OeWGJSiN8FqMqj4vb",0.652,0.571,168.257,-6.108,0.029,0.417,0.00089,0.0897
+"64","Tootsee Roll","69 Boyz",1994,"0wfuwgtWKZYRYAONxXPjPO",0.874,0.658,133.034,-12.174,0.241,0.0373,0,0.0915
+"65","Never Keeping Secrets","Babyface",1994,"2ydd6zSB14excgAawdjjoi",0.69,0.651,113.1,-6.349,0.0247,0.0969,0,0.0969
+"66","Crazy","Aerosmith",1994,"7mwZitiXFBqbWoa0C1wmRd",0.36,0.851,162.213,-3.768,0.0386,0.0924,0,0.283
+"67","Just Kickin' It","Xscape",1994,"51RvCRzeTqoQgdOBgcpHtT",0.694,0.365,80.904,-12.294,0.0635,0.054,3.43e-05,0.401
+"68","At Your Best (You Are Love)","Aaliyah",1994,"4lRrk574qIHpoEEKC1zuam",0.626,0.441,78.094,-10.637,0.0308,0.761,0.0138,0.0685
+"69","Rock And Roll Dreams Come Through","Meat Loaf",1994,"0qy7yJoYzOVqUmMGm06V8r",0.662,0.678,112.24,-8.398,0.0295,0.263,6.5e-06,0.204
+"70","Amazing","Aerosmith",1994,"2iWXhMiXeaHxac5Wom16As",0.303,0.754,139.472,-5.361,0.0402,0.0665,0.000103,0.324
+"71","Always","Erasure",1994,"5QQCp4fQiU9I2FU9FvJVV2",0.596,0.731,103.027,-9.961,0.0284,0.296,3.64e-06,0.301
+"72","Groove Thang","Zhané",1994,"3FynxqEL6cRa0qjEwkSbx9",0.918,0.551,102.18,-5.759,0.0391,0.0485,0.000172,0.0958
+"73","Dreams","Gabrielle",1994,"3nOfSqMgLPVA95N85CO6u9",0.689,0.668,98.794,-8.953,0.0346,0.0408,0,0.107
+"74","Mr. Vain Recall - Radio Edit","Culture Beat",1994,"1CJbLAkUiPXrttszpQhnO6",0.549,0.947,139.747,-5.141,0.0702,0.00191,0.0322,0.333
+"75","Mary Jane's Last Dance","Tom Petty and the Heartbreakers",1994,"5eYwDBLucWfWI5KsV7oYX2",0.413,0.801,169.763,-4.945,0.143,0.0465,1.66e-06,0.345
+"76","Anything","SWV",1994,"3ZbrIs9xvGTLtHDcOel91B",0.798,0.794,94.967,-5.637,0.044,0.0119,0.000139,0.271
+"77","Beautiful In My Eyes","Joshua Kadison",1994,"5o8gWPZxr4GZFslU85YMmu",0.582,0.381,141.947,-10.045,0.0256,0.595,1.1e-05,0.132
+"78","Stay","Eternal",1994,"2SPFC3GXog3hBb24Ww9sFV",0.591,0.727,98.528,-8.058,0.054,0.00411,1.53e-06,0.0289
+"79","Flava In Ya Ear (feat. Notorious B.I.G. and Rampage)","Craig Mack",1994,"5NpchUK2r1fNGdf2rOY5ml",0.712,0.811,90.121,-6.111,0.329,0.125,0,0.3
+"80","U.N.I.T.Y. - Album Version (Edited)","Queen Latifah",1994,"5cfjHBdMjf0x07VZD70MlE",0.569,0.76,94.001,-8.81,0.37,0.0402,0.000596,0.121
+"81","Prayer For The Dying","Seal",1994,"66fYpWITdebA4QRyB0VUim",0.306,0.762,99.903,-7.519,0.051,0.332,0.00605,0.0835
+"82","Secret","Madonna",1994,"0yv6BYFfviMImtUPwzEXQp",0.769,0.703,100.094,-5.705,0.027,0.0581,2.23e-06,0.114
+"83","Here Comes the Hotstepper - Heartical Mix","Ini Kamoze",1994,"4HkIzBgEyNr8MogcWVnbqJ",0.866,0.511,100.331,-8.456,0.107,0.0217,7.96e-05,0.107
+"84","Everyday","Phil Collins",1994,"3ir0DLMVxshKd7KlVGUWuQ",0.702,0.444,94.7,-9.977,0.0309,0.626,0.000578,0.109
+"85","Got Me Waiting - Remix","Heavy D & The Boyz",1994,"1yxGbG8BCdctZnMtAULXIg",0.635,0.525,78.142,-10.315,0.041,0.00195,0.000213,0.405
+"86","December, 1963 [Oh What A Night!] (45 Version)","Frankie Valli & The Four Seasons",1994,"4nuPrKithHbRJXuA9spwu4",0.729,0.6,104.414,-9.527,0.0255,0.0663,7.86e-06,0.0382
+"87","Always","Bon Jovi",1994,"5C1nbFH5yZl1jm7h7ScLBO",0.352,0.659,144.039,-5.531,0.0341,0.147,0,0.0802
+"88","I'm The Only One","Melissa Etheridge",1994,"4veE1jrMbVSy9FRCiYDGkD",0.619,0.48,84.846,-9.597,0.0304,0.0408,1.37e-06,0.0889
+"89","Back in the Day (Re-Recorded)","Ahmad Lewis",1994,"06igE8VkBF90AOa5XoAIrS",0.66,0.801,160.186,-4.724,0.302,0.352,0,0.221
+"90","Love Sneakin' Up On You","Bonnie Raitt",1994,"1UtxIyLkTt7iR5TcWLt8IT",0.483,0.673,189.704,-8.105,0.0438,0.0217,6.53e-06,0.209
+"91","Always In My Heart","Tevin Campbell",1994,"2CD8UvBi01dwnriCM8TivL",0.713,0.677,124.152,-6.761,0.0253,0.0282,5.99e-05,0.144
+"92","What Is Love - Single Mix","Haddaway",1994,"0BQblMoALRAlYA7YykYGVl",0.687,0.768,123.876,-7.898,0.0314,0.024,0.00681,0.313
+"93","And Our Feelings","Babyface",1994,"27sYHmgfRvHFyQ5vrm5nQp",0.741,0.592,128.137,-7.819,0.0298,0.138,0,0.224
+"94","Bop Gun (One Nation) - Radio Edit","Ice Cube",1994,"0oZiK5HCMPn241PbUCslkF",0.891,0.837,103.05,-5.402,0.0637,0.283,0,0.412
+"95","I Wanna Be Down","Brandy",1994,"6N9uyMZf9pbNOuomveWscp",0.703,0.469,86.038,-6.515,0.0415,0.177,0,0.726

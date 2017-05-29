@@ -1,0 +1,96 @@
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
+"1","Gangsta's Paradise","Coolio",1995,"0RdpN5cjHSlC2tOmnphkF2",0.652,0.542,80.991,-6.115,0.054,0.132,0,0.16
+"2","Waterfalls","TLC",1995,"6qspW4YKycviDFjHBOaqUY",0.77,0.505,171.798,-7.345,0.0828,0.311,7.4e-05,0.0777
+"3","Creep","TLC",1995,"1aWV3uY3SIEZVbmv45oFWS",0.811,0.458,92.94,-9.688,0.0402,0.0193,1.41e-06,0.0526
+"4","Kiss From A Rose","Seal",1995,"0z5E34e7ZT3XKMYQNXh6tH",0.587,0.493,131.727,-8.368,0.0296,0.63,0,0.224
+"5","On Bended Knee","Boyz II Men",1995,"7MYmo0JJJDmu4MZTSAF9y3",0.626,0.532,116.621,-8.097,0.0351,0.413,0,0.116
+"6","Another Night","Real McCoy",1995,"3pEuO9J2MTEmec8kUfYYvl",0.813,0.882,125.983,-7.575,0.0402,0.0908,0.00457,0.147
+"7","Fantasy","Mariah Carey",1995,"6xkryXuiZU360Lngd4sx13",0.671,0.727,102.358,-7.585,0.035,0.139,0,0.123
+"8","Take A Bow","Madonna",1995,"7izFzcBTx3DVXFeFYDeZKB",0.549,0.408,80.133,-7.698,0.024,0.341,0,0.0764
+"9","Don't Take It Personal (Just One of Dem Days)","Monica",1995,"0JCAezTC5IlK1a9o0YBEsD",0.731,0.355,175.72,-12.741,0.0603,0.00864,5.14e-05,0.0579
+"10","This Is How We Do It","Montell Jordan",1995,"6uQKuonTU8VKBz5SHZuQXD",0.799,0.63,103.647,-9.279,0.0748,0.0159,0,0.453
+"11","Water Runs Dry","Boyz II Men",1995,"7yhmvQh1JOzbNiNFQo4Tfc",0.573,0.377,89.599,-12.9,0.0278,0.419,0,0.142
+"12","Freak Like Me","Adina Howard",1995,"6Vas6h9lB5mmeVDXdFqlQA",0.655,0.837,91.014,-6.04,0.0723,0.0262,5.85e-06,0.0454
+"13","Run-Around","Blues Traveler",1995,"3y8rEUEUdmAcPCpPoLotnO",0.58,0.899,152.311,-5.503,0.0818,0.0721,0,0.0942
+"14","I Can Love You Like That","All-4-One",1995,"4OnZR9U5JRFGF1Yza9j579",0.635,0.712,91.024,-4.998,0.0283,0.0811,0,0.322
+"15","Have You Ever Really Loved A Woman?","Bryan Adams",1995,"6a5Gi94rOk6cpK5NDk1s1x",0.567,0.476,145.574,-10.196,0.0305,0.538,6.4e-06,0.0966
+"16","Always","Bon Jovi",1995,"5C1nbFH5yZl1jm7h7ScLBO",0.352,0.659,144.039,-5.531,0.0341,0.147,0,0.0802
+"17","In The Summertime - Feat. Rayvon","Shaggy",1995,"10H384Dptw1zuGuWsMWpZ8",0.696,0.583,88.03,-10.2,0.294,0.147,0,0.37
+"18","Total Eclipse Of The Heart 2005","Nicki French",1995,"1b5HnOUkPi536sjGJRGWTB",0.592,0.886,137.294,-10.057,0.0312,0.0128,0,0.218
+"19","You Gotta Be","Des'ree",1995,"6CU0zWIWVTEnmWpSjVHM93",0.627,0.669,94.029,-9.985,0.0412,0.211,2.72e-06,0.111
+"20","You Are Not Alone - Single Version","Michael Jackson",1995,"3KtIVDOChQMVi3SxHc6RrK",0.64,0.421,119.479,-9.33,0.0274,0.636,5.37e-05,0.109
+"21","One More Chance/Stay With Me Remix","The Notorious B.I.G.",1995,"5jcczlLcG8iAHCFazLinKk",0.723,0.624,90.937,-6.95,0.242,0.122,0,0.148
+"22","Here Comes the Hotstepper - Heartical Mix","Ini Kamoze",1995,"4HkIzBgEyNr8MogcWVnbqJ",0.866,0.511,100.331,-8.456,0.107,0.0217,7.96e-05,0.107
+"23","Candy Rain","Soul For Real",1995,"4GAGWckW9edK3zB6ZS7Tz5",0.583,0.681,188.256,-8.152,0.0585,0.0029,6.03e-05,0.0999
+"24","I Believe","Blessid Union Of Souls",1995,"7qnNnQTGxdzI2wZWpa0vDD",0.491,0.458,141.724,-8.159,0.027,0.653,0,0.164
+"25","Red Light Special","TLC",1995,"6dW75XbJ1WAMljOXWjTK46",0.52,0.449,189.243,-8.957,0.0331,0.205,0.000687,0.191
+"26","Runaway","Janet Jackson",1995,"1FxXNL5NGwKPQvPKUxa3VZ",0.79,0.907,109.136,-3.02,0.0358,0.329,0.273,0.0567
+"27","Strong Enough","Sheryl Crow",1995,"1iDYoLIMqZjp7CCaI6uFTr",0.591,0.413,154.61,-8.894,0.0319,0.826,8.88e-05,0.105
+"28","Colors Of The Wind - From ""Pocahontas""/Soundtrack Version","Vanessa Williams",1995,"7xG1fakElLbxwyr9eyGEK6",0.552,0.253,83.986,-18.128,0.0568,0.385,2.17e-05,0.105
+"29","Someone to Love","Jon B.",1995,"4mKbb9uvBMlVvOUv8fdBt8",0.665,0.452,136.12,-8.486,0.0257,0.14,8.03e-06,0.125
+"30","Only Wanna Be With You","Hootie & The Blowfish",1995,"3KELxFGasKxINHhW3vwRtN",0.49,0.873,103.272,-5.861,0.0355,0.107,5.19e-06,0.118
+"31","If You Love Me","Brownstone",1995,"0BTGqPIW9acmhhUmENkq5r",0.687,0.583,95.137,-10.224,0.064,0.224,0,0.106
+"32","In The House Of Stone And Light","Martin Page",1995,"1QlIB0pkLKR8vEDSW7r42t",0.623,0.787,89.247,-10.763,0.0548,0.293,5.65e-05,0.587
+"33","I Got 5 On It","Luniz",1995,"7vfvZp6KZJpxiaW6rI9ieM",0.583,0.692,174.141,-7.932,0.362,0.193,0,0.121
+"34","Baby","Brandy",1995,"17aVK3oQdgwVG2l0HpP67W",0.807,0.651,91.028,-6.714,0.0477,0.0236,6.65e-06,0.174
+"35","Run Away","Real McCoy",1995,"0ibYVniVLMJWvc3eNfYk8T",0.721,0.924,130.947,-8.282,0.0396,0.000683,0.00382,0.0817
+"36","As I Lay Me Down","Sophie B. Hawkins",1995,"4x6gUDeNzAB273nhsNIeuG",0.646,0.721,83.72,-9.158,0.0413,0.589,2.04e-06,0.277
+"37","I Got Him All The Time - He's Mine Remix / Album Version","MoKenStef",1995,"6EVfqtvyixYMCmxo7JHAwu",0.748,0.546,95.939,-9.383,0.225,0.00631,0.00919,0.0585
+"38","December (45 Version)","Collective Soul",1995,"4wx38D1Y9vv9WG3T0J6lTA",0.687,0.499,121.981,-7.614,0.0278,0.587,0.00362,0.187
+"39","I'll Be There For You/You're All I Need To Get By","Method Man",1995,"7asNwQI80A6OnlHRPwQdal",0.711,0.754,94.999,-6.201,0.076,0.153,1.04e-05,0.344
+"40","Shy Guy","Diana King",1995,"3ldG6XCLDXxWg1N6XhrSKo",0.714,0.825,94.074,-5.447,0.0751,0.0128,0.000569,0.049
+"41","I'm The Only One","Melissa Etheridge",1995,"4veE1jrMbVSy9FRCiYDGkD",0.619,0.48,84.846,-9.597,0.0304,0.0408,1.37e-06,0.0889
+"42","Every Little Thing I Do","Soul For Real",1995,"5u3rsmRYRSKJpFHXPT4p07",0.712,0.399,99.06,-9.297,0.0309,0.00484,0.00119,0.0857
+"43","Before I Let You Go","Blackstreet",1995,"455CCMp9OHkIg0St60cxmd",0.662,0.467,140.157,-6.99,0.0334,0.363,0,0.0473
+"44","Big Poppa","The Notorious B.I.G.",1995,"2g8HN35AnVGIk7B8yMucww",0.778,0.578,84.487,-7.22,0.274,0.432,0,0.138
+"45","Sukiyaki","4 P.M.",1995,"0cBQbqp5jInL73ZxLBSGlX",0.466,0.382,75.284,-8.57,0.0285,0.76,0,0.363
+"46","I Wanna Be Down","Brandy",1995,"6N9uyMZf9pbNOuomveWscp",0.703,0.469,86.038,-6.515,0.0415,0.177,0,0.726
+"47","I'll Make Love To You","Boyz II Men",1995,"61sQYdFNS6sEBYCyr1q5gn",0.557,0.509,142.408,-7.928,0.0243,0.119,0,0.0794
+"48","Dear Mama","2Pac",1995,"6iXcPsToMyTheci6e1L2ya",0.777,0.584,84.139,-6.081,0.0922,0.384,0,0.117
+"49","Hold On","Jamie Walters",1995,"2kQLJexCx8wPTAqK0x0ijO",0.571,0.553,126.215,-8.584,0.0279,0.0319,0,0.109
+"50","Keep Their Heads Ringin<U+2019>","Various Artists - Dr. Dre Tribute",1995,"4QAEx1QTsrl0fPpa8Fk2Rz",0.668,0.485,90.986,-11.842,0.0262,0.00224,0.903,0.068
+"51","The Rhythm Of The Night","Corona",1995,"3L9RIFcNF9IDGPRE96EO7N",0.69,0.805,127.808,-11.522,0.0336,0.000232,0.739,0.095
+"52","Roll To Me","Del Amitri",1995,"1QoJK5Xf8I9r2sjXdxa9Fq",0.554,0.762,149.979,-6.907,0.0368,0.432,0,0.0991
+"53","Scream","Michael Jackson",1995,"5E0hSROoDq1VD1t0ktwi55",0.805,0.941,106.525,-6.584,0.0908,0.0749,1.45e-05,0.415
+"54","Freek'n You","Jodeci",1995,"43sNw9nvGYGLYnNiwI8oMZ",0.709,0.521,134.165,-9.497,0.0314,0.0792,0,0.0504
+"55","I Wish","Skee-Lo",1995,"3LklW07tvdx2AHsgfi1Mng",0.669,0.809,97.885,-7.146,0.147,0.00137,0,0.38
+"56","Believe - Radio Edit","Elton John",1995,"7sa9hvmSywCFdxAJ9zjCPZ",0.497,0.551,137.928,-8.844,0.0266,0.0861,1.75e-05,0.0997
+"57","Carnival","Natalie Merchant",1995,"4QXhRjZacZ1gZUeL7Ukktw",0.601,0.48,188.214,-11.41,0.0732,0.2,0.0955,0.0297
+"58","You Don't Know How It Feels","Tom Petty",1995,"7MooGz4ZPE4bNxjFegR6Jx",0.765,0.502,144.204,-7.393,0.0321,0.119,0.0011,0.171
+"59","Back for Good - Radio Mix","Take That",1995,"2BIBtKMUnHyYs3BsEiILTU",0.569,0.517,78.844,-9.352,0.0333,0.313,0,0.145
+"60","Tootsee Roll","69 Boyz",1995,"0wfuwgtWKZYRYAONxXPjPO",0.874,0.658,133.034,-12.174,0.241,0.0373,0,0.0915
+"61","You Want This","Janet Jackson",1995,"52kDYmU0aE3txkZBKjl0nP",0.844,0.843,111.893,-5.763,0.0551,0.113,0.0439,0.1
+"62","Tell Me","Groove Theory",1995,"2lp8xjq0WTm3HZKHuDEweg",0.8,0.361,93.059,-10.849,0.0635,0.0355,3.75e-06,0.0668
+"63","Can't You See","Total",1995,"1poK64Wt7p7VwrAbFgD5hS",0.715,0.721,86.26,-5.622,0.0541,0.157,1.75e-06,0.309
+"64","All I Wanna Do","Sheryl Crow",1995,"0TxFZthE81cgf5zZvpnkPP",0.811,0.759,120.092,-4.945,0.0312,0.148,0.00157,0.301
+"65","This Lil' Game We Play","Subway",1995,"6gp5reJaprmqjZnRFbpqK2",0.753,0.443,121.549,-10.503,0.0696,0.142,0,0.0898
+"66","Come and Get Your Love - Radio Edit","Real McCoy",1995,"0XVikcHfkoBvJ5ZU8xQBWn",0.736,0.864,108.828,-6.567,0.0397,0.0179,1.62e-05,0.345
+"67","This Ain't A Love Song","Bon Jovi",1995,"4Q1UwAB4nL3l4k41vkZoyg",0.224,0.657,175.994,-7.182,0.0558,0.115,0,0.125
+"68","Secret","Madonna",1995,"0yv6BYFfviMImtUPwzEXQp",0.769,0.703,100.094,-5.705,0.027,0.0581,2.23e-06,0.114
+"69","Player's Anthem (LP-CleanVersion)","Junior M.A.F.I.A.",1995,"6PhOzQShyz2vjELsXax7TQ",0.822,0.545,87.985,-7.933,0.445,0.204,2.71e-06,0.105
+"70","Feel Me Flow","Naughty By Nature",1995,"5cKQS9890SpoU2DyqclNWG",0.805,0.754,90.214,-6.679,0.156,0.0468,1.79e-06,0.0855
+"71","Every Day Of The Week","Jade",1995,"7gRPARHLsDZaf3QxSTuKT8",0.757,0.68,97.381,-8.857,0.0338,0.0039,0,0.0742
+"72","The Sweetest Days","Vanessa Williams",1995,"2aw72RcR4WQvmA9bICK8QZ",0.474,0.313,139.734,-10.521,0.0287,0.749,0.000901,0.145
+"73","Short Dick Man - Max Fabian & DJ Kirillich Radio Mix","20 Fingers",1995,"4L6f9fMqAg5Ity54TId0OM",0.74,0.94,129.01,-4.777,0.0631,0.0205,0.18,0.265
+"74","Brokenhearted","Brandy",1995,"3zeyP0JnzXEx3uZLmpOdtP",0.635,0.33,139.896,-11.928,0.0299,0.317,2.7e-05,0.0765
+"75","No More ""I Love You's""","Annie Lennox",1995,"4Cmpnt9GsAoF60tEdmpG3j",0.503,0.628,90.021,-6.263,0.027,0.53,7.67e-06,0.153
+"76","You Used To Love Me","Faith Evans",1995,"0GuCN3VT2d2N1cqjPlqsxz",0.688,0.464,87.773,-7.454,0.0335,0.219,1.88e-06,0.145
+"77","Constantly","Immature",1995,"2Ht2XbOKEay5ogJbDk3i9q",0.709,0.516,117.852,-10.046,0.0403,0.201,0.00217,0.0855
+"78","Hold Me, Thrill Me, Kiss Me, Kill Me","U2",1995,"5TsHqbDKaSs4ECZX0045YS",0.363,0.848,171.664,-6.956,0.0423,0.000115,0.194,0.151
+"79","100% Pure Love","Crystal Waters",1995,"5pkMrPKCZ7gMYacSzFBZCl",0.812,0.685,120.254,-8.241,0.0508,0.0954,0.00679,0.0643
+"80","Sugar Hill","AZ",1995,"0lZWjBImx6kNe3WtOA09Xu",0.683,0.648,181.874,-7.332,0.188,0.000693,6.29e-06,0.0693
+"81","Good","Better Than Ezra",1995,"6ILtPjGYb3mvprfsCaJRTA",0.615,0.657,109.95,-6.873,0.029,0.000372,0.0204,0.132
+"82","Brown Sugar - Radio Edit","D'Angelo",1995,"1YMn9N6JbLfefxmzSWm2jA",0.718,0.554,83.074,-6.541,0.161,0.491,0.00102,0.118
+"83","Turn the Beat Around","Gloria Estefan",1995,"5EExhZiAXIqw6M5FFGAiUb",0.735,0.804,130.018,-6.476,0.0347,0.0145,0,0.0716
+"84","'Til You Do Me Right","After 7",1995,"1QJDgtV8L8jCnpM1RIauAp",0.612,0.542,76.744,-7.563,0.0264,0.0781,0,0.0763
+"85","1st Of Tha Month","Bone Thugs-N-Harmony",1995,"7B0yMYCJO8adAUIY6COxQb",0.748,0.475,148.077,-11.041,0.258,0.246,1.9e-06,0.19
+"86","Like The Way I Do","Melissa Etheridge",1995,"3Fe3L3N5pGaa0BBT4eVypZ",0.616,0.825,101.366,-12.949,0.0434,0.05,6.74e-06,0.0576
+"87","I Live My Life for You","Firehouse",1995,"4vHp893kV7HksfB5FN1Nk5",0.512,0.517,141.871,-7.573,0.0281,0.0758,0,0.0968
+"88","Dream About You","Stevie B",1995,"66QsugNQ8z40vjxtQQwV1z",0.659,0.349,130.312,-10.403,0.0299,0.63,0,0.149
+"89","Cotton Eye Joe","Rednex",1995,"0Jg602cHeMCnPez9baacIe",0.738,0.937,131.994,-7.788,0.0668,0.0124,0.00206,0.0338
+"90","Thank You","Boyz II Men",1995,"48j6bDfkuJNfWRXwMbipGY",0.682,0.694,95.156,-8.997,0.0904,0.0163,0,0.0189
+"91","I'll Stand By You","Pretenders",1995,"3Nf8oGn1okobzjDcFCvT6n",0.438,0.606,133.822,-6.549,0.0305,0.3,4.49e-06,0.0754
+"92","Give It 2 You","Da Brat",1995,"7K1TyzMSR0s2iVlepOh75L",0.871,0.455,91.926,-12.414,0.179,0.0032,0,0.075
+"93","Best Friend","Brandy",1995,"0YwUJOHKYxlm5gVfIkl8Ym",0.696,0.49,179.825,-6.631,0.0347,0.155,0.000351,0.0563
+"94","Misery","Soul Asylum",1995,"5kKaNe8f5rR8cA3WE7Ol5N",0.395,0.743,113.687,-6.113,0.0336,0.000233,1.76e-06,0.0823
+"95","Can't Stop Lovin' You","Van Halen",1995,"6z3JD6IqVvu6TUBtCfQPbe",0.609,0.912,118.035,-3.324,0.0338,0.0734,3.1e-06,0.159

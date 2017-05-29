@@ -1,0 +1,95 @@
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
+"1","Every Breath You Take","The Police",1983,"2PnNomkEqlg9ADKCVG0Wt0",0.828,0.447,117.391,-10.563,0.0349,0.413,0.00335,0.074
+"2","Billie Jean - Single Version","Michael Jackson",1983,"3EzlF0tKEQstSzFqWzkLZE",0.927,0.575,117.128,-5.553,0.0431,0.022,0.014,0.0391
+"3","Flashdance...What A Feeling","Irene Cara",1983,"1vyI6X2Id2CarE73XOLGxM",0.501,0.695,121.973,-7.399,0.058,0.508,0,0.0765
+"4","Down Under","Men At Work",1983,"5ETbctpnDNloYA4IO6s0wn",0.746,0.79,107.231,-4.7,0.0257,0.0485,0.0261,0.0534
+"5","Beat It - Single Version","Michael Jackson",1983,"1xEpz8iZDReyXevFcP89XG",0.783,0.809,138.979,-5.532,0.0436,0.0359,1.38e-05,0.199
+"6","Total Eclipse of the Heart","Bonnie Tyler",1983,"5prTs2HAw2G4idHZyeFp8o",0.435,0.658,130.276,-8.179,0.0661,0.195,0,0.102
+"7","Maneater - Remastered","Daryl Hall & John Oates",1983,"4aKIs5t9TqP59btlCGPrgw",0.727,0.685,88.75,-7.159,0.0398,0.0351,4.43e-05,0.0973
+"8","Maniac (Flashdance Version)","Michael Sembello",1983,"2yPOanQUfr1QQcfPTD9TmJ",0.637,0.73,157.202,-7.368,0.034,0.00482,0.000449,0.0251
+"9","Sweet Dreams (Are Made of This) - Remastered","Eurythmics",1983,"1TfqLAPs4K3s2rJMoCokcS",0.692,0.711,125.135,-7.498,0.0317,0.227,0,0.12
+"10","Do You Really Want to Hurt Me - 2002 - Remaster","Culture Club",1983,"1HerMONdBbVd0IQJE73sgZ",0.741,0.623,100.621,-6.284,0.0318,0.0593,0,0.128
+"11","You And I","Eddie Rabbitt",1983,"55uZJFuImJzBXLeBC3x7Co",0.49,0.457,82.791,-8.573,0.0255,0.198,2.07e-05,0.103
+"12","Come on Eileen","Dexy's Midnight Runners Tribute Band",1983,"1NJjpKwH4fECJOLhohcDDw",0.433,0.488,105.904,-10.931,0.0456,0.377,0,0.099
+"13","She Works Hard For The Money","Donna Summer",1983,"3FlOciKDqFlTMPeC7t92Qy",0.765,0.639,136.495,-12.963,0.0382,0.00669,0.0122,0.0798
+"14","Never Gonna Let You Go","Sérgio Mendes",1983,"5u8bqfaYSh0qVTsgslPknf",0.633,0.396,132.55,-12.35,0.0319,0.547,0,0.671
+"15","Hungry Like The Wolf","Duran Duran",1983,"2HuHopKnnuGQEpGb0CssCs",0.654,0.903,129.442,-5.252,0.0798,0.0222,0,0.241
+"16","Let's Dance - 1999 Remastered Version","David Bowie",1983,"0F0MA0ns8oXwGw66B2BSXm",0.619,0.703,115.043,-9.414,0.0525,0.00388,0.205,0.163
+"17","Twilight Zone","Golden Earring",1983,"6j0ri1fbU2QDXlDrhgkuFk",0.363,0.801,124.902,-6.677,0.039,0.0944,0.0987,0.986
+"18","I Know There's Something Going On","Frida",1983,"1fQyiulxuPu8ywfIrOM3ft",0.596,0.568,108.184,-15.168,0.034,0.116,0.139,0.0412
+"19","Jeopardy","The Greg Kihn Band",1983,"1pohUcbLfJF3O6CTTAwBHG",0.803,0.484,112.3,-13.458,0.0395,0.057,0.0269,0.0711
+"20","Electric Avenue","Eddy Grant",1983,"4cqUq7n3ad0DhJ2JCVw34v",0.969,0.509,121.991,-7.622,0.193,0.208,0.000555,0.0665
+"21","She Blinded Me With Science","Thomas Dolby",1983,"0BWravaqj9rKdOU8RWXhuf",0.799,0.755,128.695,-11.538,0.0419,0.108,0.169,0.0661
+"22","Africa","Toto",1983,"2374M0fQpWi3dLnB54qaLX",0.671,0.373,92.717,-18.064,0.0323,0.257,7.95e-05,0.0481
+"23","Little Red Corvette","Prince",1983,"76Gmfksb2uBzx5N72DcHT0",0.748,0.746,123.144,-9.721,0.111,0.281,3.31e-05,0.632
+"24","Back On The Chain Gang - 2007 Remastered Version","Pretenders",1983,"4cMHCRLPNoEbpnl2rz6GS9",0.598,0.901,153.24,-6.081,0.0359,0.116,0.0401,0.178
+"25","Up Where We Belong","Joe Cocker",1983,"0Co8hKbjUy273NrGliGdWZ",0.573,0.429,139.097,-8.68,0.0294,0.597,8.18e-05,0.0839
+"26","Mr. Roboto","Styx",1983,"61yhNRBnlbKb7j51e8OZCJ",0.629,0.748,144.067,-5.531,0.0426,0.221,0,0.0735
+"27","You Are","Lionel Richie",1983,"6I8xhomIJJcXzNN43TotPv",0.797,0.43,111.811,-11.765,0.0349,0.34,7.12e-05,0.0726
+"28","Der Kommissar","After The Fire",1983,"0ROtxObpdDA25o5DriPSOk",0.694,0.716,121.427,-7.468,0.0513,0.00909,0.000814,0.0772
+"29","Puttin' On The Ritz","Taco",1983,"4RUkk4vAzPVYqBdHNW9T6i",0.805,0.287,98.649,-17.133,0.0775,0.168,0.00153,0.175
+"30","Sexual Healing","Marvin Gaye",1983,"4HruSQTQR65g2HU9dUy0FS",0.801,0.536,94.369,-11.98,0.0656,0.112,0.000157,0.073
+"31","(Keep Feeling) Fascination - 2003 - Remaster","The Human League",1983,"0ZfZaT7NByalxa6bct5G67",0.711,0.609,118.132,-9.042,0.0764,0.381,1.24e-06,0.204
+"32","Time (Clock Of The Heart)","Culture Club",1983,"6UguIecQmrmEy1NjCHZsTV",0.719,0.626,116.958,-11.236,0.0347,0.539,0,0.0582
+"33","The Safety Dance","Men Without Hats",1983,"5kuzI2Sz53X8P0qztbYzu2",0.525,0.877,101.665,-4.497,0.0461,0.0255,0,0.117
+"34","Mickey","Toni Basil",1983,"162gk2vyorLJCuZMu43Ift",0.684,0.8,148.205,-10.464,0.0449,0.262,3.5e-06,0.0624
+"35","You Can't Hurry Love","Phil Collins",1983,"4YUlGNZfYA6EUE5KDsGqpC",0.639,0.923,97.874,-5.708,0.032,0.0674,0,0.0879
+"36","Separate Ways (Worlds Apart)","Journey",1983,"2ORySgkn0CbUMFbEoP1wwE",0.436,0.93,131.446,-6.572,0.0597,0.0525,0,0.227
+"37","One On One - Remastered 2003","Daryl Hall & John Oates",1983,"4KcshFM1IjZStr8ROGhYzN",0.755,0.448,95.569,-9.794,0.0256,0.78,0.145,0.244
+"38","We've Got Tonight - 2006 - Remastered","Kenny Rogers",1983,"5Q9MCK4NU3xApjsIkKWegw",0.431,0.167,123.2,-13.303,0.0307,0.747,0.000192,0.125
+"39","1999","Prince",1983,"2H7PHVdQ3mXqEHXcvclTB0",0.866,0.73,118.523,-8.201,0.0767,0.137,0,0.0843
+"40","Stray Cat Strut (Acoustic Version)","Stray Cats",1983,"3yLzH44GAxQjKnODXy1myE",0.679,0.827,135.007,-8.407,0.0726,0.107,6.41e-05,0.431
+"41","Allentown","Billy Joel",1983,"2veYJl7RAW2lkveifGHYKT",0.691,0.841,113.845,-8.309,0.0287,0.108,4.96e-06,0.098
+"42","Stand Back","Stevie Nicks",1983,"6sleEAnBH0sZMe0pOQNidG",0.638,0.783,115.269,-9.455,0.0435,0.00736,0.0447,0.0381
+"43","Tell Her About It","Billy Joel",1983,"0RfdoNWHJbZxAI3sOWS8Q7",0.566,0.891,183.221,-5.209,0.159,0.00683,0,0.487
+"44","Always Something There To Remind Me","Naked Eyes",1983,"5L7zWiRiXDPNvTLLoXvIja",0.619,0.593,149.306,-11.641,0.0359,0.132,0,0.35
+"45","Truly","Lionel Richie",1983,"7AslBsiVLQAGrmFmi79ZeK",0.326,0.247,140.651,-13.794,0.0356,0.635,6.19e-06,0.0838
+"46","The Girl Is Mine","Michael Jackson",1983,"15fvDRnqFdogjUM8PUC0ml",0.684,0.676,81.407,-6.337,0.0535,0.308,0,0.178
+"47","Too Shy - 2004 Remastered Version","Kajagoogoo",1983,"3OQtbwQ9U4A0VDH1rjamZJ",0.691,0.79,108.266,-10.263,0.0633,0.0418,6.93e-05,0.091
+"48","Goody Two Shoes","Adam Ant",1983,"4gic8wdcwH3kPjfHAPITLK",0.624,0.976,95.499,-6.947,0.0895,0.0322,0.00813,0.0429
+"49","Rock the Casbah","The Clash",1983,"6rL4PYIVHyMIYo9xvGc5ot",0.806,0.875,129.588,-6.844,0.0542,0.252,0,0.0785
+"50","Our House","Madness",1983,"0vWCLHyiA1G3eqBPnY1WFW",0.614,0.638,121.564,-10.48,0.0499,0.0343,1e-04,0.137
+"51","Overkill","Men At Work",1983,"0bBVRsBbgnzW8wmdlD7Apq",0.641,0.816,139.185,-3.963,0.0285,0.087,0,0.116
+"52","Is There Something I Should Know","Duran Duran",1983,"3pNEoHjqWx4JIvHM46rZsm",0.57,0.967,124.856,-4.956,0.076,0.0218,6.44e-06,0.285
+"53","Gloria (45 Version)","Laura Branigan",1983,"0locmm7BcpfpRGGXR7YsBW",0.777,0.585,131.251,-11.78,0.0294,0.0873,0.207,0.17
+"54","Affair of the Heart","Rick Springfield",1983,"6sQhzyoKVtjB1xohOJRt06",0.609,0.907,129.077,-7.245,0.0433,0.0501,0,0.0964
+"55","She's A Beauty","The Tubes",1983,"6lnP51cMlqpZ8bwmyVlgvG",0.694,0.787,111.157,-9.569,0.0363,0.0913,0.0106,0.0562
+"56","Solitaire","Laura Branigan",1983,"17RxTPSIGg0WP92dAiZliC",0.695,0.826,138.675,-5.298,0.0299,0.361,0.00366,0.113
+"57","Don't Let It End","Styx",1983,"0huaODTI1xKsfJJk8EJEkf",0.407,0.22,112.778,-14.525,0.032,0.353,1.12e-05,0.077
+"58","How Am I Supposed To Live Without You","Laura Branigan",1983,"7lxIn9eU6401kJqQGUBplH",0.575,0.587,139.142,-4.7,0.0323,0.722,6.6e-05,0.141
+"59","China Girl - 1999 Remastered Version","David Bowie",1983,"1zCGS6bgV9rHVot0hELx5S",0.631,0.641,133.953,-9.85,0.0264,0.0117,0.107,0.108
+"60","Come Dancing","The Kinks",1983,"52cZmWYfhhFn9KiBd9ZhFJ",0.502,0.853,152.91,-8.555,0.0818,0.257,7.58e-05,0.0658
+"61","Promises, Promises - Single Version","Naked Eyes",1983,"3sks3fxIzjffXVaTC4Dl69",0.759,0.631,113.477,-11.652,0.0406,0.13,0.000702,0.0643
+"62","The Other Guy - 24-Bit Digitally Remastered 02","Little River Band",1983,"173r99cYlRApif8GLPrLqt",0.831,0.47,108.969,-10.939,0.0529,0.176,0,0.097
+"63","Making Love Out Of Nothing At All","Air Supply",1983,"1w2CBsRDGGrYfcIFurKN5l",0.428,0.715,145.938,-5.682,0.0428,0.137,0,0.949
+"64","Family Man - Remastered 2003","Daryl Hall & John Oates",1983,"3OCNkidVblywixF3p15w9c",0.77,0.827,131.341,-5.128,0.036,0.417,3.38e-05,0.157
+"65","Wanna Be Startin' Somethin'","Michael Jackson",1983,"1uCbb7fkxRUrQAvCQgmSHo",0.848,0.923,122.223,-4.203,0.0425,0.0209,0.364,0.058
+"66","I Won't Hold You Back","Toto",1983,"7D4EtbE7LfQiH8CWj7fQoz",0.539,0.306,102.247,-15.067,0.0265,0.404,0,0.0608
+"67","All Right","Christopher Cross",1983,"556Fdf9iUVDA2aSUDzlkNV",0.724,0.471,132.714,-11.914,0.0371,0.18,0,0.129
+"68","Straight From The Heart","Bryan Adams",1983,"5eaK7PLGwyDXmHfTdWZZuE",0.578,0.213,84.778,-18.504,0.0277,0.0814,0,0.116
+"69","Heart to Heart","Kenny Loggins",1983,"2KiybjzjyrEstFl1qrZqtM",0.693,0.586,82.1,-8.78,0.0406,0.567,0.000211,0.0626
+"70","My Love","Lionel Richie",1983,"6l9fOwFZ2pZzGUAVnPM76l",0.377,0.165,128.403,-13.189,0.0341,0.72,0,0.0841
+"71","I'm Still Standing","Elton John",1983,"1lEPvkpSiI3hH6jpmcGSJj",0.518,0.839,178.049,-11.275,0.0922,0.511,0.0117,0.509
+"72","Hot Girls In Love","Loverboy",1983,"3RRRGwfes5ZzK07Cm4f6ho",0.451,0.872,153.579,-7.468,0.0934,0.00288,6.82e-06,0.185
+"73","It's a Mistake","Men At Work",1983,"5xNmWMhsZncmM9zziHww42",0.708,0.605,106.297,-4.71,0.0287,0.255,2.2e-05,0.0838
+"74","I'll Tumble 4 Ya","Culture Club",1983,"1YFuzRhg3OtJiNFFHvdTgV",0.832,0.801,112.506,-11.645,0.1,0.219,0,0.36
+"75","All This Love","DeBarge",1983,"48bBO1utRUJLOEIGiUhkiB",0.476,0.597,187.177,-7.24,0.0477,0.171,5.95e-06,0.0965
+"76","Your Love Is Driving Me Crazy","Sammy Hagar",1983,"3OghNV9ZOUbAj62CZptOEP",0.575,0.584,146.688,-10.779,0.0335,0.132,2.21e-06,0.149
+"77","Heartbreaker","Dionne Warwick",1983,"79stkwByJTjWMPyuiYsOuw",0.662,0.57,100.778,-11.746,0.0229,0.0775,1.12e-05,0.194
+"78","Faithfully","Journey",1983,"6HzZhqXNyfJxuvQ9zfCc1U",0.393,0.547,129.677,-7.776,0.0291,0.263,0,0.104
+"79","Steppin' Out","Joe Jackson",1983,"0gX18ikvVSzGgNGx939SOe",0.604,0.487,159.607,-7.211,0.0305,0.0491,0.00485,0.0797
+"80","Take Me To Heart","Quarterflash",1983,"3ZfjQOjf4jp4o6yfK5GtCB",0.683,0.618,114.054,-10.5,0.034,0.336,3.37e-06,0.483
+"81","(She's) Sexy + 17 - 1999 Digital Remaster","Stray Cats",1983,"5x5FUXjs53WbPuTwT6WD8d",0.525,0.931,89.9,-5.593,0.0583,0.00831,0,0.106
+"82","Lawyers In Love","Jackson Browne",1983,"26lCNg8WekUoDbLhEbUyXZ",0.522,0.74,139.031,-6.496,0.0284,0.0286,0.00126,0.145
+"83","Human Nature","Michael Jackson",1983,"6vA0oK0LIQtWCjPjpww4Tr",0.616,0.47,93.138,-11.611,0.0321,0.55,0.00219,0.287
+"84","Photograph - Live","Def Leppard",1983,"4VfWY8hydsKIXtKQ2AT9oO",0.451,0.915,121.766,-4.931,0.0551,3.65e-05,0.315,0.319
+"85","Pass The Dutchie","Musical Youth",1983,"082jAB8ValDguMSLaT7CZZ",0.791,0.664,149.939,-5.713,0.0831,0.403,0,0.61
+"86","True","Spandau Ballet",1983,"6eDYgjKl4vUgRusxb7THDu",0.728,0.57,97.363,-8.886,0.028,0.389,0.0767,0.059
+"87","Far From Over","Frank Stallone",1983,"3LUrih1nLwx0vL0QihnpdI",0.528,0.922,166.521,-4.277,0.0395,0.0395,0.00139,0.242
+"88","I've Got A Rock 'N' Roll Heart","Eric Clapton",1983,"0bsVmf3Ki4x4BzvdrlbYXi",0.725,0.73,100.021,-6.514,0.0299,0.312,0,0.161
+"89","It Might Be You (from ""Tootsie"")","Stephen Bishop",1983,"1asbauP5iqBr21MTpWDdNS",0.454,0.322,180.058,-11.145,0.0295,0.786,1.45e-06,0.073
+"90","Tonight, I Celebrate My Love - 2001 - Remaster","Peabo Bryson",1983,"6KgBoqgnh8i6AjU0slFeYe",0.472,0.289,117.363,-11.955,0.0305,0.773,3.44e-05,0.188
+"91","You Got Lucky","Tom Petty and the Heartbreakers",1983,"5Mc4cz1QdX5n2vFV0K10vM",0.703,0.677,114.758,-5.823,0.0271,0.0665,1.12e-05,0.0707
+"92","Don't Cry","Asia",1983,"5NHEpCtDPugmIuawJtwH2y",0.304,0.934,147.721,-5.169,0.0709,0.0917,0,0.158
+"93","Breaking Us In Two","Joe Jackson",1983,"767BYYVKKNdFCI2GrCk4BR",0.629,0.563,108.868,-8.02,0.0246,0.334,0,0.146
+"94","Fall in Love with Me","Earth, Wind & Fire",1983,"5qugKP8gPqN91O7KBMkW6P",0.862,0.588,117.464,-11.363,0.0536,0.109,0.000452,0.0869

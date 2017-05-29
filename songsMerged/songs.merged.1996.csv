@@ -1,0 +1,91 @@
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
+"1","Macarena","Los Del Rio",1996,"4oaj36KzXRgDg4McgcTsZK",0.927,0.721,103.018,-12.561,0.0908,0.422,4.36e-05,0.0422
+"2","Macarena","Los Del Rio",1996,"4oaj36KzXRgDg4McgcTsZK",0.927,0.721,103.018,-12.561,0.0908,0.422,4.36e-05,0.0422
+"3","One Sweet Day - w / Mariah Carey","Boyz II Men",1996,"5OnnCaaLL6ooi2JBWI2Y7t",0.569,0.522,128.216,-8.229,0.0297,0.377,0,0.0848
+"4","Because You Loved Me","C<U+00E9>line Dion",1996,"6hRcrByB9i6rYRiHNh170N",0.611,0.507,119.92,-7.975,0.0305,0.304,0,0.107
+"5","Nobody Knows","The Tony Rich Project",1996,"2PsHIonOTmX6bSrzIJSjyS",0.64,0.433,176.086,-9.432,0.0374,0.509,4.9e-06,0.103
+"6","Always Be My Baby","Mariah Carey",1996,"2aBxt229cbLDOvtL7Xbb9x",0.649,0.531,78.946,-8.335,0.0363,0.457,0,0.249
+"7","Tha Crossroads","Bone Thugs-N-Harmony",1996,"0UUSebzzrC8hKiVcX8fBsz",0.684,0.434,144.273,-9.791,0.0618,0.0824,0,0.256
+"8","I Love You Always Forever","Donna Lewis",1996,"1PEqh7awkpuepLBSq8ZwqD",0.744,0.453,103.773,-11.977,0.0348,0.627,0.421,0.0898
+"9","You're Makin' Me High","Toni Braxton",1996,"32VygCu5knUb9ZmC5acyKZ",0.848,0.555,92.126,-9.167,0.0369,0.0105,1.15e-05,0.0673
+"10","Twisted","Keith Sweat",1996,"69QIVIjPMnI1ABLBqh9P1b",0.615,0.514,175.849,-9.759,0.0466,0.393,0,0.248
+"11","C'Mon 'N' Ride It (The Train)","Quad City DJ's",1996,"5ScNcfIXafszKASP7Qrwdi",0.836,0.933,136.009,-6.303,0.128,0.1,0,0.376
+"12","Missing","Everything But The Girl",1996,"411Ecgzht1ky1mKDSl1N7R",0.676,0.486,123.555,-10.457,0.0327,0.0812,6.08e-05,0.121
+"13","Ironic","Alanis Morissette",1996,"29YBihzQOmat0U74k4ukdx",0.456,0.635,170.652,-5.731,0.0573,0.245,0,0.194
+"14","Exhale - Shoop Shoop","Whitney Houston",1996,"40Jt7Gswodpx1WNddCpBDQ",0.656,0.429,137.952,-7.903,0.0307,0.43,0,0.158
+"15","Til I Hear It From You","Gin Blossoms",1996,"2vaF3iStySjdbbIJBe04P7",0.576,0.744,124.42,-7.95,0.03,0.118,0,0.304
+"16","Sittin' Up In My Room","Brandy",1996,"4330XmgVWlx98Y3Naswycg",0.796,0.515,93.278,-8.083,0.0276,0.245,0.00196,0.0515
+"17","How Do U Want It - (Explicit)","2Pac",1996,"06jYyAmf4jhb7nxmUO1I6V",0.832,0.854,92.479,-2.243,0.0982,0.125,1.13e-06,0.0493
+"18","It's All Coming Back to Me Now","C<U+00E9>line Dion",1996,"62WlC9unRXGdRIULjishS0",0.429,0.487,89.835,-7.074,0.0348,0.752,0,0.0972
+"19","Change The World","Eric Clapton",1996,"6BQNJ0JFKh8sWjQLI6Zudi",0.721,0.558,96.887,-8.8,0.0246,0.492,0.00563,0.113
+"20","Hey Lover","LL Cool J",1996,"1eQZwiUWnnrem5a7sSexZd",0.707,0.477,88.075,-10.931,0.0683,0.338,0,0.108
+"21","Insensitive","Jann Arden",1996,"2OqkSQe1kA8oRgEbw064dS",0.508,0.452,178.695,-10.436,0.0269,0.117,7.5e-05,0.154
+"22","Name","The Goo Goo Dolls",1996,"1G8jae4jD8mwkXdodqHsBM",0.464,0.701,73.97,-5.943,0.0341,0.0691,0.00182,0.0766
+"23","Who Will Save Your Soul","Jewel",1996,"1SYXw0U7vE9BpUw5bEFvKw",0.686,0.467,126.179,-9.712,0.0419,0.704,0.00103,0.13
+"24","Where Do You Go","No Mercy",1996,"1i7Gv6yN5aCyygveod0QDH",0.729,0.816,127.053,-11.018,0.032,0.0354,0.0947,0.0866
+"25","I Can't Sleep Baby (If I)","R. Kelly",1996,"4h1iaLi1bn9x5xRWGHT3TS",0.701,0.515,120.202,-7.899,0.0326,0.23,0,0.262
+"26","Counting Blue Cars","Dishwalla",1996,"1eRRcsUU6ItJmKA3YXoiy5",0.237,0.822,93.912,-7.435,0.0822,0.00122,0.139,0.897
+"27","You Learn","Alanis Morissette",1996,"3V5qEaGZr52PrvHQ1n9JLI",0.468,0.778,84.383,-4.528,0.0338,0.00607,0,0.0895
+"28","One Of Us","Joan Osborne",1996,"1xNmF1Uep5OGutizZSbKvd",0.474,0.502,87.612,-7.988,0.0254,0.0136,1.31e-05,0.119
+"29","Wonder","Natalie Merchant",1996,"5Hz6aGrZZizNBoJ6kE6Rqi",0.744,0.679,115.117,-6.403,0.038,0.414,0.00418,0.0477
+"30","Not Gon' Cry","Mary J. Blige",1996,"78wi1g772j8eJPEnD8rr9z",0.764,0.41,110.158,-8.988,0.0418,0.652,0,0.0784
+"31","Gangsta's Paradise","Coolio",1996,"0RdpN5cjHSlC2tOmnphkF2",0.652,0.542,80.991,-6.115,0.054,0.132,0,0.16
+"32","Only You (feat. Notorious B.I.G. and Mase)","112",1996,"7o7rrKyfqGo5xw318JNFUb",0.764,0.502,95.952,-6.392,0.0508,0.0162,0,0.0569
+"33","Down Low (Nobody Has to Know)","R. Kelly",1996,"5j8pEVMOPjLpUdAxrmZqq8",0.603,0.417,107.72,-9.408,0.0273,0.282,0.000183,0.0651
+"34","You're the One","SWV",1996,"0yqwZSgCWsmfhpGlulQKpZ",0.791,0.638,94.155,-7.125,0.0341,0.396,0.00316,0.171
+"35","Before You Walk Out of My Life","Monica",1996,"6xrvubhznLOcEO3AM6XBN2",0.555,0.41,169.804,-8.308,0.0431,0.227,0,0.13
+"36","Breakfast At Tiffany's","Deep Blue Something",1996,"0TYZXljs3TAVQHwIDyALgD",0.58,0.839,110.342,-5.588,0.03,0.127,1.79e-06,0.122
+"37","1-2-3-4 (Sumpin' New)","Coolio",1996,"7Ix6Cqxvc05JVBmZztKGI5",0.904,0.747,115.182,-7.218,0.158,0.296,0.00291,0.322
+"38","The World I Know (45 version)","Collective Soul",1996,"51HuI43LXE4oNUSKMPZFWf",0.497,0.652,153.874,-6.347,0.0266,0.0664,0.00282,0.147
+"39","No Diggity","Blackstreet",1996,"5eyIfIp6IafrdAjRnZF6ql",0.859,0.649,88.647,-4.753,0.218,0.347,0,0.128
+"40","Anything","3T",1996,"2AtBXRPCZhtIqSGF5ap33B",0.686,0.454,131.977,-10.928,0.0328,0.43,0.00021,0.286
+"41","1979","The Smashing Pumpkins",1996,"5KRRcT67VNIZUygEbMoIC1",0.768,0.744,127.036,-11.267,0.0338,0.0218,0.712,0.063
+"42","Diggin' on You","TLC",1996,"2W2vmNmTLERMWT9XBxm35E",0.719,0.631,80.126,-7.411,0.0451,0.0235,0.702,0.0686
+"43","Why I Love You So Much","Monica",1996,"7EKvTUo567BRNzZ37clvlf",0.721,0.398,151.823,-8.932,0.0449,0.0158,3.54e-05,0.0586
+"44","Count On Me","Whitney Houston",1996,"7mVV7fepIMUAE4FDyihupV",0.526,0.507,113.653,-6.647,0.029,0.388,0,0.115
+"45","Fantasy","Mariah Carey",1996,"6xkryXuiZU360Lngd4sx13",0.671,0.727,102.358,-7.585,0.035,0.139,0,0.123
+"46","You'll See","Madonna",1996,"0Fb8sdyNluLawg08N1zs48",0.601,0.545,89.79,-9.972,0.0311,0.479,0.000224,0.0975
+"47","Last Night","Az Yet",1996,"2mj1Z5bqu0UfW4o4a7UxpW",0.613,0.527,82.055,-8.877,0.0242,0.421,0,0.104
+"48","Mouth","Merril Bainbridge",1996,"11Ki2bHWXTEug0DAfKcDDD",0.695,0.499,175.896,-9.201,0.218,0.702,5.85e-05,0.154
+"49","The Earth, The Sun, The Rain","Color Me Badd",1996,"20lzW8sXHa20GVDyIwJihy",0.29,0.515,77.213,-9.42,0.0865,0.63,0,0.084
+"50","All The Things (Your Man Won't Do)","Joe",1996,"7DufxStaLzlKtFvG6VkdBU",0.617,0.678,132.313,-6.774,0.0415,0.263,0,0.323
+"51","Wonderwall","Oasis",1996,"3nV3zKrWBuDcCYjju4LkNp",0.41,0.893,174.648,-4.347,0.0342,0.000714,0,0.202
+"52","Woo Hah!! Got You All In Check","Busta Rhymes",1996,"09WxJCWFMWAxTHBLLelpDS",0.716,0.924,92.022,-5.433,0.324,0.0985,0,0.306
+"53","Tell Me","Groove Theory",1996,"2lp8xjq0WTm3HZKHuDEweg",0.8,0.361,93.059,-10.849,0.0635,0.0355,3.75e-06,0.0668
+"54","Elevators (Me & You)","OutKast",1996,"2oLwDI8tZUOh6SmTMRRfKs",0.774,0.586,85.075,-10.434,0.301,0.0234,0.000726,0.0562
+"55","Hook","Blues Traveler",1996,"0ZhSQIDIv0CWVc0Vt1aiBm",0.53,0.831,166.919,-4.311,0.0419,0.0477,1.83e-06,0.117
+"56","Doin' It","LL Cool J",1996,"1mU0es3QUBRAxKkYvTANpG",0.803,0.537,95.026,-11.503,0.238,0.381,0.0283,0.117
+"57","Too Funky","George Michael",1996,"5LTft1iL4WphwZIzBYpEWw",0.659,0.894,98.22,-8.331,0.0655,0.0167,0.333,0.76
+"58","Touch Me Tease Me","Case",1996,"6iX9C7Cqgn0St5a6L25udL",0.57,0.7,175.227,-9.834,0.128,0.27,5.13e-06,0.0924
+"59","Tonite'S Tha Night - Kris Kross Redman Remix","Kris Kross",1996,"38bTjekNUk3TMLeJbQmQ4H",0.777,0.46,91.32,-10.794,0.307,0.034,1.17e-05,0.321
+"60","Children","Robert Miles",1996,"4wtR6HB3XekEengMX17cpc",0.604,0.755,137.064,-10.761,0.0337,0.000295,0.812,0.0625
+"61","Closer To Free","Bodeans",1996,"0xw22cJECqEQ8RlH0H4sHr",0.497,0.943,98.155,-4.792,0.0412,0.000627,0.000698,0.731
+"62","Just A Girl","No Doubt",1996,"6mfkHv00I6jhHIn7EWHJ2N",0.634,0.93,108.012,-2.793,0.056,0.0944,0.000317,0.134
+"63","Lady - Radio Edit","D'Angelo",1996,"1hp5TYhnsH4FBQSsR7RpJK",0.809,0.446,84.905,-8.946,0.0929,0.169,0.00764,0.0613
+"64","Key West Intermezzo (I Saw You First)","John Mellencamp",1996,"4hiP73O5neL2rKZ4tfdxpc",0.692,0.842,116.478,-6.486,0.0277,0.00635,1.5e-05,0.198
+"65","Pony","Ginuwine",1996,"6mz1fBdKATx6qP4oP1I65G",0.749,0.605,142.024,-9.359,0.086,0.00186,0.0381,0.115
+"66","Nobody (feat. Athena Cage) - Remastered Single Version","Keith Sweat",1996,"02UYYPOGSBXxGEMce927XV",0.712,0.511,117.896,-8.753,0.0297,0.397,0,0.483
+"67","If It Makes You Happy","Sheryl Crow",1996,"6im5Ts56ewHHJFu8qAE8X3",0.541,0.695,95.459,-6.801,0.0273,0.0678,0.000259,0.109
+"68","As I Lay Me Down","Sophie B. Hawkins",1996,"4x6gUDeNzAB273nhsNIeuG",0.646,0.721,83.72,-9.158,0.0413,0.589,2.04e-06,0.277
+"69","Keep On, Keepin' On (feat. Xscape)","MC Lyte",1996,"42aZFX1bcCDj75ue0KoNSd",0.875,0.63,91.043,-6.015,0.114,0.24,0.00011,0.0742
+"70","Jealousy - Remastered","Natalie Merchant",1996,"08kM4SluoXVyIcmiPN6WqT",0.727,0.739,100.994,-7.38,0.0343,0.137,0.0335,0.0857
+"71","I Want To Come Over","Melissa Etheridge",1996,"6uNJKTW6p5VyaCMsdZ616L",0.512,0.714,113.53,-5.14,0.0299,0.109,0.00183,0.134
+"72","Who Do U Love","Deborah Cox",1996,"331NqDIshmegDM8HJW9YhH",0.704,0.808,87.912,-7.203,0.146,0.0398,2.45e-06,0.195
+"73","Un-Break My Heart","Toni Braxton",1996,"1wyNvV8uXr35T8ChEypf8n",0.61,0.41,109.962,-9.215,0.0317,0.442,0,0.113
+"74","This Is Your Night","Amber",1996,"74qCchZScG35kEGXktHVT6",0.647,0.916,128.057,-7.367,0.0498,0.0444,0.000365,0.297
+"75","You Remind Me of Something","R. Kelly",1996,"43vQRRXiQWU05gIHZ5hCX7",0.631,0.536,59.999,-7.194,0.0586,0.591,0,0.108
+"76","Runaway","Janet Jackson",1996,"1FxXNL5NGwKPQvPKUxa3VZ",0.79,0.907,109.136,-3.02,0.0358,0.329,0.273,0.0567
+"77","Set U Free - Fever Mix","Planet Soul",1996,"1Q6oJGLbh2s1OocPyMKkJr",0.808,0.608,126.032,-11.101,0.0868,0.00415,0.000364,0.064
+"78","Hit Me Off","New Edition",1996,"4YRamrl8lDNnBGA9rcKsM2",0.71,0.706,88.95,-4.849,0.105,0.215,1.85e-05,0.376
+"79","My Boo - LP Radio Edit","Ghost Town DJs",1996,"2PAUsCMYNVfyw6imxFA71H",0.826,0.613,131.279,-6.395,0.0569,0.000284,2.61e-05,0.12
+"80","Get Money","Junior M.A.F.I.A.",1996,"1uUnAtPzMEHpkeodSVMcmL",0.732,0.825,91.257,-5.933,0.283,0.463,1.21e-06,0.258
+"81","That Girl - feat. Shaggy","Maxi Priest",1996,"24s6yppvGO5he6wRwCaGrr",0.667,0.698,138.654,-7.35,0.119,0.056,0,0.335
+"82","Po Pimp","Do Or Die",1996,"2XX6vU5NCiu8MToXDIxodn",0.81,0.428,142.075,-14.248,0.272,0.0623,0,0.116
+"83","Beautiful Life","Ace of Base",1996,"1GwdUrz7DujSedNxnzVfqI",0.741,0.953,135.002,-6.969,0.0333,0.202,0.00684,0.0954
+"84","Back for Good - Radio Mix","Take That",1996,"2BIBtKMUnHyYs3BsEiILTU",0.569,0.517,78.844,-9.352,0.0333,0.313,0,0.145
+"85","Soon As I Get Home","Faith Evans",1996,"5qQDNbNAsM6lANcX2y8rjR",0.653,0.488,120.117,-6.419,0.0444,0.537,0,0.159
+"86","Macarena","Los Del Rio",1996,"4oaj36KzXRgDg4McgcTsZK",0.927,0.721,103.018,-12.561,0.0908,0.422,4.36e-05,0.0422
+"87","Macarena","Los Del Rio",1996,"4oaj36KzXRgDg4McgcTsZK",0.927,0.721,103.018,-12.561,0.0908,0.422,4.36e-05,0.0422
+"88","Only Wanna Be With You","Hootie & The Blowfish",1996,"3KELxFGasKxINHhW3vwRtN",0.49,0.873,103.272,-5.861,0.0355,0.107,5.19e-06,0.118
+"89","Don't Cry","Seal",1996,"3vlSmM6N3P4nkLVwmO5eoD",0.283,0.421,92.545,-8.112,0.0305,0.727,9.45e-05,0.33
+"90","Macarena - Bayside Boys Remix","Los Del Rio",1996,"7obdw7ZGr6l1GqSBkFiY11",0.741,0.868,103.201,-8.589,0.0527,0.249,2.19e-06,0.0945

@@ -1,0 +1,92 @@
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
+"1","Candle In The Wind","Elton John",1997,"1ZvS1DmW1cF0oknYGCVNK7",0.6,0.414,124.43,-13.182,0.0291,0.172,5.91e-06,0.264
+"2","Foolish Games","Jewel",1997,"6Ee5Y6kCdlZfoFhyR8xPVt",0.298,0.0735,131.045,-16.472,0.0378,0.944,0.000401,0.0976
+"3","I'll Be Missing You (feat. 112)","Diddy",1997,"3QHONiXGMGU3z68mQInncF",0.862,0.479,109.878,-9.199,0.0646,0.0522,0.00126,0.589
+"4","Un-Break My Heart","Toni Braxton",1997,"1wyNvV8uXr35T8ChEypf8n",0.61,0.41,109.962,-9.215,0.0317,0.442,0,0.113
+"5","Can't Nobody Hold Me Down (feat. Mase)","Diddy",1997,"1EM23A621Z0QyTlWKu7T1l",0.928,0.771,93.987,-5.935,0.251,0.102,1.07e-05,0.338
+"6","I Believe I Can Fly","R. Kelly",1997,"0AIfr4oi192dWLRJZrRz1O",0.544,0.473,120.459,-5.875,0.0297,0.163,0,0.112
+"7","Don't Let Go (Love)","En Vogue",1997,"1zJy6jwcyZGZKIIXWloVAc",0.63,0.65,78.273,-7.421,0.041,0.262,0.00014,0.253
+"8","Wannabe - Radio Edit","Spice Girls",1997,"1Je1IMUlBXcx1Fz0WE7oPT",0.768,0.864,110.008,-6.145,0.0324,0.101,0,0.162
+"9","Quit Playing Games (With My Heart)","Backstreet Boys",1997,"1nRwyxNsqCLeA17qR8Nfxx",0.8,0.875,100.033,-4.952,0.0338,0.0615,2.79e-06,0.13
+"10","MMMBop","Hanson",1997,"0lnxrQAd9ZxbhBBe7d8FO8",0.693,0.937,104.844,-6.298,0.0503,0.00565,0.00411,0.0778
+"11","You Make Me Wanna...","Usher",1997,"1Ddf5oGQwHnRoacJIr8M1j",0.761,0.632,164.049,-7.583,0.0578,0.035,0,0.0895
+"12","Bitch","Meredith Brooks",1997,"3i6qNxyVgIdUZTTi5m25EM",0.617,0.886,96.328,-5.953,0.055,0.0112,9.63e-05,0.0523
+"13","Nobody (feat. Athena Cage) - Remastered Single Version","Keith Sweat",1997,"02UYYPOGSBXxGEMce927XV",0.712,0.511,117.896,-8.753,0.0297,0.397,0,0.483
+"14","Semi-Charmed Life","Third Eye Blind",1997,"6luSHkUXVmx3DKGN4TuRqF",0.637,0.902,102.014,-5.077,0.0325,0.00752,0,0.323
+"15","Barely Breathing (45 Version)","Duncan Sheik",1997,"7eBky33UQEUKp0sNhcU6rW",0.48,0.786,188.012,-7.564,0.0447,0.028,0,0.274
+"16","Hard To Say I'm Sorry","Az Yet",1997,"2OWzR8QoH7KaLtiN65v32x",0.537,0.413,127.77,-9.949,0.0366,0.604,0,0.16
+"17","Mo Money Mo Problems (feat. Mase & Puff Daddy)","The Notorious B.I.G.",1997,"2XncSBceg7BwEpbWVI6FLi",0.855,0.845,104.347,-6.163,0.067,0.0179,0,0.287
+"18","The Freshmen","The Verve Pipe",1997,"21jEuMn2lf37715rwjow2M",0.571,0.505,99.562,-9.312,0.0238,0.0757,1.04e-05,0.109
+"19","I Want You","Savage Garden",1997,"1IPG1ph2URqWSDGVPMW2Xg",0.64,0.894,106.073,-5.475,0.0367,0.0211,0,0.334
+"20","No Diggity (Re-Recorded / Remastered)","Blackstreet",1997,"5OBGoVvCDEL63OLl6BlHa3",0.853,0.526,92.59,-5.425,0.211,0.347,0,0.0684
+"21","I Belong To You (Every Time I See Your Face)","Rome",1997,"1nP6feYWJVpbO41aezFtm2",0.759,0.337,117.845,-11.034,0.035,0.026,0,0.0753
+"22","Hypnotize","The Notorious B.I.G.",1997,"1oLIBuedMjAbHlO4WTGJi3",0.917,0.505,93.92,-6.756,0.277,0.136,0,0.201
+"23","Every Time I Close My Eyes","Babyface",1997,"2DLfVnmabQqX3g3dnfvBe2",0.658,0.414,143.706,-7.704,0.0245,0.065,0,0.105
+"24","In My Bed","Dru Hill",1997,"2v9Obh8z41hUXDqnfdhVON",0.71,0.374,118.123,-7.979,0.0331,0.499,0,0.0462
+"25","Say You'll Be There - Single Mix","Spice Girls",1997,"1yTQ39my3MoNROlFw3RDNy",0.726,0.679,107.02,-6.219,0.0473,0.0149,1.49e-06,0.0837
+"26","Do You Know (What It Takes)","Robyn",1997,"5Pzv0z9cnnUSaiKMUHtYVh",0.633,0.744,200.139,-4.299,0.0353,0.00438,0.0217,0.135
+"27","4 Seasons Of Loneliness","Boyz II Men",1997,"0RwDPdfoitpL7Uk2pN7l1K",0.585,0.482,98.537,-10.536,0.0413,0.802,3.45e-05,0.111
+"28","G.H.E.T.T.O.U.T.","Changing Faces",1997,"1iNufwx3I4wskqlCjIt2Y1",0.71,0.312,108.262,-6.918,0.0325,0.391,2.19e-06,0.0682
+"29","Honey","Mariah Carey",1997,"33SWpfAzf61K2lk4pwth92",0.695,0.822,95.817,-6.794,0.102,0.102,2.5e-06,0.187
+"30","I Believe In You And Me - Film Version","Whitney Houston",1997,"47ydIiJ8DUEorIzYA7cDya",0.585,0.382,123.993,-8.973,0.0379,0.833,3.61e-05,0.0892
+"31","Da Dip","Freak Nasty",1997,"0hvittV6XhveSZLTbFFE58",0.949,0.752,131.728,-7.569,0.268,0.0202,0.000289,0.171
+"32","2 Become 1","Spice Girls",1997,"36AWdhZIGLUTkWpJDhe7va",0.646,0.665,143.966,-7.878,0.0268,0.326,1.97e-05,0.238
+"33","All For You - Original","Sister Hazel",1997,"2gw6Rk1Lr3lgN5GUXQBKrF",0.605,0.441,135.309,-8.077,0.0321,0.876,0,0.326
+"34","Cupid","112",1997,"3kVIFDE3G89I2RPVkiRaRj",0.685,0.38,175.562,-11.219,0.112,0.373,0,0.0371
+"35","Where Have All the Cowboys Gone?","Paula Cole",1997,"2wnqgQ1gEDeD9QW6i6EqLV",0.687,0.659,129.004,-7.184,0.0421,0.1,7.69e-06,0.343
+"36","Sunny Came Home","Shawn Colvin",1997,"4mOxpj82q6n3EO7HBZCelX",0.554,0.58,167.83,-8.05,0.0322,0.344,0.00842,0.0989
+"37","Ooh Aah (Just A Little Bit)","Gina G",1997,"3WEdk4BoEaQCSpqEA3JKXM",0.573,0.996,140.04,-8.39,0.0377,0.03,0.00886,0.0453
+"38","Mouth","Merril Bainbridge",1997,"11Ki2bHWXTEug0DAfKcDDD",0.695,0.499,175.896,-9.201,0.218,0.702,5.85e-05,0.154
+"39","All Cried Out - Behind the scenes Video","Allure",1997,"57vYbt3PuAPJhZ4NSZ1y2t",0.613,0.464,139.802,-8.918,0.0241,0.176,0,0.103
+"40","I'm Still In Love With You","New Edition",1997,"46LEQkbfPT5x2ZanS3STg5",0.737,0.521,134.286,-4.761,0.0368,0.431,0,0.315
+"41","Invisible Man","98<U+00BA>",1997,"5EOGZmuU56m3fFhqr4HCLe",0.693,0.549,89.911,-10.442,0.031,0.208,0,0.172
+"42","Not Tonight","Lil' Kim",1997,"1vMdYJe6OweG41UjDzEYe8",0.862,0.662,91.052,-7.669,0.153,0.00562,0,0.0375
+"43","Look into My Eyes","Bone Thugs-N-Harmony",1997,"4oQgsytVrNH5dOdiLRVKCx",0.775,0.598,144.043,-5.898,0.0597,0.0468,0.000125,0.14
+"44","Get It Together","702",1997,"4eDCsyIHTSu3cQZ5wDIyP7",0.787,0.188,114.048,-11.456,0.0348,0.642,2.48e-06,0.0696
+"45","All By Myself","C<U+00E9>line Dion",1997,"4n9e8Nx2FijSDVoumQwXPW",0.343,0.366,115.988,-8.149,0.0281,0.353,0.00899,0.0721
+"46","It's All Coming Back to Me Now","C<U+00E9>line Dion",1997,"62WlC9unRXGdRIULjishS0",0.429,0.487,89.835,-7.074,0.0348,0.752,0,0.0972
+"47","My Love Is The Shhh!","Somethin' For The People",1997,"3TS25nchaYIPb2Y2fw6cbb",0.779,0.715,126.036,-5.886,0.0368,0.297,0,0.157
+"48","Where Do You Go","No Mercy",1997,"1i7Gv6yN5aCyygveod0QDH",0.729,0.816,127.053,-11.018,0.032,0.0354,0.0947,0.0866
+"49","I Finally Found Someone (Duet with Bryan Adams)","Barbra Streisand",1997,"2WthqeuPLwn0CHwCMrlt6L",0.562,0.224,139.009,-15.069,0.0289,0.674,0,0.127
+"50","I'll Be","Foxy Brown",1997,"6Ag4SYLUGFdnJrCwUIb4mT",0.873,0.597,105.933,-9.161,0.417,0.0156,0,0.324
+"51","If It Makes You Happy","Sheryl Crow",1997,"6im5Ts56ewHHJFu8qAE8X3",0.541,0.695,95.459,-6.801,0.0273,0.0678,0.000259,0.109
+"52","Never Make A Promise - Radio Edit","Dru Hill",1997,"5pgZYnIqLXfAuzCajPJafv",0.736,0.438,113.21,-9.164,0.0283,0.267,3.85e-06,0.148
+"53","When You Love a Woman","Journey",1997,"6OcupDJfgXbC0JR8iIbBrP",0.538,0.523,132.156,-5.11,0.0266,0.333,0,0.158
+"54","I Don't Want To - Classic Radio Mix","Toni Braxton",1997,"2TIk4bAao8yA3hQ4G9kcsQ",0.713,0.451,120.059,-5.962,0.0261,0.226,0,0.0715
+"55","Everyday Is A Winding Road","Sheryl Crow",1997,"5597gOdXYiVjyIo9MosRTm",0.627,0.678,113.011,-8.178,0.0442,0.0468,2.02e-05,0.119
+"56","Cold Rock A Party","MC Lyte",1997,"4LX1UlvBCZhwVMFeM2kSgA",0.896,0.744,92.91,-5.239,0.246,0.192,1.19e-06,0.108
+"57","Pony","Ginuwine",1997,"6mz1fBdKATx6qP4oP1I65G",0.749,0.605,142.024,-9.359,0.086,0.00186,0.0381,0.115
+"58","Building A Mystery","Sarah McLachlan",1997,"0bs5Asrbhr4KNsm59epkDg",0.505,0.518,81.019,-8.601,0.023,0.403,0,0.129
+"59","I Love You Always Forever","Donna Lewis",1997,"1PEqh7awkpuepLBSq8ZwqD",0.744,0.453,103.773,-11.977,0.0348,0.627,0.421,0.0898
+"60","Your Woman","White Town",1997,"4ACxa9buEUnOdYEoPcnMpi",0.815,0.605,102.643,-9.118,0.0368,0.033,0.684,0.114
+"61","C U When U Get There - feat. 40 thevz","Coolio",1997,"5HUOEQrW3ChMxPU7HfzKIv",0.758,0.56,91.176,-7.708,0.171,0.0104,0.000445,0.301
+"62","Change The World","Eric Clapton",1997,"6BQNJ0JFKh8sWjQLI6Zudi",0.721,0.558,96.887,-8.8,0.0246,0.492,0.00563,0.113
+"63","Tubthumping","Chumbawamba",1997,"5YScXJKtefsgdskIy60N7A",0.606,0.864,103.834,-7.504,0.0919,0.117,0,0.366
+"64","Gotham City - Remix","R. Kelly",1997,"6zP4MrlpNtGRKgecJ0B36p",0.723,0.601,135.783,-6.325,0.0626,0.0243,2.99e-06,0.326
+"65","Last Night","Az Yet",1997,"2mj1Z5bqu0UfW4o4a7UxpW",0.613,0.527,82.055,-8.877,0.0242,0.421,0,0.104
+"66","Big Daddy","Heavy D",1997,"7GW6sIjwySPDVaLLV3w46J",0.875,0.636,101.114,-7.792,0.395,0.0227,0,0.0533
+"67","Smile","Scarface",1997,"2wxO3ZydJTZRi4Bbc02q7i",0.7,0.402,77.871,-9.93,0.277,0.0498,1.04e-06,0.16
+"68","What's On Tonight","Montell Jordan",1997,"1q3C05jegoKRuU1biZtVxv",0.826,0.451,111.859,-11.503,0.0425,0.3,1.86e-06,0.133
+"69","Secret Garden","Bruce Springsteen",1997,"2F1OoUXOPTi3SN06Xd7L4G",0.525,0.285,86.801,-16.807,0.026,0.5,0.0388,0.114
+"70","Fly Like An Eagle","Seal",1997,"1Y5IKAs7tuIqLHxUVjphup",0.617,0.833,97.122,-4.767,0.0574,0.00797,8.23e-06,0.0637
+"71","No Time","Lil' Kim",1997,"5Pe9H08rkbraYpP3dllcfe",0.627,0.814,90.42,-5.863,0.304,0.256,1.15e-06,0.285
+"72","Naked Eye","Luscious Jackson",1997,"6YtkOhiHmf46w1noltVnF2",0.737,0.657,131.022,-10.962,0.0284,0.0863,0.0339,0.0953
+"73","Macarena - Bayside Boys Remix","Los Del Rio",1997,"7obdw7ZGr6l1GqSBkFiY11",0.741,0.868,103.201,-8.589,0.0527,0.249,2.19e-06,0.0945
+"74","On & On","Erykah Badu",1997,"0tNuJpBgtE65diL6Q8Q7fI",0.765,0.403,80.386,-10.946,0.167,0.061,0.00559,0.204
+"75","Don't Wanna Be a Player","Joe",1997,"4JyMoznkRseonxgmyrbkuN",0.769,0.534,81.729,-6.096,0.0468,0.522,0,0.057
+"76","I Shot The Sheriff","Warren G",1997,"5uC1sC1OmVKfU0m5opiY25",0.868,0.678,91.456,-9.207,0.174,0.0331,1.08e-05,0.297
+"77","You Should Be Mine (Don't Waste Your Time)","Brian McKnight",1997,"7HP2lzaK7F55mj7J79bjf4",0.784,0.526,94.775,-7.763,0.0367,0.00475,0.000861,0.284
+"78","Don't Cry For Me Argentina","Madonna",1997,"0bLRXQaWzmSXRXPmP6JnEF",0.217,0.146,75.922,-13.9,0.0373,0.901,4.49e-06,0.222
+"79","Someone","SWV",1997,"7fCLfDo3os5Q7UDPQV5fMZ",0.675,0.589,173.906,-10.335,0.122,0.0147,0,0.0685
+"80","Go the Distance","Michael Bolton",1997,"6NEzgZRfoHWIyAaJMxUlXl",0.346,0.426,126.249,-7.857,0.0303,0.365,0,0.185
+"81","One More Time","Real McCoy",1997,"13vDH7LlES2hajU7yR07Mz",0.671,0.862,133.117,-11.367,0.0351,0.000889,0.7,0.167
+"82","Butta Love","Next",1997,"6fRLVZ4jKzuqyDPlIdbq9q",0.735,0.441,108.015,-8.412,0.0407,0.0972,0,0.0967
+"83","Coco Jamboo - Radio Version","Mr. President",1997,"6rQ9qJPvInEqSzlh89LsPJ",0.832,0.838,100.019,-5.414,0.0421,0.0791,0,0.152
+"84","Twisted","Keith Sweat",1997,"69QIVIjPMnI1ABLBqh9P1b",0.615,0.514,175.849,-9.759,0.0466,0.393,0,0.248
+"85","Barbie Girl","Aqua",1997,"2RSOzvKUnfDDrb2nQPfpQU",0.814,0.955,129.992,-5.905,0.0377,0.0146,0.283,0.218
+"86","Free To Decide","The Cranberries",1997,"1Ju1n9V6nkCaT1ZepextXi",0.388,0.778,117.65,-5.622,0.0317,0.00604,3.21e-06,0.0829
+"87","Let Me Clear My Throat - Live","DJ Kool",1997,"59xoannYTvoxAuFYGxFeXc",0.506,0.847,98.649,-6.527,0.463,0.233,0,0.96
+"88","I Like It (Like That)","The Blackout Allstars",1997,"36m3hYCp3azszZGE7mtEy8",0.752,0.719,128.036,-13.035,0.0515,2.94e-05,0.343,0.411
+"89","You're Makin' Me High","Toni Braxton",1997,"32VygCu5knUb9ZmC5acyKZ",0.848,0.555,92.126,-9.167,0.0369,0.0105,1.15e-05,0.0673
+"90","You Must Love Me","Madonna",1997,"78JPL7uIfs6Imm57r1QETk",0.357,0.161,88.746,-14.789,0.0436,0.926,3.47e-05,0.146
+"91","Let It Go - Explicit Soundtrack","Ray J",1997,"6igXETl1zKir06CA7NWYo2",0.853,0.515,93.026,-5.081,0.0453,0.0547,7.79e-05,0.0519

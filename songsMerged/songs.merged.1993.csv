@@ -1,0 +1,97 @@
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
+"1","I Will Always Love You","Whitney Houston",1993,"1cJssTcMltUxhvUZLpn3Ci",0.303,0.269,132.857,-9.469,0.0368,0.831,3.01e-06,0.0906
+"2","Whoomp! (There It Is)","Tag Team",1993,"4DCHUu9qgrtFIY5o184J6z",0.806,0.669,129.473,-7.942,0.0544,0.00133,5.79e-06,0.229
+"3","(I Can't Help) Falling in Love With You","UB40",1993,"7aR1QwbQa26sjDXiVMLik4",0.637,0.837,172.455,-8.605,0.0363,0.0393,0.00294,0.142
+"4","That's The Way Love Goes","Janet Jackson",1993,"29rQJydAlO0uMyWvRIZxQg",0.703,0.7,97.675,-6.789,0.0693,0.302,0.471,0.0718
+"5","Freak Me","Silk",1993,"5CdJveJgiGXoGwDFqF6afp",0.697,0.608,133.879,-10.976,0.0463,0.0295,0,0.276
+"6","Weak","SWV",1993,"7gxUDSHHsu3q69qb4SQzVN",0.686,0.648,127.621,-8.479,0.0371,0.0636,0,0.0667
+"7","If I Ever Fall In Love","Shai",1993,"1jCsCYgzQQHk3bDJDuFbNi",0.525,0.221,36.71,-11.233,0.0317,0.779,0,0.159
+"8","Dreamlover","Mariah Carey",1993,"7B46V9G3rBQryzZVtAaWAR",0.698,0.715,100.665,-6.188,0.0357,0.191,0,0.176
+"9","Rump Shaker - Radio Mix","Wreckx-N-Effect",1993,"1XRWHVXbXpqRWYpHOaNsQr",0.875,0.724,102.249,-8.797,0.24,0.00693,0.000616,0.279
+"10","Informer","Snow",1993,"2LjiPAQOVazT8sRyXL3XRs",0.762,0.836,98.16,-6.843,0.191,0.045,0,0.386
+"11","Nuthin' But A ""G"" Thang","Pollie Pop",1993,"3aJiB41VbS7y7j61HrN9da",0.757,0.771,79.266,-5.657,0.305,0.0261,1.69e-05,0.105
+"12","In The Still Of The Nite (I'll Remember)","Boyz II Men",1993,"16dbGMVeJg15mLFktHX5LJ",0.532,0.215,77.94,-13.673,0.0371,0.78,0,0.148
+"13","Don't Walk Away","Jade",1993,"7tsRp7QKUBp6hc9bth0h7x",0.831,0.915,102.979,-7.501,0.128,0.147,0.00571,0.196
+"14","Knockin' Da' Boots","H-Town",1993,"2LP2NrdZlsabtHT0GUCwUa",0.734,0.583,128.122,-10.652,0.126,0.152,0,0.0472
+"15","Lately","Jodeci",1993,"5hIljtQ1fRvDRc1aHdhwWK",0.385,0.317,125.919,-12.71,0.0569,0.666,1.27e-06,0.945
+"16","Dazzey Duks (Made Famous by Duice)","Dazzey Duks",1993,"6z3lO80S46Qba0hdH185NF",0.813,0.536,132.186,-8.178,0.124,0.00592,3.51e-06,0.0614
+"17","Show Me Love","Robin S",1993,"4t0UsYzmmmZRMTWn77jiGF",0.811,0.833,120.258,-4.259,0.153,0.014,2.06e-05,0.0769
+"18","Whole New World (Aladdin's Theme) - From ""Aladdin""/Soundtrack Version","Peabo Bryson",1993,"7fLkHVJAJLENmSvhrEHZxV",0.541,0.195,107.933,-16.997,0.0334,0.644,0,0.152
+"19","If","Janet Jackson",1993,"0t414ewhjcIiuPVF3QECz2",0.653,0.976,105.575,-5.173,0.0797,0.0374,0.00173,0.561
+"20","I'm So Into You","SWV",1993,"4On14uJ6lcGIFEcQfZDldy",0.843,0.585,99.011,-9.325,0.047,0.0421,0.00139,0.0643
+"21","Love Is","Vanessa Williams And Brian McKnight",1993,"7z8NZEvwZU6PzYAzkw3DWE",0.487,0.361,79.857,-9.97,0.0236,0.379,2.88e-05,0.12
+"22","Runaway Train","Soul Asylum",1993,"2n30j6VY3zozs3YSwcEQSL",0.614,0.719,117.393,-6.991,0.0381,0.0057,0,0.127
+"23","I'll Never Get Over You Getting Over Me - 7"" Version","Exposé",1993,"44qy6ywloZIkMPOMOZzm05",0.321,0.289,167.048,-12.714,0.0306,0.623,0,0.359
+"24","The Ditty (all Because Of You) feat. Terry Troutman","Paperboy",1993,"3EcBczt8iD0Uuk3qBmzi7w",0.791,0.715,99.005,-6.192,0.173,0.136,0,0.0576
+"25","Rhythm Is A Dancer - 12'' Version","SNAP!",1993,"5dle7lDSqNS2AcFtbvgkud",0.768,0.874,124.251,-7.303,0.034,0.117,0.0628,0.0842
+"26","The River of Dreams","Billy Joel",1993,"1ndqYQyhyv0kT13ZhSkoh1",0.641,0.758,89.698,-8.101,0.0561,0.215,1.24e-06,0.0672
+"27","I'm Gonna Be (500 Miles)","The Proclaimers",1993,"66S14BkJDxgkYxLl5DCqOz",0.867,0.443,131.928,-9.032,0.041,0.166,0,0.0893
+"28","Two Princes","Spin Doctors",1993,"4ePP9So5xRzspjLFVVbj90",0.543,0.912,103.731,-10.71,0.0601,0.00162,2.1e-06,0.0565
+"29","Right Here - Human Nature Radio Mix","SWV",1993,"2vgCM9swUTBS73jS5FmNQE",0.607,0.696,94.009,-5.979,0.0745,0.0746,0.0141,0.118
+"30","I Have Nothing","Whitney Houston",1993,"31er9IGsfFbwqy1pH4aiTP",0.54,0.401,152.974,-10.499,0.0364,0.576,0,0.164
+"31","Mr Wendal - 2002 - Remaster","Arrested Development",1993,"6LSTAQ6r7OxsOOlIIYY47Q",0.893,0.593,109.979,-5.178,0.0983,0.12,0.00888,0.0465
+"32","Have I Told You Lately - 2008 Remastered Version","Rod Stewart",1993,"6mIY6O7uNGgVqOoX70UAYh",0.523,0.366,142.814,-14.069,0.0331,0.498,0,0.094
+"33","Saving Forever For You","Shanice",1993,"6pVU9bk1Tvbqlq719vJooz",0.655,0.545,133.358,-8.163,0.0342,0.494,0,0.0417
+"34","Ordinary World","Duran Duran",1993,"0wokCRaKD0zPNhMRXAgVsr",0.472,0.652,140.124,-10.171,0.0305,0.0131,1.12e-05,0.14
+"35","I'd Do Anything For Love (But I Won't Do That) - Single Edit","Meat Loaf",1993,"391CwgcBxvUHmEKda2b5In",0.417,0.659,104.818,-6.385,0.113,0.602,0,0.419
+"36","Slam - Album Version (Edited)","Onyx",1993,"226BBqkrXcWm3rSdUB6eXW",0.855,0.888,98.267,-7.429,0.37,0.0417,0.000303,0.87
+"37","Looking Through Patient Eyes","P.M. Dawn",1993,"2SfBzxh1MQSYKQeuhCzHub",0.779,0.656,102.234,-7.788,0.0433,0.201,1.56e-06,0.262
+"38","I'm Every Woman (Album Version)","Whitney Houston",1993,"4rcK1t8KTbetfO3n8CDyyW",0.666,0.839,119.564,-8.82,0.0544,0.019,0.00195,0.128
+"39","Baby I'm Yours","Shai",1993,"5jnf5Lv2TJX9uYHsFKfrEh",0.496,0.571,104.912,-9.928,0.0517,0.23,1.32e-05,0.149
+"40","Come Undone","Duran Duran",1993,"0yfNXxlyXdmP0ue1iJijx1",0.542,0.793,173.931,-8.203,0.053,0.0423,3.95e-06,0.0814
+"41","I Don't Wanna Fight - Single Edit","Tina Turner",1993,"4M21CAQGZgBlSwen5VPHa8",0.601,0.899,92.051,-4.084,0.0484,0.21,3.44e-06,0.141
+"42","I'd Die Without You","P.M. Dawn",1993,"7kFAwFdZcvvqOggZ2dY5jg",0.543,0.266,79.992,-18.813,0.0443,0.256,0.00093,0.0993
+"43","Whoot, There It Is","95 South",1993,"1s8kVrqbe6LhBrZWaIzLgu",0.415,0.85,205.001,-7.182,0.339,0.0128,0.8,0.0512
+"44","Hip Hop Hooray","Naughty By Nature",1993,"3fwUpUntnrvggfHhvyQq6D",0.869,0.826,99.143,-6.996,0.101,0.0482,2.42e-06,0.326
+"45","Another Sad Love Song","Toni Braxton",1993,"70iDnqYvxCPl3mPd3ddxgD",0.78,0.71,96.067,-7.429,0.0479,0.0143,3.49e-05,0.0366
+"46","Will You Be There - Single Version","Michael Jackson",1993,"36O7qmyKLHpUY6WdWh8M5g",0.413,0.626,82.971,-6.504,0.0727,0.511,0.000323,0.0845
+"47","Comforter","Shai",1993,"6vHJpgX1QTYa9SVXankGVR",0.738,0.383,121.897,-12.761,0.0302,0.00645,0.000231,0.134
+"48","Good Enough - Single Edit","Bobby Brown",1993,"5O6rmxKClCySXM6VM5w754",0.652,0.821,90.023,-7.45,0.0343,0.0544,7.65e-05,0.0469
+"49","What's Up?","4 Non Blondes",1993,"0jWgAnTrNZmOGmqgvHhZEm",0.561,0.555,134.369,-9.734,0.0287,0.16,0,0.114
+"50","All That She Wants","Ace of Base",1993,"4PifbP29I4IF0I437LTMW3",0.795,0.497,93.744,-13.661,0.0659,0.00571,6.75e-05,0.118
+"51","7","Prince",1993,"7ntO2GqG4NcID6snH3sZNw",0.747,0.749,100.722,-6.255,0.0563,0.0917,0,0.0444
+"52","F**k Wit Dre Day (Guide Vocal) - Originally performed by Dr. Dre","Karaoke Beatbox Gang",1993,"5Eh3XUgiRyOqtV2oVVT3Hl",0.768,0.562,93.583,-7.309,0.0602,0.00478,0,0.0924
+"53","One Last Cry","Brian McKnight",1993,"3l9OCOG3Vt6c2lxeMyGSIY",0.261,0.14,71.251,-13.626,0.0334,0.912,0.00028,0.133
+"54","Just Kickin' It","Xscape",1993,"51RvCRzeTqoQgdOBgcpHtT",0.694,0.365,80.904,-12.294,0.0635,0.054,3.43e-05,0.401
+"55","I Get Around","2Pac",1993,"74kHlIr01X459gqsSdNilW",0.85,0.705,96.206,-4.545,0.114,0.139,9.05e-06,0.3
+"56","Bed Of Roses","Bon Jovi",1993,"6qhl8yRJtpqlJD10VPOQtd",0.431,0.582,82.773,-5.514,0.0251,0.128,0,0.193
+"57","Real Love","Mary J. Blige",1993,"6l3FFojHwLpo4W2Vmpy0Ox",0.76,0.674,95.039,-9.051,0.0842,0.0978,0.000619,0.067
+"58","Here We Go Again! - Radio Edit","Portrait",1993,"5rIr1MOh4cWwpdln1QqTPS",0.771,0.745,106.709,-10.217,0.0904,0.0256,0.000374,0.107
+"59","Cryin'","Aerosmith",1993,"1CShgAvkBtZUy8YO1cNIuC",0.446,0.836,105.848,-3.689,0.032,0.000262,0.0212,0.318
+"60","Cats In The Cradle","Ugly Kid Joe",1993,"57YCtunW2zzriKuLysMe9e",0.512,0.497,75.831,-10.547,0.032,0.132,0,0.079
+"61","What About Your Friends","TLC",1993,"63PIgPkDf3rswlU4ZWCYAM",0.744,0.851,105.882,-10.108,0.049,0.0267,0.00738,0.0989
+"62","I Got a Man","Positive K",1993,"7J61aFBXNNtgWKZ3WV7rLf",0.905,0.828,104.013,-6.472,0.305,0.166,0,0.328
+"63","Hey Mr. D.J.","Zhané",1993,"5xka4Z5fOoXt0v9Qxpzh6t",0.873,0.563,101.315,-8.172,0.0623,0.0367,0.00141,0.0945
+"64","Insane in the Brain","Cypress Hill",1993,"3g2gE5LtNn4P4kPeZVxQW8",0.902,0.717,102.181,-7.979,0.175,0.0201,0.108,0.136
+"65","Deeper And Deeper","Madonna",1993,"6KU8g98m1tcrUXRNjPQeOI",0.659,0.818,119.943,-7.09,0.0265,0.00601,0.299,0.336
+"66","Rain","Madonna",1993,"3b3PnE1ROIZzILjmCGjVib",0.592,0.642,92.419,-9.38,0.026,0.0883,0.00134,0.131
+"67","The Right Kind Of Love","Jeremy Jordan",1993,"6WTwlLmhaq935X1jCq19wT",0.712,0.597,178.36,-9.411,0.0361,0.199,0,0.043
+"68","Bad Boys","Inner Circle",1993,"3hAbXQFmubmbwyXTxYalpT",0.661,0.476,86.749,-13.832,0.0431,0.694,3.21e-06,0.235
+"69","Do You Believe In Us","Jon Secada",1993,"3u5e3ovyvQLoauwUzWezvX",0.662,0.891,107.75,-7.245,0.0349,0.0103,3.64e-06,0.634
+"70","Angel","Jon Secada",1993,"543d68hZ4dzVePFfdVc0Ki",0.485,0.477,151.704,-8.948,0.0262,0.295,3.35e-05,0.202
+"71","Forever in Love","Kenny G",1993,"1PYjOMp27slDQczgZRTwmt",0.375,0.493,81.549,-7.479,0.028,0.261,0.0985,0.158
+"72","Again","Janet Jackson",1993,"0IaMMHVbpJ0LrRAeigWOXr",0.358,0.287,130.128,-9.51,0.0303,0.882,0.00607,0.186
+"73","Boom! Shake the Room","DJ Jazzy Jeff & The Fresh Prince",1993,"6l2haiCg21JT5KS1j0gUoH",0.698,0.969,100.177,-3.667,0.249,0.115,0,0.313
+"74","When She Cries","Restless Heart",1993,"61EQfJXizp4MIpLYWyLoQI",0.666,0.521,105.223,-10.993,0.0292,0.114,0,0.0604
+"75","Sweat (A La La La La Long)","Inner Circle",1993,"1SssFw74DdHVjRa6ADggdD",0.787,0.727,173.025,-7.705,0.224,0.0124,0,0.157
+"76","It Was A Good Day","Ice Cube",1993,"0m9ul5FMXzR2k2BRZKamcn",0.816,0.686,82.309,-5.813,0.12,0.296,1.46e-06,0.14
+"77","More And More - Original Single Version","Captain Hollywood Project",1993,"6jwlBPt6FlhIlHAdEN1JME",0.658,0.839,125.866,-11.827,0.0343,0.223,0.86,0.0965
+"78","How Do You Talk To An Angel","Jamie Walters & The Heights",1993,"6ujN3aI6Rip9InBqJTUUK9",0.555,0.378,80.892,-11.79,0.0289,0.0457,6.02e-06,0.107
+"79","Rebirth of Slick (Cool Like Dat) - 2005 Digital Remaster","Digable Planets",1993,"2mu2oL9gdgHGtlg9poer2u",0.887,0.422,98.332,-14.505,0.228,0.0539,0.0455,0.114
+"80","What Is Love - Radio Edit","Haddaway",1993,"1d2O0FAl7OrNNu7Ed3bGrK",0.619,0.865,137.987,-5.385,0.0339,0.00223,0.00451,0.141
+"81","To Love Somebody","Michael Bolton",1993,"5IxY4i6wcURTVdRnghACin",0.367,0.353,74.103,-11.786,0.0288,0.335,0,0.1
+"82","Give It Up, Turn It Loose","En Vogue",1993,"0BdAjgQqEb12CyH19xBU2N",0.836,0.58,93.015,-8.778,0.0692,0.19,0.000271,0.0379
+"83","Alright","Kris Kross",1993,"3uGjLZ5abCyCfYXBVfpf8X",0.803,0.582,97.305,-11.286,0.19,0.00432,4.26e-05,0.252
+"84","Check Yo Self","Ice Cube",1993,"6juIzbXd7ERNLhYCcOpi7u",0.848,0.663,101.072,-6.703,0.172,0.121,0.000939,0.113
+"85","Fields Of Gold","Sting",1993,"4gvqVvTyYC6iaS51Ux3LIe",0.647,0.367,103.972,-10.847,0.0248,0.34,0.00937,0.0677
+"86","Faithful","Go West",1993,"4gTvgAPqPDj2fL5B7EpLC0",0.615,0.912,105.538,-8.028,0.0416,0.0323,0,0.0966
+"87","Reason To Believe","Rod Stewart",1993,"6dCWWQ7qK2EE1lL6ySxFba",0.349,0.584,138.215,-9.663,0.0441,0.699,0.00172,0.222
+"88","Break It Down Again","Tears For Fears",1993,"6X3J3uYxbkPwxCneLkPVd7",0.685,0.685,108.999,-8.796,0.0249,0.0187,0.412,0.112
+"89","Three Little Pigs","Green Jelly",1993,"6DiPkm7C3LD9XsJWTGPFgv",0.449,0.95,144.469,-4.978,0.225,0.0115,3.66e-05,0.514
+"90","Livin' on the Edge","Aerosmith",1993,"52s0tabcgPeysK6o6vEtWy",0.409,0.851,84.761,-4.613,0.0315,0.00146,0.00719,0.368
+"91","Hey Jealousy","Gin Blossoms",1993,"1ZoHRnS5U4m7V5pgvFiK1N",0.464,0.785,153.005,-7.42,0.0436,0.00117,1.46e-06,0.328
+"92","If I Ever Lose My Faith In You","Sting",1993,"2MEcbc3bTXn4U2LcVttooC",0.586,0.81,98.001,-8.017,0.0327,0.0388,0.00914,0.049
+"93","Anniversary","Tony! Toni! Toné!",1993,"1Z0QdPM5YcMIAwhVD6wBBM",0.549,0.365,88.973,-12.956,0.0316,0.0876,9.15e-06,0.214
+"94","One Woman","Jade",1993,"0EnFaSWSkj45lktHxHtcXb",0.662,0.605,151.946,-9.475,0.0566,0.0552,0,0.418
+"95","Can't Get Enough Of Your Love","Taylor Dayne",1993,"4fLdFLvUtyJ9q3X5UnOwq8",0.688,0.743,108.178,-8.483,0.034,0.0212,9.02e-05,0.106
+"96","Two Steps Behind - Live","Def Leppard",1993,"0ly3gd4q8s8xZlTpVXANKs",0.279,0.759,78.246,-9.22,0.0379,0.138,0,0.991
