@@ -263,14 +263,15 @@ shinyServer(function(input, output) {
   
     if(input$plot_types == "Barplot") {
       ggplot(data=dat, aes(x=year, y=stat_average, fill=year)) +
-        geom_bar(stat="identity")
+        geom_bar(stat="identity") +
+        labs(y = input$features)
     } else if(input$plot_types == "Boxplot") {
       ggplot(stack(all.years.feature[,-1]), aes(x = ind, y = values, color = ind)) +
-        geom_boxplot()+
-        labs(x = "Years", y = "Percentage")
+        geom_boxplot() +
+        labs(x = "Years", y = input$features)
     } else if(input$plot_types == "Quantile") {
       qplot(Year, feature,data = feature.years,
-            xlab = 'Year', ylab = 'Percentage',geom = c("point", "smooth"),span = 0.2,  col = Year)
+            xlab = 'Year', ylab = input$features,geom = c("point", "smooth"),span = 0.2,  col = Year)
        }
   })
   
