@@ -116,6 +116,7 @@ GetRecommendedYears <- function(track.id) {
   year <- c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)
   
   features <- data.frame(year, danceability, energy, tempo, loudness, speechiness, acousticness, liveness, instrumentalness)
+  #features.diff <- data.frame(year, danceability, energy, tempo, loudness, speechiness, acousticness, liveness, instrumentalness)
   features$danceability <- abs(track.features$danceability - features$danceability)
   features$energy <- abs(track.features$energy - features$energy)
   features$tempo <- abs(track.features$tempo - features$tempo)
@@ -138,7 +139,9 @@ GetRecommendedYears <- function(track.id) {
   least.diff.years.df <- data.frame(least.diff.years)
   least.diff.years.freq <- data.frame(table(least.diff.years.df %>% group_by(least.diff.years)))
   rec.years <- least.diff.years.freq %>% filter(Freq == max(Freq)) %>% select(Var1)
-  colnames(rec.years) <- "years"
-  return(rec.years)
+  colnames(rec.years) <- "year"
+  features$year <- c("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016")
+  rec <- rec.years %>% left_join(features)
+  return(rec)
 }
 
