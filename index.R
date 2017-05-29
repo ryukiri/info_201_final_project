@@ -274,7 +274,9 @@ write.csv(merge.1981, file="songsMerged/songs.merged.1981.csv")
 write.csv(merge.1980, file="songsMerged/songs.merged.1980.csv")
 
 ## Everything merged together
-merged.all.features <- rbind(merge.2016, merge.2015, merge.2014, merge.2013, merge.2012, merge.2011, merge.2010, merge.2009, merge.2008)
+merged.all.features <- rbind(merge.2016, merge.2015, merge.2014, merge.2013, merge.2012, merge.2011, merge.2010, merge.2009, merge.2008, merge.2007, merge.2006, merge.2005, merge.2004, merge.2003, merge.2002, merge.2001, merge.2000, 
+                             merge.1999, merge.1998, merge.1997, merge.1996, merge.1995, merge.1994, merge.1993, merge.1992, merge.1991, merge.1990, 
+                             merge.1989, merge.1988, merge.1987, merge.1986, merge.1985, merge.1984, merge.1983, merge.1982, merge.1981, merge.1980)
 write.csv(merged.all.features, file = "songsMerged/songs.merged.all.csv")
 
 ## Grabbing audio features
