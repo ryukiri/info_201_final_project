@@ -308,21 +308,15 @@ shinyServer(function(input, output) {
   })
   
   ## Radio buttons
-  output$values <- renderPrint({
-    input$radio
-  })
+  
+  #output$values <- renderPrint({
+  #   input$radio
+  #})
   
   ## Text field
   output$value <- renderPrint({ 
     searched.song <- input$text
     recommendations <- GetRecommendations(searched.song)
-    recommendations
-  })
-  
-  # Search Button
-  output$action <- renderPrint({ 
-    observeEvent(input$action, {
-      
-    })
+    kable(recommendations)
   })
 })

@@ -8,6 +8,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
   titlePanel("Spotify Audio Features"),
   
   navbarPage("Team inflatable Pizza",
+             
              tabPanel("Plot",
                       sidebarLayout(
                         sidebarPanel(
@@ -55,13 +56,15 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                       ),
              tabPanel("Search", 
                       # Text input box
-                      textInput("text", label = h3("Search"), value = "Enter text..."),
+                      textInput("text", label = h3("Search"), value = "Love Yourself"),
                       
                       # Action button
-                      actionButton("action", label = "Search"),
+                      # actionButton("action", label = "Search"),
+                      
+                      submitButton("Get Recommendations", icon("refresh")),
                       
                       hr(),
-                      fluidRow(column(8, verbatimTextOutput("value")))
+                      fluidRow(column(12, verbatimTextOutput("value")))
                       
                       )
   )
