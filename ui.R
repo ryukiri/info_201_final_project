@@ -32,6 +32,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                         )
                       )
                       
+                      
                       ),
              tabPanel("Summary"),
              tabPanel("Table", 
@@ -62,6 +63,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                       # actionButton("action", label = "Search"),
                       
                       submitButton("Get Recommendations", icon("refresh")),
+                      dataTableOutput('tablep'),
                       
                       hr(),
                       fluidRow(column(12, verbatimTextOutput("value")))
