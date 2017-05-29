@@ -6,8 +6,8 @@ library(dplyr)
 
 ## Set Working Directory
 # setwd("~/Documents/Info 201/info_201_final_project")
-setwd("C:/Users/Austin Quach/Google Drive/College/Sophomore/Info 201/Homework/info_201_final_project")
-
+#setwd("C:/Users/Austin Quach/Google Drive/College/Sophomore/Info 201/Homework/info_201_final_project")
+setwd('/Users/abc/Documents/college/INFO201/info_201_final_project')
 songs.2016 <- read.csv("Songs/Songs - 2016.csv")
 songs.2015 <- read.csv("Songs/Songs - 2015.csv")
 songs.2014 <- read.csv("Songs/Songs - 2014.csv")
