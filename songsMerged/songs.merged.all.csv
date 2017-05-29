@@ -1,0 +1,854 @@
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
+"1","Love Yourself","Justin Bieber",2016,"50kpGaPAhYJ3sGmk6vplg0",0.607,0.376,102.541,-9.954,0.453,0.856,0,0.285
+"2","Sorry","Justin Bieber",2016,"09CtPGIpYB4BrO8qb1RGsF",0.605,0.768,100.209,-3.724,0.0476,0.0865,0,0.308
+"3","One Dance","Drake (ft. WizKid & Kyla)",2016,"12VWzyPDBCc8fqeWCAfNwR",0.785,0.617,103.981,-5.871,0.0522,0.00902,0.00246,0.351
+"4","Work","Rihanna (ft. Drake)",2016,"32lmL4vQAAotg6MrJnhlQZ",0.667,0.538,91.296,-6.294,0.0953,0.0644,0,0.0928
+"5","Stressed Out","Twenty One Pilots",2016,"3CRDbSIZ4r5MsZ0YwxuEkn",0.734,0.637,169.977,-5.677,0.141,0.0462,2.29e-05,0.0602
+"6","Panda","Desiigner",2016,"275a9yzwGB6ncAW4SxY7q3",0.72,0.748,145.22,-5.522,0.393,0.0235,0,0.369
+"7","Hello","Adele",2016,"0ENSn4fwAbCGeFGVUbXEU3",0.481,0.451,157.966,-6.095,0.0347,0.336,0,0.0872
+"8","Don't Let Me Down","The Chainsmokers (ft. Daya)",2016,"1i1fxkWeaMmKEB4T7zqbzK",0.532,0.869,159.803,-5.094,0.172,0.157,0.00508,0.136
+"9","Can't Stop the Feeling!","Justin Timberlake",2016,"1WkMMavIMc4JZ8cfMmxHkI",0.669,0.832,113.035,-5.72,0.0682,0.0106,0,0.0968
+"10","Closer","The Chainsmokers (ft. Halsey)",2016,"7BKLCZ1jbUBVqRi2FVlTVw",0.748,0.524,95.01,-5.599,0.0338,0.414,0,0.111
+"11","Cheap Thrills","Sia (ft. Sean Paul)",2016,"3S4px9f4lceWdKf0gWciFu",0.628,0.698,89.976,-5.608,0.105,0.0472,0.00143,0.0907
+"12","7 Years","Lukas Graham",2016,"5kqIPrATaCc2LqxVWzQGbk",0.765,0.473,119.992,-5.829,0.0514,0.287,0,0.391
+"13","Needed Me","Rihanna",2016,"1Tt4sE4pXi57mTD1GCzsqm",0.688,0.325,110.888,-8.083,0.251,0.107,0,0.0837
+"14","My House","Flo Rida",2016,"6Knv6wdA0luoMUuuoYi2i1",0.688,0.702,94.006,-4.792,0.0499,0.0215,0,0.128
+"15","I Took a Pill in Ibiza","Mike Posner",2016,"1MtUq6Wp1eQ8PC6BbPCj8P",0.665,0.725,101.96,-6.588,0.12,0.034,9.17e-06,0.0864
+"16","Work from Home","Fifth Harmony (ft. Ty Dolla $ign)",2016,"4tCtwWceOPWzenK2HAIJSb",0.803,0.585,105.017,-5.861,0.0432,0.103,3.94e-06,0.0644
+"17","This is What You Came For","Calvin Harris (ft. Rihanna)",2016,"0azC730Exh71aQlOt9Zj3y",0.63,0.928,123.963,-2.787,0.0331,0.199,0.124,0.148
+"18","Cake by the Ocean","DNCE",2016,"76hfruVvmfQbw0eYn1nmeC",0.774,0.765,119.001,-5.439,0.0502,0.156,0,0.0373
+"19","Me, Myself & I","G-Eazy x Bebe Rexha",2016,"40YcuQysJ0KlGQTeGUosTC",0.757,0.672,111.996,-6.524,0.0955,0.0186,0,0.158
+"20","Ride","Twenty One Pilots",2016,"2Z8WuEywRWYTKe1NybPQEW",0.645,0.713,74.989,-5.355,0.0393,0.00835,0,0.113
+"21","Heathens","Twenty One Pilots",2016,"6i0V12jOa3mr6uu4WYhUBr",0.732,0.396,90.024,-9.348,0.0286,0.0841,3.58e-05,0.105
+"22","Pillowtalk","Zayn",2016,"0PDUDa38GO8lMxLCRc4lL1",0.584,0.7,124.944,-4.275,0.0456,0.117,0,0.0939
+"23","Stitches","Shawn Mendes",2016,"5jsw9uXEGuKyJzs0boZ1bT",0.592,0.752,74.784,-6.589,0.114,0.0196,0,0.0477
+"24","Hotline Bling","Drake",2016,"0wwPcA6wtMf6HUMpIRdeP7",0.903,0.621,134.969,-8.132,0.0578,0.00302,0.000186,0.0504
+"25","Cold Water","Major Lazer (ft. Justin Beiber & MO)",2016,"7zsXy7vlHdItvUSH8EwQss",0.602,0.797,92.928,-5.084,0.0534,0.055,0,0.187
+"26","Send My Love (To Your New Lover)","Adele",2016,"3LGxef3inmn5jMLGDz9lqw",0.69,0.524,164.023,-8.39,0.103,0.0415,3.16e-06,0.17
+"27","Roses","The Chainsmokers (ft. Rozes)",2016,"3vv9phIu6Y1vX3jcqaGz5Z",0.713,0.802,100.001,-7.055,0.0561,0.0435,0.00377,0.309
+"28","Treat You Better","Shawn Mendes",2016,"3QGsuHI8jO1Rx4JWLUh9jd",0.672,0.81,82.888,-4.104,0.226,0.118,0,0.106
+"29","Too Good","Drake (ft. Rihanna)",2016,"7fJtPlEZKxu6gvkfBFc5tW",0.804,0.65,117.984,-7.79,0.118,0.0606,7.05e-05,0.102
+"30","Low Life","Future (ft. the Weeknd)",2016,"7EiZI6JVHllARrX9PUvAdX",0.722,0.331,143.974,-7.789,0.0725,0.337,0.283,0.146
+"31","What Do You Mean?","Justin Bieber",2016,"4B0JvthVoAAuygILe3n4Bs",0.837,0.571,125.034,-8.273,0.0922,0.61,0.000898,0.0849
+"32","The Hills","The Weeknd",2016,"7fBv7CLKzipRk6EC6TWHOB",0.54,0.561,113.295,-6.987,0.0699,0.0635,0,0.137
+"33","Just Like Fire","P!nk",2016,"7K5dzhGda2vRTaAWYI3hrb",0.632,0.701,162.958,-5.921,0.146,0.0114,0,0.108
+"34","Broccoli","D.R.A.M. (ft. Lil Yachty)",2016,"0qy5D3OJre7SPJNMOL9I71",0.886,0.525,145.99,-7.39,0.132,0.236,0,0.057
+"35","Don't","Bryson Tiller",2016,"3pXF1nA74528Edde4of9CC",0.765,0.356,97.001,-5.556,0.196,0.222,0,0.0963
+"36","Dangerous Woman","Ariana Grande",2016,"7l94dyN2hX9c6wWcZQuOGJ",0.672,0.605,134.015,-5.353,0.0378,0.0499,0,0.357
+"37","Jumpman","Drake & Future",2016,"27GmP9AWRs744SzKcpJsTZ",0.853,0.547,142.065,-7.535,0.194,0.0565,0,0.341
+"38","I Hate U I Love U","gnash (ft. Olivia O'Brien)",2016,"7vRriwrloYVaoAe3a9wJHe",0.492,0.275,92.6,-13.4,0.3,0.687,0,0.101
+"39","Here","Alessia Cara",2016,"1wYZZtamWTQAoj8B812uKQ",0.375,0.822,123.363,-4.029,0.167,0.0716,0,0.0694
+"40","Same Old Love","Selena Gomez",2016,"1BZG99C7Co1r6QUC3zaS59",0.671,0.596,98.025,-4.005,0.031,0.0236,0,0.228
+"41","Controlla","Drake",2016,"4CpKEkdGbOJV51cSvx7SoG",0.747,0.477,93.44,-11.062,0.276,0.0962,0,0.114
+"42","Like I'm Gonna Lose You","Meghan Trainer (ft. John Legend)",2016,"2YlZnw2ikdb837oKMKjBkW",0.63,0.53,108.038,-7.259,0.0434,0.4,0,0.177
+"43","One Call Away","Charlie Puth",2016,"7soJgKhQTO8hLP2JPRkL5O",0.667,0.613,91.024,-5.353,0.0344,0.403,0,0.115
+"44","Let It Go","James Bay",2016,"13HVjjWUZFaWilh2QUJKsP",0.568,0.293,147.175,-10.253,0.0313,0.804,1.26e-05,0.107
+"45","No","Meghan Trainer",2016,"3ge54HUrk1ht3EX5SMhIzZ",0.471,0.802,88.615,-3.599,0.27,0.0125,1.45e-06,0.702
+"46","Never Forget You","Zara Larsson & MNEK",2016,"6hmhG1b4LEyNuashVvuIAo",0.583,0.732,145.992,-5.728,0.0457,0.00312,9.86e-06,0.269
+"47","Let Me Love You","DJ Snake (ft. Justin Bieber)",2016,"0lYBSQXN6rCTvUZvg9S0lU",0.652,0.713,100.023,-5.311,0.0368,0.0771,1.02e-05,0.144
+"48","Don't Mind","Kent Jones",2016,"27PmvZoffODNFW2p7ehZTQ",0.464,0.771,158.777,-4.503,0.336,0.0235,0,0.063
+"49","H.O.L.Y.","Florida Georgia Line",2016,"0BCy325UZyR9z0t0uxwn2N",0.525,0.685,78.003,-3.954,0.0351,0.385,0,0.0731
+"50","We Don't Talk Anymore","Charlie Puth (ft. Selena Gomez)",2016,"37FXw5QGFN7uwwsLy8uAc0",0.728,0.563,100.017,-8.053,0.134,0.621,0,0.179
+"51","Into You","Ariana Grande",2016,"2meEiZKWkiN28gITzFwQo5",0.636,0.728,107.986,-5.871,0.0999,0.0153,1.46e-06,0.154
+"52","Gold","Kiiara",2016,"6ZSO7kPn8IMJFymyticbJO",0.6,0.412,113.049,-9.343,0.344,0.615,0.0025,0.134
+"53","Exchange","Bryson Tiller",2016,"43PuMrRfbyyuz4QpZ3oAwN",0.53,0.433,160.14,-10.598,0.185,0.108,0,0.135
+"54","679","Fetty Wap (ft. Remy Boyz)",2016,"5NQbUaeTEOGdD6hHcre0dZ",0.618,0.717,190.05,-5.738,0.318,0.00256,0,0.625
+"55","OUI","Jeremih",2016,"0PJIbOdMs3bd5AT8liULMQ",0.715,0.703,119.749,-3.825,0.0503,0.192,0,0.113
+"56","Hands to Myself","Selena Gomez",2016,"1LoriJC05IrHIDwj3q0KC1",0.803,0.504,111.014,-7.218,0.0979,0.0165,5.25e-06,0.335
+"57","2 Phones","Kevin Gates",2016,"0wdKiSBUT7aZkXUIdJWcwC",0.895,0.681,121.918,-5.267,0.358,0.157,0,0.189
+"58","Starboy","The Weeknd (ft. Daft Punk)",2016,"7MXVkk9YMctZqd1Srtv4MB",0.675,0.595,185.998,-7.033,0.284,0.168,3.36e-06,0.136
+"59","For Free","DJ Khaled (ft. Drake)",2016,"4JDZl9nKIAhAhDjw753u4X",0.916,0.571,103.521,-8.241,0.2,0.0173,1.11e-06,0.153
+"60","Never Be Like You","Flume (ft. Kai)",2016,"6y0igZArWVi6Iz0rj35c1Y",0.54,0.59,119.878,-4.359,0.0528,0.446,0,0.14
+"61","In the Night","The Weeknd",2016,"25KybV9BOUlvcnv7nN3Pyo",0.317,0.683,167.615,-4.989,0.134,0.0794,0,0.0465
+"62","Me Too","Meghan Trainor",2016,"1m4dXbkplvaOO4Wbdjbwxs",0.934,0.694,123.822,-5.849,0.1,0.0963,1.21e-06,0.479
+"63","Ex's & Oh's","Elle King",2016,"70eDxAyAraNTiD6lx2ZEnH",0.612,0.921,139.986,-2.879,0.0848,0.0183,0,0.0576
+"64","Die A Happy Man","Thomas Rhett",2016,"5kNe7PE09d6Kvw5pAsx23n",0.66,0.383,83.096,-9.377,0.0304,0.381,0,0.119
+"65","White Iverson","Post Malone",2016,"6eT7xZZlB2mwyzJ2sUKG6w",0.674,0.568,130.081,-7.678,0.0349,0.216,0,0.0863
+"66","Close","Nick Jonas (ft. Love Lo)",2016,"3lSDIJ2abCrOdDJ6pshUap",0.667,0.624,124.012,-5.397,0.0698,0.258,0,0.145
+"67","Unsteady","X Ambassadors",2016,"7lGKEWMXVWWTt3X71Bv44I",0.598,0.673,117.02,-6.134,0.0469,0.177,0.000316,0.203
+"68","Sucker For Pain","Lil Wayne, Wi",2016,"4dASQiO1Eoo3RJvt74FtXB",0.502,0.786,169.021,-4.378,0.317,0.255,0,0.65
+"69","Down in the DM","Yo Gotti (ft. Nicki Minaj)",2016,"1LxKKYsJNPeBdOwdudsJzv",0.776,0.662,152.927,-7.016,0.0489,0.00157,2.1e-05,0.0887
+"70","LUV","Tory Lanez",2016,"16Ah4QqH4mgYVXqfC4mdSd",0.487,0.532,138.13,-8.129,0.245,0.0129,0,0.123
+"71","Can't Feel My Face","The Weeknd",2016,"22VdIZQfgXJea34mQxlt81",0.711,0.783,107.972,-5.407,0.0423,0.109,0,0.0947
+"72","Hymn For The Weekend","Coldplay",2016,"6s3GEN8wK0OMzzzZbXj0fu",0.565,0.849,102.034,-3.516,0.0517,0.00868,4.68e-06,0.12
+"73","Say It","Tory Lanez",2016,"2Gyc6e2cLxA5hoX1NOvYnU",0.384,0.512,107.241,-10.545,0.0753,0.0798,1.19e-05,0.129
+"74","Antidote","Travis Scott",2016,"1wHZx0LgzFHyeIZkUydNXq",0.713,0.526,131.05,-5.046,0.032,0.00767,0.000148,0.124
+"75","Lost Boy","Ruth B",2016,"4h0zU3O9R5xzuTmNO7dNDU",0.71,0.0565,123.994,-15.099,0.0534,0.965,0,0.0889
+"76","Side to Side","Ariana Grande (ft. Nicki Minaj)",2016,"1pKeFVVUOPjFsOABub0OaV",0.65,0.728,159.167,-5.914,0.232,0.0373,0,0.328
+"77","Sit Still, Look Pretty","Daya",2016,"0EGuSSpuu9wmHCtvb4PdLO",0.657,0.739,181.994,-4.081,0.274,0.141,0,0.178
+"78","Middle","DJ Snake (ft. Bipolar Sunshine)",2016,"0g5EKLgdKvNlln7TNqBByK",0.586,0.701,104.957,-5.326,0.0416,0.0203,0,0.055
+"79","On My Mind","Ellie Goulding",2016,"4nS1sut0R2mgmFitKIShVe",0.697,0.687,154.921,-6.574,0.0537,0.279,5.11e-06,0.0861
+"80","Pop Style","Drake (ft. The Throne)",2016,"23NWj2izXAJ4yL6Nah73wf",0.795,0.482,132.985,-8.995,0.22,0.234,3.99e-06,0.104
+"81","When We Were Young","Adele",2016,"7IWkJwX9C0J7tHurTD7ViL",0.381,0.594,143.86,-5.97,0.0486,0.348,0,0.0925
+"82","Hide Away","Daya",2016,"0uyZ5ckiIUbFZd3P6RWmrj",0.885,0.801,95.011,-4.716,0.0882,0.225,1.65e-06,0.0733
+"83","Lean On","Major Lazer & DJ Snake (ft. MO)",2016,"5wldXGLEOoRXxMWJ8rIUWE",0.723,0.809,98.007,-3.081,0.0625,0.00346,0.00123,0.565
+"84","I Know What You Did Last Summer","Shawn Mendes & Camila Cabello",2016,"7M9t7BCy51ITF8IMyiemzk",0.692,0.782,113.881,-4.588,0.0861,0.116,0,0.152
+"85","All the Way Up","Fat Joe, Rem",2016,"61QSuw5VlC0LTS8WMO356g",0.536,0.721,117.139,-6.44,0.386,0.062,0,0.824
+"86","Watch Me","Silento",2016,"5RIVoVdkDLEygELLCniZFr",0.825,0.77,139.982,-8.508,0.134,0.265,0,0.334
+"87","Back to Sleep","Chris Brown",2016,"6dlpABcXrQKRU9G00i6Zba",0.647,0.646,92.981,-5.483,0.243,0.0424,0,0.0888
+"88","No Limit","Usher (ft. Young Thug)",2016,"4DRDMf5vftalExCy0fHbHl",0.717,0.516,127.026,-6.466,0.0601,0.0794,0,0.164
+"89","Cut It","O.T. Genasis (ft. Young Dolph)",2016,"376KnY4TrgBITxjlnbnmIy",0.875,0.673,130,-4.184,0.0932,0.135,0,0.292
+"90","Really Really","Kevin Gates",2016,"10I3CmmwT0BkOVhduDy53o",0.762,0.666,118.97,-6.055,0.0916,0.00427,0,0.127
+"91","All In My Head (Flex)","Fifth Harmony (ft. Fetty Wap)",2016,"7nD9nN3jord9wWcfW3Gkcm",0.689,0.791,95.04,-5.194,0.053,0.023,0,0.0526
+"92","Starving","Hailee Steinfield & Grey (ft. Zedd)",2016,"4Ce37cRWvM1vIGGynKcs22",0.712,0.62,99.953,-4.187,0.0888,0.39,0,0.0994
+"93","Adventure of a Lifetime","Coldplay",2016,"69uxyAqqPIsUyTO8txoP2M",0.638,0.924,111.995,-3.887,0.0359,0.00205,0.000173,0.149
+"94","Humble and Kind","Tim McGraw",2016,"3Rkk851fZjIsglV2jbBPDd",0.349,0.486,101.053,-7.232,0.0289,0.693,1.73e-06,0.122
+"95","Wicked","Future ",2016,"6BbINUfGabVyiNFJpQXn3x",0.718,0.679,157.97,-5.899,0.0706,0.00191,0.0104,0.385
+"96","Tiimmy Turner","Desiigner",2016,"3NJG6vMH1ZsectZkocMEm0",0.597,0.743,122.798,-3.095,0.042,0.181,0,0.0796
+"97","See You Again","Wiz Khalifa (ft. Charlie Puth)",2016,"7wqSzGeodspE3V6RBD5W8L",0.689,0.481,80.025,-7.503,0.0815,0.369,1.03e-06,0.0649
+"98","Perfect","One Direction",2016,"3NLnwwAQbbFKcEcV8hDItk",0.647,0.823,99.933,-5.231,0.0762,0.0598,0,0.119
+"99","Uptown Funk!","Mark Ronson (ft. Bruno Mars)",2015,"32OlwWuMpZ6b0aN2RZOeMS",0.856,0.609,114.988,-7.223,0.0824,0.00801,8.15e-05,0.0344
+"100","Thinking Out Loud","Ed Sheeran",2015,"34gCuhDGsG4bRPIf9bb02f",0.781,0.445,78.998,-6.061,0.0295,0.474,0,0.184
+"101","See You Again","Wiz Khalifa (ft. Charlie Puth)",2015,"7wqSzGeodspE3V6RBD5W8L",0.689,0.481,80.025,-7.503,0.0815,0.369,1.03e-06,0.0649
+"102","Trap Queen","Fetty Wap",2015,"2d8JP84HNLKhmd6IYOoupQ",0.746,0.873,148.075,-3.803,0.128,0.0244,0,0.354
+"103","Sugar","Maroon 5",2015,"2iuZJX9X9P0GKaE93xcPjk",0.751,0.768,120.084,-7.089,0.0346,0.052,0,0.0848
+"104","Shut Up and Dance","Walk the Moon",2015,"4kbj5MwxO1bq9wjT5g9HaA",0.578,0.866,128.038,-3.804,0.0619,0.00701,0,0.257
+"105","Watch Me","Silento",2015,"5RIVoVdkDLEygELLCniZFr",0.825,0.77,139.982,-8.508,0.134,0.265,0,0.334
+"106","Earned It (Fifty Shades of Grey)","The Weeknd",2015,"2PIvq1pGrUjY007X5y1UpM",0.664,0.371,119.95,-5.959,0.0306,0.404,0,0.0971
+"107","The Hills","The Weeknd",2015,"7fBv7CLKzipRk6EC6TWHOB",0.54,0.561,113.295,-6.987,0.0699,0.0635,0,0.137
+"108","Cheerleader","OMI",2015,"2XPc8gL9PwxGURQFcFaDJR",0.777,0.663,118.016,-6.117,0.0305,0.146,1.52e-05,0.174
+"109","Can't Feel My Face","The Weeknd",2015,"22VdIZQfgXJea34mQxlt81",0.711,0.783,107.972,-5.407,0.0423,0.109,0,0.0947
+"110","Love Me Like You Do","Ellie Goulding",2015,"2l8w0zZVn4AZNuzrht7MRT",0.254,0.617,189.425,-6.612,0.0537,0.24,0,0.125
+"111","Take Me to Church","Hozier",2015,"0aOluBqXYd0rFSCsgDyAWX",0.566,0.664,128.945,-5.303,0.0464,0.634,0,0.116
+"112","Lean On","Major Lazer & DJ Snake (ft. MO)",2015,"5wldXGLEOoRXxMWJ8rIUWE",0.723,0.809,98.007,-3.081,0.0625,0.00346,0.00123,0.565
+"113","Want to Want Me","Jason Derulo",2015,"7oGZAicScQt96OAW4AruYy",0.775,0.68,114.025,-5.508,0.0629,0.00906,0,0.109
+"114","Where Are U Now","Skrillex & Diplo with Justin Bieber",2015,"66hayvUbTotekKU3H4ta1f",0.432,0.781,139.432,-4.038,0.0567,0.041,4.21e-06,0.0789
+"115","Fight Song","Rachel Platten",2015,"37f4ITSlgPX81ad2EvmVQr",0.564,0.714,175.924,-4.987,0.129,0.0549,0,0.155
+"116","679","Fetty Wap (ft. Remy Boyz)",2015,"5NQbUaeTEOGdD6hHcre0dZ",0.618,0.717,190.05,-5.738,0.318,0.00256,0,0.625
+"117","Lips Are Movin","Meghan Trainer",2015,"6gj08XDlv9Duc2fPOxUmVD",0.775,0.825,139.091,-5.402,0.0464,0.0506,1.03e-06,0.111
+"118","Worth It","Fifth Harmony (ft. Kid Ink)",2015,"41Fflg7qHiVOD6dEPvsCzO",0.884,0.765,99.987,-3.865,0.0882,0.063,7.04e-06,0.118
+"119","Post To Be","Omarion (ft. Chris Brown & Jhene Aiko)",2015,"6p5abLu89ZSSpRQnbK9Wqs",0.733,0.676,97.448,-5.655,0.0432,0.0697,0,0.208
+"120","Honey, I'm Good","Andy Grammer",2015,"4orphgwPHHRsdEkfUmANSD",0.753,0.796,122.025,-6.406,0.0576,0.0378,0,0.331
+"121","I'm Not The Only One","Sam Smith",2015,"0fioLzGM8ngbD1w6fMmm45",0.453,0.496,80.994,-5.785,0.0453,0.554,2.65e-05,0.0772
+"122","Good For You","Selena Gomez (ft. A$AP Rocky)",2015,"5XfywqPX6XBOdYQNbOaQvy",0.6,0.67,88.955,-6.455,0.0538,0.174,0,0.0746
+"123","All About That Bass","Meghan Trainer",2015,"0ifSeVGUr7py5GggttDhXw",0.811,0.879,134.064,-3.724,0.0514,0.0476,1.91e-06,0.109
+"124","Hotling Bling","Drake",2015,"0wwPcA6wtMf6HUMpIRdeP7",0.903,0.621,134.969,-8.132,0.0578,0.00302,0.000186,0.0504
+"125","Hey Mama","David Guetta (ft. Nicki Minaj, Bebe Rexha & Afrojack)",2015,"5b2bu6yyATC1zMXDGScJ2d",0.596,0.73,85.979,-4.091,0.151,0.24,0,0.325
+"126","G.D.F.R.","Flo Rida (ft. Sage The Gemini & Lookas)",2015,"26rdOwwjC2UnweK3xeS58u",0.657,0.827,145.889,-4.036,0.0734,0.000704,0.00534,0.065
+"127","What Do You Mean?","Justin Bieber",2015,"4B0JvthVoAAuygILe3n4Bs",0.837,0.571,125.034,-8.273,0.0922,0.61,0.000898,0.0849
+"128","Photograph","Ed Sheeran",2015,"1HNkqx9Ahdgi1Ixy2xkKkL",0.614,0.379,107.989,-10.48,0.0476,0.607,0.000464,0.0986
+"129","Hello","Adele",2015,"0ENSn4fwAbCGeFGVUbXEU3",0.481,0.451,157.966,-6.095,0.0347,0.336,0,0.0872
+"130","Stitches","Shawn Mendes",2015,"5jsw9uXEGuKyJzs0boZ1bT",0.592,0.752,74.784,-6.589,0.114,0.0196,0,0.0477
+"131","Talking Body","Tove Lo",2015,"10sqe2FD4eb8MovY8Nyaii",0.736,0.767,119.996,-5.489,0.034,0.105,0,0.0803
+"132","Jealous","Nick Jonas",2015,"5NQJnRpJHRaupdegphntQT",0.688,0.712,93.027,-3.573,0.0683,0.0108,0,0.458
+"133","Time of our Lives","Pitbull & Ne-Yo",2015,"2bJvI42r8EF3wxjOuDav4r",0.72,0.802,124.043,-5.797,0.0582,0.0921,0,0.694
+"134","Locked Away","R. City Featuring Adam Levine",2015,"0sQLhT32E9ZG2zn5iYR6nN",0.508,0.677,121.928,-5.696,0.0656,0.328,0,0.0491
+"135","Somebody","Natalie La Rose (ft. Jeremih)",2015,"7ioiB40H9xKs04QtIso2I3",0.842,0.531,105.013,-8.729,0.0377,0.000979,1.34e-05,0.0667
+"136","Fourfiveseconds","Rihanna & Kanye West & Paul McCartney",2015,"78TTtXnFQPzwqlbtbwqN0y",0.576,0.267,205.888,-5.668,0.044,0.878,0,0.119
+"137","Centuries","Fall Out Boy",2015,"04aAxqtGp5pv12UXAg4pkq",0.385,0.866,176.014,-2.817,0.0697,0.004,0,0.111
+"138","My Way","Fetty Wap (ft. Monty)",2015,"1WoOzgvz6CgH4pX6a1RKGp",0.748,0.741,128.077,-3.103,0.0531,0.00419,0,0.147
+"139","Take Your Time","Sam Hunt",2015,"6DEaND0SHv3sC11xobZLiy",0.551,0.719,158.08,-5.631,0.0416,0.0869,0,0.219
+"140","Animals","Maroon 5",2015,"2bL2gyO6kBdLkNSkxXNh6x",0.465,0.744,189.928,-6.429,0.0635,0.00018,0,0.68
+"141","I Don't F**K With You","Big Sean (ft. E-40)",2015,"7FYH5AW3bVfZHJIQpq3UOA",0.822,0.734,97.998,-5.48,0.0738,0.0372,0,0.325
+"142","B**** Better Have My Money","Rihanna",2015,"0NTMtAO2BV4tnGvw9EgBVq",0.778,0.741,102.95,-4.97,0.0484,0.0538,2.04e-06,0.29
+"143","Flex (Ooh Ooh Ooh)","Rich Homie Quan",2015,"2LLFl56eIFGFlnrplUC26f",0.728,0.62,81.998,-7.533,0.0434,0.038,0,0.342
+"144","Nasty Freestyle","T-Wayne",2015,"0PT7nlpo11hYYyfnBgtilT",0.779,0.472,135.051,-7.116,0.218,0.0577,0,0.114
+"145","Only","Nicki Minaj (ft. Drake, Lil Wayne & Chris Brown)",2015,"4MRT0dDbhqFKl67WzhUbSw",0.67,0.485,119.886,-7.272,0.737,0.409,0,0.0973
+"146","Elastic Heart","Sia",2015,"5S9lfZu1YF8xKkgSsqL2Bd",0.421,0.791,130.075,-4.998,0.0496,0.0117,1.48e-05,0.146
+"147","Cool for the Summer","Demi Lovato",2015,"2zFF6jG5hQArbzcXz3KUWk",0.584,0.614,114.075,-5.587,0.0363,0.00506,9.7e-05,0.0802
+"148","Renegades","X Ambassadors",2015,"0fYVliAYKHuPmECRs1pbRf",0.4,0.868,180.261,-5.988,0.203,0.0112,0.0685,0.27
+"149","I Don't Mind","Usher (ft. Juicy J)",2015,"7aXuop4Qambx5Oi3ynsKQr",0.87,0.464,112.974,-8.337,0.178,0.205,0,0.0902
+"150","Love Me Harder","Ariana Grande & The Weeknd",2015,"5J4ZkQpzMUFojo1CtAZYpn",0.472,0.714,98.992,-4.389,0.0334,0.00937,0,0.0764
+"151","Stay With Me","Sam Smith",2015,"5Db9VIdDsN5yu3Eu7CT0i4",0.479,0.419,85.014,-6.517,0.0389,0.568,0.000217,0.11
+"152","You Know You Like It","DJ Snake & Aluna George",2015,"57kR5SniQIbsbVoIjjOUDa",0.426,0.722,196.133,-5.369,0.196,0.0113,1.27e-06,0.262
+"153","Uma Therman","Fall Out Boy",2015,"5PUawWFG1oIS2NwEcyHaCr",0.623,0.956,149.958,-2.608,0.0753,0.119,0.000227,0.617
+"154","7/11","Beyonce",2015,"02M6vucOvmRfMxTXDUwRXu",0.747,0.705,136.024,-5.137,0.126,0.0128,0,0.126
+"155","The Heart Wants What It Wants","Selena Gomez",2015,"2dRvMEW4EwySxRUtEamSfG",0.616,0.778,83.065,-4.927,0.0387,0.0545,0,0.142
+"156","Girl Crush","Little Big Town",2015,"11qh54D0PKkBwelpDxxiEU",0.513,0.221,173.865,-10.233,0.0302,0.822,0,0.113
+"157","Slow Motion","Trey Songz",2015,"4NYwy0R3NdvORX2B6OZXBT",0.733,0.408,94.947,-7.834,0.0388,0.679,3.92e-05,0.11
+"158","Drag Me Down","One Direction",2015,"2K87XMYnUMqLcX3zvtAF4G",0.73,0.703,138.113,-5.672,0.0369,0.109,0,0.0657
+"159","Truffle Butter","Nicki Minaj (ft. Drake & Lil Wayne)",2015,"3keUgTGEoZJt0QkzTB6kHg",0.896,0.672,105.098,-6.875,0.0479,0.0525,3.14e-05,0.12
+"160","One Last Time","Ariana Grande",2015,"7xoUc6faLbCqZO6fQEYprd",0.628,0.593,125.026,-5.036,0.0323,0.093,1.65e-06,0.096
+"161","Chains","Nick Jonas",2015,"5Ns5lCnyH4y0QCxjv4cW4g",0.627,0.782,127.871,-3.256,0.0575,0.0984,0,0.269
+"162","All Eyes On You","Meek Mill (ft. Chris Brown & Nicki Minaj)",2015,"0hy1SOTEn9ifXTzOwnCwEr",0.589,0.658,77.521,-5.288,0.203,0.0242,0,0.118
+"163","No Type","Rae Sremmurd",2015,"4scpF6J5uMBvoh6sFB7EL1",0.888,0.483,125.008,-7.797,0.154,0.013,4.85e-06,0.0926
+"164","Riptide","Vance Joy",2015,"3JvrhDOgAt6p7K8mDyZwRd",0.484,0.731,101.654,-6.694,0.0379,0.431,0,0.151
+"165","Classic Man","Jidenna (ft. Roman GianArthur)",2015,"3G7XYAwtxtoGK7fAm4IlD9",0.79,0.585,94.072,-6.058,0.0348,0.185,0,0.292
+"166","Ex's & Oh's","Elle King",2015,"70eDxAyAraNTiD6lx2ZEnH",0.612,0.921,139.986,-2.879,0.0848,0.0183,0,0.0576
+"167","Dear Future Husband","Meghan Trainor",2015,"3cU2wBxuV6nFiuf6PJZNlC",0.655,0.782,79.427,-4.789,0.185,0.375,0,0.317
+"168","Marvin Gaye","Charlie Puth (ft. Meghan Trainor)",2015,"6ukMqDxnOPOgoHdak7Kyp3",0.795,0.616,110.015,-5.281,0.06,0.417,0,0.349
+"169","Like I'm Gonna Lose You","Meghan Trainor (ft. John Legend)",2015,"2YlZnw2ikdb837oKMKjBkW",0.63,0.53,108.038,-7.259,0.0434,0.4,0,0.177
+"170","Habits (Stay High)","Tove Lo",2015,"6YL5zD4SggAZAQcdPv5r0C",0.729,0.653,110.045,-3.447,0.0307,0.069,6e-05,0.0823
+"171","The Hanging Tree","James Newton Howard (ft. Jennifer Lawrence)",2015,"416MsJxvxSKY96DCmbJIRs",0.255,0.085,94.26,-17.969,0.0359,0.329,6.83e-05,0.201
+"172","Coco","O.T. Genasis",2015,"2JI71GHwq2LN8mtq3iCLYo",0.886,0.628,119.906,-5.949,0.131,0.00215,1.15e-05,0.31
+"173","Bang Bang","Jessie J, Ariana Grande, & Nicki Minaj",2015,"0puf9yIluy9W0vpMEUoAnN",0.703,0.789,150.058,-3.423,0.0928,0.292,0,0.377
+"174","Lay Me Down","Sam Smith",2015,"64GRDrL1efgXclrhVCeuA0",0.473,0.192,125.152,-10.979,0.0417,0.922,0,0.106
+"175","Tuesday","I Love Makonnen (ft. Drake)",2015,"2znzyzlAUc8Z1Ikq9aFOcx",0.77,0.664,140.163,-5.604,0.211,0.215,0.000118,0.105
+"176","Hit The Quan","iLoveMemphis",2015,"4OjuzM3rTWp3q60mEldNSF",0.741,0.488,160.018,-8.253,0.362,0.000235,0,0.0488
+"177","Downtown","Macklemore & Ryan Lewis (ft. Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz)",2015,"5pfJsMwoRYKampPay8amX0",0.828,0.609,109.725,-4.402,0.0694,0.0916,1.21e-06,0.291
+"178","House Party","Sam Hunt",2015,"1TwLKNsCnhi1HxbIi4bAW0",0.749,0.854,103.952,-5.245,0.0503,0.129,0,0.0262
+"179","Ayo","Chris Brown & Tyga",2015,"0k6DnZMLoEUH8NGD5zh2SE",0.823,0.563,98.031,-5.095,0.0443,0.0399,0,0.0851
+"180","Kick the Dust Up","Luke Bryan",2015,"5g15o2Sm55Hn9ShK5yEXgp",0.596,0.855,172.082,-2.255,0.0474,0.197,0,0.11
+"181","Blessings","Big Sean (ft. Drake)",2015,"1bzM1cd6oqFozdr4wK6HdR",0.789,0.621,118.891,-7.685,0.283,0.315,0,0.136
+"182","Budapest","George Ezra",2015,"7q0aQpiLv5tIsupcgQ3Ny4",0.717,0.455,127.81,-8.303,0.0276,0.0846,0,0.11
+"183","Chandelier","Sia",2015,"2s1sdSqGcKxpPr5lCl7jAV",0.399,0.787,117.089,-2.88,0.0499,0.0197,6.07e-05,0.0685
+"184","Heartbeat Song","Kelly Clarkson",2015,"7FC9Lng8iXU081lbigu8m8",0.49,0.798,149.109,-3.66,0.0489,0.0137,0,0.0627
+"185","Don't","Ed Sheeran",2015,"6gTJaPuj8DT8RjuDJyBgzP",0.806,0.608,95.049,-7.008,0.0659,0.0113,0,0.635
+"186","Ghost","Ella Henderson",2015,"2FiceoWDJ67rrmb5tGBpgE",0.682,0.836,104.987,-3.777,0.0425,0.0464,3.13e-06,0.0797
+"187","Here","Alessia Cara",2015,"1wYZZtamWTQAoj8B812uKQ",0.375,0.822,123.363,-4.029,0.167,0.0716,0,0.0694
+"188","Waves","Mr. Probz",2015,"5Sf3GyLEAzJXxZ5mbCPXTu",0.829,0.51,119.993,-9.334,0.0368,0.00821,0.0014,0.0829
+"189","El Perdon (Forgiveness)","Nicky Jam & Enrique Iglesias",2015,"7qCAVkHWZkF44OzOUKf8Cr",0.628,0.69,179.911,-5.828,0.0511,0.446,0,0.112
+"190","She Knows","Ne-Yo (ft. Juicy J)",2015,"7seTcUFOhn5caSDbiSfsp0",0.701,0.58,139.992,-5.864,0.0329,0.0301,0,0.538
+"191","Night Changes","One Direction",2015,"5O2P9iiztwhomNh8xkR9lJ",0.672,0.52,120.001,-7.747,0.0353,0.859,0,0.115
+"192","Back to Back","Drake",2015,"5lFDtgWsjRJu8fPOAyJIAK",0.635,0.472,174.008,-3.869,0.511,0.00898,0,0.117
+"193","How Deep is Your Love","Calvin Harris & Disciples",2015,"22mek4IiqubGD9ctzxc69s",0.738,0.868,122.003,-4.373,0.0731,0.0389,0.00171,0.388
+"194","Happy","Pharrell Williams",2014,"6NPVjNh8Jhru9xOmyQigds",0.652,0.757,159.911,-6.819,0.153,0.286,0,0.0886
+"195","Dark Horse","Katy Perry",2014,"5jrdCoLpJSvHHorevXBATy",0.646,0.587,131.932,-6.139,0.0528,0.00403,0,0.145
+"196","All of Me","John Legend",2014,"3U4isOIWM3VvDubwSI3y7a",0.422,0.264,119.93,-7.064,0.0322,0.922,0,0.132
+"197","Fancy","Iggy Azalea",2014,"3oiMJQAWVaxSubJ7b2VUtX",0.911,0.707,94.964,-4.136,0.0696,0.102,0,0.049
+"198","Counting Stars","One Republic",2014,"6sy3LkhNFjJWlaeSMNwQ62",0.663,0.714,121.99,-4.944,0.038,0.0649,0,0.116
+"199","Talk Dirty","Jason Derulo",2014,"5KONnBIQ9LqCxyeSPin26k",0.635,0.691,82.142,-4.862,0.258,0.555,0,0.097
+"200","Trumpets","Jason Derulo",2014,"5KONnBIQ9LqCxyeSPin26k",0.635,0.691,82.142,-4.862,0.258,0.555,0,0.097
+"201","Rude","Magic",2014,"3tCwjWLicbjsMCvXhN0WOE",0.743,0.807,144.062,-3.78,0.0364,0.0435,0,0.309
+"202","All About That Bass","Meghan Trainor",2014,"0ifSeVGUr7py5GggttDhXw",0.811,0.879,134.064,-3.724,0.0514,0.0476,1.91e-06,0.109
+"203","Problem","Ariana Grande",2014,"7vS3Y0IKjde7Xg85LWIEdP",0.66,0.805,103.009,-5.352,0.153,0.0192,8.83e-06,0.159
+"204","Stay With Me","Sam Smith",2014,"5Db9VIdDsN5yu3Eu7CT0i4",0.479,0.419,85.014,-6.517,0.0389,0.568,0.000217,0.11
+"205","Timber","Pitbull",2014,"3cHyrEgdyYRjgJKSOiOtcS",0.581,0.963,129.992,-4.087,0.0981,0.0295,0,0.139
+"206","Pompeii","Bastille",2014,"3gbBpTdY8lnQwqxNCcf795",0.681,0.715,127.429,-6.318,0.0388,0.078,0,0.275
+"207","Am I Wrong","Nico & Vinz",2014,"2wqaekenSQZm7hxQOYt8oE",0.725,0.68,119.939,-5.465,0.0306,0.162,2.13e-06,0.158
+"208","Turn Down For What","DJ Snake & Lil Jon",2014,"67awxiNHNyjMXhVgsHuIrs",0.818,0.799,100.014,-4.1,0.156,0.00107,0.128,0.057
+"209","The Monster","Eminem ",2014,"48RrDBpOSSl1aLVCalGl5C",0.786,0.857,110.038,-3.765,0.0734,0.0514,0,0.112
+"210","Say Something","A Great Big World & Christina Aguilera",2014,"6Vc5wAMmXdKIAM7WUoEb7N",0.407,0.147,141.284,-8.822,0.0355,0.857,2.89e-06,0.0913
+"211","Team","Lorde",2014,"3G6hD9B2ZHOsgf4WfNu7X1",0.696,0.59,99.984,-7.428,0.0904,0.151,0,0.247
+"212","Let Her Go","Passenger",2014,"6GmUVqe73u5YRfUUynZK6I",0.479,0.545,74.897,-7.346,0.0688,0.365,0,0.0963
+"213","Royals","Lorde",2014,"2dLLR6qlu5UJ5gk0dKz0h3",0.616,0.432,84.778,-9.546,0.133,0.106,0,0.132
+"214","Let It Go","Idina Menzel",2014,"0qcr5FMsEO85NAQjrlDRKo",0.539,0.488,137.073,-6.864,0.0318,0.556,0,0.122
+"215","Wake Me Up! ","Avicii",2014,"4h8VwCb1MTGoLKueQ1WgbD",0.518,0.784,124.102,-5.659,0.0524,0.00346,0.00187,0.171
+"216","Demons","Imagine Dragons",2014,"3LlAyCYU26dvFZBDUIMb7a",0.499,0.73,90.058,-2.831,0.0367,0.23,0.00018,0.378
+"217","Story of my Life","One Direction",2014,"4nVBt6MZDDP6tRVdQTgxJg",0.6,0.663,121.07,-5.802,0.0477,0.225,0,0.119
+"218","Chandelier","Sia",2014,"2s1sdSqGcKxpPr5lCl7jAV",0.399,0.787,117.089,-2.88,0.0499,0.0197,6.07e-05,0.0685
+"219","Black Widow","Iggy Azalea",2014,"7pNC5ZIKtwUK0ReSpM3P9f",0.741,0.726,163.991,-3.77,0.143,0.181,0.000189,0.111
+"220","Bang Bang","Jessie J, Ariana Grande, & Nicki Minaj",2014,"0puf9yIluy9W0vpMEUoAnN",0.703,0.789,150.058,-3.423,0.0928,0.292,0,0.377
+"221","Latch","Disclosure",2014,"1BltsyC5W3SAABdxyrDXwi",0.502,0.732,122.025,-5.45,0.168,0.0151,0.000119,0.0897
+"222","Maps","Maroon 5",2014,"4gbVRS8gloEluzf0GzDOFc",0.745,0.714,120.025,-5.501,0.0302,0.0183,0,0.0636
+"223","Loyal","Chris Brown",2014,"7kqcudBGM74MXVoYMaoWkC",0.845,0.506,99.051,-5.971,0.0409,0.0228,1.03e-06,0.0879
+"224","Best Day of my Life","American Authors",2014,"5Hroj5K7vLpIG4FNCRIjbP",0.673,0.902,100.016,-2.378,0.0347,0.0629,0.000174,0.0552
+"225","Habits (Stay High)","Tove Lo",2014,"6YL5zD4SggAZAQcdPv5r0C",0.729,0.653,110.045,-3.447,0.0307,0.069,6e-05,0.0823
+"226","Summer","Calvin Harris",2014,"6YUTL4dYpB9xZO5qExPf05",0.596,0.856,127.949,-3.556,0.0346,0.0211,0.0178,0.141
+"227","Boom Clap","Charli XCX",2014,"0Y1MWB026LYxGvhq4EcMiC",0.659,0.911,91.999,-2.28,0.0786,0.154,0.000304,0.191
+"228","Drunk in Love","Beyonce",2014,"6jG2YzhxptolDzLHTGLt7S",0.589,0.621,140.03,-6.902,0.0468,0.00969,0.00104,0.181
+"229","Anaconda","Nicki Minaj",2014,"794F99D5BQHS5ZGRXAs7I5",0.965,0.609,129.992,-6.229,0.196,0.0723,8.11e-06,0.268
+"230","Break Free","Ariana Grande",2014,"12KUFSHFgT0XCoiSlvdQi4",0.687,0.702,129.956,-5.324,0.0455,0.0064,4.35e-05,0.204
+"231","Bailando","Enrique Iglesias",2014,"1yM7GIEJ2QniupkEHOyp0a",0.722,0.845,90.958,-3.527,0.0955,0.073,0,0.0597
+"232","Burn","Ellie Goulding",2014,"0xMd5bcWTbyXS7wPrBtZA6",0.516,0.772,87.038,-5.031,0.0476,0.296,0,0.101
+"233","Wiggle","Jason Derulo",2014,"2sLwPnIP3CUVmIuHranJZU",0.697,0.621,81.946,-6.886,0.25,0.0802,0,0.162
+"234","Rather Be","Clean Bandit",2014,"3s4U7OHV7gnj42VV72eSZ6",0.799,0.586,120.97,-6.735,0.0377,0.162,2.03e-06,0.193
+"235","Don't Tell 'Em","Jeremih ",2014,"0Dc7J9VPV4eOInoxUiZrsL",0.851,0.525,97.988,-5.221,0.0874,0.421,0,0.111
+"236","Show Me","Kid Ink",2014,"7uc39NPTNiu86GQxTUMzGT",0.712,0.52,98.096,-7.325,0.0565,0.0382,0,0.134
+"237","Wrecking Ball","Miley Cyrus",2014,"2vwlzO0Qp8kfEtzTsCXfyE",0.53,0.422,119.964,-6.262,0.0342,0.407,0,0.107
+"238","Not a Bad Thing","Justin Timberlake",2014,"1JmPASoql4lnXimD5ICqRP",0.594,0.729,86.032,-5.774,0.0626,0.271,0,0.383
+"239","Roar","Katy Perry",2014,"6F5c58TMEs1byxUstkzVeM",0.671,0.766,89.968,-4.81,0.0323,0.00569,6.85e-06,0.549
+"240","Ain't It Fun","Paramore",2014,"1j8z4TTjJ1YOdoFEDwJTQa",0.61,0.893,104.031,-3.681,0.0921,0.154,4.41e-05,0.021
+"241","This is How We Roll","Florida Georgia Line",2014,"2TR7A4ulH9R1PNwMyd8o8U",0.56,0.933,132.083,-2.969,0.0384,0.0208,0,0.404
+"242","Classic","MKTO",2014,"6FE2iI43OZnszFLuLtvvmg",0.72,0.791,102.071,-4.689,0.124,0.0384,0,0.157
+"243","A Sky Full of Stars","Coldplay",2014,"0FDzzruyVECATHXKHFs9eJ",0.551,0.636,124.996,-7.125,0.0281,0.00713,0.00203,0.217
+"244","Don't","Ed Sheeran",2014,"1huvTbEYtgltjQRXzrNKGi",0.806,0.608,95.049,-7.008,0.0659,0.0113,0,0.635
+"245","Na Na","Trey Songz",2014,"5maiP9UMnTSgoxPX8X3bdz",0.67,0.476,96.975,-6.253,0.0406,0.328,0,0.104
+"246","Hot Boy","Bobby Shmurda",2014,"0rFke7eNFHbGuGJUdRgjB2",0.859,0.5,83.981,-7.628,0.347,0.042,1.6e-05,0.0616
+"247","Hold On, We're Going Home","Drake",2014,"14Rcq31SafFBHNEwXrtR2B",0.772,0.407,100.006,-7.442,0.0907,0.00349,2.4e-05,0.0705
+"248","Sing","Ed Sheeran",2014,"6K8qKeWo5MsFED7wCR6Kop",0.818,0.67,119.988,-4.451,0.0472,0.304,1.22e-06,0.0601
+"249","Radioactive","Imagine Dragons",2014,"4G8gkOterJn0Ywt6uhqbhp",0.478,0.799,136.268,-3.614,0.0638,0.126,0.000106,0.76
+"250","My Hitta","YG",2014,"4JSc7gbwGilypDRmdYl9Ty",0.661,0.5,171.076,-7.184,0.213,0.133,0,0.156
+"251","Cool Kids","Echosmith",2014,"13P5rwmk2EsoFRIz9UCeh9",0.719,0.671,130.027,-6.279,0.0336,0.0372,8.21e-06,0.12
+"252","Hey Brother","Avicii",2014,"4RXpgGM7A4Hg7cFBoH5KyF",0.537,0.777,124.943,-4.829,0.0473,0.0279,6.12e-05,0.0838
+"253","Talk Dirty","Jason Derulo",2014,"5KONnBIQ9LqCxyeSPin26k",0.635,0.691,82.142,-4.862,0.258,0.555,0,0.097
+"254","Trumpets","Jason Derulo",2014,"5KONnBIQ9LqCxyeSPin26k",0.635,0.691,82.142,-4.862,0.258,0.555,0,0.097
+"255","Animals","Maroon 5",2014,"2bL2gyO6kBdLkNSkxXNh6x",0.465,0.744,189.928,-6.429,0.0635,0.00018,0,0.68
+"256","Burnin' it Down","Jason Aldean",2014,"4J37kFNUhbX5NV1VFdVLSH",0.676,0.795,135.924,-6.648,0.0485,0.307,6.61e-06,0.0971
+"257","Play It Again","Luke Bryan",2014,"03fT3OHB9KyMtGMt2zwqCT",0.51,0.898,144.056,-3.15,0.0696,0.0832,0,0.071
+"258","2 On","Tinashe",2014,"3jVtllWS5CFFWLQng8sKsr",0.742,0.595,101.013,-7.51,0.107,0.15,0,0.111
+"259","Dirt","Florida Georgia Line",2014,"5CXnIPD6rTjszYYQm6fY2P",0.554,0.875,121.976,-4.185,0.0487,0.0661,1.59e-05,0.118
+"260","Love Runs Out","One Republic",2014,"5BJSZocnCeSNeYMj3iVqM7",0.714,0.933,120.019,-3.714,0.0571,0.165,0,0.111
+"261","Bottoms Up","Brantley Gilbert",2014,"477pWnF7WFWb9Qs6g8rs4J",0.479,0.87,170.047,-5.739,0.0442,0.143,0,0.129
+"262","Shower","Becky G",2014,"3DmW6y7wTEYHJZlLo1r6XJ",0.699,0.529,119.987,-7.548,0.0487,0.0317,3.59e-05,0.285
+"263","Me and My Broken Heart","Rixton",2014,"1oew3nFNY3vMacJAsvry0S",0.544,0.774,174.121,-4.21,0.0339,0.00682,0,0.135
+"264","Animals","Martin Garrix",2014,"6JEntXLt4z98CcDtIH9sU7",0.675,0.866,128.007,-6.454,0.039,0.00181,0.746,0.415
+"265","American Kids","Kenny Chesney",2014,"1dgWTMoHwTUnQhOQ8SR5fV",0.733,0.589,170.097,-7.37,0.1,0.0476,5.85e-06,0.0366
+"266","Brave","Sara Bareilles",2014,"6Uy6K3KdmUdAfelUp0SeXn",0.551,0.836,185.063,-3.838,0.0524,0.00502,2.1e-05,0.0425
+"267","Sweater Weather","The Neghbourhood",2014,"2QjOHCTQ1Jl3zawyYOpxh6",0.612,0.807,124.053,-2.81,0.0336,0.0495,0.0177,0.101
+"268","Leave the Night On","Sam Hunt",2014,"3wx2kQWPn9p5UppQbNhPAk",0.516,0.953,171.971,-3.828,0.0624,0.0996,0,0.349
+"269","New Flame","Chris Brown",2014,"3nw9J97nUugT84SIJdjhAV",0.709,0.638,141.994,-4.3,0.0405,0.0649,0,0.0969
+"270","Love Never Felt So Good","Michael Jackson & Justin Timberlake",2014,"48td6xvpokdYwvbl3JIiXP",0.775,0.719,117.513,-6.212,0.0435,0.132,1.79e-06,0.0662
+"271","Drunk on a Plane","Dierks Bentley",2014,"1soxUgYIZb1qx1c7o1Lc7z",0.439,0.754,205.958,-5.566,0.0323,0.00512,7.45e-06,0.186
+"272","BIRTHDAY","Katy Perry",2014,"2xLOMHjkOK8nzxJ4r6yOKR",0.716,0.669,125.975,-5.114,0.0708,0.103,1.8e-06,0.116
+"273","BARTENDER","Lady Antebellum",2014,"6olKv2HP3XgBpvVxAswowe",0.626,0.936,101.01,-3.86,0.036,0.016,4.41e-06,0.337
+"274","LA LA LA","Naughty Boy",2014,"36pLU2ywVeBKEF0rrKtmCB",0.77,0.649,125.096,-5.207,0.0307,0.113,0,0.0907
+"275","BLURRED LINES","Robin Thicke",2014,"0n4bITAu0Y0nigrz3MFJMb",0.862,0.608,120.002,-4.762,0.0402,0.00373,6.14e-06,0.0856
+"276","DO WHAT U WANT","Lady Gaga",2014,"44JqKUXiWTaRrDQUx7CwsT",0.798,0.821,97.492,-4.386,0.0683,0.316,8.6e-06,0.0948
+"277","CAN'T REMEMBER TO FORGET YOU","Shakira",2014,"0BBj0SW3vef8UNzTg4lwH9",0.697,0.813,137.976,-3.399,0.0679,0.132,0,0.129
+"278","AMNESIA","5 Seconds Of Summer",2014,"1JCCdiru7fhstOIF4N7WJC",0.572,0.499,101.593,-5.237,0.0311,0.0283,0,0.213
+"279","NO MEDIOCRE","T.I.",2014,"38aECKrbMv2F5FsYYCewCQ",0.78,0.45,95.486,-9.539,0.0465,0.0826,0,0.0809
+"280","COME WITH ME NOW","KONGOS",2014,"2kWowW0k4oFymhkr7LmvzO",0.654,0.726,103.987,-3.803,0.0401,0.0311,6.35e-05,0.0618
+"281","BELIEVE ME","Lil Wayne",2014,"6t2eIONH4Sax3R21QWiKNp",0.84,0.483,91.992,-8.838,0.157,0.273,0,0.111
+"282","23","Mike WiLL Made-It",2014,"20FZrLl9zSbO9b3DhaqO6M",0.863,0.605,140.031,-5.231,0.0572,0.000366,3.71e-06,0.132
+"283","BEACHIN'","Jake Owen",2014,"5dNGORzxFb5z3v7vSAFkTU",0.527,0.902,181.964,-5.352,0.0601,0.344,4.63e-05,0.0669
+"284","WHITE WALLS","Macklemore & Ryan Lewis",2014,"6I3KeXBT0E9MoMqYz8srVq",0.767,0.782,116.491,-5.545,0.14,0.0541,0,0.338
+"285","SHE LOOKS SO PERFECT","5 Seconds Of Summer",2014,"1gugDOSMREb34Xo0c1PlxM",0.493,0.956,160.006,-4.221,0.138,0.000668,0,0.416
+"286","STAY THE NIGHT","Zedd",2014,"2QtJA4gbwe1AcanB2p21aP",0.595,0.746,127.96,-3.115,0.0398,0.134,0,0.0863
+"287","PARTITION","Beyonce",2014,"5hgnY0mVcVetszbb85qeDg",0.412,0.441,185.571,-11.523,0.291,0.0296,0.0726,0.306
+"288","STUDIO","ScHoolboy Q",2014,"29gsi1zZrZxdStACmTQB0Z",0.644,0.581,133.965,-7.688,0.0505,0.0529,0,0.0611
+"289","0 TO 100 / THE CATCH UP","Drake",2014,"4jtyUzZm9WLc2AdaJ1dso7",0.707,0.709,89.094,-3.979,0.34,0.763,0,0.274
+"290","I DON'T DANCE","Lee Brice",2014,"5aj0xPGiEUN3aI2oOYu14S",0.587,0.559,92.036,-7.742,0.0321,0.399,6.69e-06,0.0992
+"291","SOMETHIN' BAD","Miranda Lambert Duet With Carrie Underwood",2014,"6s9m5J92By7jii22Q2XtY2",0.68,0.888,90.076,-5.308,0.055,0.0527,2.82e-06,0.0575
+"292","ADORE YOU","Miley Cyrus",2014,"5AnCLGg35ziFOloEnXK4uu",0.583,0.655,119.759,-5.407,0.0315,0.111,3.57e-06,0.113
+"293","THRIFT SHOP","Macklemore & Ryan Lewis Featuring Wanz",2013,"1CmUZGtH29Kx36C1Hleqlz",0.781,0.526,94.992,-6.985,0.293,0.0619,0,0.0457
+"294","BLURRED LINES","Robin Thicke",2013,"0n4bITAu0Y0nigrz3MFJMb",0.862,0.608,120.002,-4.762,0.0402,0.00373,6.14e-06,0.0856
+"295","RADIOACTIVE","Imagine Dragons",2013,"4G8gkOterJn0Ywt6uhqbhp",0.478,0.799,136.268,-3.614,0.0638,0.126,0.000106,0.76
+"296","HARLEM SHAKE","Baauer",2013,"01XFgRZfZI7oBagNf1Loml",0.452,0.794,137.825,-5.151,0.0483,0.0111,0.00182,0.416
+"297","CAN'T HOLD US","Macklemore & Ryan Lewis",2013,"3bidbhpOYeV4knp8AIu8Xn",0.641,0.922,146.078,-4.457,0.0786,0.0291,0,0.0862
+"298","MIRRORS","Justin Timberlake",2013,"2JZKXgq5zsokN01KWyiY6n",0.574,0.512,76.899,-6.664,0.0503,0.234,0,0.0946
+"299","JUST GIVE ME A REASON","P!nk",2013,"4VC5nFbYO4avKksJ9jN4pY",0.778,0.547,95.002,-7.273,0.0489,0.346,0.000302,0.132
+"300","WHEN I WAS YOUR MAN","Bruno Mars",2013,"0nJW01T7XtvILxQgC5J7Wh",0.612,0.28,72.795,-8.648,0.0434,0.932,0,0.088
+"301","CRUISE","Florida Georgia Line",2013,"0i5el041vd6nxrGEU8QRxy",0.464,0.945,148.012,-3.342,0.0354,0.0189,0,0.0575
+"302","ROAR","Katy Perry",2013,"6F5c58TMEs1byxUstkzVeM",0.671,0.766,89.968,-4.81,0.0323,0.00569,6.85e-06,0.549
+"303","LOCKED OUT OF HEAVEN","Bruno Mars",2013,"3w3y8KPTfNeOKPiqUTakBh",0.726,0.698,143.994,-4.165,0.0431,0.049,0,0.309
+"304","HO HEY","The Lumineers",2013,"0W4Kpfp1w2xkY3PrV714B7",0.685,0.466,79.936,-9.074,0.0304,0.794,2.06e-06,0.0915
+"305","STAY","Rihanna",2013,"1dEy9Pl81QopSxNsPxXQxv",0.619,0.324,111.927,-10.146,0.0271,0.949,5.42e-05,0.114
+"306","GET LUCKY","Daft Punk",2013,"2Foc5Q5nqNiosCNqttzHof",0.794,0.811,116.047,-8.966,0.038,0.0426,1.07e-06,0.101
+"307","ROYALS","Lorde",2013,"2dLLR6qlu5UJ5gk0dKz0h3",0.616,0.432,84.778,-9.546,0.133,0.106,0,0.132
+"308","WE CAN'T STOP","Miley Cyrus",2013,"2y4lAQpi5VTNLu2ldeTdUH",0.613,0.622,80.003,-5.794,0.0334,0.00882,0,0.37
+"309","WRECKING BALL","Miley Cyrus",2013,"2vwlzO0Qp8kfEtzTsCXfyE",0.53,0.422,119.964,-6.262,0.0342,0.407,0,0.107
+"310","WAKE ME UP!","Avicii",2013,"4h8VwCb1MTGoLKueQ1WgbD",0.518,0.784,124.102,-5.659,0.0524,0.00346,0.00187,0.171
+"311","SUIT & TIE","Justin Timberlake",2013,"6dEnpbXyamib2EJnRhTt0G",0.795,0.596,101.985,-3.799,0.219,0.103,0,0.164
+"312","CUPS (PITCH PERFECT'S WHEN I'M GONE)","Anna Kendrick",2013,"2sCl0FFOzZSmYZs90zOpd1",0.886,0.448,129.966,-8.866,0.112,0.0582,0.00658,0.035
+"313","SCREAM & SHOUT","will.i.am & Britney Spears",2013,"2iJuuzV8P9Yz0VSurttIV5",0.772,0.687,130.023,-6.834,0.0719,0.0225,5.93e-05,0.129
+"314","CLARITY","Zedd",2013,"60wwxj6Dd9NJlirf84wr2c",0.514,0.776,127.975,-3.393,0.0783,0.0371,0,0.0735
+"315","SAIL","AWOLNATION",2013,"5xhQChGGhKLWqBqX4XhtYE",0.825,0.435,119.038,-9.582,0.0568,0.452,0.609,0.0953
+"316","DON'T YOU WORRY CHILD","Swedish House Mafia",2013,"2V65y3PX4DkRhy1djlxd9p",0.612,0.84,129.042,-3.145,0.0509,0.112,0,0.116
+"317","DIAMONDS","Rihanna",2013,"7Kt59L2ZZGtOnIhvMwzG6f",0.555,0.709,91.982,-4.928,0.0452,0.00118,0,0.113
+"318","I LOVE IT","Icona Pop",2013,"5hRzAbY2AAO258hL6oqsqO",0.624,0.803,97.027,-3.312,0.0382,0.00925,3.75e-05,0.613
+"319","SAFE AND SOUND","Capital Cities",2013,"0z9UVN8VBHJ9HdfYsOuuNf",0.476,0.3,144.163,-10.737,0.0277,0.893,1.53e-05,0.0732
+"320","TREASURE","Bruno Mars",2013,"55h7vJchibLdUkxdlX3fK7",0.874,0.692,116.017,-5.28,0.0431,0.0412,7.24e-05,0.324
+"321","THE WAY","Ariana Grande",2013,"06EL94D0TA27Ik0Ke5usbj",0.644,0.879,82.518,-3.179,0.147,0.325,0,0.0742
+"322","STARTED FROM THE BOTTOM","Drake",2013,"6V2D8Lls36APk0THDjBDfE",0.793,0.512,86.35,-7.871,0.188,0.0378,0,0.16
+"323","COME & GET IT","Selena Gomez",2013,"7Gkphzdh5ouurEt7JT49Yu",0.523,0.792,80.142,-4.125,0.0512,0.00946,0.000108,0.0639
+"324","DAYLIGHT","Maroon 5",2013,"6TwfdLbaxTKzQi3AgsZNzx",0.658,0.651,119.991,-5.482,0.0271,0.00344,0,0.218
+"325","FEEL THIS MOMENT","Pitbull",2013,"0Hf4aIJpsN4Os2f0y0VqWl",0.673,0.758,135.956,-3.632,0.158,0.039,0,0.341
+"326","APPLAUSE","Lady Gaga",2013,"2Zj4FUsMtu9PMuJsHbGbdv",0.674,0.788,139.908,-4.281,0.0537,0.0253,2.04e-06,0.13
+"327","ONE MORE NIGHT","Maroon 5",2013,"4XNrMwGx1SqP01sqkGTDmo",0.71,0.8,93.01,-3.439,0.0339,0.0563,0,0.0834
+"328","MY SONGS KNOW WHAT YOU DID IN THE DARK (LIGHT EM UP)","Fall Out Boy",2013,"7s0lDK7y3XLmI7tcsRAbW0",0.561,0.927,152.011,-4.374,0.0619,0.0313,2.34e-05,0.529
+"329","F**KIN PROBLEMS","A$AP Rocky",2013,"2VaKdAeMHqHzPjPrSU0Svb",0.438,0.983,191.9,-3.04,0.0894,0.00159,0.000101,0.112
+"330","BEAUTY AND A BEAT","Justin Bieber",2013,"190jyVPHYjAqEaOGmMzdyk",0.596,0.83,127.965,-4.722,0.0635,0.00137,3.96e-05,0.065
+"331","SWEET NOTHING","Calvin Harris",2013,"24LS4lQShWyixJ0ZrJXfJ5",0.573,0.929,127.934,-3.942,0.109,0.197,0.000112,0.0567
+"332","SUMMERTIME SADNESS","Lana Del Rey & Cedric Gervais",2013,"6PUIzlqotEmPuBfjbwYWOB",0.564,0.811,126.007,-5.734,0.0513,0.0153,8.72e-06,0.125
+"333","HOME","Phillip Phillips",2013,"2ZQyksYO4zzhyHNcueL0CP",0.592,0.792,121.001,-5.884,0.0335,0.0215,0,0.159
+"334","IT'S TIME","Imagine Dragons",2013,"6BtmXhTJMM9sBTHeYYASGz",0.656,0.879,104.997,-4.614,0.0362,0.0178,0,0.109
+"335","POWER TRIP","J. Cole",2013,"7FOJvA3PxiIU0DN3JjQ7jT",0.667,0.61,99.991,-7.054,0.217,0.322,0.000203,0.426
+"336","GIRL ON FIRE","Alicia Keys",2013,"4esOae7i4rqTbAu9o5Pxco",0.482,0.706,92.494,-5.762,0.0609,0.135,0.00106,0.105
+"337","HEART ATTACK","Demi Lovato",2013,"1V6gIisPpYqgFeWbMLI0bA",0.503,0.801,173.937,-4.735,0.0757,0.0781,0,0.248
+"338","LOVE SOMEBODY","Maroon 5",2013,"0HnaqUxvHP5LaWdmWwJpiS",0.675,0.764,120.009,-6.243,0.0373,0.142,0,0.117
+"339","I WILL WAIT","Mumford & Sons",2013,"2JHBMVs8E7bJJBLkXpKgHn",0.488,0.752,131.221,-5.131,0.0323,0.0165,0.00541,0.301
+"340","TRY","P!nk",2013,"01DSvNTUsVROjnSF5j3UbD",0.673,0.629,103.998,-7.072,0.0299,0.00141,0,0.0944
+"341","WAGON WHEEL","Darius Rucker",2013,"3xdjjKMcMOFgo1eQrfbogM",0.529,0.663,148.102,-7.138,0.0306,0.456,0,0.142
+"342","GANGNAM STYLE","PSY",2013,"03UrZgTINDqvnUMbbIMhql",0.736,0.939,132.07,-2.812,0.284,0.0055,0,0.0905
+"343","I NEED YOUR LOVE","Calvin Harris",2013,"05SBRd4fXgn8FX7bf8BCAE",0.695,0.869,124.989,-5.066,0.0483,0.41,0,0.237
+"344","DIE YOUNG","Ke$ha",2013,"6mnjcTmK8TewHfyOp3fC9C",0.711,0.7,128.001,-4.805,0.046,0.00498,0.000125,0.215
+"345","SOME NIGHTS","fun.",2013,"6t6oULCRS6hnI7rm0h5gwl",0.672,0.738,107.938,-7.045,0.0506,0.0178,6.75e-05,0.0927
+"346","BOYS 'ROUND HERE","Blake Shelton",2013,"39FwE8edwuyiaa4PrGBkP7",0.611,0.688,169.895,-6.369,0.0529,0.251,2.35e-06,0.248
+"347","GONE, GONE, GONE","Phillip Phillips",2013,"5L79aNYCTKiZq7vaOElXYj",0.662,0.65,117.992,-5.981,0.0383,0.129,0,0.113
+"348","DEMONS","Imagine Dragons",2013,"3LlAyCYU26dvFZBDUIMb7a",0.499,0.73,90.058,-2.831,0.0367,0.23,0.00018,0.378
+"349","COUNTING STARS","OneRepublic",2013,"6sy3LkhNFjJWlaeSMNwQ62",0.663,0.714,121.99,-4.944,0.038,0.0649,0,0.116
+"350","LITTLE TALKS","Of Monsters And Men",2013,"3a2tuvXCHbW5nuUckuHkKT",0.46,0.786,103.192,-5.238,0.038,0.0215,0,0.133
+"351","THE OTHER SIDE","Jason Derulo",2013,"5FljCWR0cys07PQ9277GTz",0.561,0.836,127.923,-3.939,0.1,0.0525,0,0.136
+"352","BERZERK","Eminem",2013,"6Xk7PnitV9jCRorWt2LiVZ",0.713,0.876,95.227,-4.049,0.345,0.0228,0,0.247
+"353","CATCH MY BREATH","Kelly Clarkson",2013,"5qxPabNDnJQ551Tf4v6k3j",0.692,0.908,124.042,-5.364,0.0677,0.0251,0,0.0933
+"354","CRASH MY PARTY","Luke Bryan",2013,"03fT3OHB9KyMtGMt2zwqCT",0.51,0.898,144.056,-3.15,0.0696,0.0832,0,0.071
+"355","POUR IT UP","Rihanna",2013,"76VtA90NKurNqaQpV126Ue",0.782,0.495,134.016,-8.723,0.0436,0.021,0,0.104
+"356","I WANT CRAZY","Hunter Hayes",2013,"2tC3NZsLgXr9CXvOKon19c",0.562,0.878,103.029,-4.806,0.0387,0.0539,0,0.112
+"357","THE FOX","Ylvis",2013,"5HOpkTTVcmZHnthgyxrIL8",0.703,0.867,128.008,-4.292,0.0453,0.107,0,0.119
+"358","BEST SONG EVER","One Direction",2013,"5T7ZFtCcOgkpjxcuaeZbw0",0.652,0.877,118.491,-2.986,0.0465,0.0227,0,0.0789
+"359","THE A TEAM","Ed Sheeran",2013,"1VdZ0vKfR5jneCmWIUAMxK",0.642,0.289,84.996,-9.918,0.0367,0.669,0,0.18
+"360","CARRY ON","fun.",2013,"7gpy7sfWPNuOKmUNs3XQYE",0.388,0.694,145.434,-5.769,0.0735,0.118,0.000293,0.082
+"361","HIGHWAY DON'T CARE","Tim McGraw With Taylor Swift",2013,"4wFUdSCer8bdQsrp1M90sa",0.47,0.79,158.061,-5.352,0.039,0.0216,0,0.0863
+"362","THAT'S MY KIND OF NIGHT","Luke Bryan",2013,"5HGibWoxnkYSkl6mHmAlOE",0.66,0.754,110.02,-2.84,0.051,0.0626,0,0.1
+"363","SWIMMING POOLS (DRANK)","Kendrick Lamar",2013,"6REbwUNlppTfcnV4d4ZoZi",0.714,0.442,148.062,-6.012,0.257,0.0062,0.000135,0.0886
+"364","SURE BE COOL IF YOU DID","Blake Shelton",2013,"2byuMQoY8GFXEQ5z3GnXyW",0.576,0.726,136.802,-4.625,0.035,0.255,0,0.108
+"365","TROUBLEMAKER","Olly Murs",2013,"0gRczqVHrEQQDyizJUtgRc",0.761,0.856,106.009,-3.65,0.0731,0.02,0,0.149
+"366","BODY PARTY","Ciara",2013,"0rFZaQ4crlGAzuCjWCQ2xu",0.577,0.576,133.973,-6.299,0.0563,0.0143,0,0.602
+"367","ADORN","Miguel",2013,"3trS6e40JCVUOpPVt5OdHj",0.625,0.576,179.063,-5.693,0.175,0.0543,4.07e-05,0.187
+"368","HALL OF FAME","The Script",2013,"1X1DWw2pcNZ8zSub3uhlNz",0.421,0.873,84.803,-4.343,0.0565,0.0653,0,0.123
+"369","LET ME LOVE YOU (UNTIL YOU LEARN TO LOVE YOURSELF)","Ne-Yo",2013,"1Ejsu5JglwIgrFW7Bt2GuL",0.491,0.676,124.852,-6.631,0.0403,0.262,0,0.499
+"370","U.O.E.N.O.","Rocko",2013,"0HFrCOmhCYXlv4NdEwRAuj",0.422,0.641,187.027,-4.947,0.323,0.422,0,0.317
+"371","NEXT TO ME","Emeli Sande",2013,"1Xsxp1SEOxuMzjrFZhtw8u",0.674,0.81,94.995,-5.117,0.0378,0.0923,4.74e-05,0.11
+"372","MAMA'S BROKEN HEART","Miranda Lambert",2013,"2mXsZsJBThTaJXbNcg5QD4",0.768,0.809,111.989,-4.204,0.0616,0.278,0,0.139
+"373","IT GOES LIKE THIS","Thomas Rhett",2013,"6GsAD8PgHxmEuIPTG8GP3M",0.533,0.84,168.048,-6.377,0.0634,0.126,0,0.0869
+"374","BUGATTI","Ace Hood",2013,"0uFvvXbmGIXlf5ZgtHyYpf",0.607,0.589,130.431,-4.929,0.0542,0.0168,0,0.0855
+"375","WANTED","Hunter Hayes",2013,"0p1BcEcYVO3uk4KDf3gzkY",0.421,0.476,169.784,-7.692,0.0298,0.268,0,0.0816
+"376","DOWNTOWN","Lady Antebellum",2013,"4kY7rYtE4OQkJNq22OIYRI",0.532,0.825,169.961,-5.287,0.0468,0.18,0,0.296
+"377","#THATPOWER","will.i.am",2013,"01TuObJVd7owWchVRuQbQw",0.791,0.615,128.017,-6.149,0.0667,0.00162,6.47e-05,0.0812
+"378","BRAVE","Sara Bareilles",2013,"6Uy6K3KdmUdAfelUp0SeXn",0.551,0.836,185.063,-3.838,0.0524,0.00502,2.1e-05,0.0425
+"379","RUNNIN' OUTTA MOONLIGHT","Randy Houser",2013,"7CL6oaDC9d0QXFMQRkNBmy",0.532,0.801,172.05,-3.759,0.0393,0.0371,7.07e-06,0.0633
+"380","I'M DIFFERENT","2 Chainz",2013,"6J5sxraPPZ4b0CVOGAgpXj",0.941,0.685,97.524,-5.24,0.0752,0.0415,0,0.08
+"381","STILL INTO YOU","Paramore",2013,"1yjY7rpaAQvKwpdUliHx0d",0.602,0.923,136.01,-3.763,0.044,0.0098,0,0.0561
+"382","SOMEBODY THAT I USED TO KNOW","Gotye",2012,"4wCmqSrbyCgxEXROQE6vtV",0.857,0.517,129.063,-6.972,0.0384,0.565,0.000195,0.102
+"383","CALL ME MAYBE","Carly Rae Jepsen",2012,"6ol4ZSifr7r3Lb2a9L5ZAB",0.781,0.599,120.053,-6.501,0.0436,0.0109,1.12e-06,0.109
+"384","WE ARE YOUNG","fun.",2012,"7a86XRg84qjasly9f6bPSD",0.378,0.638,184.086,-5.576,0.075,0.02,7.66e-05,0.0849
+"385","PAYPHONE","Maroon 5",2012,"1LmN9SSHISbtp9LoaR5ZVJ",0.74,0.746,110.01,-4.696,0.0424,0.0198,0,0.363
+"386","LIGHTS","Ellie Goulding",2012,"7gUpO6td4OOnu0Lf9vhcIV",0.684,0.794,120.024,-6.08,0.0375,0.0344,0.0445,0.111
+"387","GLAD YOU CAME","The Wanted",2012,"1OXfWI3FQMdsKKC6lkvzSx",0.698,0.844,126.937,-4.549,0.067,0.0577,1.69e-05,0.105
+"388","STRONGER (WHAT DOESN'T KILL YOU)","Kelly Clarkson",2012,"6D60klaHqbCl9ySc8VcRss",0.562,0.939,116.044,-4.282,0.0475,0.046,0,0.112
+"389","WE FOUND LOVE","Rihanna",2012,"6qn9YLKt13AGvpq9jfO8py",0.737,0.758,128.007,-4.389,0.057,0.0253,0.0019,0.169
+"390","STARSHIPS","Nicki Minaj",2012,"59RSrxkSKSixEWBAIvE5Wa",0.748,0.727,125.014,-2.42,0.0871,0.167,0,0.166
+"391","WHAT MAKES YOU BEAUTIFUL","One Direction",2012,"3SPDQfj2UfWq6A2NllZnzn",0.729,0.771,125.011,-2.451,0.0725,0.00761,0,0.087
+"392","WILD ONES","Flo Rida",2012,"1NpW5kyvO4XrNJ3rnfcNy3",0.608,0.86,127.075,-5.324,0.0554,0.0991,0,0.262
+"393","SET FIRE TO THE RAIN","Adele",2012,"3CKCZ9pfwAfoMZlMncA1Nc",0.61,0.683,108.003,-3.879,0.0253,0.00382,1.79e-06,0.125
+"394","SEXY AND I KNOW IT","LMFAO",2012,"0obBFrPYkSoBJbvHfUIhkv",0.698,0.875,129.986,-4.164,0.322,0.115,0,0.166
+"395","SOME NIGHTS","fun.",2012,"6t6oULCRS6hnI7rm0h5gwl",0.672,0.738,107.938,-7.045,0.0506,0.0178,6.75e-05,0.0927
+"396","WIDE AWAKE","Katy Perry",2012,"5JLv62qFIS1DR3zGEcApRt",0.514,0.683,159.814,-5.099,0.0367,0.0749,2.64e-06,0.392
+"397","GOOD FEELING","Flo Rida",2012,"3NcO4jGK1Opb5ea0mYLpxb",0.706,0.89,128.011,-4.444,0.0688,0.0588,0.00286,0.306
+"398","WHISTLE","Flo Rida",2012,"0ltBH1JNzSvQJPjJpvTu9B",0.754,0.933,103.992,-5.786,0.0448,0.0199,0,0.297
+"399","ONE MORE NIGHT","Maroon 5",2012,"4XNrMwGx1SqP01sqkGTDmo",0.71,0.8,93.01,-3.439,0.0339,0.0563,0,0.0834
+"400","DRIVE BY","Train",2012,"1wAXODAAL6hY64ZdhrnjBO",0.759,0.849,122.033,-3.198,0.0317,0.000983,1.51e-05,0.0864
+"401","THE MOTTO","Drake",2012,"49ySwzAyvxcNXOkOP6ZB1L",0.774,0.431,201.843,-8.407,0.346,0.000146,1.99e-05,0.112
+"402","WHERE HAVE YOU BEEN","Rihanna",2012,"3tyPOhuVnt5zd5kGfxbCyL",0.714,0.852,128,-6.288,0.082,0.0023,0.0241,0.242
+"403","EVERYBODY TALKS","Neon Trees",2012,"3528IXKpbb7OMjdjWYlbfD",0.478,0.915,154.955,-3.858,0.0652,0.00584,0,0.386
+"404","TAKE CARE","Drake",2012,"4wTMBYRE6xVTIUQ6fEudsJ",0.697,0.527,121.849,-10.438,0.211,0.0431,1.25e-05,0.0882
+"405","TITANIUM","David Guetta",2012,"77TT8Xvx637TpzV8kKGkUw",0.599,0.803,126.057,-3.641,0.0986,0.069,0.137,0.129
+"406","I WON'T GIVE UP","Jason Mraz",2012,"05pKAafT85jeeNhZ6kq7HT",0.585,0.303,136.703,-10.058,0.0398,0.694,0,0.115
+"407","IT WILL RAIN","Bruno Mars",2012,"4rMNgxEwGWoPHIUcvB5BrB",0.574,0.824,149.981,-6.885,0.0463,0.359,0,0.0816
+"408","MERCY","Kanye West, Big Sean, Pusha T, 2 Chainz",2012,"4qikXelSRKvoCqFcHLB2H2",0.737,0.545,140.086,-8.536,0.362,0.0855,9.32e-05,0.153
+"409","BOYFRIEND","Justin Bieber",2012,"0171XsIM2xyeXRr6wsugEI",0.711,0.554,96.972,-6.099,0.0502,0.0269,0.00776,0.101
+"410","PARTY ROCK ANTHEM","LMFAO Featuring Lauren Bennett & GoonRock",2012,"0IkKz2J93C94Ei4BvDop7P",0.739,0.725,130.024,-4.153,0.165,0.0235,0,0.257
+"411","TOO CLOSE","Alex Clare",2012,"4sK96UnGx3NjBaqvfTG2dm",0.579,0.731,126.07,-4.16,0.0452,0.0137,0,0.113
+"412","PART OF ME","Katy Perry",2012,"1nZzRJbFvCEct3uzu04ZoL",0.678,0.918,130.028,-4.63,0.0355,0.000417,0,0.0744
+"413","YOUNG, WILD & FREE","Snoop Dogg & Wiz Khalifa Featuring Bruno Mars",2012,"5HQVUIKwCEXpe7JIHyY734",0.715,0.655,95.078,-6.425,0.137,0.0525,0,0.115
+"414","AS LONG AS YOU LOVE ME","Justin Bieber",2012,"0pwYLVXVknPSGUQb39cePC",0.557,0.877,139.817,-3.321,0.107,0.0748,0,0.356
+"415","TURN ME ON","David Guetta",2012,"0zlD8JjDsFUUmofqPE83Cj",0.703,0.786,127.954,-2.243,0.0561,0.0666,0,0.553
+"416","MOVES LIKE JAGGER","Maroon 5",2012,"7LcfRTgAVTs5pQGEQgUEzN",0.714,0.748,128.03,-4.471,0.0546,0.0106,0,0.325
+"417","BLOW ME (ONE LAST KISS)","P!nk",2012,"6LS6pltO7YBgjwNVhxMwtp",0.597,0.919,113.987,-2.954,0.044,0.000145,0,0.282
+"418","GOOD TIME","Owl City & Carly Rae Jepsen",2012,"1kPpge9JDLpcj15qgrPbYX",0.559,0.882,126.064,-4.281,0.157,0.0314,1.71e-05,0.605
+"419","GIVE YOUR HEART A BREAK","Demi Lovato",2012,"3sP3c86WFjOzHHnbhhZcLA",0.643,0.695,123.026,-3.099,0.0463,0.236,0,0.145
+"420","NI**AS IN PARIS","Jay Z Kanye West",2012,"2KpCpk6HjXXLb7nnXoXA5O",0.749,0.884,140.077,-6.07,0.243,0.0942,0,0.191
+"421","THE ONE THAT GOT AWAY","Katy Perry",2012,"3oL3XRtkP1WVbMxf7dtTdu",0.687,0.792,133.962,-4.023,0.0353,0.000802,0,0.2
+"422","FEEL SO CLOSE","Calvin Harris",2012,"1gihuPhrLraKYrJMAEONyc",0.707,0.924,127.937,-2.842,0.031,0.000972,0.00703,0.204
+"423","SOMEONE LIKE YOU","Adele",2012,"4kflIGfjdZJW4ot2ioixTB",0.559,0.33,135.109,-8.251,0.0285,0.892,0,0.0975
+"424","SCREAM","Usher",2012,"5sAlmL7Qp9N9BJTADkwEt9",0.616,0.862,127.992,-5.18,0.0973,0.00117,0,0.179
+"425","RACK CITY","Tyga",2012,"0srwKuJPH8yBzzFUJMBQM2",0.927,0.328,98.95,-10.969,0.374,0.0471,1.54e-05,0.12
+"426","DOMINO","Jessie J",2012,"6MAdEUilV2p9RQUqE5bMAK",0.763,0.556,126.985,-4.509,0.0387,0.00954,0,0.0496
+"427","GANGNAM STYLE","PSY",2012,"03UrZgTINDqvnUMbbIMhql",0.736,0.939,132.07,-2.812,0.284,0.0055,0,0.0905
+"428","INTERNATIONAL LOVE","Pitbull",2012,"62zFEHfAYl5kdHYOivj4BC",0.669,0.855,120.045,-3.035,0.0499,0.0124,0,0.335
+"429","HOME","Phillip Phillips",2012,"2ZQyksYO4zzhyHNcueL0CP",0.592,0.792,121.001,-5.884,0.0335,0.0215,0,0.159
+"430","WITHOUT YOU","David Guetta",2012,"7rGMKCgeYXpBecQ1FPb3oc",0.606,0.612,127.882,-3.676,0.028,0.211,3.7e-06,0.128
+"431","ASS BACK HOME","Gym Class Heroes",2012,"3bfqkspKABT4pPicm6wC9F",0.716,0.838,130.034,-4.289,0.0513,0.134,0,0.148
+"432","WANTED","Hunter Hayes",2012,"0p1BcEcYVO3uk4KDf3gzkY",0.421,0.476,169.784,-7.692,0.0298,0.268,0,0.0816
+"433","DRUNK ON YOU","Luke Bryan",2012,"3b7CDTKB0SRTmQ6ytYi5vZ",0.558,0.872,143.971,-4.401,0.0449,0.178,0,0.173
+"434","NO LIE","2 Chainz",2012,"4TyY4vah59nsckspWdSGPn",0.641,0.671,130.927,-5.95,0.178,0.0217,0,0.417
+"435","WANT U BACK","Cher Lloyd",2012,"6E11E0lT5Zy7yb6iT3y8DN",0.694,0.891,97.939,-2.94,0.0949,0.0562,0,0.561
+"436","DON'T WAKE ME UP","Chris Brown",2012,"12Ns5IphkblPmHxpRILG9t",0.602,0.691,127.967,-5.197,0.051,0.0548,0,0.144
+"437","DANCE (A$$)","Big Sean",2012,"3OVLPcUPS0HbMeAeMP0jZ4",0.822,0.711,79.949,-6.741,0.275,0.0283,0.00129,0.236
+"438","SPRINGSTEEN","Eric Church",2012,"05ZACkzW8YbRq3eFgIfSNB",0.692,0.809,104.023,-5.935,0.0255,0.1,9.77e-05,0.185
+"439","BROKENHEARTED","Karmin",2012,"4urcG6Nfubqsuqy3juMjBi",0.765,0.765,120.001,-2.732,0.0585,0.00765,3.82e-06,0.0527
+"440","NOT OVER YOU","Gavin DeGraw",2012,"6j7hih15xG2cdYwIJnQXsq",0.63,0.894,142.051,-4.592,0.0544,0.255,0,0.181
+"441","STEREO HEARTS","Gym Class Heroes",2012,"0qOnSQQF0yzuPWsXrQ9paz",0.646,0.795,89.99,-3.293,0.0976,0.0319,0,0.267
+"442","BACK IN TIME","Pitbull",2012,"2U2ONBrf1HJCDxQlynpD6J",0.731,0.915,127.086,-4.453,0.043,0.00191,1.16e-06,0.324
+"443","WORK OUT","J. Cole",2012,"6rbeWjEavBHvX2kr6lSogS",0.831,0.427,93.004,-6.903,0.106,0.0531,0,0.316
+"444","RUMOUR HAS IT","Adele",2012,"76N7FdzCI9OsiUnzJVLY2m",0.618,0.753,120.041,-5.05,0.0451,0.637,0,0.0905
+"445","LET'S GO","Calvin Harris",2012,"4wkQmYpAaMe41Rc3sYZ7Vz",0.71,0.882,128.016,-2.932,0.0595,0.00777,0.00771,0.294
+"446","GOOD GIRL","Carrie Underwood",2012,"20DfkHC5grnKNJCzZQB6KC",0.617,0.839,128.91,-2.849,0.0655,0.0286,0,0.19
+"447","PONTOON","Little Big Town",2012,"2Gy3XMLbBxACZ4tXdFRGr7",0.721,0.819,96.02,-5.715,0.0269,0.413,0,0.196
+"448","HO HEY","The Lumineers",2012,"0W4Kpfp1w2xkY3PrV714B7",0.685,0.466,79.936,-9.074,0.0304,0.794,2.06e-06,0.0915
+"449","PARADISE","Coldplay",2012,"6nek1Nin9q48AVZcWs9e9D",0.449,0.585,139.627,-6.762,0.0268,0.0522,8.49e-05,0.0833
+"450","BLOWN AWAY","Carrie Underwood",2012,"0vFMQi8ZnOM2y8cuReZTZ2",0.531,0.843,136.991,-2.569,0.0429,0.0909,0,0.0283
+"451","ROLLING IN THE DEEP","Adele",2012,"1CkvWZme3pRgbzaxZnTl5X",0.729,0.756,104.945,-5.119,0.0294,0.131,0,0.0527
+"452","CLIMAX","Usher",2012,"6cNajGUxKP53LIg0LzlfQt",0.647,0.478,135.877,-8.837,0.0782,0.547,2.69e-05,0.156
+"453","WORK HARD, PLAY HARD","Wiz Khalifa",2012,"62csqLJbdvAKb38rYijV1R",0.818,0.675,139.977,-4.176,0.0655,0.118,1.65e-05,0.262
+"454","LET ME LOVE YOU (UNTIL YOU LEARN TO LOVE YOURSELF)","Ne-Yo",2012,"1Ejsu5JglwIgrFW7Bt2GuL",0.491,0.676,124.852,-6.631,0.0403,0.262,0,0.499
+"455","POUND THE ALARM","Nicki Minaj",2012,"5kcE7pp02ezLZaUbbMv3Iq",0.735,0.858,124.991,-3.609,0.0689,0.0465,4.29e-06,0.0315
+"456","COME OVER","Kenny Chesney",2012,"6BCrbWBpb8d6KWmEqZ41tr",0.466,0.704,176.043,-7.169,0.0353,0.1,2.71e-05,0.0744
+"457","HEART ATTACK","Trey Songz",2012,"1J36RjF8Mx8Yp2QWvFSPmv",0.607,0.854,149.872,-4.867,0.166,0.0683,0,0.2
+"458","DRANK IN MY CUP","Kirko Bangz",2012,"3m8CQnnfJJp4eQMWWl3zay",0.451,0.632,132.89,-7.98,0.297,0.0114,0,0.198
+"459","BIRTHDAY CAKE","Rihanna",2012,"4EfN6bixdOOgoLYR5C4cWo",0.702,0.811,80.005,-6.419,0.0577,0.357,1.97e-05,0.368
+"460","SO GOOD","B.o.B",2012,"28GUjBGqZVcAV4PHSYzkj2",0.66,0.9,85.51,-5.02,0.14,0.0403,0,0.219
+"461","50 WAYS TO SAY GOODBYE","Train",2012,"2NniAhAtkRACaMeYt48xlD",0.591,0.935,140.043,-2.664,0.0478,0.000284,0.000278,0.142
+"462","RED SOLO CUP","Toby Keith",2012,"47nm8czanMUzIqHsnr5x61",0.567,0.557,164.189,-6.51,0.0822,0.244,0,0.192
+"463","LOVE YOU LIKE A LOVE SONG","Selena Gomez & The Scene",2012,"0laYHRpNTS6i8FXdupHkJ4",0.859,0.697,117.008,-3.79,0.0569,0.0715,0,0.0761
+"464","TURN UP THE MUSIC","Chris Brown",2012,"0UlHiqi7seV02XNHLMtfGK",0.594,0.841,129.925,-5.792,0.102,0.000238,2.22e-06,0.156
+"465","DIE YOUNG","Ke$ha",2012,"6mnjcTmK8TewHfyOp3fC9C",0.711,0.7,128.001,-4.805,0.046,0.00498,0.000125,0.215
+"466","5 O'CLOCK","T-Pain",2012,"6j236RwzFFj4wqH2tWJNBD",0.4,0.882,167.114,-1.958,0.334,0.168,0,0.124
+"467","A THOUSAND YEARS","Christina Perri",2012,"6lanRgr6wXibZr8KgzXxBl",0.421,0.407,139.028,-7.445,0.0267,0.309,0.000961,0.11
+"468","TAKE A LITTLE RIDE","Jason Aldean",2012,"1rOoICPf1JpkRpX5PNuJt2",0.464,0.853,163.934,-3.767,0.0417,0.055,0,0.191
+"469","YOU DA ONE","Rihanna",2012,"3Yt9lRtS5V4nbJnwcgFgvC",0.706,0.716,127.044,-5.362,0.043,0.512,0.000106,0.118
+"470","WE RUN THE NIGHT","Havana Brown",2012,"0mtPNQl5vePVwiI9Vykp7L",0.691,0.846,127.011,-4.322,0.174,0.00676,0,0.289
+"471","IT'S TIME","Imagine Dragons",2012,"6BtmXhTJMM9sBTHeYYASGz",0.656,0.879,104.997,-4.614,0.0362,0.0178,0,0.109
+"472","CASHIN' OUT","Ca$h Out",2012,"1POAx4NMLOBPVKZUSsBh92",0.831,0.665,129.989,-3.627,0.0711,0.149,0,0.0636
+"473","I DON'T WANT THIS NIGHT TO END","Luke Bryan",2012,"0cV4xwUA4ue2deqq4CZFko",0.616,0.728,111.934,-4.02,0.0278,0.0275,0,0.228
+"474","DIAMONDS","Rihanna",2012,"7Kt59L2ZZGtOnIhvMwzG6f",0.555,0.709,91.982,-4.928,0.0452,0.00118,0,0.113
+"475","HARD TO LOVE","Lee Brice",2012,"6E9V9TRlVOLjenGjHemzEH",0.638,0.722,103.017,-6.177,0.0332,0.0119,0.00808,0.189
+"476","SOMETHIN' 'BOUT A TRUCK","Kip Moore",2012,"6Ymvlzom4TQeoKqAWsZRD8",0.554,0.794,176.01,-5.417,0.035,0.0697,0,0.63
+"477","ADORN","Miguel",2012,"3trS6e40JCVUOpPVt5OdHj",0.625,0.576,179.063,-5.693,0.175,0.0543,4.07e-05,0.187
+"478","FLY OVER STATES","Jason Aldean",2012,"5r6hrzcBhlnV9eDSKD2WQ9",0.48,0.739,81.519,-3.26,0.0323,0.0644,0,0.102
+"479","EVEN IF IT BREAKS YOUR HEART","Eli Young Band",2012,"0Nu9WA8kEbBWEsay2s8Q0U",0.667,0.527,104.032,-4.6,0.0277,0.000159,0.0117,0.0969
+"480","BURN IT DOWN","Linkin Park",2012,"7oVEtyuv9NBmnytsCIsY5I",0.585,0.972,110.006,-4.45,0.0534,0.0143,0,0.0707
+"481","ROLLING IN THE DEEP","Adele",2011,"1CkvWZme3pRgbzaxZnTl5X",0.729,0.756,104.945,-5.119,0.0294,0.131,0,0.0527
+"482","PARTY ROCK ANTHEM","LMFAO Featuring Lauren Bennett & GoonRock",2011,"0IkKz2J93C94Ei4BvDop7P",0.739,0.725,130.024,-4.153,0.165,0.0235,0,0.257
+"483","FIREWORK","Katy Perry",2011,"4lCv7b86sLynZbXhfScfm2",0.638,0.826,124.072,-4.968,0.0479,0.139,0,0.0803
+"484","E.T.","Katy Perry Featuring Kanye West",2011,"6kex4EBAj0WHXDKZMEJaaF",0.696,0.817,98.064,-3.862,0.109,0.075,0,0.187
+"485","GIVE ME EVERYTHING","""Pitbull Featuring Ne-Yo, Afrojack & Nayer""",2011,"4QNpBfC0zvjKqPJcyqBy9W",0.671,0.939,129.023,-3.206,0.161,0.192,0,0.298
+"486","GRENADE","Bruno Mars",2011,"2tJulUYLDKOg9XrtVkMgcJ",0.706,0.558,110.443,-7.237,0.0593,0.146,0,0.118
+"487","SUPER BASS","Nicki Minaj",2011,"0iYebKFUSfF72fUu2OW6ZT",0.727,0.866,127.01,-4.288,0.185,0.282,3.87e-06,0.585
+"488","MOVES LIKE JAGGER","Maroon 5 Featuring Christina Aguilera",2011,"7LcfRTgAVTs5pQGEQgUEzN",0.714,0.748,128.03,-4.471,0.0546,0.0106,0,0.325
+"489","JUST CAN'T GET ENOUGH","The Black Eyed Peas",2011,"3JA9Jsuxr4xgHXEawAdCp4",0.483,0.648,93.939,-8.651,0.327,0.187,0,0.0812
+"490","S&M","Rihanna",2011,"2u02eLj96Atd6TBxkH9YvN",0.764,0.673,127.941,-4.946,0.0437,0.0156,6.56e-05,0.195
+"491","PUMPED UP KICKS","Foster The People",2011,"7w87IxuO7BDcJ3YUqCyMTT",0.733,0.71,127.975,-5.849,0.0292,0.145,0.115,0.0956
+"492","LAST FRIDAY NIGHT (T.G.I.F.)","Katy Perry",2011,"455AfCsOhhLPRc68sE01D8",0.649,0.815,126.03,-3.796,0.0415,0.00125,4.31e-05,0.671
+"493","JUST THE WAY YOU ARE","Bruno Mars",2011,"7BqBn9nzAq8spo5e7cZ0dJ",0.637,0.843,109.012,-5.413,0.0432,0.0151,0,0.0876
+"494","TONIGHT (I'M LOVIN' YOU)","Enrique Iglesias Featuring Ludacris & DJ Frank E",2011,"4270XtiZeN9yYPR81dn8Ow",0.659,0.882,125.985,-4.623,0.0465,0.0258,9.2e-06,0.144
+"495","RAISE YOUR GLASS","P!nk",2011,"12lZTPlXwUtrQuhEty6098",0.7,0.695,122.028,-4.973,0.0897,0.00629,0,0.0319
+"496","BORN THIS WAY","Lady Gaga",2011,"6r2BECwMgEoRb5yLfp0Hca",0.59,0.817,123.895,-5.069,0.157,0.0049,0,0.283
+"497","WHAT'S MY NAME?","Rihanna Featuring Drake",2011,"5xZtUAVUVfjBtVtMOgMkyy",0.705,0.781,100.008,-2.927,0.0792,0.247,0,0.107
+"498","LOOK AT ME NOW","Chris Brown Featuring Lil Wayne & Busta Rhymes",2011,"7EKTo6rVJ3XSS7QTd6ep2j",0.764,0.694,146.075,-5.745,0.189,0.0439,3.67e-06,0.18
+"499","DOWN ON ME","Jeremih Featuring 50 Cent",2011,"0x3TibRgnSqzkcwrqBd4iX",0.697,0.577,160.035,-7.653,0.127,0.0436,0,0.11
+"500","HOW TO LOVE","Lil Wayne",2011,"4aX4Oycsk1fhHIee1zqsDe",0.641,0.667,154.025,-6.252,0.0538,0.000165,3.22e-06,0.113
+"501","SOMEONE LIKE YOU","Adele",2011,"4kflIGfjdZJW4ot2ioixTB",0.559,0.33,135.109,-8.251,0.0285,0.892,0,0.0975
+"502","THE LAZY SONG","Bruno Mars",2011,"1ExfPZEiahqhLyajhybFeS",0.738,0.804,174.943,-3.851,0.0621,0.332,0,0.279
+"503","TILL THE WORLD ENDS","Britney Spears",2011,"38iU2jg98IZZEIJPrP7aWD",0.693,0.705,131.951,-5.747,0.0665,0.0228,0,0.202
+"504","THE SHOW GOES ON","Lupe Fiasco",2011,"4NTWZqvfQTlOMitlVn6tew",0.591,0.889,143.067,-3.839,0.115,0.0189,0,0.155
+"505","THE EDGE OF GLORY","Lady Gaga",2011,"0JNdS1n0ifOP25XvhwAMgM",0.583,0.77,127.973,-6.433,0.0401,0.000391,0.00993,0.109
+"506","WE R WHO WE R","Ke$ha",2011,"0Ji2g9AlYLVHAMG5PJoHPU",0.734,0.821,119.993,-4.893,0.0406,0.00709,0.00281,0.127
+"507","BLACK AND YELLOW","Wiz Khalifa",2011,"5A6OHHy73AR5tLxgTc98zz",0.684,0.834,164.02,-4.524,0.0675,0.0646,0,0.271
+"508","TONIGHT TONIGHT","Hot Chelle Rae",2011,"6C2XDnr9B6obGMVhHS1Nmo",0.584,0.79,123.961,-6.544,0.0412,0.0444,4.22e-05,0.0734
+"509","BLOW","Ke$ha",2011,"5FQazQxWUHsJ8QDaXLdFzR",0.752,0.73,120.032,-3.897,0.0412,0.00272,3.62e-05,0.175
+"510","LIGHTERS","Bad Meets Evil Featuring Bruno Mars",2011,"5zpDHEU12zATwLGvozxPw2",0.651,0.671,90.135,-8.183,0.27,0.343,0,0.119
+"511","IF I DIE YOUNG","The Band Perry",2011,"4u26EevCNXMhlvE1xFBJwX",0.594,0.502,130.674,-6.564,0.0281,0.402,0,0.287
+"512","STEREO HEARTS","Gym Class Heroes Featuring Adam Levine",2011,"0qOnSQQF0yzuPWsXrQ9paz",0.646,0.795,89.99,-3.293,0.0976,0.0319,0,0.267
+"513","THE TIME (DIRTY BIT)","The Black Eyed Peas",2011,"7vWFaMq63AwkFDhS2OAg5u",0.829,0.798,127.991,-7.808,0.0776,0.0782,3.78e-06,0.59
+"514","COMING HOME","Diddy - Dirty Money Featuring Skylar Grey",2011,"6Iocm6VMu6bVNYwiDoyQFW",0.353,0.822,167.905,-1.866,0.232,0.155,0,0.332
+"515","HEY BABY (DROP IT TO THE FLOOR)","Pitbull Featuring T-Pain",2011,"3rfhI32Il2hVRKDkuGeeen",0.595,0.913,128.021,-3.428,0.0884,0.0435,0,0.259
+"516","ONLY GIRL (IN THE WORLD)","Rihanna",2011,"6jAsmDJI8iPhGWtS27kZ67",0.78,0.714,125.924,-4.155,0.0382,0.119,4.1e-06,0.217
+"517","6 FOOT 7 FOOT","Lil Wayne Featuring Cory Gunz",2011,"0z5ZPs57J2KERwM1tBM2GF",0.377,0.738,80.846,-5.32,0.311,0.000683,0,0.319
+"518","JUST A KISS","Lady Antebellum",2011,"2nRvKHh2mtOfIQ4jcAkP9q",0.593,0.639,142.881,-5.826,0.0307,0.446,0,0.0998
+"519","DIRT ROAD ANTHEM","Jason Aldean",2011,"0adTN3vBO3pimO3yfxm9vg",0.677,0.739,127.04,-5.068,0.0352,0.32,2.36e-06,0.12
+"520","DYNAMITE","Taio Cruz",2011,"1DqdF42leyFIzqNDv9CjId",0.75,0.78,119.985,-3.155,0.0898,0.00622,0,0.0263
+"521","NO HANDS","Waka Flocka Flame Featuring Roscoe Dash & Wale",2011,"03tqyYWC9Um2ZqU0ZN849H",0.76,0.595,131.497,-6.366,0.0391,0.00544,0,0.241
+"522","I WANNA GO","Britney Spears",2011,"5cCAZS9VhLGEDV4NCfieeg",0.696,0.546,130.002,-6.55,0.0414,0.00379,3.8e-06,0.332
+"523","I'M ON ONE","""DJ Khaled Featuring Drake, Rick Ross & Lil Wayne""",2011,"608a1wIsSd5KzMEqm1O7w3",0.508,0.809,149.999,-3.454,0.292,0.058,0,0.608
+"524","YOU MAKE ME FEEL...","Cobra Starship Featuring Sabi",2011,"16Of7eeW44kt0a1M0nitHM",0.668,0.857,131.959,-2.944,0.0535,0.0191,6.71e-06,0.0385
+"525","YEAH 3X","Chris Brown",2011,"0AUIjHlr9KfbVoemhhxHS6",0.702,0.883,129.999,-3.239,0.0437,0.000407,1.27e-06,0.0885
+"526","MOMENT 4 LIFE","Nicki Minaj Featuring Drake",2011,"0ConttVd0Ebk3dLNquOmh0",0.684,0.884,97.919,-3.875,0.251,0.371,0,0.199
+"527","I NEED A DOCTOR","Dr. Dre Featuring Eminem & Skylar Grey",2011,"70ATm56tH7OrQ1zurYssz0",0.591,0.934,155.968,-4.389,0.437,0.0996,1.81e-06,0.348
+"528","JUST A DREAM","Nelly",2011,"3ZdJffjzJWFimSQyxgGIxN",0.554,0.764,90,-6.129,0.031,0.0413,0,0.123
+"529","MOTIVATION","Kelly Rowland Featuring Lil Wayne",2011,"4Cv5dkUBqepa0siwGREihD",0.721,0.668,140.919,-5.561,0.0505,0.176,0.000104,0.0732
+"530","STEREO LOVE","Edward Maya & Vika Jigulina",2011,"11Iv8RCFmeImLOpaHYxKb4",0.775,0.726,126.999,-5.629,0.0369,0.0399,0.0235,0.11
+"531","JAR OF HEARTS","Christina Perri",2011,"0HZhYMZOcUzZKSFwPOti6m",0.349,0.348,74.541,-6.142,0.0316,0.726,0,0.12
+"532","ROLL UP","Wiz Khalifa",2011,"53DB6LJV9B8sz0p1s6tlGS",0.523,0.805,125.358,-5.473,0.192,0.0524,0,0.0914
+"533","SEXY AND I KNOW IT","LMFAO",2011,"0obBFrPYkSoBJbvHfUIhkv",0.698,0.875,129.986,-4.164,0.322,0.115,0,0.166
+"534","ROCKETEER","Far*East Movement Featuring Ryan Tedder",2011,"45sDIKapDyxPl307QpEAwl",0.666,0.819,95.999,-6.053,0.0466,0.166,0,0.261
+"535","ALL OF THE LIGHTS","Kanye West",2011,"22L7bfCiAkJo5xGSQgmiIO",0.558,0.794,142.156,-3.234,0.0533,0.0724,2.15e-05,0.19
+"536","HOLD IT AGAINST ME","Britney Spears",2011,"7Dyq1bhhjknLKEGg4k5NLr",0.648,0.722,132.973,-4.813,0.0427,0.0103,0,0.24
+"537","WHAT THE HELL","Avril Lavigne",2011,"5zTzDqrEmseqL2G8ElgBu7",0.571,0.932,150.014,-3.68,0.0576,0.00448,0.00939,0.117
+"538","WRITTEN IN THE STARS","Tinie Tempah Featuring Eric Turner",2011,"61HQWI1Woxup7CnGwVUsdI",0.644,0.945,91.017,-3.534,0.0717,0.0587,0,0.184
+"539","BOTTOMS UP","Trey Songz Featuring Nicki Minaj",2011,"2IpGdrWvIZipmaxo1YRxw5",0.845,0.601,74.008,-5.283,0.161,0.0205,0,0.385
+"540","DJ GOT US FALLIN' IN LOVE","Usher Featuring Pitbull",2011,"28AUzRo0nQLESL55WDV0um",0.663,0.861,119.963,-3.398,0.109,0.0338,0,0.082
+"541","FOR THE FIRST TIME","The Script",2011,"09ZcYBGFX16X8GMDrvqQwt",0.396,0.629,173.794,-4.78,0.0287,0.0328,0,0.183
+"542","HONEY BEE","Blake Shelton",2011,"0gY2iq0xJPRoIB1PScKSw4",0.481,0.849,205.57,-5.131,0.0385,0.00167,1.49e-06,0.121
+"543","DON'T YOU WANNA STAY","Jason Aldean With Kelly Clarkson",2011,"2CAf7WlHg8SlMLHmt55pqs",0.445,0.627,143.821,-4.825,0.0318,0.105,0,0.0858
+"544","WE FOUND LOVE","Rihanna Featuring Calvin Harris",2011,"6qn9YLKt13AGvpq9jfO8py",0.737,0.758,128.007,-4.389,0.057,0.0253,0.0019,0.169
+"545","PRETTY GIRL ROCK","Keri Hilson",2011,"2Adn2LNgkHMH5TelQVAu4n",0.665,0.882,160.023,-4.968,0.251,0.203,0,0.085
+"546","YOU AND I","Lady Gaga",2011,"6rkAY9rk1NTFB94QxG3LJR",0.5,0.716,127.066,-5.194,0.0558,0.0933,0,0.0931
+"547","LIKE A G6","Far*East Movement Featuring Cataracs & Dev",2011,"4DvhkX2ic4zWkQeWMwQ2qf",0.352,0.843,165.29,-7.983,0.482,0.00738,0,0.0883
+"548","WITHOUT YOU","David Guetta Featuring Usher",2011,"7rGMKCgeYXpBecQ1FPb3oc",0.606,0.612,127.882,-3.676,0.028,0.211,3.7e-06,0.128
+"549","TEENAGE DREAM","Katy Perry",2011,"55qBw1900pZKfXJ6Q9A2Lc",0.719,0.804,119.999,-4.581,0.0355,0.0132,3.02e-06,0.139
+"550","CRAZY GIRL","Eli Young Band",2011,"1nVLAEzhBXMJLR5zAl90Nl",0.358,0.708,150.966,-3.736,0.0315,6e-04,0.00498,0.281
+"551","CHEERS (DRINK TO THAT)","Rihanna",2011,"46MDLc0Yip6xCMSsdePOAU",0.578,0.908,79.987,-3.544,0.0396,0.019,0,0.289
+"552","WHO SAYS","Selena Gomez & The Scene",2011,"6dn9ndETOjczUSQO5UhKJa",0.676,0.931,101.018,-2.8,0.0495,0.0668,0,0.149
+"553","BAREFOOT BLUE JEAN NIGHT","Jake Owen",2011,"3ts6xK5GzfMAAriT9AIBmP",0.6,0.808,172.016,-4.679,0.0403,0.208,0,0.196
+"554","KNEE DEEP","Zac Brown Band Featuring Jimmy Buffett",2011,"1yEwEiTpsaPhQi9lb5EVV4",0.715,0.584,90.987,-8.231,0.0296,0.432,1.41e-06,0.095
+"555","COUNTRY GIRL (SHAKE IT FOR ME)","Luke Bryan",2011,"0yD66650JxhqKbW76C2qCo",0.645,0.904,105.97,-4.532,0.0462,0.0293,0,0.0834
+"556","REMIND ME","Brad Paisley Duet With Carrie Underwood",2011,"4ABua0yuWcpTotImEEJTaw",0.485,0.726,140.781,-4.2,0.0327,0.0603,1.75e-05,0.225
+"557","IN THE DARK","Dev",2011,"1pbHy9VBpSyZh56xuujZz0",0.751,0.82,124.965,-4.23,0.0918,0.00331,0.00043,0.335
+"558","BACKSEAT","New Boyz Featuring The Cataracs & Dev",2011,"4dWjQ3wEfW6KPaaxCoaPH4",0.595,0.923,125.029,-3.449,0.144,0.0693,0,0.505
+"559","HEADLINES","Drake",2011,"7kfTqGMzIHFWeBeOJALzRf",0.649,0.547,152.04,-7.311,0.0954,0.341,0.00014,0.092
+"560","BEST THING I NEVER HAD","Beyonce",2011,"3lBRNqXjPp2j3JMTCXDTNO",0.545,0.649,99.099,-4.062,0.0324,0.143,1.57e-05,0.0894
+"561","DON'T WANNA GO HOME","Jason Derulo",2011,"1r3myKmjWoOqRip99CmSj1",0.671,0.808,121.956,-4.861,0.0652,0.02,0,0.134
+"562","WHERE THEM GIRLS AT","David Guetta Featuring Flo Rida & Nicki Minaj",2011,"3djPwpsQAnp8B8gC81e7fk",0.662,0.873,129.902,-3.116,0.0395,0.0292,0,0.224
+"563","SHE AIN'T YOU","Chris Brown",2011,"4QczAMpo49owCaNZgtoIvv",0.634,0.716,91.039,-6.502,0.128,0.0341,0,0.0877
+"564","TAKE A BACK ROAD","Rodney Atkins",2011,"7B6m8tHAYZsOKOKMU5SR2n",0.581,0.856,169.902,-4,0.0783,0.183,0,0.0871
+"565","PLEASE DON'T GO","Mike Posner",2011,"6jg5SRvdGxvJ0DzNV0UqEK",0.699,0.882,120.016,-3.896,0.0311,0.00296,0.0544,0.13
+"566","SURE THING","Miguel",2011,"0JXXNGljqupsJaZsgSbMZV",0.684,0.603,81,-8.127,0.0989,0.0275,0.000311,0.191
+"567","PRICE TAG","Jessie J Featuring B.o.B",2011,"5mvKuE9Lf9ARVXVXA32kK9",0.646,0.843,174.904,-3.882,0.177,0.0314,2.39e-06,0.247
+"568","GOD GAVE ME YOU","Blake Shelton",2011,"0w9LJae3sVlZlH2CnxTInF",0.483,0.844,151.977,-5.043,0.0314,0.00481,7.29e-05,0.405
+"569","SHE WILL","Lil Wayne Featuring Drake",2011,"3FFcZZq3Z3EJrhUecwcMdG",0.357,0.847,97.408,-4.881,0.0524,0.000475,0,0.272
+"570","ARE YOU GONNA KISS ME OR NOT","Thompson Square",2011,"6xtXdS8ALTfK0g9hOG1PSX",0.485,0.701,151.948,-3.807,0.0288,0.039,0,0.0977
+"571","ANIMAL","Neon Trees",2011,"1fBl642IhJOE5U319Gy2Go",0.486,0.831,148.026,-5.5,0.0506,0.000392,0,0.363
+"572","YOU AND TEQUILA","Kenny Chesney Featuring Grace Potter",2011,"1t2hJFgJyUPD2crOafMUEk",0.691,0.454,135.839,-9.13,0.0256,0.437,0.00227,0.0783
+"573","COLDER WEATHER","Zac Brown Band",2011,"1M2l9ReoabUnvl6Y8jLUe7",0.667,0.381,135.979,-7.494,0.0294,0.458,0,0.116
+"574","MY LAST","Big Sean Featuring Chris Brown",2011,"70tFuqBcduJv15bEnOPRTh",0.325,0.785,88.048,-5.632,0.25,0.114,0,0.28
+"575","TIK TOK","Ke$ha",2010,"5OMwQFBcte0aWFJFqrr5oj",0.755,0.832,120.032,-2.741,0.116,0.0746,1.27e-06,0.291
+"576","NEED YOU NOW","Lady Antebellum",2010,"11EX5yhxr9Ihl3IN1asrfK",0.587,0.622,107.943,-5.535,0.0303,0.0927,0.000636,0.2
+"577","HEY, SOUL SISTER","Train",2010,"0KpfYajJVVGgQ32Dby7e9i",0.675,0.885,97.03,-4.432,0.0436,0.217,0,0.086
+"578","CALIFORNIA GURLS","Katy Perry Featuring Snoop Dogg",2010,"6tS3XVuOyu10897O3ae7bi",0.791,0.754,125.014,-3.729,0.0569,0.00446,0,0.163
+"579","OMG","Usher Featuring will.i.am",2010,"3r04p85xiJh9Wqk59YDYdc",0.781,0.745,129.998,-5.81,0.0332,0.198,1.14e-05,0.36
+"580","AIRPLANES","B.o.B Featuring Hayley Williams",2010,"6lV2MSQmRIkycDScNtrBXO",0.66,0.867,93.033,-4.285,0.116,0.11,0,0.0368
+"581","LOVE THE WAY YOU LIE","Eminem Featuring Rihanna",2010,"15JINEqzVMv3SvJTAXAKED",0.647,0.924,173.962,-4.957,0.33,0.25,0,0.519
+"582","BAD ROMANCE","Lady Gaga",2010,"5P5cGNzqh6A353N3ShDK6Y",0.697,0.921,118.99,-3.75,0.0391,0.00305,3.65e-05,0.0831
+"583","DYNAMITE","Taio Cruz",2010,"1DqdF42leyFIzqNDv9CjId",0.75,0.78,119.985,-3.155,0.0898,0.00622,0,0.0263
+"584","BREAK YOUR HEART","Taio Cruz Featuring Ludacris",2010,"1CdqVF1ywD0ZO1zXtB9yWa",0.663,0.892,122.025,-4.759,0.0287,0.00232,0,0.115
+"585","NOTHIN' ON YOU","B.o.B Featuring Bruno Mars",2010,"59dLtGBS26x7kc0rHbaPrq",0.688,0.853,103.993,-5.814,0.0493,0.386,0,0.0862
+"586","I LIKE IT","Enrique Iglesias Featuring Pitbull",2010,"4nVyHATevhl5RC6Qmoko5H",0.659,0.935,129.048,-2.739,0.107,0.0253,0,0.0653
+"587","BEDROCK","Young Money Featuring Lloyd",2010,"3iL2l5gUqyPS6vDwJFgJTR",0.732,0.659,148.001,-6.089,0.225,0.109,0,0.141
+"588","IN MY HEAD","Jason Derulo",2010,"0TyOpxlWwDx98bjkIVHUgY",0.762,0.748,110.009,-4.15,0.033,0.0266,0,0.348
+"589","RUDE BOY","Rihanna",2010,"60jzFy6Nn4M0iD1d94oteF",0.564,0.758,173.898,-4.404,0.186,0.118,0,0.0992
+"590","TELEPHONE","Lady Gaga Featuring Beyonce",2010,"1IaYWv32nFFMdljBIjMY5T",0.827,0.821,122.017,-5.864,0.0419,0.00748,0.0015,0.115
+"591","JUST THE WAY YOU ARE","Bruno Mars",2010,"7BqBn9nzAq8spo5e7cZ0dJ",0.637,0.843,109.012,-5.413,0.0432,0.0151,0,0.0876
+"592","COOLER THAN ME","Mike Posner",2010,"2V4bv1fNWfTcyRJKmej6Sj",0.768,0.82,129.969,-4.63,0.0475,0.179,0,0.704
+"593","EMPIRE STATE OF MIND","Jay-Z + Alicia Keys",2010,"5sra5UY6sD658OabHL3QtI",0.479,0.368,92.959,-7.784,0.0341,0.739,4.1e-05,0.118
+"594","DJ GOT US FALLIN' IN LOVE","Usher Featuring Pitbull",2010,"5tXyNhNcsnn7HbcABntOSf",0.666,0.878,119.932,-2.85,0.0973,0.03,0,0.0828
+"595","BILLIONAIRE","Travie McCoy Featuring Bruno Mars",2010,"2M9ULmQwTaTGmAdXaXpfz5",0.633,0.673,86.776,-6.403,0.258,0.297,0,0.206
+"596","NOT AFRAID","Eminem",2010,"7Ie9W94M7OjPoZVV216Xus",0.851,0.95,114.661,-1.097,0.269,0.513,0,0.222
+"597","REPLAY","Iyaz",2010,"5vlEg2fT4cFWAqU5QptIpQ",0.706,0.751,91.031,-6.323,0.0708,0.173,0,0.168
+"598","SEXY CHICK","David Guetta Featuring Akon",2010,"4MKzCHlZvkwJOQRNkdw4zq",0.811,0.654,129.999,-4.99,0.0508,0.055,0.000941,0.0997
+"599","BREAKEVEN","The Script",2010,"38xWaVFKaxZlMFvzNff2aW",0.63,0.698,94.023,-4.51,0.0244,0.173,0,0.0789
+"600","YOUR LOVE IS MY DRUG","Ke$ha",2010,"4AboqNl74jNDpJhPfqYDmj",0.829,0.607,120.044,-3.876,0.0897,0.0049,0,0.0986
+"601","I GOTTA FEELING","The Black Eyed Peas",2010,"4vp2J1l5RD4gMZwGFLfRAu",0.741,0.748,127.965,-6.299,0.0264,0.0823,0,0.34
+"602","FIREFLIES","Owl City",2010,"3DamFFqW32WihKkTVlwTYQ",0.591,0.649,90.002,-6.72,0.0417,0.0294,0,0.133
+"603","SAY AAH","Trey Songz Featuring Fabolous",2010,"2fQ6sBFWaLv2Gxos4igHLy",0.724,0.87,93.01,-3.614,0.113,0.00453,0,0.833
+"604","FIND YOUR LOVE","Drake",2010,"4BycRneKmOs6MhYG9THsuX",0.623,0.598,96.081,-5.914,0.167,0.0246,0,0.0324
+"605","ALEJANDRO","Lady Gaga",2010,"15pu8u4n3q4BKl4tF20c5v",0.632,0.789,98.986,-6.61,0.0557,0.00043,0.00144,0.356
+"606","RIDIN' SOLO","Jason Derulo",2010,"7ksYJ95P5vP87A0GH34CIk",0.442,0.83,89.338,-4.02,0.146,0.128,0,0.129
+"607","JUST A DREAM","Nelly",2010,"3ZdJffjzJWFimSQyxgGIxN",0.554,0.764,90,-6.129,0.031,0.0413,0,0.123
+"608","HOW LOW","Ludacris",2010,"1WtTLtofvcjQM3sXSMkDdX",0.56,0.494,144.004,-6.935,0.111,0.00293,0,0.219
+"609","LIKE A G6","Far*East Movement Featuring Cataracs & Dev",2010,"4DvhkX2ic4zWkQeWMwQ2qf",0.352,0.843,165.29,-7.983,0.482,0.00738,0,0.0883
+"610","CARRY OUT","Timbaland Featuring Justin Timberlake",2010,"2DHc2e5bBn4UzY0ENVFrUl",0.478,0.569,95.988,-6.764,0.148,0.117,0.0669,0.248
+"611","HAVEN'T MET YOU YET","Michael Buble",2010,"4fIWvT19w9PR0VVBuPYpWA",0.615,0.733,122.58,-4.808,0.0335,0.152,0,0.109
+"612","CLUB CAN'T HANDLE ME","Flo Rida Featuring David Guetta",2010,"0xcl9XT60Siji6CSG4y6nb",0.623,0.882,127.98,-2.574,0.0322,0.0205,0,0.194
+"613","DOWN","Jay Sean Featuring Lil Wayne",2010,"7LP4Es66zdY7CyjepqmvAg",0.663,0.693,66.002,-4.505,0.0311,0.0149,0,0.0778
+"614","BULLETPROOF","La Roux",2010,"6lUY6MoqGgPnA27PHYxem5",0.686,0.898,122.985,-2.72,0.052,0.000698,4.61e-05,0.0721
+"615","WHATCHA SAY","Jason Derulo",2010,"2zJZwWF7BTGIIvrAlgzJEx",0.615,0.711,144.036,-5.507,0.0779,0.0444,0,0.145
+"616","BABY","Justin Bieber Featuring Ludacris",2010,"6epn3r7S14KUqlReYr77hA",0.656,0.841,65.024,-5.183,0.232,0.0544,0,0.122
+"617","WHATAYA WANT FROM ME","Adam Lambert",2010,"2rDwdvBma1O1eLzo29p2cr",0.44,0.683,185.948,-4.732,0.0489,0.00706,0,0.0593
+"618","ONLY GIRL (IN THE WORLD)","Rihanna",2010,"6jAsmDJI8iPhGWtS27kZ67",0.78,0.714,125.924,-4.155,0.0382,0.119,4.1e-06,0.217
+"619","LIVE LIKE WE'RE DYING","Kris Allen",2010,"51YhN4y2tOvfI0Sv1hoBRo",0.578,0.9,92.011,-2.501,0.0443,0.0267,0,0.287
+"620","HARD","Rihanna Featuring Jeezy",2010,"3YJkAQNEhmCZGLdmPsu6Ye",0.569,0.755,91.022,-3.588,0.0385,0.0117,0,0.696
+"621","BLAH BLAH BLAH","Ke$ha Featuring 3OH!3",2010,"7jmqSz6yTrGWI1kNqNYI28",0.752,0.832,120.003,-3.243,0.0971,0.0833,0.000265,0.424
+"622","BOTTOMS UP","Trey Songz Featuring Nicki Minaj",2010,"2IpGdrWvIZipmaxo1YRxw5",0.845,0.601,74.008,-5.283,0.161,0.0205,0,0.385
+"623","DO YOU REMEMBER","Jay Sean Featuring Sean Paul & Lil Jon",2010,"7yws3pF3FFguwT2Psi6c15",0.854,0.664,125.84,-4.88,0.085,0.0278,0,0.118
+"624","ALL THE RIGHT MOVES","OneRepublic",2010,"5XRHGXut00SrJUFmcn2lQF",0.53,0.95,146.035,-3.526,0.0503,0.284,1.01e-05,0.211
+"625","ACCORDING TO YOU","Orianthi",2010,"72phhQtfwZcRweweRxxkmU",0.607,0.922,130.972,-2.526,0.0558,0.0221,2.04e-05,0.0965
+"626","MY CHICK BAD","Ludacris Featuring Nicki Minaj",2010,"3bMNprrp2JDKZsGbiXpsJl",0.66,0.72,84.707,-6.64,0.381,0.187,0,0.509
+"627","MEET ME HALFWAY","The Black Eyed Peas",2010,"3evTG0FJEHFYmgOeFgPo0s",0.795,0.591,130.014,-6.825,0.0701,0.00536,2.28e-05,0.132
+"628","TAKE IT OFF","Ke$ha",2010,"3ubtdCmWZIuX8FuRv3S3KX",0.725,0.672,125.042,-5.353,0.0283,4.62e-05,0.00225,0.112
+"629","OVER","Drake",2010,"6BdgtqiV3oXNqBikezwdvC",0.337,0.853,101.034,-5.611,0.278,0.0113,0,0.14
+"630","ANIMAL","Neon Trees",2010,"1fBl642IhJOE5U319Gy2Go",0.486,0.831,148.026,-5.5,0.0506,0.000392,0,0.363
+"631","MISERY","Maroon 5",2010,"6KBYk8OFtod7brGuZ3Y67q",0.698,0.828,102.971,-4.799,0.0445,0.000416,0,0.2
+"632","MAGIC","B.o.B Featuring Rivers Cuomo",2010,"5uHYcK0nbEYgRaFTY5BqnP",0.549,0.932,82.439,-4.11,0.343,0.0127,0,0.347
+"633","PAPARAZZI","Lady Gaga",2010,"3FF6jZY1wDHXJUUN18qsLx",0.758,0.688,114.93,-3.918,0.0478,0.12,0,0.0904
+"634","TIE ME DOWN","New Boyz Featuring Ray J",2010,"4faiJXyBflUVVOOE9fxbeg",0.42,0.787,97.967,-4.467,0.294,0.0104,0,0.198
+"635","YOUR LOVE","Nicki Minaj",2010,"3bGxiCPouq52ZtI8ybMCX5",0.466,0.521,104.667,-10.233,0.267,0.00234,0.00362,0.425
+"636","PARTY IN THE U.S.A.","Miley Cyrus",2010,"5Q0Nhxo0l2bP3pNjpGJwV1",0.454,0.708,192.18,-4.526,0.0675,0.00124,0.000181,0.0679
+"637","DEUCES","Chris Brown Featuring Tyga & Kevin McCall",2010,"3QkXEz9TxApuk1JpDmeWnS",0.644,0.739,74.154,-5.103,0.137,0.0311,0,0.0772
+"638","IMPOSSIBLE","Shontelle",2010,"45EDI3rk0f4cAMt9f8b56R",0.596,0.64,90.015,-3.52,0.0335,0.381,0,0.118
+"639","FOREVER","Drake Featuring Kanye West, Lil Wayne & Eminem",2010,"6HSqyfGnsHYw9MmIpa9zlZ",0.544,0.92,105.307,-1.474,0.277,0.244,0,0.19
+"640","TWO IS BETTER THAN ONE","Boys Like Girls Featuring Taylor Swift",2010,"1MaqkdFNIKPdpQGDzme5ss",0.521,0.702,127.976,-5.189,0.0331,0.189,0,0.0962
+"641","MY FIRST KISS","3OH!3 Featuring Ke$ha",2010,"17tDv8WA8IhqE8qzuQn707",0.682,0.889,138.021,-4.166,0.0804,0.00564,0,0.36
+"642","ALREADY GONE","Kelly Clarkson",2010,"7ceIquYtiTYlgSSm7PqUf9",0.209,0.872,78.139,-2.996,0.0757,0.217,0,0.0768
+"643","ROCK THAT BODY","The Black Eyed Peas",2010,"5K5LbSTVuKKe1KGMNfBgIW",0.713,0.898,124.976,-6.009,0.111,0.0197,2.62e-05,0.435
+"644","SECRETS","OneRepublic",2010,"1NhPKVLsHhFUHIOZ32QnS2",0.515,0.767,148.024,-6.199,0.0352,0.098,0,0.121
+"645","NATURALLY","Selena Gomez & The Scene",2010,"1YaVmBh7EAeR54FIjuFcb5",0.629,0.906,132.64,-5.393,0.0583,0.0211,1.17e-06,0.0551
+"646","UN-THINKABLE (I'M READY)","Alicia Keys",2010,"4JOP8ELK6AaeySe7sKe996",0.595,0.507,86.099,-7.892,0.0618,0.732,1.97e-05,0.106
+"647","ALL I DO IS WIN","DJ Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross",2010,"6nR4ZcTk0ma2pUVWhrXXfh",0.53,0.755,150.191,-2.934,0.263,0.133,0,0.386
+"648","I MADE IT (CASH MONEY HEROES)","Kevin Rudolf Featuring Birdman, Jay Sean, & Lil Wayne",2010,"6H2wnX7ytNeCKERIVqCwgs",0.4,0.944,124.224,-2.902,0.184,0.0481,0,0.345
+"649","STUCK LIKE GLUE","Sugarland",2010,"0JcKdUGNR7zI4jJDLyYXbi",0.62,0.799,168.024,-4.702,0.0996,0.322,0,0.0565
+"650","HEY DADDY (DADDY'S HOME)","Usher Featuring Plies",2010,"6mjDmlsMxnRDati2rC1QFL",0.59,0.698,95.975,-4.262,0.0286,0.000176,0,0.107
+"651","THERE GOES MY BABY","Usher",2010,"6tp0eVhr6SI7FWPJasG86O",0.626,0.52,77.468,-8.077,0.0892,0.175,0,0.13
+"652","SAY SOMETHING","Timbaland Featuring Drake",2010,"7qje9qxLncMESiPeI27SAn",0.559,0.741,79.887,-4.491,0.0889,0.0912,0,0.735
+"653","SWEET DREAMS","Beyonce",2010,"1FKxKGONukVFXWVJxAKmlz",0.694,0.825,121.949,-5.986,0.111,0.0895,1.86e-05,0.0618
+"654","USE SOMEBODY","Kings Of Leon",2010,"5VGlqQANWDKJFl0MBG3sg2",0.276,0.715,137.028,-5.356,0.0432,0.00552,0.000417,0.201
+"655","UNDO IT","Carrie Underwood",2010,"4Oq3R4drZZfGWdxbhKrPvb",0.476,0.847,156.229,-2.191,0.0595,0.111,0,0.0478
+"656","EENIE MEENIE","Sean Kingston & Justin Bieber",2010,"75vEuMA15pb8JmgrGugHEs",0.717,0.618,121.225,-4.238,0.0325,0.0654,0,0.0978
+"657","RIGHT ABOVE IT","Lil Wayne Featuring Drake",2010,"1kMuU3TNQvHbqvXCWBodmP",0.564,0.846,152.033,-4.402,0.328,0.0349,0,0.688
+"658","THE HOUSE THAT BUILT ME","Miranda Lambert",2010,"02eD9ymfJOJOhM97HYp5R9",0.515,0.3,81.12,-8.005,0.0289,0.575,8.46e-06,0.115
+"659","IF I DIE YOUNG","The Band Perry",2010,"4u26EevCNXMhlvE1xFBJwX",0.594,0.502,130.674,-6.564,0.0281,0.402,0,0.287
+"660","THE ONLY EXCEPTION","Paramore",2010,"7JIuqL4ZqkpfGKQhYlrirs",0.452,0.563,137.715,-6.607,0.0272,0.144,0,0.143
+"661","AMERICAN HONEY","Lady Antebellum",2010,"4xInIiKipU1mtUogJ3ZdYr",0.588,0.684,85.997,-5.154,0.0288,0.508,0,0.141
+"662","KING OF ANYTHING","Sara Bareilles",2010,"3VA8T3rNy5V24AXxNK5u9E",0.676,0.762,119.003,-4.172,0.0351,0.461,0,0.0574
+"663","LIFE AFTER YOU","Daughtry",2010,"4gWTBq5Jftq5CEKYpLXD8R",0.434,0.764,51.316,-3.45,0.0299,0.0534,0,0.437
+"664","SMILE","Uncle Kracker",2010,"4ZC8hXXqu2hPcDLw9QTdtQ",0.541,0.812,141.056,-3.764,0.0336,0.203,0,0.42
+"665","TEACH ME HOW TO DOUGIE","Cali Swag District",2010,"61LtVmmkGr8P9I2tSPvdpf",0.846,0.438,85.013,-4.981,0.141,0.2,9.43e-05,0.0939
+"666","TRY SLEEPING WITH A BROKEN HEART","Alicia Keys",2010,"1yK9LISg5uBOOW5bT2Wm0i",0.496,0.82,110.977,-5.155,0.112,0.158,0.246,0.13
+"667","LOVER, LOVER","Jerrod Niemann",2010,"5UzU0qw21okODBNUnxptVo",0.879,0.567,112.472,-6.509,0.0586,0.184,0,0.622
+"668","BOOM BOOM POW","The Black Eyed Peas",2009,"7xRNsqOQOgWbHV1nbXnfXN",0.869,0.851,130.09,-6.201,0.0827,0.15,0.000873,0.136
+"669","POKER FACE","Lady Gaga",2009,"3OT3Kg4jyVkdZm4Ncz6JgX",0.848,0.828,119,-4.557,0.0714,0.136,1.35e-06,0.114
+"670","JUST DANCE","Lady Gaga Featuring Colby O'Donis",2009,"3E5XrOtqMAs7p2wKhwgOjf",0.818,0.732,119.002,-4.474,0.0334,0.0335,4.95e-05,0.19
+"671","I GOTTA FEELING","The Black Eyed Peas",2009,"4vp2J1l5RD4gMZwGFLfRAu",0.741,0.748,127.965,-6.299,0.0264,0.0823,0,0.34
+"672","RIGHT ROUND","Flo Rida",2009,"3GpbwCm3YxiWDvy29Uo3vP",0.72,0.672,124.986,-6.852,0.0551,0.009,0,0.232
+"673","I'M YOURS","Jason Mraz",2009,"1EzrEOXmMH3G43AXT1y7pA",0.686,0.457,150.953,-8.322,0.0468,0.595,0,0.105
+"674","SINGLE LADIES (PUT A RING ON IT)","Beyonce",2009,"5R9a4t5t5O0IsznsrKPVro",0.426,0.584,193.437,-5.293,0.296,0.0383,0,0.188
+"675","HEARTLESS","Kanye West",2009,"4EWCNWgDS8707fNSZ1oaA5",0.789,0.65,87.983,-6.16,0.121,0.0401,0,0.249
+"676","GIVES YOU HELL","The All-American Rejects",2009,"6ihL9TjfRjadfEePzXXyVF",0.714,0.725,99.988,-6.411,0.0402,0.0156,0,0.0726
+"677","YOU BELONG WITH ME","Taylor Swift",2009,"5M2FZXOEyH9JurBCxwESB9",0.472,0.971,134.981,-2.717,0.104,8.21e-05,0,0.124
+"678","DEAD AND GONE","T.I. Featuring Justin Timberlake",2009,"1k2NovMHKHhgGsHxg0aYAS",0.713,0.746,135.021,-4.99,0.259,0.0402,0,0.601
+"679","YOU FOUND ME","The Fray",2009,"4IoYz8XqqdowINzfRrFnhi",0.338,0.803,151.994,-5.412,0.0413,0.0187,0,0.136
+"680","USE SOMEBODY","Kings Of Leon",2009,"5VGlqQANWDKJFl0MBG3sg2",0.276,0.715,137.028,-5.356,0.0432,0.00552,0.000417,0.201
+"681","KNOCK YOU DOWN","Keri Hilson Featuring Kanye West & Ne-Yo",2009,"58FUwmyGUqkt53YPUcm7cJ",0.593,0.883,155.171,-4.781,0.186,0.0124,0,0.177
+"682","BLAME IT","Jamie Foxx Featuring T-Pain",2009,"08uGhvS5MfBk7crUCpnjva",0.673,0.614,176.052,-5.426,0.103,0.0782,0,0.139
+"683","I KNOW YOU WANT ME (CALLE OCHO)","Pitbull",2009,"5RzFJd6W40SDTyZkX6xx45",0.82,0.731,127.076,-6.02,0.159,0.0133,1.94e-05,0.131
+"684","LIVE YOUR LIFE","T.I. Featuring Rihanna",2009,"16GHcGtW9Io7AuVdNmTjv3",0.375,0.862,159.841,-3.363,0.255,0.071,0,0.211
+"685","KISS ME THRU THE PHONE","Soulja Boy Tell 'em Featuring Sammie",2009,"2q4rjDy9WhaN3o9MvDbO21",0.761,0.724,149.936,-3.818,0.111,0.0175,0,0.116
+"686","DOWN","Jay Sean Featuring Lil Wayne",2009,"5eCkuGPZNl4mISFNPgr3Dd",0.597,0.357,84.864,-14.718,0.259,0.644,0.00393,0.125
+"687","THE CLIMB","Miley Cyrus",2009,"0V8FYVlBFuXXTIvRnMbZyS",0.326,0.625,160.542,-6.417,0.0343,0.0882,0,0.0989
+"688","BEST I EVER HAD","Drake",2009,"3fyMH1t6UPeR5croea9PrR",0.427,0.861,161.776,-4.874,0.376,0.219,0,0.277
+"689","MY LIFE WOULD SUCK WITHOUT YOU","Kelly Clarkson",2009,"4Dm32oO01YpIubCHaAtKkN",0.526,0.882,144.982,-4.006,0.0509,0.0014,0,0.144
+"690","HALO","Beyonce",2009,"4JehYebiI9JE8sR8MisGVb",0.508,0.72,79.983,-5.908,0.0628,0.272,0,0.0563
+"691","HOT N COLD","Katy Perry",2009,"1y4eb6hmAvsqlDOl3fx9kk",0.706,0.841,132.032,-3.956,0.0418,7.95e-05,0,0.0688
+"692","SECOND CHANCE","Shinedown",2009,"0CwYG1UnRmOx8Q1EzElCIL",0.46,0.796,100.011,-4.501,0.0333,0.00107,0,0.106
+"693","CIRCUS","Britney Spears",2009,"7jk7gqyEonmVVYahZN5zhW",0.791,0.733,114.98,-5.215,0.052,0.147,0.000381,0.0713
+"694","DAY 'N' NITE","Kid Cudi",2009,"5FEXPoPnzueFJQCPRIrC3c",0.878,0.446,138.035,-6.362,0.0635,0.503,6.32e-06,0.117
+"695","PARTY IN THE U.S.A.","Miley Cyrus",2009,"5Q0Nhxo0l2bP3pNjpGJwV1",0.454,0.708,192.18,-4.526,0.0675,0.00124,0.000181,0.0679
+"696","DON'T TRUST ME","3OH!3",2009,"6s8T3AuXULZbAMXSYDsai9",0.802,0.507,129.999,-10.204,0.112,0.0332,0,0.103
+"697","RUN THIS TOWN","Jay-Z, Rihanna & Kanye West",2009,"4FcUA8s8XXabKQEFRA8vxy",0.437,0.809,172.05,-4.35,0.0411,0.219,0,0.167
+"698","LET IT ROCK","Kevin Rudolf Featuring Lil Wayne",2009,"2vVc2G9w2JteBgxpSUVwX5",0.618,0.773,113.164,-5.15,0.0369,0.000624,0,0.0813
+"699","FIRE BURNING","Sean Kingston",2009,"2oENJa1T33GJ0w8dC167G4",0.839,0.804,122.973,-2.513,0.0329,0.0192,0,0.331
+"700","WHATCHA SAY","Jason DeRulo",2009,"2zJZwWF7BTGIIvrAlgzJEx",0.615,0.711,144.036,-5.507,0.0779,0.0444,0,0.145
+"701","LOVEGAME","Lady Gaga",2009,"2nP53cGOPLojPkoWVZo4sY",0.892,0.641,105.059,-5.658,0.0634,0.00631,3.15e-06,0.31
+"702","WAKING UP IN VEGAS","Katy Perry",2009,"6fvxos1qSHrIgOkKw4dhWS",0.524,0.878,130.989,-3.108,0.0346,0.0012,0,0.098
+"703","BIRTHDAY SEX","Jeremih",2009,"4NpDZPwSXmL0cCTaJuVrCw",0.675,0.545,60.048,-5.614,0.0443,0.261,0,0.162
+"704","SOBER","Pink",2009,"6olUplztLFFfU7fMYmFXOP",0.699,0.601,98.04,-6.48,0.0304,0.0972,1.17e-05,0.562
+"705","WOMANIZER","Britney Spears",2009,"4fixebDZAVToLbUCuEloa2",0.724,0.695,139,-5.226,0.0622,0.073,0,0.0889
+"706","WHATEVER YOU LIKE","T.I.",2009,"3IcIIZMMS7UArJJPtEHXG8",0.742,0.471,86.467,-5.513,0.0695,0.0517,0,0.862
+"707","OBSESSED","Mariah Carey",2009,"3tvWMBIblzT5FSjKtIeRR1",0.68,0.687,150.053,-6.162,0.0709,0.0161,0,0.261
+"708","MAD","Ne-Yo",2009,"6Hn9Uc1mMNfqChXU3txNke",0.729,0.652,129.987,-5.277,0.0311,0.652,0,0.115
+"709","GOOD GIRLS GO BAD","Cobra Starship Featuring Leighton Meester",2009,"7kMfu3KUydmrFVGEAhjtyl",0.594,0.874,119.964,-3.716,0.0815,0.0116,0,0.549
+"710","LOVE LOCKDOWN","Kanye West",2009,"1kxeWHF9PrCVZHvVskv8lg",0.756,0.529,119.573,-7.659,0.0329,0.0539,0.392,0.112
+"711","SO WHAT","Pink",2009,"6qYGUxPjQt5PJtWdiNppZx",0.535,0.886,126.012,-3.106,0.045,0.000304,2.26e-06,0.257
+"712","HOTEL ROOM SERVICE","Pitbull",2009,"6Rb0ptOEjBjPPQUlQtQGbL",0.851,0.629,125.984,-8.385,0.175,0.00705,0.000372,0.0746
+"713","CRACK A BOTTLE","Eminem, Dr. Dre & 50 Cent",2009,"4dK00wCxlqWEeN8BoM1BHT",0.674,0.879,84.08,-2.573,0.174,0.0887,0,0.11
+"714","IF I WERE A BOY","Beyonce",2009,"26NX1wPt1TRCH536yocd6i",0.632,0.518,90.007,-6.126,0.0313,0.107,0,0.354
+"715","TURNIN ME ON","Keri Hilson Featuring Lil Wayne",2009,"1jEtDqwYCKpR0mlrMrrITx",0.67,0.582,159.937,-4.767,0.0672,0.00329,3.67e-06,0.174
+"716","I HATE THIS PART","The Pussycat Dolls",2009,"4mYd9FQyU5eekDJyVeIRgS",0.746,0.61,111.567,-4.236,0.033,0.0783,0,0.251
+"717","GOTTA BE SOMEBODY","Nickelback",2009,"06T10fEzN8ZCcqzQZYA184",0.536,0.89,115.998,-5.222,0.0601,0.000354,0.00165,0.133
+"718","PLEASE DON'T LEAVE ME","Pink",2009,"2tAtg37styBgPSHzKnJQYB",0.591,0.841,138.037,-4.498,0.0375,0.00971,0,0.262
+"719","PAPARAZZI","Lady Gaga",2009,"3FF6jZY1wDHXJUUN18qsLx",0.758,0.688,114.93,-3.918,0.0478,0.12,0,0.0904
+"720","BEAUTIFUL","Akon Featuring Colby O'Donis & Kardinal Offishall",2009,"7rv0UuxMX7CpUUwEE1jVrd",0.739,0.938,130.018,-4.446,0.0868,0.131,0,0.124
+"721","VIVA LA VIDA","Coldplay",2009,"1mea3bSkSGXuIRvnydlB5b",0.485,0.619,138.017,-7.115,0.0289,0.0941,3.31e-06,0.109
+"722","RIGHT NOW (NA NA NA)","Akon",2009,"1ARJhjuI6TNYZCxYygFQ4F",0.816,0.851,137.968,-4.166,0.19,0.283,0,0.543
+"723","BATTLEFIELD","Jordin Sparks",2009,"1Nme6K1PYAh7p7uygyuRdf",0.613,0.634,144.953,-3.472,0.0339,0.0178,0,0.0719
+"724","MISS INDEPENDENT","Ne-Yo",2009,"34ceTg8ChN5HjrqiIYCn9Q",0.668,0.697,171.884,-5.586,0.122,0.488,0,0.183
+"725","FIREFLIES","Owl City",2009,"3DamFFqW32WihKkTVlwTYQ",0.591,0.649,90.002,-6.72,0.0417,0.0294,0,0.133
+"726","NEW DIVIDE","Linkin Park",2009,"6Wx88Mv6b9ofjKMKkdwOJd",0.493,0.808,117.971,-3.365,0.0362,0.000235,0,0.0983
+"727","EMPIRE STATE OF MIND","Jay-Z + Alicia Keys",2009,"5sra5UY6sD658OabHL3QtI",0.479,0.368,92.959,-7.784,0.0341,0.739,4.1e-05,0.118
+"728","NO SURPRISE","Daughtry",2009,"04Sl2hULaCVM7Iw8kzXPHN",0.481,0.779,96.029,-3.81,0.031,0.00853,0,0.0993
+"729","SHE WOLF","Shakira",2009,"4cS2HQ6jK80vqdY9ofpztx",0.865,0.69,121.983,-7.448,0.0444,0.289,0.0138,0.225
+"730","BREAK UP","Mario Featuring Gucci Mane & Sean Garrett",2009,"4UP5HP7IAnNdxD01g1lzQp",0.44,0.517,73.881,-7.355,0.363,0.428,0,0.173
+"731","SWEET DREAMS","Beyonce",2009,"1FKxKGONukVFXWVJxAKmlz",0.694,0.825,121.949,-5.986,0.111,0.0895,1.86e-05,0.0618
+"732","EVERY GIRL","Young Money",2009,"2Cyab0ISyJABtu99wgjBKz",0.482,0.769,76.301,-9.395,0.355,0.00232,0,0.469
+"733","FALLIN' FOR YOU","Colbie Caillat",2009,"1le5KVGTF1xWf2aUj7ruLy",0.648,0.825,117.038,-6.395,0.0268,0.137,0,0.115
+"734","UNTOUCHED","The Veronicas",2009,"5iyKbjiCVHS7YaMjuvPOeo",0.698,0.472,90.006,-7.198,0.0658,0.553,3.24e-05,0.104
+"735","IF TODAY WAS YOUR LAST DAY","Nickelback",2009,"1YPfmWeMqn7OoguNcfqzaK",0.474,0.93,89.937,-4.225,0.0378,0.000118,0,0.0903
+"736","THROW IT IN THE BAG","Fabolous Featuring The-Dream",2009,"6c0GmyBsE7mQtrVvxJaWc3",0.852,0.559,86.018,-7.441,0.0376,0.165,0,0.0761
+"737","LOVE DRUNK","Boys Like Girls",2009,"20X9OeC606XNwEtDBOym5u",0.44,0.976,150.005,-3.17,0.141,0.00177,3.39e-06,0.16
+"738","I LOVE COLLEGE","Asher Roth",2009,"1akgiRM3mN2nxu2AX6ACCW",0.708,0.815,86.493,-4.044,0.25,0.107,0,0.326
+"739","IF U SEEK AMY","Britney Spears",2009,"2hdy9Wt9qp7M7d0U3ossu2",0.717,0.587,129.954,-7.296,0.0339,0.0192,0,0.0523
+"740","BIG GREEN TRACTOR","Jason Aldean",2009,"1YWM2rkA6Aqto0v08edz44",0.616,0.596,137.077,-5.035,0.0289,0.654,0,0.218
+"741","DISTURBIA","Rihanna",2009,"2VOomzT6VavJOGBeySqaMc",0.706,0.794,124.93,-4.321,0.0568,0.11,0,0.276
+"742","21 GUNS","Green Day",2009,"64yrDBpcdwEdNY9loyEGbX",0.268,0.742,159.779,-4.939,0.0355,0.0518,0,0.626
+"743","TURN MY SWAG ON","Soulja Boy Tell'em",2009,"6ATrsVaZT7XjkCynxM8cTS",0.468,0.673,150.093,-3.045,0.0311,0.00111,0,0.41
+"744","ROCKIN' THAT THANG","The-Dream",2009,"4I7l40CRYeSWEQ5CVyLt7w",0.802,0.731,157.145,-4.317,0.19,0.136,0,0.102
+"745","CHICKEN FRIED","Zac Brown Band",2009,"4dGJf1SER1T6ooX46vwzRB",0.566,0.713,169.864,-4.25,0.0417,0.645,0,0.114
+"746","DIVA","Beyonce",2009,"5Ssv6DaKrW0HczVqx6zXdl",0.875,0.551,146.092,-6.744,0.317,0.0488,0.00728,0.0537
+"747","THEN","Brad Paisley",2009,"3XKbdb9GB6u3hsnUklQTav",0.493,0.643,144.717,-5.19,0.0299,0.512,2.42e-05,0.209
+"748","HER DIAMONDS","Rob Thomas",2009,"3LtwmK1OfN0dGs9jf3qSjn",0.555,0.924,87.606,-4.93,0.0604,0.0159,0,0.075
+"749","HOW DO YOU SLEEP?","Jesse McCartney Featuring Ludacris",2009,"4GEEixNkGl7ySoY71E009f",0.293,0.761,173.92,-4.394,0.0491,0.381,3.69e-05,0.186
+"750","ONE TIME","Justin Bieber",2009,"1Z4UKak2eNteHFZkwiYPNz",0.831,0.233,159.827,-12.227,0.439,0.283,0,0.192
+"751","I RUN TO YOU","Lady Antebellum",2009,"2YVCkTYJpv5jelYrHYoEG8",0.656,0.786,113.963,-4.451,0.034,0.163,5.99e-05,0.124
+"752","GREEN LIGHT","John Legend Featuring Andre 3000",2009,"3FQ26GroLnhQEja48FKYqT",0.597,0.733,128.918,-7.768,0.101,0.0151,2.09e-05,0.081
+"753","PEOPLE ARE CRAZY","Billy Currington",2009,"5sC1qOC9QclptSIE2Zx7fz",0.654,0.682,141.96,-5.017,0.0253,0.263,0.000455,0.134
+"754","WHATEVER IT IS","Zac Brown Band",2009,"4o8STNAL91xc7EvuvqSKk1",0.686,0.576,83.971,-6.632,0.0284,0.443,1.7e-05,0.212
+"755","ALREADY GONE","Kelly Clarkson",2009,"7fkXzzIVo98CgjOkpd9H0V",0.447,0.206,66.734,-11.75,0.0519,0.956,4.56e-06,0.107
+"756","GOODBYE","Kristinia DeBarge",2009,"0e8CxZ3UlZIIV3ZRkzHN34",0.747,0.383,112.445,-12.404,0.0398,0.367,0,0.179
+"757","SAY HEY (I LOVE YOU)","Michael Franti & Spearhead Featuring Cherine Anderson",2009,"0nnxf8p851ZR49KFnGWVsB",0.743,0.981,93.003,-4.347,0.0899,0.0368,1.17e-06,0.178
+"758","POP CHAMPAGNE","Jim Jones & Ron Browz Featuring Juelz Santana",2009,"7LufXm3AnMJ8xNaAOzXZRJ",0.773,0.752,119.993,-7.007,0.168,0.0132,0,0.0945
+"759","PRETTY WINGS","Maxwell",2009,"3yUJKPsjvThlcQWTS9ttYx",0.367,0.771,115.917,-5.863,0.106,0.365,1.47e-06,0.0965
+"760","NEVER SAY NEVER","The Fray",2009,"57uX2vR9j9DNiANDYfXw1i",0.23,0.492,160.139,-5.767,0.0317,0.568,8.18e-06,0.176
+"761","LOW","Flo Rida Featuring T-Pain",2008,"0CAfXk7DXMnon4gLudAp7J",0.918,0.609,128.008,-5.64,0.0791,0.0928,0,0.139
+"762","BLEEDING LOVE","Leona Lewis",2008,"7wZUrN8oemZfsEd1CGkbXE",0.638,0.656,104.036,-5.886,0.0357,0.188,0,0.146
+"763","NO ONE","Alicia Keys",2008,"0JEqGkvUiMTQmFY6sgL9kg",0.649,0.552,89.969,-5.419,0.0292,0.03,6.47e-06,0.111
+"764","LOLLIPOP","Lil Wayne Featuring Static Major",2008,"4P7VFiaZb3xrXoqGwZXC3J",0.828,0.433,148.073,-9.716,0.199,0.0656,0.000876,0.122
+"765","APOLOGIZE","Timbaland Featuring OneRepublic",2008,"6ucR4KfvsBFWCMVFDvyKKl",0.654,0.61,118.032,-6.051,0.0285,0.0399,0,0.101
+"766","NO AIR","Jordin Sparks Duet With Chris Brown",2008,"519tXYJVcrpEMqV2BMbh6E",0.466,0.759,160.033,-4.978,0.199,0.0521,0,0.0587
+"767","LOVE SONG","Sara Bareilles",2008,"4E6cwWJWZw2zWf7VFbH7wf",0.583,0.786,123.052,-3.142,0.0301,0.0208,0,0.188
+"768","LOVE IN THIS CLUB","Usher Featuring Young Jeezy",2008,"5j0McHPthKpOXRr3fBq8M0",0.573,0.712,140.012,-5.976,0.0732,0.0572,0,0.167
+"769","WITH YOU","Chris Brown",2008,"1j3H54xdahpAkNI0q6S89q",0.659,0.696,86.001,-4.291,0.071,0.143,0,0.13
+"770","FOREVER","Chris Brown",2008,"7tAXHZdp9UpcYrHn7MZqfo",0.672,0.819,120.013,-4.457,0.0463,0.0371,0.000184,0.203
+"771","SEXY CAN I","Ray J & Yung Berg",2008,"0DdpxWfVvUGgkJv5536tiF",0.575,0.684,172.155,-6.007,0.325,0.299,0,0.614
+"772","TAKE A BOW","Rihanna",2008,"3goSVuTt3fDYDP6kRnFwuL",0.705,0.469,82.009,-7.46,0.0771,0.242,0,0.104
+"773","VIVA LA VIDA","Coldplay",2008,"1mea3bSkSGXuIRvnydlB5b",0.485,0.619,138.017,-7.115,0.0289,0.0941,3.31e-06,0.109
+"774","I KISSED A GIRL","Katy Perry",2008,"005lwxGU1tms6HGELIcUv9",0.699,0.76,129.996,-3.173,0.0677,0.00223,0,0.132
+"775","WHATEVER YOU LIKE","T.I.",2008,"3tvWMBIblzT5FSjKtIeRR1",0.68,0.687,150.053,-6.162,0.0709,0.0161,0,0.261
+"776","DISTURBIA","Rihanna",2008,"2VOomzT6VavJOGBeySqaMc",0.706,0.794,124.93,-4.321,0.0568,0.11,0,0.276
+"777","DON'T STOP THE MUSIC","Rihanna",2008,"0ByMNEPAPpOR5H69DVrTNy",0.853,0.676,122.65,-5.533,0.0715,0.0446,3.37e-05,0.0514
+"778","POCKETFUL OF SUNSHINE","Natasha Bedingfield",2008,"1uigwk5hNV84zRd5YQQRTk",0.721,0.88,110.021,-3.896,0.0454,0.191,0,0.0769
+"779","KISS KISS","Chris Brown Featuring T-Pain",2008,"4CweuuMMzi71pO0MSRgyaT",0.769,0.52,140.112,-5.14,0.212,0.0219,0,0.0762
+"780","CLOSER","Ne-Yo",2008,"2XbfY2O2v3xwedUJ0J2kkr",0.724,0.768,125.998,-6.438,0.0792,0.0268,2.44e-05,0.176
+"781","BUBBLY","Colbie Caillat",2008,"0rFOs9paloAvEtzwDX1Kmc",0.664,0.491,127.97,-6.544,0.042,0.594,0,0.11
+"782","TOUCH MY BODY","Mariah Carey",2008,"2H1l4JczUDbiWfQtQElB05",0.716,0.666,78.498,-7.719,0.0539,0.129,0,0.25
+"783","4 MINUTES","Madonna Featuring Justin Timberlake",2008,"1oHClQEgDmmbcEx12Kc5nZ",0.753,0.931,113.029,-4.922,0.0652,0.00994,0.00696,0.234
+"784","PARALYZER","Finger Eleven",2008,"28IEbk5a7twNTbUEvWslUb",0.645,0.941,106.015,-3.425,0.0448,0.169,0,0.251
+"785","CLUMSY","Fergie",2008,"50xeLNGKmskmYUSINhqvfa",0.728,0.582,184.045,-4.141,0.158,0.196,0.000632,0.304
+"786","I'M YOURS","Jason Mraz",2008,"1EzrEOXmMH3G43AXT1y7pA",0.686,0.457,150.953,-8.322,0.0468,0.595,0,0.105
+"787","LEAVIN'","Jesse McCartney",2008,"20ORwCJusz4KS2PbTPVNKo",0.693,0.709,79.237,-5.787,0.0608,0.0352,3.4e-06,0.0688
+"788","TATTOO","Jordin Sparks",2008,"3Ui2jdyxbZQrZohfM0NOgG",0.566,0.766,168.005,-5.036,0.0399,0.431,0,0.101
+"789","SEE YOU AGAIN","Miley Cyrus",2008,"0G71WvIkF2K6HViJeFvOcM",0.685,0.919,138.95,-5.039,0.203,0.0137,3.29e-05,0.114
+"790","SHAKE IT","Metro Station",2008,"5619Ojc6t9evEEs3B7Drhe",0.618,0.955,150.034,-3.836,0.0798,0.00221,3.09e-06,0.486
+"791","STOP AND STARE","OneRepublic",2008,"48s0QHJgmiNsth3WEO6U4M",0.49,0.849,92.494,-4.234,0.035,0.0593,0,0.082
+"792","TAKE YOU THERE","Sean Kingston",2008,"6AdLyvisRKHLAwARaZMGr6",0.752,0.921,115.033,-4.321,0.0696,0.0182,0,0.256
+"793","PAPER PLANES","M.I.A.",2008,"1kusepF3AacIEtUTYrw4GV",0.457,0.854,172.231,-6.2,0.265,0.0277,9.62e-05,0.731
+"794","HOT N COLD","Katy Perry",2008,"1y4eb6hmAvsqlDOl3fx9kk",0.706,0.841,132.032,-3.956,0.0418,7.95e-05,0,0.0688
+"795","LIVE YOUR LIFE","T.I. Featuring Rihanna",2008,"16GHcGtW9Io7AuVdNmTjv3",0.375,0.862,159.841,-3.363,0.255,0.071,0,0.211
+"796","BUST IT BABY PART 2","Plies Featuring Ne-Yo",2008,"0exb0K7vsjf5bXWLJJhAuF",0.648,0.801,78.946,-7.24,0.167,0.154,0,0.339
+"797","AMERICAN BOY","Estelle Featuring Kanye West",2008,"41on8RwRh22IHcChAN2gm8",0.727,0.729,117.932,-2.99,0.326,0.171,0,0.07
+"798","GOT MONEY","Lil Wayne Featuring T-Pain",2008,"46lIt6GmL0VkkbuUyGDbCs",0.442,0.638,82.206,-5.053,0.26,0.00199,0,0.646
+"799","DAMAGED","Danity Kane",2008,"4yHFxB8kzzeuNvoouR8N0N",0.774,0.653,120.01,-5.158,0.05,0.0912,0,0.151
+"800","A MILLI","Lil Wayne",2008,"6ScJMrlpiLfZUGtWp4QIVt",0.679,0.684,151.748,-8.559,0.278,0.0527,0.000895,0.177
+"801","INDEPENDENT","Webbie Featuring Lil' Phat & Lil' Boosie",2008,"0h2uvuNAFUe5VR71kJmW6B",0.65,0.523,175.553,-6.047,0.0949,4.79e-05,0,0.0527
+"802","CAN'T BELIEVE IT","T-Pain Featuring Lil Wayne",2008,"6m1sJMWeAkCG5eECKaGFew",0.578,0.546,120.818,-8.149,0.0552,0.0024,0,0.0908
+"803","LIKE YOU'LL NEVER SEE ME AGAIN","Alicia Keys",2008,"0NWJPV3utX0J4tfwzyotNB",0.548,0.658,127.892,-8.063,0.0314,0.164,0.000132,0.109
+"804","SENSUAL SEDUCTION","Snoop Dogg",2008,"1wva1IlWLDNLgwipUWcmjy",0.756,0.834,120.214,-4.005,0.077,0.00446,2.76e-05,0.0645
+"805","WHAT YOU GOT","Colby O'Donis Featuring Akon",2008,"3MldzywZOH4Uci6bq9noyJ",0.771,0.631,119.965,-6.795,0.0395,0.0308,0,0.168
+"806","IT'S NOT MY TIME","3 Doors Down",2008,"0uybt73QFXaLCoxuVf6fhm",0.54,0.928,128.037,-4.823,0.0671,0.00151,2.58e-06,0.135
+"807","BETTER IN TIME","Leona Lewis",2008,"2iXBZ32Fz5VDCLeE0JIdX5",0.584,0.7,163.953,-4.251,0.0506,0.512,2.43e-05,0.13
+"808","CRANK THAT (SOULJA BOY)","Soulja Boy Tell'em",2008,"66TRwr5uJwPt15mfFkzhbi",0.732,0.724,140.13,-2.104,0.101,0.511,0,0.0491
+"809","SHADOW OF THE DAY","Linkin Park",2008,"0OYcEfskah1egYHjYRvbg1",0.534,0.393,110.007,-7.813,0.0292,0.00479,0.0107,0.107
+"810","SWEETEST GIRL (DOLLAR BILL)","Wyclef Jean Featuring Akon, Lil Wayne & Niia",2008,"4liGjmhCupa7RP9JaQELYx",0.733,0.744,92.515,-3.51,0.0553,0.0772,0,0.341
+"811","MISS INDEPENDENT","Ne-Yo",2008,"34ceTg8ChN5HjrqiIYCn9Q",0.668,0.697,171.884,-5.586,0.122,0.488,0,0.183
+"812","FALL FOR YOU","Secondhand Serenade",2008,"7lWF2mVr1KKbVnaT2nSlPo",0.387,0.442,169.481,-7.086,0.0352,0.19,0,0.0788
+"813","IN THE AYER","Flo Rida Featuring will.i.am",2008,"6RpiAj9Ofv0Uqp6n2OuRoh",0.83,0.746,125.992,-6.286,0.0579,0.00456,0,0.26
+"814","SAY","John Mayer",2008,"6wZI4mdT8JwXgkGURnBQiq",0.485,0.723,167.845,-6.565,0.0317,0.541,1.12e-06,0.075
+"815","ONE STEP AT A TIME","Jordin Sparks",2008,"4hbRj5tucVkLUVoAdJUyRi",0.766,0.692,102.028,-4.672,0.0289,0.0825,0,0.0384
+"816","HATE THAT I LOVE YOU","Rihanna Featuring Ne-Yo",2008,"7iu0WYLdo4yksKf3seaxzI",0.637,0.719,93.973,-5.443,0.0852,0.305,0,0.114
+"817","SUPERSTAR","Lupe Fiasco Featuring Matthew Santos",2008,"7dltD9eEX7X1zk8JJ9BS0e",0.572,0.822,94.812,-6.015,0.361,0.207,0,0.359
+"818","SUFFOCATE","J. Holiday",2008,"3nJjIYchBNkYm7B8XfJf5N",0.458,0.445,82.82,-8.391,0.361,0.64,0,0.118
+"819","LET IT ROCK","Kevin Rudolf Featuring Lil Wayne",2008,"6TrNRd98WksT9Kkmx9uj6R",0.607,0.781,113.183,-4.276,0.0407,0.00106,0,0.0769
+"820","GET LIKE ME","David Banner Featuring Chris Brown",2008,"2IBF9lQ9lgVai8LkskI5L7",0.935,0.747,117.613,-4.231,0.391,0.00417,0,0.207
+"821","REALIZE","Colbie Caillat",2008,"5OGkKx8jP0A5KSULEc6XYZ",0.699,0.607,123.95,-6.312,0.0347,0.142,0,0.105
+"822","PUT ON","Young Jeezy Featuring Kanye West",2008,"5dANgSy7v091dhiPnEXNrf",0.649,0.785,137.618,-6.031,0.0369,0.0027,0,0.0859
+"823","THE TIME OF MY LIFE","David Cook",2008,"6avyV3xlz2UFeiAUZ0SqyT",0.414,0.578,154.96,-6.383,0.0287,0.0541,0,0.124
+"824","LOLLI LOLLI (POP THAT BODY)","Three 6 Mafia Featuring Project Pat, Young D & Superpower",2008,"4xWMTkwknjh8FzxNrkwLl6",0.89,0.946,120,-5.673,0.0489,0.0188,0.000128,0.11
+"825","CYCLONE","Baby Bash Featuring T-Pain",2008,"27mhCGdAA8gM7b33KIiB3k",0.641,0.72,77.969,-4.326,0.0552,0.0102,0,0.154
+"826","LOVE LIKE THIS","Natasha Bedingfield Featuring Sean Kingston",2008,"49ppqF73rOz5Nyt1paRxIF",0.781,0.791,76.998,-3.903,0.0468,0.145,0,0.127
+"827","BURNIN' UP","Jonas Brothers",2008,"72jGj8k9C7DIQesDYenUT3",0.667,0.954,114,-3.462,0.0817,0.0296,0,0.331
+"828","LOVE LOCKDOWN","Kanye West",2008,"1kxeWHF9PrCVZHvVskv8lg",0.756,0.529,119.573,-7.659,0.0329,0.0539,0.392,0.112
+"829","I LUV YOUR GIRL","The-Dream",2008,"3wkNK8tJZ2stygNJm8RCRD",0.686,0.322,89.958,-9.829,0.0386,0.017,0,0.125
+"830","CRUSH","David Archuleta",2008,"4wCD0qOFNRu1Q6O3N6ycm4",0.57,0.664,162.084,-4.718,0.0322,0.00836,1.2e-05,0.0719
+"831","HYPNOTIZED","Plies Featuring Akon",2008,"3LN41NUdHkyNqQhi9gExMm",0.84,0.571,116.59,-7.421,0.0797,0.16,0,0.406
+"832","BIG GIRLS DON'T CRY","Fergie",2008,"3Q4WeJmzxuDpzMu9QjQqbM",0.712,0.647,113.116,-4.277,0.0336,0.239,0,0.0955
+"833","GOOD LIFE","Kanye West Featuring T-Pain",2008,"1fLdeDTrJWNkwOeFyAVLvF",0.435,0.802,84.267,-6.871,0.324,0.00376,0,0.467
+"834","WOMANIZER","Britney Spears",2008,"4fixebDZAVToLbUCuEloa2",0.724,0.695,139,-5.226,0.0622,0.073,0,0.0889
+"835","JUST FINE","Mary J. Blige",2008,"33vzOPcd9FRirYGlCu32x4",0.924,0.771,123.018,-3.552,0.0561,0.0334,0.00011,0.119
+"836","PIECE OF ME","Britney Spears",2008,"2EvwLVrnYbCZEG6Kx5DCRy",0.769,0.638,115.007,-5.054,0.216,0.0902,0,0.0857
+"837","THE BOSS","Rick Ross Featuring T-Pain",2008,"3n5qF6aprwEIjHWuH5jECM",0.399,0.857,85.937,-4.086,0.336,0.00944,0,0.319
+"838","ALL SUMMER LONG","Kid Rock",2008,"5rX6C5QVvvZB7XckETNych",0.7,0.864,102.997,-3.629,0.0283,0.0212,0,0.0956
+"839","CAN'T HELP BUT WAIT","Trey Songz",2008,"5k3VjTwIsOjQ2woGz3Yx71",0.699,0.699,94.977,-5.564,0.0737,0.358,0,0.0912
+"840","IN LOVE WITH A GIRL","Gavin DeGraw",2008,"3zcmWxxUA7Em7X3IBqZGUo",0.439,0.906,161.905,-4.8,0.0439,0.0193,0,0.373
+"841","MY LIFE","The Game Featuring Lil Wayne",2008,"4GXH9A6fzuE0MNtqtzjhLg",0.671,0.765,148.11,-5.093,0.356,0.0773,0,0.0877
+"842","I REMEMBER","Keyshia Cole",2008,"1dObJGQUgJ7tWxJ0byON6W",0.549,0.756,129.205,-4.412,0.0462,0.234,0,0.0894
+"843","FLASHING LIGHTS","Kanye West Featuring Dwele",2008,"0ua0Go4NN4Td7l0Zre6Ce3",0.634,0.649,90.482,-7.505,0.0486,0.0315,0,0.482
+"844","MRS. OFFICER","Lil Wayne Featuring Bobby Valentino & Kidd Kidd",2008,"0EHR9OObFtjlhQB8wSt1m7",0.916,0.568,112.009,-5.358,0.13,0.248,0,0.081
+"845","7 THINGS","Miley Cyrus",2008,"5ecZWU5uQOiCVSnPxBZNmT",0.599,0.893,107.033,-4.404,0.0376,0.018,0,0.0772
+"846","YOU'RE GONNA MISS THIS","Trace Adkins",2008,"68Q1r5zDnnYaHkh80yal4A",0.5,0.665,154.997,-7.157,0.0355,0.0237,6.41e-05,0.0994
+"847","LOVE REMAINS THE SAME","Gavin Rossdale",2008,"4dOXc4Suk5eig0jiCqCN5Y",0.406,0.632,149.258,-5.115,0.0344,0.236,0,0.18
+"848","FEELS LIKE TONIGHT","Daughtry",2008,"2tVCFmn2zKg2wGXS1TCIIA",0.483,0.907,130.984,-3.166,0.045,0.000822,0,0.117
+"849","THE WAY I ARE","Timbaland Featuring Keri Hilson",2008,"2bLqfJjuC5syrsgDsZfGmn",0.734,0.808,114.764,-6.448,0.106,0.189,0.699,0.315
+"850","ADDICTED","Saving Abel",2008,"3pxCXv0NACYfYnLjFcQW5D",0.512,0.865,138.017,-4.146,0.0338,0.000821,0,0.0982
+"851","INTO THE NIGHT","Santana Featuring Chad Kroeger",2008,"5Hv1QAbRWrUSUHaT0CmnMS",0.595,0.844,127.981,-4.678,0.0331,0.0137,0,0.234
+"852","HEAVEN SENT","Keyshia Cole",2008,"2E90KUsor4U2abOJGFKtfx",0.538,0.728,78.427,-3.663,0.0524,0.074,0,0.0776
+"853","SHE GOT IT","2 Pistols Featuring T-Pain & Tay Dizm",2008,"11WuptzKtcVfPMYaf5aook",0.406,0.732,133.817,-6.191,0.128,0.00436,0,0.358
