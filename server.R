@@ -316,7 +316,6 @@ shinyServer(function(input, output) {
   })
   
   ## Radio buttons
-  
   output$values <- renderPrint({
      input$radio
   })
