@@ -1,92 +1,92 @@
-"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
-"1","(Everything I Do) I Do It For You","Bryan Adams",1991,"6eBK3edMW7bEzecF1eCezc",0.519,0.372,131.227,-12.635,0.0284,0.0816,4.67e-05,0.0652
-"2","I Wanna Sex You Up","Color Me Badd",1991,"07efOAoPwcRdd4W6gi8BRF",0.553,0.702,201.868,-4.829,0.108,0.00532,4.99e-06,0.0446
-"3","Gonna Make You Sweat (Everybody Dance Now)","C & C Music Factory",1991,"2Bdzf6aG9MlmKtAgve3XLJ",0.564,0.776,113.532,-9.778,0.0851,0.00146,0.351,0.157
-"4","Rush, Rush","Paula Abdul",1991,"015qd1I4v00JIoK7yOUgKC",0.706,0.44,90.012,-11.577,0.0493,0.763,0,0.0958
-"5","One More Try","Timmy T",1991,"0Lv8gNS3cZPpFF2wVeANcj",0.657,0.47,149.67,-12.555,0.0617,0.24,2.58e-06,0.261
-"6","Unbelievable","EMF",1991,"2ENmkocNNewTRbuNd6WJpR",0.637,0.849,104.074,-6.855,0.0362,0.000341,0.0386,0.141
-"7","More Than Words","Extreme",1991,"1gVgkQFOKa8Wc1HYsJtPdH",0.615,0.129,91.769,-14.892,0.0286,0.468,0,0.114
-"8","I Like The Way","Hi-Five",1991,"0flZtKtmkZMNqFF7V7Yfmu",0.724,0.692,104.086,-5.109,0.0333,0.0595,0.0108,0.0316
-"9","The First Time","Surface",1991,"4aocMNrPxcJ3OQChTDhVPj",0.637,0.354,126.435,-11.964,0.0283,0.215,0.000704,0.0961
-"10","Baby, Baby","Amy Grant",1991,"3IDsegNBHC4pjGCOMTQYlU",0.702,0.901,97.862,-4.45,0.0264,0.426,0.00153,0.0368
-"11","Motownphilly - Original Version","Boyz II Men",1991,"4wDSLkTUIpRsn3UbCzW9wV",0.756,0.858,114.144,-9.649,0.0682,0.0171,2.17e-05,0.194
-"12","Because I Love You (The Postman Song)","Stevie B",1991,"7KVrjDjOJiIHwGagvIt3cA",0.366,0.35,62.977,-8.203,0.0339,0.806,0,0.0936
-"13","Someday","Mariah Carey",1991,"6TSM5vkz0WzyZsNAKKYDcw",0.685,0.819,109.855,-8.686,0.0405,0.206,2.23e-06,0.0251
-"14","High Enough","Damn Yankees",1991,"5t5rCnsgRBtcKqTB7SbD1Q",0.273,0.537,81.814,-9.612,0.0306,0.0241,0,0.0922
-"15","All The Man That I Need","Whitney Houston",1991,"3lHJkG9kcsgsfjlEH2tkxi",0.488,0.647,150.916,-7.63,0.0343,0.487,0,0.374
-"16","Right Here Right Now","Jesus Jones",1991,"3fcGGP62sllcNEhuFJVYeC",0.657,0.608,106.862,-13.565,0.0287,0.0088,3.45e-06,0.103
-"17","I Adore Mi Amor","Color Me Badd",1991,"2IcvNE6okbSq18lajo3SYE",0.67,0.577,91.988,-7.706,0.0292,0.222,0,0.142
-"18","Love Will Never Do (Without You)","Janet Jackson",1991,"2fXIpPInm70t1vMRm82Kar",0.727,0.988,103.179,-4.577,0.0426,0.0439,0.0013,0.129
-"19","Good Vibrations","Marky Mark And The Funky Bunch",1991,"5hWdgGVcfTeLPAiHM6EZG9",0.714,0.953,121.653,-8.354,0.0543,0.00234,0.376,0.0245
-"20","Justify My Love","Madonna",1991,"6BWRvw630R8z2vNMok6quI",0.705,0.821,99.642,-7.085,0.128,0.00244,0.684,0.0572
-"21","Emotions","Mariah Carey",1991,"3bcquuzFb2brIfxlceHwUK",0.741,0.752,114.851,-7.009,0.0359,0.0411,0.0012,0.0233
-"22","Joyride","Roxette",1991,"2q9xZPaOxWr3n250HpKExl",0.651,0.74,102.233,-6.244,0.0272,0.0862,0,0.142
-"23","Romantic","Karyn White",1991,"4WmCoqweV6nXrSogoAo12a",0.686,0.945,110.389,-6.531,0.0371,0.497,8.24e-05,0.0808
-"24","I Don't Wanna Cry","Mariah Carey",1991,"1hFtJ5rV3aAm58ErijHdFO",0.641,0.504,130.786,-12.486,0.031,0.197,9.01e-05,0.288
-"25","You're In Love","Wilson Phillips",1991,"5KNbCF0FpIWuPE8x6bhGgw",0.688,0.679,101.872,-11.05,0.0259,0.319,0.000301,0.29
-"26","Every Heartbeat","Amy Grant",1991,"55lX3vm1G35mUpawXHK5Te",0.648,0.89,126.956,-3.834,0.0429,0.288,0,0.119
-"27","Sensitivity","Ralph Tresvant",1991,"3lRgzwd3g1TewI4zjgbh9V",0.691,0.664,96.951,-13.074,0.0483,0.142,0.37,0.0836
-"28","Touch Me (All Night Long)","Cathy Dennis",1991,"6XUR0ocrwFB6mWJOIXxISi",0.653,0.753,118.008,-10.009,0.0334,0.00101,0.125,0.28
-"29","I`ve Been Thinking About You (Original Mix 2007)","Londonbeat",1991,"6ixo9JA1iCxGVJKTOS2NZv",0.789,0.944,122.99,-5.166,0.101,0.141,0.000121,0.0964
-"30","Losing My Religion","R.E.M.",1991,"1RYSbUnasW12klBZ9lxWIM",0.672,0.841,125.437,-5.992,0.0285,0.0767,0,0.135
-"31","Coming Out of the Dark","Gloria Estefan",1991,"5x9MJycRilBm2SNavzt9yF",0.643,0.43,131.846,-11.694,0.0447,0.65,0,0.417
-"32","It Ain't Over 'Til It's Over","Lenny Kravitz",1991,"3aZPzF7Sr0zy3K0EkKyEzk",0.663,0.748,159.719,-5.83,0.0463,0.277,0.00318,0.312
-"33","Here We Go, Let's Rock & Roll","C & C Music Factory",1991,"0whwYFXgGNg14O8hdHguzV",0.449,0.931,113.808,-8.993,0.0648,0.0168,0.261,0.324
-"34","Where Does My Heart Beat Now","Céline Dion",1991,"0JrdoQMf2TZetkE6aM0sUx",0.531,0.762,74.014,-5.668,0.0302,0.665,1.08e-06,0.0933
-"35","Summertime - Single Edit","DJ Jazzy Jeff & The Fresh Prince",1991,"1Ckd4d6vkhvOp5HlAc5Ie2",0.614,0.752,95.018,-6.271,0.0652,0.00328,0,0.379
-"36","Wind Of Change","Scorpions",1991,"55G6KjatHN4CkiT47Omlpz",0.465,0.693,75.858,-6.265,0.0368,0.336,0,0.0973
-"37","The Promise Of A New Day","Paula Abdul",1991,"5m8xVZhlM7E2mL9uuxZpF6",0.754,0.82,119.835,-8.622,0.062,0.0911,1.62e-06,0.0805
-"38","I'm Your Baby Tonight","Whitney Houston",1991,"0Eb2UmP2jtWwEJigX9akO0",0.702,0.852,110.61,-8.391,0.0774,0.055,0.000689,0.252
-"39","Love of a Lifetime","Firehouse",1991,"2kDH08boXJyhKMl5hnZbrE",0.469,0.498,123.015,-12.013,0.0311,0.000229,0.0033,0.0919
-"40","Fading Like A Flower","Roxette",1991,"5TehPyJrU16Tw6XK0p97Rd",0.609,0.668,105.419,-5.738,0.026,0.195,0,0.219
-"41","This House","Tracie Spencer",1991,"10JIQ4VbdRMlqvSJGvi7El",0.74,0.738,112.589,-9.849,0.0399,0.0303,0.00406,0.0324
-"42","Hole Hearted","Extreme",1991,"1cItNpcJskTVETprljc7HV",0.407,0.743,203.548,-9.338,0.0458,0.198,0,0.08
-"43","Power of Love / Love Power","Luther Vandross",1991,"0FcSJxqqTas3wiT7Nd5EXR",0.513,0.873,184.497,-9.231,0.0506,0.0152,0.000373,0.071
-"44","Impulsive","Wilson Phillips",1991,"2lxfnTyWxW381PXDm9Mg77",0.657,0.76,107.872,-8.613,0.0298,0.171,0.00551,0.224
-"45","Love Is A Wonderful Thing","Michael Bolton",1991,"44MgXak5EQFmEj2hGL8vnw",0.719,0.901,125.079,-4.828,0.0494,0.0064,0,0.159
-"46","Rhythm of My Heart - 2008 Remastered Version","Rod Stewart",1991,"0fLgxhfATkNRJGca4rCu9X",0.346,0.594,95.063,-8.662,0.0383,0.1,0,0.122
-"47","Things That Make You Go Hmmmm....","C & C Music Factory",1991,"5EZJ2mJ2KTNs01n0cBR6lC",0.81,0.93,113.334,-7.464,0.0536,0.118,0.000102,0.357
-"48","I Touch Myself","Divinyls",1991,"6oNvmplQGUkmAh441Teows",0.66,0.711,109.328,-10.211,0.0334,0.181,7.47e-06,0.0647
-"49","Tom's Diner","Suzanne Vega",1991,"7f9sC9fvtjYSZYOLSmKJlq",0.873,0.441,99.118,-12.393,0.0639,0.0286,0.0131,0.0479
-"50","Something To Talk About","Bonnie Raitt",1991,"6Ceejf3zBXvAhIY9DbP1Pr",0.795,0.64,102.633,-13.478,0.0294,0.0631,2.13e-06,0.0692
-"51","After The Rain","Nelson",1991,"6ILvjEWvikRHgsoKgfFc7C",0.494,0.914,123.984,-2.498,0.055,0.00245,1.43e-06,0.0528
-"52","Play That Funky Music","Vanilla Ice",1991,"1Ezs8eYxuZjhlgyoI1Bo76",0.851,0.514,100.425,-15.279,0.165,0.000928,3.58e-06,0.381
-"53","Temptation","Corina",1991,"6WCJyL4KetAqEZYhRq5S3f",0.609,0.771,118.352,-10.663,0.0428,0.000274,0.05,0.038
-"54","Can't Stop This Thing We Started","Bryan Adams",1991,"6O83X8zjAETDfBkHYvpWcA",0.542,0.884,113.019,-6.85,0.0418,0.034,0,0.455
-"55","I Can't Wait Another Minute","Hi-Five",1991,"1CeGBbkJeKPojRmlo2gIwq",0.625,0.644,147.435,-8.801,0.0287,0.357,0,0.102
-"56","3 A.M. Eternal - Ancients Of Mu Mu/La","The Klf",1991,"0X2AoXyE6LO2ocZqOTuco0",0.612,0.931,119.384,-10.348,0.066,0.000788,0.0245,0.926
-"57","Time, Love And Tenderness - Single Version","Michael Bolton",1991,"5Ex5UHv1C0nCDkZDTJRWfW",0.489,0.878,170.143,-5.071,0.0474,0.0232,0,0.35
-"58","Sadeness - Part I - Radio Edit","Enigma",1991,"1o0ixPgBmT2O6g8tAl1aAc",0.607,0.626,95.701,-10.168,0.0358,0.162,0.0677,0.114
-"59","Around The Way Girl","LL Cool J",1991,"2vAbKDdqA6cEBHU9zQiA8g",0.608,0.665,202.198,-10.347,0.341,0.00342,0.0478,0.221
-"60","I'll Be There","The Escape Club",1991,"3zX2ZUPo0M8EULGmYJ87C6",0.57,0.385,99.86,-12.027,0.0251,0.383,0.0012,0.0924
-"61","Cream","Prince",1991,"5vz2J2kP3vV7mZE9UxnFcG",0.861,0.604,115.588,-8.44,0.0719,0.0974,0.358,0.0467
-"62","Now That We Found Love","Heavy D & The Boyz",1991,"3QNo5oDTOSI23CDDpDUE9Q",0.753,0.73,119.943,-13.883,0.0645,0.0303,0,0.133
-"63","Show Me The Way","Styx",1991,"31ixRkE8fxhP6yA3aDhjr4",0.211,0.496,51.368,-6.501,0.0389,0.256,6.82e-06,0.104
-"64","Love Takes Time","Mariah Carey",1991,"7IifQT0luoDma04zd3L9go",0.602,0.338,126.232,-12.371,0.0293,0.727,0,0.0849
-"65","Cry For Help","Rick Astley",1991,"46L7QPDXvEPoTLCHZwmZms",0.567,0.435,89.912,-15.835,0.0236,0.563,0,0.144
-"66","The Way You Do The Things You Do","UB40",1991,"42HaJ7QlInzQ5vHKWb5Ixa",0.885,0.534,80.857,-8.191,0.155,0.248,4.77e-05,0.0377
-"67","Here I Am - Come And Take Me","UB40",1991,"6YR2MkzMhojHBmW1TbXtZO",0.802,0.621,95.906,-7.932,0.0377,0.0975,0.0256,0.0643
-"68","Signs","Tesla",1991,"6oYjESDcQAQrRh4SKMH7sW",0.352,0.808,162.096,-8.097,0.0425,0.035,0,0.991
-"69","Too Many Walls","Cathy Dennis",1991,"3uJBcTWsHWoxnUkrLOx4JP",0.714,0.621,98.109,-9.963,0.0261,0.35,3.68e-05,0.0925
-"70","Crazy","Seal",1991,"2F9jMklOJOl65znIH4kc8C",0.633,0.858,102.559,-7.42,0.0473,0.208,0.0114,0.0655
-"71","I'll Give All My Love To You - Remastered Single Version","Keith Sweat",1991,"4L9VA69sfZKK5HAs5zP22I",0.62,0.514,140.062,-7.948,0.0417,0.431,0,0.148
-"72","Place In This World","Michael W. Smith",1991,"0PKTBeN87JYJ1mRzrq5Aog",0.446,0.559,145.419,-8.319,0.0285,0.388,1.78e-05,0.153
-"73","Something To Believe In - Digitally Remastered 96","Poison",1991,"4d5XCOm90B4Gs3ZGeFVaUX",0.532,0.654,134.043,-6.367,0.0364,0.277,1.44e-05,0.145
-"74","Get Here","Oleta Adams",1991,"1KT3ndndHOGXePgC4o0Jq9",0.381,0.221,108.282,-16.143,0.0345,0.783,0,0.124
-"75","Round and Round","Prince",1991,"6rKQoV8NBoW6gXrWGpoCv7",0.778,0.539,107.083,-10.627,0.0887,0.00109,0.00458,0.143
-"76","Silent Lucidity - 2000 Digital Remaster","Queensrÿche",1991,"5EcQ53R86rMZ5WnfbVvQEh",0.479,0.619,140.046,-5.723,0.0265,0.0461,0.000431,0.117
-"77","Real Real Real","Jesus Jones",1991,"5gbPzqSC9MFfkeM3L06Imy",0.596,0.547,110.209,-13.136,0.0331,0.0478,4.92e-05,0.157
-"78","Everybody Plays The Fool","Aaron Neville",1991,"0LdOVtg4WgJNeQ9D95tdvP",0.799,0.464,87.901,-9.789,0.118,0.332,0.006,0.086
-"79","Just Another Dream","Cathy Dennis",1991,"7f0tp6MJoOVBlij3XM2hMK",0.681,0.746,118.768,-9.982,0.0394,0.0109,0.0364,0.0689
-"80","Strike It Up","Black Box",1991,"6m8umBymc4gJQUDq8fFKgH",0.871,0.865,118.392,-7.692,0.0612,0.0101,0.000289,0.0686
-"81","Rico Suave","Gerardo",1991,"6FfdQJ9HJcJAvsPVIyoGZ5",0.803,0.805,105.931,-11.297,0.132,0.00847,5.4e-05,0.0597
-"82","Disappear","INXS",1991,"7rUQkEM99w0dNXlgwoPU5K",0.661,0.786,125.266,-6.146,0.0301,0.0147,2e-04,0.0997
-"83","Groove Is In The Heart","Deee-Lite",1991,"2UVLuddklEVak5PXgC7baA",0.694,0.881,121.554,-4.053,0.0701,0.0153,0.0196,0.0851
-"84","All This Time","Sting",1991,"6HQjeXaQl2lctjLOFR0ZEH",0.645,0.585,127.109,-9.025,0.033,0.0851,0.000197,0.0382
-"85","The One and Only","Chesney Hawkes",1991,"5KW5exONmWLybCyc8ogMCn",0.684,0.856,119.961,-5.424,0.0325,0.179,0,0.381
-"86","Star People '97","George Michael",1991,"6MwzWiMKEYUIVPdpO1JQi2",0.778,0.864,108.506,-8.045,0.0408,0.0978,9.5e-05,0.717
-"87","I Saw Red","Warrant",1991,"25YKAZ3ZbLRbjg2JqsdatF",0.515,0.562,84.801,-9.371,0.0286,0.268,0,0.169
-"88","Miles Away","Winger",1991,"20ILzFYZNeTS94WefFpw0J",0.363,0.528,182.21,-10.08,0.0305,0.0661,0,0.334
-"89","The Motown Song - 2008 Remastered Version","Rod Stewart with the Temptations",1991,"53Ttk5sOEtlJvOZmv16aQn",0.654,0.837,116,-6.121,0.0455,0.155,0,0.113
-"90","Shiny Happy People","R.E.M.",1991,"4er8NyQ8cFnZ2b643Tjc44",0.491,0.87,124.444,-5.99,0.0308,0.00361,0.126,0.184
-"91","Humpin' Around - Radio Edit","Bobby Brown",1991,"3MByCefcd6Y2S0VKw13e2B",0.755,0.818,110.075,-7.009,0.0471,0.00613,0.0222,0.0676
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness","duration_ms"
+"1","(Everything I Do) I Do It For You","Bryan Adams",1991,"6eBK3edMW7bEzecF1eCezc",0.519,0.372,131.227,-12.635,0.0284,0.0816,4.67e-05,0.0652,394133
+"2","I Wanna Sex You Up","Color Me Badd",1991,"07efOAoPwcRdd4W6gi8BRF",0.553,0.702,201.868,-4.829,0.108,0.00532,4.99e-06,0.0446,240200
+"3","Gonna Make You Sweat (Everybody Dance Now)","C & C Music Factory",1991,"2Bdzf6aG9MlmKtAgve3XLJ",0.564,0.776,113.532,-9.778,0.0851,0.00146,0.351,0.157,244160
+"4","Rush, Rush","Paula Abdul",1991,"015qd1I4v00JIoK7yOUgKC",0.706,0.44,90.012,-11.577,0.0493,0.763,0,0.0958,292933
+"5","One More Try","Timmy T",1991,"0Lv8gNS3cZPpFF2wVeANcj",0.657,0.47,149.67,-12.555,0.0617,0.24,2.58e-06,0.261,210067
+"6","Unbelievable","EMF",1991,"2ENmkocNNewTRbuNd6WJpR",0.637,0.849,104.074,-6.855,0.0362,0.000341,0.0386,0.141,209813
+"7","More Than Words","Extreme",1991,"1gVgkQFOKa8Wc1HYsJtPdH",0.615,0.129,91.769,-14.892,0.0286,0.468,0,0.114,334107
+"8","I Like The Way","Hi-Five",1991,"0flZtKtmkZMNqFF7V7Yfmu",0.724,0.692,104.086,-5.109,0.0333,0.0595,0.0108,0.0316,350267
+"9","The First Time","Surface",1991,"4aocMNrPxcJ3OQChTDhVPj",0.637,0.354,126.435,-11.964,0.0283,0.215,0.000704,0.0961,256000
+"10","Baby, Baby","Amy Grant",1991,"3IDsegNBHC4pjGCOMTQYlU",0.702,0.901,97.862,-4.45,0.0264,0.426,0.00153,0.0368,236973
+"11","Motownphilly - Original Version","Boyz II Men",1991,"4wDSLkTUIpRsn3UbCzW9wV",0.756,0.858,114.144,-9.649,0.0682,0.0171,2.17e-05,0.194,235320
+"12","Because I Love You (The Postman Song)","Stevie B",1991,"7KVrjDjOJiIHwGagvIt3cA",0.366,0.35,62.977,-8.203,0.0339,0.806,0,0.0936,317800
+"13","Someday","Mariah Carey",1991,"6TSM5vkz0WzyZsNAKKYDcw",0.685,0.819,109.855,-8.686,0.0405,0.206,2.23e-06,0.0251,246107
+"14","High Enough","Damn Yankees",1991,"5t5rCnsgRBtcKqTB7SbD1Q",0.273,0.537,81.814,-9.612,0.0306,0.0241,0,0.0922,287320
+"15","All The Man That I Need","Whitney Houston",1991,"3lHJkG9kcsgsfjlEH2tkxi",0.488,0.647,150.916,-7.63,0.0343,0.487,0,0.374,234933
+"16","Right Here Right Now","Jesus Jones",1991,"3fcGGP62sllcNEhuFJVYeC",0.657,0.608,106.862,-13.565,0.0287,0.0088,3.45e-06,0.103,189293
+"17","I Adore Mi Amor","Color Me Badd",1991,"2IcvNE6okbSq18lajo3SYE",0.67,0.577,91.988,-7.706,0.0292,0.222,0,0.142,291667
+"18","Love Will Never Do (Without You)","Janet Jackson",1991,"2fXIpPInm70t1vMRm82Kar",0.727,0.988,103.179,-4.577,0.0426,0.0439,0.0013,0.129,274893
+"19","Good Vibrations","Marky Mark And The Funky Bunch",1991,"5hWdgGVcfTeLPAiHM6EZG9",0.714,0.953,121.653,-8.354,0.0543,0.00234,0.376,0.0245,269307
+"20","Justify My Love","Madonna",1991,"6BWRvw630R8z2vNMok6quI",0.705,0.821,99.642,-7.085,0.128,0.00244,0.684,0.0572,294267
+"21","Emotions","Mariah Carey",1991,"3bcquuzFb2brIfxlceHwUK",0.741,0.752,114.851,-7.009,0.0359,0.0411,0.0012,0.0233,248093
+"22","Joyride","Roxette",1991,"2q9xZPaOxWr3n250HpKExl",0.651,0.74,102.233,-6.244,0.0272,0.0862,0,0.142,241733
+"23","Romantic","Karyn White",1991,"4WmCoqweV6nXrSogoAo12a",0.686,0.945,110.389,-6.531,0.0371,0.497,8.24e-05,0.0808,236893
+"24","I Don't Wanna Cry","Mariah Carey",1991,"1hFtJ5rV3aAm58ErijHdFO",0.641,0.504,130.786,-12.486,0.031,0.197,9.01e-05,0.288,288827
+"25","You're In Love","Wilson Phillips",1991,"5KNbCF0FpIWuPE8x6bhGgw",0.688,0.679,101.872,-11.05,0.0259,0.319,0.000301,0.29,291867
+"26","Every Heartbeat","Amy Grant",1991,"55lX3vm1G35mUpawXHK5Te",0.648,0.89,126.956,-3.834,0.0429,0.288,0,0.119,213733
+"27","Sensitivity","Ralph Tresvant",1991,"3lRgzwd3g1TewI4zjgbh9V",0.691,0.664,96.951,-13.074,0.0483,0.142,0.37,0.0836,281333
+"28","Touch Me (All Night Long)","Cathy Dennis",1991,"6XUR0ocrwFB6mWJOIXxISi",0.653,0.753,118.008,-10.009,0.0334,0.00101,0.125,0.28,242585
+"29","I`ve Been Thinking About You (Original Mix 2007)","Londonbeat",1991,"6ixo9JA1iCxGVJKTOS2NZv",0.789,0.944,122.99,-5.166,0.101,0.141,0.000121,0.0964,248120
+"30","Losing My Religion","R.E.M.",1991,"1RYSbUnasW12klBZ9lxWIM",0.672,0.841,125.437,-5.992,0.0285,0.0767,0,0.135,267733
+"31","Coming Out of the Dark","Gloria Estefan",1991,"5x9MJycRilBm2SNavzt9yF",0.643,0.43,131.846,-11.694,0.0447,0.65,0,0.417,242627
+"32","It Ain't Over 'Til It's Over","Lenny Kravitz",1991,"3aZPzF7Sr0zy3K0EkKyEzk",0.663,0.748,159.719,-5.83,0.0463,0.277,0.00318,0.312,242640
+"33","Here We Go, Let's Rock & Roll","C & C Music Factory",1991,"0whwYFXgGNg14O8hdHguzV",0.449,0.931,113.808,-8.993,0.0648,0.0168,0.261,0.324,340627
+"34","Where Does My Heart Beat Now","Céline Dion",1991,"0JrdoQMf2TZetkE6aM0sUx",0.531,0.762,74.014,-5.668,0.0302,0.665,1.08e-06,0.0933,272360
+"35","Summertime - Single Edit","DJ Jazzy Jeff & The Fresh Prince",1991,"1Ckd4d6vkhvOp5HlAc5Ie2",0.614,0.752,95.018,-6.271,0.0652,0.00328,0,0.379,237093
+"36","Wind Of Change","Scorpions",1991,"55G6KjatHN4CkiT47Omlpz",0.465,0.693,75.858,-6.265,0.0368,0.336,0,0.0973,310973
+"37","The Promise Of A New Day","Paula Abdul",1991,"5m8xVZhlM7E2mL9uuxZpF6",0.754,0.82,119.835,-8.622,0.062,0.0911,1.62e-06,0.0805,272893
+"38","I'm Your Baby Tonight","Whitney Houston",1991,"0Eb2UmP2jtWwEJigX9akO0",0.702,0.852,110.61,-8.391,0.0774,0.055,0.000689,0.252,251867
+"39","Love of a Lifetime","Firehouse",1991,"2kDH08boXJyhKMl5hnZbrE",0.469,0.498,123.015,-12.013,0.0311,0.000229,0.0033,0.0919,286533
+"40","Fading Like A Flower","Roxette",1991,"5TehPyJrU16Tw6XK0p97Rd",0.609,0.668,105.419,-5.738,0.026,0.195,0,0.219,230680
+"41","This House","Tracie Spencer",1991,"10JIQ4VbdRMlqvSJGvi7El",0.74,0.738,112.589,-9.849,0.0399,0.0303,0.00406,0.0324,306533
+"42","Hole Hearted","Extreme",1991,"1cItNpcJskTVETprljc7HV",0.407,0.743,203.548,-9.338,0.0458,0.198,0,0.08,219289
+"43","Power of Love / Love Power","Luther Vandross",1991,"0FcSJxqqTas3wiT7Nd5EXR",0.513,0.873,184.497,-9.231,0.0506,0.0152,0.000373,0.071,402267
+"44","Impulsive","Wilson Phillips",1991,"2lxfnTyWxW381PXDm9Mg77",0.657,0.76,107.872,-8.613,0.0298,0.171,0.00551,0.224,274267
+"45","Love Is A Wonderful Thing","Michael Bolton",1991,"44MgXak5EQFmEj2hGL8vnw",0.719,0.901,125.079,-4.828,0.0494,0.0064,0,0.159,282933
+"46","Rhythm of My Heart - 2008 Remastered Version","Rod Stewart",1991,"0fLgxhfATkNRJGca4rCu9X",0.346,0.594,95.063,-8.662,0.0383,0.1,0,0.122,255707
+"47","Things That Make You Go Hmmmm....","C & C Music Factory",1991,"5EZJ2mJ2KTNs01n0cBR6lC",0.81,0.93,113.334,-7.464,0.0536,0.118,0.000102,0.357,321907
+"48","I Touch Myself","Divinyls",1991,"6oNvmplQGUkmAh441Teows",0.66,0.711,109.328,-10.211,0.0334,0.181,7.47e-06,0.0647,227640
+"49","Tom's Diner","Suzanne Vega",1991,"7f9sC9fvtjYSZYOLSmKJlq",0.873,0.441,99.118,-12.393,0.0639,0.0286,0.0131,0.0479,228307
+"50","Something To Talk About","Bonnie Raitt",1991,"6Ceejf3zBXvAhIY9DbP1Pr",0.795,0.64,102.633,-13.478,0.0294,0.0631,2.13e-06,0.0692,227573
+"51","After The Rain","Nelson",1991,"6ILvjEWvikRHgsoKgfFc7C",0.494,0.914,123.984,-2.498,0.055,0.00245,1.43e-06,0.0528,231827
+"52","Play That Funky Music","Vanilla Ice",1991,"1Ezs8eYxuZjhlgyoI1Bo76",0.851,0.514,100.425,-15.279,0.165,0.000928,3.58e-06,0.381,285800
+"53","Temptation","Corina",1991,"6WCJyL4KetAqEZYhRq5S3f",0.609,0.771,118.352,-10.663,0.0428,0.000274,0.05,0.038,241533
+"54","Can't Stop This Thing We Started","Bryan Adams",1991,"6O83X8zjAETDfBkHYvpWcA",0.542,0.884,113.019,-6.85,0.0418,0.034,0,0.455,269133
+"55","I Can't Wait Another Minute","Hi-Five",1991,"1CeGBbkJeKPojRmlo2gIwq",0.625,0.644,147.435,-8.801,0.0287,0.357,0,0.102,301640
+"56","3 A.M. Eternal - Ancients Of Mu Mu/La","The Klf",1991,"0X2AoXyE6LO2ocZqOTuco0",0.612,0.931,119.384,-10.348,0.066,0.000788,0.0245,0.926,215120
+"57","Time, Love And Tenderness - Single Version","Michael Bolton",1991,"5Ex5UHv1C0nCDkZDTJRWfW",0.489,0.878,170.143,-5.071,0.0474,0.0232,0,0.35,257120
+"58","Sadeness - Part I - Radio Edit","Enigma",1991,"1o0ixPgBmT2O6g8tAl1aAc",0.607,0.626,95.701,-10.168,0.0358,0.162,0.0677,0.114,260400
+"59","Around The Way Girl","LL Cool J",1991,"2vAbKDdqA6cEBHU9zQiA8g",0.608,0.665,202.198,-10.347,0.341,0.00342,0.0478,0.221,242267
+"60","I'll Be There","The Escape Club",1991,"3zX2ZUPo0M8EULGmYJ87C6",0.57,0.385,99.86,-12.027,0.0251,0.383,0.0012,0.0924,347867
+"61","Cream","Prince",1991,"5vz2J2kP3vV7mZE9UxnFcG",0.861,0.604,115.588,-8.44,0.0719,0.0974,0.358,0.0467,253067
+"62","Now That We Found Love","Heavy D & The Boyz",1991,"3QNo5oDTOSI23CDDpDUE9Q",0.753,0.73,119.943,-13.883,0.0645,0.0303,0,0.133,258840
+"63","Show Me The Way","Styx",1991,"31ixRkE8fxhP6yA3aDhjr4",0.211,0.496,51.368,-6.501,0.0389,0.256,6.82e-06,0.104,275867
+"64","Love Takes Time","Mariah Carey",1991,"7IifQT0luoDma04zd3L9go",0.602,0.338,126.232,-12.371,0.0293,0.727,0,0.0849,229227
+"65","Cry For Help","Rick Astley",1991,"46L7QPDXvEPoTLCHZwmZms",0.567,0.435,89.912,-15.835,0.0236,0.563,0,0.144,291800
+"66","The Way You Do The Things You Do","UB40",1991,"42HaJ7QlInzQ5vHKWb5Ixa",0.885,0.534,80.857,-8.191,0.155,0.248,4.77e-05,0.0377,182695
+"67","Here I Am - Come And Take Me","UB40",1991,"6YR2MkzMhojHBmW1TbXtZO",0.802,0.621,95.906,-7.932,0.0377,0.0975,0.0256,0.0643,241162
+"68","Signs","Tesla",1991,"6oYjESDcQAQrRh4SKMH7sW",0.352,0.808,162.096,-8.097,0.0425,0.035,0,0.991,194000
+"69","Too Many Walls","Cathy Dennis",1991,"3uJBcTWsHWoxnUkrLOx4JP",0.714,0.621,98.109,-9.963,0.0261,0.35,3.68e-05,0.0925,245200
+"70","Crazy","Seal",1991,"2F9jMklOJOl65znIH4kc8C",0.633,0.858,102.559,-7.42,0.0473,0.208,0.0114,0.0655,356520
+"71","I'll Give All My Love To You - Remastered Single Version","Keith Sweat",1991,"4L9VA69sfZKK5HAs5zP22I",0.62,0.514,140.062,-7.948,0.0417,0.431,0,0.148,269027
+"72","Place In This World","Michael W. Smith",1991,"0PKTBeN87JYJ1mRzrq5Aog",0.446,0.559,145.419,-8.319,0.0285,0.388,1.78e-05,0.153,240173
+"73","Something To Believe In - Digitally Remastered 96","Poison",1991,"4d5XCOm90B4Gs3ZGeFVaUX",0.532,0.654,134.043,-6.367,0.0364,0.277,1.44e-05,0.145,329863
+"74","Get Here","Oleta Adams",1991,"1KT3ndndHOGXePgC4o0Jq9",0.381,0.221,108.282,-16.143,0.0345,0.783,0,0.124,276733
+"75","Round and Round","Prince",1991,"6rKQoV8NBoW6gXrWGpoCv7",0.778,0.539,107.083,-10.627,0.0887,0.00109,0.00458,0.143,235773
+"76","Silent Lucidity - 2000 Digital Remaster","Queensrÿche",1991,"5EcQ53R86rMZ5WnfbVvQEh",0.479,0.619,140.046,-5.723,0.0265,0.0461,0.000431,0.117,344827
+"77","Real Real Real","Jesus Jones",1991,"5gbPzqSC9MFfkeM3L06Imy",0.596,0.547,110.209,-13.136,0.0331,0.0478,4.92e-05,0.157,188760
+"78","Everybody Plays The Fool","Aaron Neville",1991,"0LdOVtg4WgJNeQ9D95tdvP",0.799,0.464,87.901,-9.789,0.118,0.332,0.006,0.086,267840
+"79","Just Another Dream","Cathy Dennis",1991,"7f0tp6MJoOVBlij3XM2hMK",0.681,0.746,118.768,-9.982,0.0394,0.0109,0.0364,0.0689,242933
+"80","Strike It Up","Black Box",1991,"6m8umBymc4gJQUDq8fFKgH",0.871,0.865,118.392,-7.692,0.0612,0.0101,0.000289,0.0686,298680
+"81","Rico Suave","Gerardo",1991,"6FfdQJ9HJcJAvsPVIyoGZ5",0.803,0.805,105.931,-11.297,0.132,0.00847,5.4e-05,0.0597,291667
+"82","Disappear","INXS",1991,"7rUQkEM99w0dNXlgwoPU5K",0.661,0.786,125.266,-6.146,0.0301,0.0147,2e-04,0.0997,246493
+"83","Groove Is In The Heart","Deee-Lite",1991,"2UVLuddklEVak5PXgC7baA",0.694,0.881,121.554,-4.053,0.0701,0.0153,0.0196,0.0851,231787
+"84","All This Time","Sting",1991,"6HQjeXaQl2lctjLOFR0ZEH",0.645,0.585,127.109,-9.025,0.033,0.0851,0.000197,0.0382,295467
+"85","The One and Only","Chesney Hawkes",1991,"5KW5exONmWLybCyc8ogMCn",0.684,0.856,119.961,-5.424,0.0325,0.179,0,0.381,224040
+"86","Star People '97","George Michael",1991,"6MwzWiMKEYUIVPdpO1JQi2",0.778,0.864,108.506,-8.045,0.0408,0.0978,9.5e-05,0.717,338040
+"87","I Saw Red","Warrant",1991,"25YKAZ3ZbLRbjg2JqsdatF",0.515,0.562,84.801,-9.371,0.0286,0.268,0,0.169,226867
+"88","Miles Away","Winger",1991,"20ILzFYZNeTS94WefFpw0J",0.363,0.528,182.21,-10.08,0.0305,0.0661,0,0.334,252867
+"89","The Motown Song - 2008 Remastered Version","Rod Stewart with the Temptations",1991,"53Ttk5sOEtlJvOZmv16aQn",0.654,0.837,116,-6.121,0.0455,0.155,0,0.113,238013
+"90","Shiny Happy People","R.E.M.",1991,"4er8NyQ8cFnZ2b643Tjc44",0.491,0.87,124.444,-5.99,0.0308,0.00361,0.126,0.184,224800
+"91","Humpin' Around - Radio Edit","Bobby Brown",1991,"3MByCefcd6Y2S0VKw13e2B",0.755,0.818,110.075,-7.009,0.0471,0.00613,0.0222,0.0676,321773

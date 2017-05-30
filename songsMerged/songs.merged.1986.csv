@@ -1,96 +1,96 @@
-"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
-"1","That's What Friends Are For","Dionne Warwick",1986,"1cOj24fUMnBSXhtp7waHVW",0.673,0.286,120.117,-14.643,0.0313,0.294,0,0.086
-"2","Say You, Say Me","Lionel Richie",1986,"36W7sqM1qkSJArXhlVMWAi",0.62,0.493,128.18,-7.914,0.027,0.41,0,0.0588
-"3","I Miss You","Klymaxx",1986,"0NFXlV3K5lZzGTPnWhalXH",0.706,0.338,139.418,-11.237,0.0314,0.101,0.000369,0.222
-"4","On My Own","Patti LaBelle",1986,"5lQyKTM5MZsrObdRbIjJv4",0.614,0.473,92.114,-10.902,0.0261,0.223,0.000161,0.16
-"5","Broken Wings","Mr. Mister",1986,"63nVsCAdxu9OdeRhe58wiE",0.286,0.473,99.233,-15.646,0.0388,0.115,4.23e-05,0.071
-"6","How Will I Know","Whitney Houston",1986,"5tdKaKLnC4SgtDZ6RlWeal",0.832,0.544,119.49,-12.697,0.0442,0.201,0.000139,0.632
-"7","Party All the Time","Eddie Murphy",1986,"6N5DRCQUSXT1qQqmqsO92B",0.699,0.696,135.027,-13.045,0.0458,0.0098,0.000345,0.0427
-"8","Burning Heart","Survivor",1986,"2avaSeKHI5l4sLruVfLdi2",0.651,0.665,97.996,-7.43,0.0269,0.221,7.91e-06,0.0403
-"9","Kyrie","Mr. Mister",1986,"5BXj1QDRU77J1ngVavG1tI",0.489,0.676,89.735,-8.769,0.0367,0.287,0,0.389
-"10","Addicted To Love - Edit","Robert Palmer",1986,"5qUliRaqliPfqrG3oQrp72",0.658,0.735,111.46,-8.387,0.0337,0.413,1.2e-06,0.0329
-"11","Greatest Love of All","Whitney Houston",1986,"6yJxCltgtmGxIgKOS6ndnu",0.502,0.305,131.242,-16.011,0.0339,0.484,3.55e-06,0.117
-"12","Secret Lovers","Atlantic Starr",1986,"4xwllvf4zL43zIj8K7H6zd",0.616,0.361,80.041,-16.097,0.0388,0.585,0,0.24
-"13","Friends And Lovers","Carl Anderson",1986,"19u5G7pWq3Nj6lQiP4W4Hp",0.39,0.313,80.521,-9.928,0.0312,0.766,0,0.138
-"14","Glory Of Love","Peter Cetera",1986,"1eyq8cjUQ2daFthW2PC2GM",0.518,0.585,144.998,-8.485,0.0279,0.0778,2.43e-06,0.31
-"15","West End Girls - 2001 Remastered Version","Pet Shop Boys",1986,"3aQ06wb25CWisjA91kqgB4",0.648,0.947,113.255,-6.617,0.0369,0.0114,0.0567,0.105
-"16","There'll Be Sad Songs (To Make You Cry)","Billy Ocean",1986,"0C8lgaKDpwGiPmUU9unT33",0.564,0.302,79.838,-14.393,0.0298,0.723,0,0.264
-"17","Alive And Kicking - 2002 Digital Remaster","Simple Minds",1986,"2phcupbmqItBvC3OnsHQLF",0.588,0.879,103.208,-5.972,0.0356,0.0942,0.000104,0.2
-"18","Never","Heart",1986,"4Jg1nU6FYvCWkqFw8Kr4bO",0.612,0.593,96.27,-12.187,0.0286,0.467,0,0.312
-"19","Kiss","Prince",1986,"28S2K2KIvnZ9H6AyhRtenm",0.898,0.271,111.485,-12.238,0.091,0.0135,0.00138,0.0461
-"20","Higher Love - Full Album Version","Steve Winwood",1986,"1vhNjOtmfgoGy4J6ijCUSS",0.702,0.779,98.7,-12.267,0.0412,0.0561,0.0905,0.303
-"21","Stuck With You","Huey Lewis & The News",1986,"2cFl7utlqyZjCXN1G5nRvA",0.704,0.544,120.717,-11.402,0.026,0.0873,1.66e-05,0.041
-"22","Holding Back The Years","Simply Red",1986,"5q04ftJMH7VjaKEbNUz18u",0.696,0.514,87.159,-7.899,0.0252,0.654,4.31e-06,0.318
-"23","Sledgehammer - (Tribute to Peter Gabriel)","Studio Allstars",1986,"7kzsIuCQDvDc56oC4aVjnE",0.815,0.507,96.257,-7.196,0.0346,0.0744,1.78e-06,0.0787
-"24","Sara","Starship",1986,"6V775dYuMO5BKjo9C3nhqL",0.63,0.611,103.043,-10.298,0.0348,0.229,3.97e-06,0.105
-"25","Human","The Human League",1986,"537yo062QIz16oQOgxmul3",0.625,0.572,101.355,-9.095,0.0251,0.049,0.00151,0.0939
-"26","I Can't Wait","Nu Shooz",1986,"044fQJmT2fZUYcA3BnaOL2",0.774,0.787,103.69,-6.109,0.0555,0.227,0.00234,0.124
-"27","Take My Breath Away","Berlin",1986,"1hZJcuz9iMoz6tLkFlIaUy",0.578,0.477,95.892,-8.119,0.0228,0.448,0.00031,0.124
-"28","Rock Me Amadeus","Falco",1986,"1Hs3XZxhdpHrOyiZBB4kEK",0.62,0.778,176.667,-11.061,0.121,0.409,0.00258,0.0903
-"29","Papa Don't Preach","Madonna",1986,"0Oa9Qtd0FuhcmLi3sWTF9F",0.796,0.908,121.976,-3.523,0.0326,0.553,0,0.04
-"30","You Give Love A Bad Name","Bon Jovi",1986,"1MTMedlCphum6mRcd8YzvE",0.533,0.963,122.812,-2.528,0.0562,0.0353,1.33e-06,0.368
-"31","When the Going Gets Tough, the Tough Get Going","Billy Ocean",1986,"6QyYTRZCrzjAUqchxGC91x",0.769,0.618,121.98,-10.472,0.0492,0.515,1.66e-06,0.29
-"32","When I Think Of You","Janet Jackson",1986,"2oeha2Y6cQIw1LyhUWSjjq",0.744,0.82,116.163,-6.039,0.04,0.0286,0.0215,0.086
-"33","These Dreams","Heart",1986,"5fRTUCS48zwiGai2Ku8gSg",0.538,0.379,79.034,-14.122,0.0315,0.518,7.11e-06,0.108
-"34","Don't Forget Me (When I'm Gone)","Glass Tiger",1986,"3j6oEEPaUMzzw5i7gFIGDb",0.591,0.659,109.823,-10.004,0.0277,0.113,0.00037,0.344
-"35","Live To Tell","Madonna",1986,"0OjKjWYMF8nrcHX8kj8D45",0.64,0.535,110.053,-6.556,0.0264,0.259,0.000306,0.132
-"36","Mad About You","Belinda Carlisle",1986,"6v9oV4RpWKJ5qbpAZqKqtZ",0.555,0.543,71.909,-13.491,0.0373,0.005,0.000144,0.0606
-"37","Something About You - Single Version","Level 42",1986,"2uXewDKMktNkkMfotqSxN6",0.7,0.587,105.324,-13.484,0.0282,0.0384,0.0225,0.0719
-"38","Venus","Bananarama",1986,"4kxOMXF9aVjztdBVM12gbn",0.699,0.953,125.634,-4.742,0.0453,0.144,0.684,0.17
-"39","Dancing On The Ceiling","Lionel Richie",1986,"0snPJPxkk0MbTc0xeUvAPt",0.714,0.779,133.2,-8.584,0.0519,0.132,2.24e-06,0.386
-"40","Conga","Miami Sound Machine",1986,"3FdHgoJbH3DXNtGLh56pFu",0.789,0.655,122.236,-14.825,0.0474,0.167,0.0409,0.0311
-"41","True Colors","Cyndi Lauper",1986,"2A6yzRGMgSQCUapR2ptm6A",0.386,0.145,171.63,-16.94,0.0362,0.792,0.000196,0.1
-"42","Danger Zone","Kenny Loggins",1986,"1GYYqJlTVKrz6NUMbokAYm",0.554,0.877,157.087,-7.655,0.0382,0.192,0,0.132
-"43","What Have You Done For Me Lately","Janet Jackson",1986,"586bkJBqAeLkTy4n1pb8nH",0.823,0.694,114.494,-4.142,0.0509,0.00449,0.0028,0.316
-"44","No One Is To Blame","Howard Jones",1986,"1U2C1dJY7GIyx87KNzfVbK",0.777,0.414,95.088,-9.522,0.0266,0.518,0.000243,0.168
-"45","Let's Go All The Way","Sly Fox",1986,"2qxrA7khrMA6icoq9cn2wY",0.632,0.718,98.279,-9.697,0.0389,0.0212,0.000278,0.321
-"46","I Didn't Mean To Turn You On","Robert Palmer",1986,"7DGIv9rjJSL7Bfls23QMeh",0.696,0.634,120.689,-11.172,0.0498,0.121,0.654,0.297
-"47","Words Get In The Way","Miami Sound Machine",1986,"5xbqrbNPBTAOGDA6GD3O46",0.674,0.31,155.656,-17.352,0.0329,0.293,1.64e-05,0.108
-"48","Manic Monday","The Bangles",1986,"5KYoPa5akZxiCn38xelbqI",0.685,0.571,121.737,-11.623,0.0299,0.335,2.38e-06,0.214
-"49","Walk Of Life","Dire Straits",1986,"5ij84aZDvRN4zSHSh2L6pl",0.461,0.936,172.404,-6.866,0.109,0.435,9.13e-05,0.124
-"50","Amanda","Boston",1986,"4gpext9x0CbdD9NWaa4nDj",0.45,0.415,125.434,-14.028,0.0318,0.322,0,0.104
-"51","Two Of Hearts","Stacey Q",1986,"2dURQIBrw3XcHyVZlfdpC1",0.852,0.523,130.154,-6.716,0.032,0.0833,0,0.106
-"52","Crush On You","The Jets",1986,"2sYLlZU3FuCF8SKNeIvdKA",0.79,0.836,120.326,-10.748,0.0585,0.0255,0.0799,0.0447
-"53","If You Leave","Orchestral Manoeuvres In The Dark",1986,"6VzfdkKU7J6ideJPwVJnAN",0.636,0.757,120.256,-8.686,0.0326,0.0787,0.122,0.146
-"54","Invisible Touch - 2007 Remastered Version","Genesis",1986,"0xpBr84T3FTm9j4D1MdPtk",0.659,0.878,131.037,-5.987,0.0298,0.339,0.000543,0.0731
-"55","The Sweetest Taboo - Remastered","Sade",1986,"1xAkznu4j1yRIkPz16JpNP",0.718,0.913,91.648,-6.777,0.0466,0.191,0.0482,0.347
-"56","What You Need","INXS",1986,"1g4fzocmQFCCW2RsFqWKD0",0.685,0.827,116.085,-6.045,0.0546,0.0238,0.0159,0.328
-"57","Talk To Me","Stevie Nicks",1986,"5IhYnodWHS5IOrw7aOOuA9",0.652,0.648,102.993,-8.147,0.0263,0.123,0.00639,0.201
-"58","Nasty","Janet Jackson",1986,"07OzC5JlcaDwEkzWmvqp6y",0.845,0.883,103.675,-11.7,0.0654,0.455,0.00833,0.13
-"59","Take Me Home Tonight","Eddie Money",1986,"63diy8Bzm0pHMAU37By2Nh",0.622,0.845,132.752,-5.984,0.0324,0.118,0,0.0984
-"60","We Don't Have To Take Our Clothes Off - Original Hit Version","Jermaine Stewart",1986,"7HwFU2mPoiwAGYzL2CB5B3",0.809,0.609,122.585,-11.366,0.0446,0.025,0.000149,0.297
-"61","All Cried Out","Lisa Lisa & Cult Jam",1986,"2Q0HXXMkR28ZZkyX30UmLc",0.46,0.498,144.149,-8.835,0.0277,0.127,0.0295,0.186
-"62","Your Love","The Outfield",1986,"5dRQUolXAVX3BbCiIxmSsf",0.555,0.757,129.607,-7.868,0.0601,0.103,1.16e-06,0.0631
-"63","I'm Your Man","Wham!",1986,"4II1Ec8htD10ZryStD9oAp",0.766,0.805,131.552,-5.29,0.0327,0.0578,0,0.104
-"64","Perfect Way","Scritti Politti",1986,"3WrOAryvCUOVsm8P8O2DoE",0.66,0.836,104.588,-12.324,0.0468,0.0438,0.0991,0.428
-"65","Living in America","James Brown",1986,"4Y5yjzs9FFw5qIgfZBd43I",0.754,0.854,113.908,-7.114,0.0363,0.00148,0.00692,0.0675
-"66","R.O.C.K. In The U.S.A. (A Salute To 60's Rock)","John Mellencamp",1986,"51P9LDBS1grMdF7fYGpBZx",0.455,0.931,164.058,-6.11,0.0628,0.0337,3.48e-06,0.325
-"67","Who's Johnny","DeBarge",1986,"4AzqtxJQWng9XeXBk0ddqU",0.676,0.874,110.372,-4.688,0.074,0.04,0.0108,0.0333
-"68","Word Up","Cameo",1986,"7LoGfKBAaOl0nxhodJ1240",0.885,0.82,116.217,-13.054,0.0642,0.0511,0.00263,0.0458
-"69","Why Can't This Be Love","Van Halen",1986,"0TaT50ZZxT4ytZxuqkE3A9",0.531,0.626,88.236,-13.371,0.0452,0.0606,0,0.0767
-"70","Silent Running - Demonstration Version, Includes Lead Singer","Stingray Music (Karaoke)",1986,"4iiuNJT1eoUTfZ1iQEolq9",0.641,0.444,130.979,-11.194,0.0314,0.0246,0.000197,0.263
-"71","Typical Male","Tina Turner",1986,"69UQxQrEABRXg1xMhvKjGC",0.762,0.745,106.013,-7.772,0.0407,0.0172,0.0137,0.0612
-"72","Small Town","John Mellencamp",1986,"4oE8zFdponjE1mtTi4geXA",0.663,0.904,123.155,-2.656,0.033,0.182,0.00523,0.354
-"73","Tarzan Boy - Original Hit Version","Baltimora",1986,"6GVbeCmR2izqUTcYpvoiX9",0.701,0.654,107.332,-8.16,0.0249,0.265,0.0291,0.23
-"74","Rumors","Timex Social Club",1986,"0Ftl6VoKebN1zeIao9EXlB",0.928,0.633,106.819,-10.743,0.0693,0.0613,0,0.163
-"75","Life In A Northern Town","The Dream Academy",1986,"4m3OS54KWywYhP7WD7z1cg",0.563,0.476,121.67,-13.342,0.0329,0.265,0,0.494
-"76","Bad Boy","Miami Sound Machine",1986,"5AM6VOkN7ficA2O04f5JG1",0.627,0.455,181.498,-16.185,0.0806,0.0475,0.0543,0.0432
-"77","Sleeping Bag","ZZ Top",1986,"1ESuT2y9AKu1zMdxq47qW5",0.62,0.688,112.122,-12.892,0.0435,0.00181,0.00482,0.0464
-"78","Tonight She Comes","The Cars",1986,"2SPzaOhoqkP4yQdWZbKsno",0.655,0.837,141.68,-7.984,0.0264,0.053,0.0137,0.104
-"79","Love Touch - 2008 Remastered Version","Rod Stewart",1986,"3LVRM23d9ltvRoquuZy1Yb",0.496,0.911,179.025,-7.733,0.0471,0.0362,1.75e-05,0.0526
-"80","A Love Bizarre","Sheila E.",1986,"5R6ol4f8WCUCWNrB7Ymf99",0.768,0.612,113.798,-13.381,0.0454,0.0217,0.0239,0.0513
-"81","Throwing It All Away (Platinum Collection Version)","Genesis",1986,"3aBgcUxqadc7PC0yeDCpU9",0.624,0.651,84.034,-4.092,0.0242,0.553,0.00132,0.0846
-"82","Election Day","Arcadia",1986,"0UhZkk4agmJpbMCvT3OgLG",0.716,0.552,110.791,-14.746,0.0353,0.0113,1.42e-05,0.343
-"83","Nikita","Elton John",1986,"6LWW998TfGPyxPVWuO88iR",0.65,0.661,86.595,-8.068,0.0269,0.305,6.75e-05,0.0609
-"84","Take Me Home","Phil Collins",1986,"2o1dXMSuM4p6SsI2RREUL6",0.612,0.557,118.787,-16.531,0.0434,0.412,0.0817,0.0649
-"85","Walk This Way","Run–D.M.C.",1986,"6qUEOWqOzu1rLPUPQ1ECpx",0.759,0.578,105.598,-12.56,0.0468,0.00796,8.18e-05,0.0605
-"86","Sweet Love","Anita Baker",1986,"6b8pYhpXu2pHHvRZW3FBXp",0.352,0.672,175.244,-7.732,0.0276,0.412,0,0.0551
-"87","Your Wildest Dreams","The Moody Blues",1986,"1I5PbTAcWMqV66XR8B2vzK",0.541,0.683,141.373,-12.411,0.0397,0.307,0.0347,0.322
-"88","Object Of My Desire","Starpoint",1986,"63Ql2zSLiBryLRPihaUToK",0.78,0.695,116.122,-10.906,0.0539,0.0412,0.0036,0.0345
-"89","Dreamtime","Daryl Hall",1986,"7kZZ2Hmkg1zfwrQLsmypNE",0.617,0.773,121.675,-10.03,0.0323,0.0333,1.46e-06,0.0994
-"90","Tender Love","Force M.D.'s",1986,"0rEFyT5IzHweiULf6QZXmz",0.34,0.336,142.631,-7.288,0.0289,0.765,0.000114,0.126
-"91","King For A Day","Thompson Twins",1986,"7sRe0zpDlI1e2qSQsesrP7",0.721,0.624,108.769,-12.672,0.0301,0.112,0.000195,0.305
-"92","Love Will Conquer All","Lionel Richie",1986,"6nbi2AJ9hAi2SE8jH6mRKV",0.787,0.446,98.047,-10.001,0.0266,0.177,1.76e-06,0.237
-"93","A Different Corner","George Michael",1986,"0rccl5Uy9vojxmoRgO7hAT",0.316,0.225,70.552,-12.791,0.0295,0.885,0.00116,0.0961
-"94","I'll Be Over You","Toto",1986,"6ItrvGfgojJRtTAKgaOXvw",0.525,0.491,82.213,-8.557,0.0253,0.0221,0,0.251
-"95","Go Home","Stevie Wonder",1986,"6VhcdIKG4xM8sTX9amSO4n",0.767,0.803,119.308,-7.462,0.0362,0.31,7.27e-05,0.051
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness","duration_ms"
+"1","That's What Friends Are For","Dionne Warwick",1986,"1cOj24fUMnBSXhtp7waHVW",0.673,0.286,120.117,-14.643,0.0313,0.294,0,0.086,256467
+"2","Say You, Say Me","Lionel Richie",1986,"36W7sqM1qkSJArXhlVMWAi",0.62,0.493,128.18,-7.914,0.027,0.41,0,0.0588,241693
+"3","I Miss You","Klymaxx",1986,"0NFXlV3K5lZzGTPnWhalXH",0.706,0.338,139.418,-11.237,0.0314,0.101,0.000369,0.222,337381
+"4","On My Own","Patti LaBelle",1986,"5lQyKTM5MZsrObdRbIjJv4",0.614,0.473,92.114,-10.902,0.0261,0.223,0.000161,0.16,291627
+"5","Broken Wings","Mr. Mister",1986,"63nVsCAdxu9OdeRhe58wiE",0.286,0.473,99.233,-15.646,0.0388,0.115,4.23e-05,0.071,345840
+"6","How Will I Know","Whitney Houston",1986,"5tdKaKLnC4SgtDZ6RlWeal",0.832,0.544,119.49,-12.697,0.0442,0.201,0.000139,0.632,275533
+"7","Party All the Time","Eddie Murphy",1986,"6N5DRCQUSXT1qQqmqsO92B",0.699,0.696,135.027,-13.045,0.0458,0.0098,0.000345,0.0427,253293
+"8","Burning Heart","Survivor",1986,"2avaSeKHI5l4sLruVfLdi2",0.651,0.665,97.996,-7.43,0.0269,0.221,7.91e-06,0.0403,230720
+"9","Kyrie","Mr. Mister",1986,"5BXj1QDRU77J1ngVavG1tI",0.489,0.676,89.735,-8.769,0.0367,0.287,0,0.389,256960
+"10","Addicted To Love - Edit","Robert Palmer",1986,"5qUliRaqliPfqrG3oQrp72",0.658,0.735,111.46,-8.387,0.0337,0.413,1.2e-06,0.0329,244133
+"11","Greatest Love of All","Whitney Houston",1986,"6yJxCltgtmGxIgKOS6ndnu",0.502,0.305,131.242,-16.011,0.0339,0.484,3.55e-06,0.117,291400
+"12","Secret Lovers","Atlantic Starr",1986,"4xwllvf4zL43zIj8K7H6zd",0.616,0.361,80.041,-16.097,0.0388,0.585,0,0.24,330093
+"13","Friends And Lovers","Carl Anderson",1986,"19u5G7pWq3Nj6lQiP4W4Hp",0.39,0.313,80.521,-9.928,0.0312,0.766,0,0.138,226560
+"14","Glory Of Love","Peter Cetera",1986,"1eyq8cjUQ2daFthW2PC2GM",0.518,0.585,144.998,-8.485,0.0279,0.0778,2.43e-06,0.31,258120
+"15","West End Girls - 2001 Remastered Version","Pet Shop Boys",1986,"3aQ06wb25CWisjA91kqgB4",0.648,0.947,113.255,-6.617,0.0369,0.0114,0.0567,0.105,245360
+"16","There'll Be Sad Songs (To Make You Cry)","Billy Ocean",1986,"0C8lgaKDpwGiPmUU9unT33",0.564,0.302,79.838,-14.393,0.0298,0.723,0,0.264,291493
+"17","Alive And Kicking - 2002 Digital Remaster","Simple Minds",1986,"2phcupbmqItBvC3OnsHQLF",0.588,0.879,103.208,-5.972,0.0356,0.0942,0.000104,0.2,326120
+"18","Never","Heart",1986,"4Jg1nU6FYvCWkqFw8Kr4bO",0.612,0.593,96.27,-12.187,0.0286,0.467,0,0.312,246400
+"19","Kiss","Prince",1986,"28S2K2KIvnZ9H6AyhRtenm",0.898,0.271,111.485,-12.238,0.091,0.0135,0.00138,0.0461,226240
+"20","Higher Love - Full Album Version","Steve Winwood",1986,"1vhNjOtmfgoGy4J6ijCUSS",0.702,0.779,98.7,-12.267,0.0412,0.0561,0.0905,0.303,351507
+"21","Stuck With You","Huey Lewis & The News",1986,"2cFl7utlqyZjCXN1G5nRvA",0.704,0.544,120.717,-11.402,0.026,0.0873,1.66e-05,0.041,269573
+"22","Holding Back The Years","Simply Red",1986,"5q04ftJMH7VjaKEbNUz18u",0.696,0.514,87.159,-7.899,0.0252,0.654,4.31e-06,0.318,251587
+"23","Sledgehammer - (Tribute to Peter Gabriel)","Studio Allstars",1986,"7kzsIuCQDvDc56oC4aVjnE",0.815,0.507,96.257,-7.196,0.0346,0.0744,1.78e-06,0.0787,317115
+"24","Sara","Starship",1986,"6V775dYuMO5BKjo9C3nhqL",0.63,0.611,103.043,-10.298,0.0348,0.229,3.97e-06,0.105,285942
+"25","Human","The Human League",1986,"537yo062QIz16oQOgxmul3",0.625,0.572,101.355,-9.095,0.0251,0.049,0.00151,0.0939,265320
+"26","I Can't Wait","Nu Shooz",1986,"044fQJmT2fZUYcA3BnaOL2",0.774,0.787,103.69,-6.109,0.0555,0.227,0.00234,0.124,220386
+"27","Take My Breath Away","Berlin",1986,"1hZJcuz9iMoz6tLkFlIaUy",0.578,0.477,95.892,-8.119,0.0228,0.448,0.00031,0.124,264213
+"28","Rock Me Amadeus","Falco",1986,"1Hs3XZxhdpHrOyiZBB4kEK",0.62,0.778,176.667,-11.061,0.121,0.409,0.00258,0.0903,203173
+"29","Papa Don't Preach","Madonna",1986,"0Oa9Qtd0FuhcmLi3sWTF9F",0.796,0.908,121.976,-3.523,0.0326,0.553,0,0.04,269573
+"30","You Give Love A Bad Name","Bon Jovi",1986,"1MTMedlCphum6mRcd8YzvE",0.533,0.963,122.812,-2.528,0.0562,0.0353,1.33e-06,0.368,223147
+"31","When the Going Gets Tough, the Tough Get Going","Billy Ocean",1986,"6QyYTRZCrzjAUqchxGC91x",0.769,0.618,121.98,-10.472,0.0492,0.515,1.66e-06,0.29,248867
+"32","When I Think Of You","Janet Jackson",1986,"2oeha2Y6cQIw1LyhUWSjjq",0.744,0.82,116.163,-6.039,0.04,0.0286,0.0215,0.086,235453
+"33","These Dreams","Heart",1986,"5fRTUCS48zwiGai2Ku8gSg",0.538,0.379,79.034,-14.122,0.0315,0.518,7.11e-06,0.108,254960
+"34","Don't Forget Me (When I'm Gone)","Glass Tiger",1986,"3j6oEEPaUMzzw5i7gFIGDb",0.591,0.659,109.823,-10.004,0.0277,0.113,0.00037,0.344,245920
+"35","Live To Tell","Madonna",1986,"0OjKjWYMF8nrcHX8kj8D45",0.64,0.535,110.053,-6.556,0.0264,0.259,0.000306,0.132,351067
+"36","Mad About You","Belinda Carlisle",1986,"6v9oV4RpWKJ5qbpAZqKqtZ",0.555,0.543,71.909,-13.491,0.0373,0.005,0.000144,0.0606,216827
+"37","Something About You - Single Version","Level 42",1986,"2uXewDKMktNkkMfotqSxN6",0.7,0.587,105.324,-13.484,0.0282,0.0384,0.0225,0.0719,223440
+"38","Venus","Bananarama",1986,"4kxOMXF9aVjztdBVM12gbn",0.699,0.953,125.634,-4.742,0.0453,0.144,0.684,0.17,217547
+"39","Dancing On The Ceiling","Lionel Richie",1986,"0snPJPxkk0MbTc0xeUvAPt",0.714,0.779,133.2,-8.584,0.0519,0.132,2.24e-06,0.386,270720
+"40","Conga","Miami Sound Machine",1986,"3FdHgoJbH3DXNtGLh56pFu",0.789,0.655,122.236,-14.825,0.0474,0.167,0.0409,0.0311,254000
+"41","True Colors","Cyndi Lauper",1986,"2A6yzRGMgSQCUapR2ptm6A",0.386,0.145,171.63,-16.94,0.0362,0.792,0.000196,0.1,226067
+"42","Danger Zone","Kenny Loggins",1986,"1GYYqJlTVKrz6NUMbokAYm",0.554,0.877,157.087,-7.655,0.0382,0.192,0,0.132,216133
+"43","What Have You Done For Me Lately","Janet Jackson",1986,"586bkJBqAeLkTy4n1pb8nH",0.823,0.694,114.494,-4.142,0.0509,0.00449,0.0028,0.316,283133
+"44","No One Is To Blame","Howard Jones",1986,"1U2C1dJY7GIyx87KNzfVbK",0.777,0.414,95.088,-9.522,0.0266,0.518,0.000243,0.168,216573
+"45","Let's Go All The Way","Sly Fox",1986,"2qxrA7khrMA6icoq9cn2wY",0.632,0.718,98.279,-9.697,0.0389,0.0212,0.000278,0.321,307653
+"46","I Didn't Mean To Turn You On","Robert Palmer",1986,"7DGIv9rjJSL7Bfls23QMeh",0.696,0.634,120.689,-11.172,0.0498,0.121,0.654,0.297,217467
+"47","Words Get In The Way","Miami Sound Machine",1986,"5xbqrbNPBTAOGDA6GD3O46",0.674,0.31,155.656,-17.352,0.0329,0.293,1.64e-05,0.108,205533
+"48","Manic Monday","The Bangles",1986,"5KYoPa5akZxiCn38xelbqI",0.685,0.571,121.737,-11.623,0.0299,0.335,2.38e-06,0.214,184173
+"49","Walk Of Life","Dire Straits",1986,"5ij84aZDvRN4zSHSh2L6pl",0.461,0.936,172.404,-6.866,0.109,0.435,9.13e-05,0.124,252467
+"50","Amanda","Boston",1986,"4gpext9x0CbdD9NWaa4nDj",0.45,0.415,125.434,-14.028,0.0318,0.322,0,0.104,256200
+"51","Two Of Hearts","Stacey Q",1986,"2dURQIBrw3XcHyVZlfdpC1",0.852,0.523,130.154,-6.716,0.032,0.0833,0,0.106,237533
+"52","Crush On You","The Jets",1986,"2sYLlZU3FuCF8SKNeIvdKA",0.79,0.836,120.326,-10.748,0.0585,0.0255,0.0799,0.0447,272493
+"53","If You Leave","Orchestral Manoeuvres In The Dark",1986,"6VzfdkKU7J6ideJPwVJnAN",0.636,0.757,120.256,-8.686,0.0326,0.0787,0.122,0.146,270307
+"54","Invisible Touch - 2007 Remastered Version","Genesis",1986,"0xpBr84T3FTm9j4D1MdPtk",0.659,0.878,131.037,-5.987,0.0298,0.339,0.000543,0.0731,209587
+"55","The Sweetest Taboo - Remastered","Sade",1986,"1xAkznu4j1yRIkPz16JpNP",0.718,0.913,91.648,-6.777,0.0466,0.191,0.0482,0.347,265187
+"56","What You Need","INXS",1986,"1g4fzocmQFCCW2RsFqWKD0",0.685,0.827,116.085,-6.045,0.0546,0.0238,0.0159,0.328,214000
+"57","Talk To Me","Stevie Nicks",1986,"5IhYnodWHS5IOrw7aOOuA9",0.652,0.648,102.993,-8.147,0.0263,0.123,0.00639,0.201,252027
+"58","Nasty","Janet Jackson",1986,"07OzC5JlcaDwEkzWmvqp6y",0.845,0.883,103.675,-11.7,0.0654,0.455,0.00833,0.13,243133
+"59","Take Me Home Tonight","Eddie Money",1986,"63diy8Bzm0pHMAU37By2Nh",0.622,0.845,132.752,-5.984,0.0324,0.118,0,0.0984,211467
+"60","We Don't Have To Take Our Clothes Off - Original Hit Version","Jermaine Stewart",1986,"7HwFU2mPoiwAGYzL2CB5B3",0.809,0.609,122.585,-11.366,0.0446,0.025,0.000149,0.297,247893
+"61","All Cried Out","Lisa Lisa & Cult Jam",1986,"2Q0HXXMkR28ZZkyX30UmLc",0.46,0.498,144.149,-8.835,0.0277,0.127,0.0295,0.186,284333
+"62","Your Love","The Outfield",1986,"5dRQUolXAVX3BbCiIxmSsf",0.555,0.757,129.607,-7.868,0.0601,0.103,1.16e-06,0.0631,221840
+"63","I'm Your Man","Wham!",1986,"4II1Ec8htD10ZryStD9oAp",0.766,0.805,131.552,-5.29,0.0327,0.0578,0,0.104,246467
+"64","Perfect Way","Scritti Politti",1986,"3WrOAryvCUOVsm8P8O2DoE",0.66,0.836,104.588,-12.324,0.0468,0.0438,0.0991,0.428,273240
+"65","Living in America","James Brown",1986,"4Y5yjzs9FFw5qIgfZBd43I",0.754,0.854,113.908,-7.114,0.0363,0.00148,0.00692,0.0675,282840
+"66","R.O.C.K. In The U.S.A. (A Salute To 60's Rock)","John Mellencamp",1986,"51P9LDBS1grMdF7fYGpBZx",0.455,0.931,164.058,-6.11,0.0628,0.0337,3.48e-06,0.325,175467
+"67","Who's Johnny","DeBarge",1986,"4AzqtxJQWng9XeXBk0ddqU",0.676,0.874,110.372,-4.688,0.074,0.04,0.0108,0.0333,250840
+"68","Word Up","Cameo",1986,"7LoGfKBAaOl0nxhodJ1240",0.885,0.82,116.217,-13.054,0.0642,0.0511,0.00263,0.0458,261000
+"69","Why Can't This Be Love","Van Halen",1986,"0TaT50ZZxT4ytZxuqkE3A9",0.531,0.626,88.236,-13.371,0.0452,0.0606,0,0.0767,227693
+"70","Silent Running - Demonstration Version, Includes Lead Singer","Stingray Music (Karaoke)",1986,"4iiuNJT1eoUTfZ1iQEolq9",0.641,0.444,130.979,-11.194,0.0314,0.0246,0.000197,0.263,369939
+"71","Typical Male","Tina Turner",1986,"69UQxQrEABRXg1xMhvKjGC",0.762,0.745,106.013,-7.772,0.0407,0.0172,0.0137,0.0612,256827
+"72","Small Town","John Mellencamp",1986,"4oE8zFdponjE1mtTi4geXA",0.663,0.904,123.155,-2.656,0.033,0.182,0.00523,0.354,221440
+"73","Tarzan Boy - Original Hit Version","Baltimora",1986,"6GVbeCmR2izqUTcYpvoiX9",0.701,0.654,107.332,-8.16,0.0249,0.265,0.0291,0.23,232667
+"74","Rumors","Timex Social Club",1986,"0Ftl6VoKebN1zeIao9EXlB",0.928,0.633,106.819,-10.743,0.0693,0.0613,0,0.163,250360
+"75","Life In A Northern Town","The Dream Academy",1986,"4m3OS54KWywYhP7WD7z1cg",0.563,0.476,121.67,-13.342,0.0329,0.265,0,0.494,259293
+"76","Bad Boy","Miami Sound Machine",1986,"5AM6VOkN7ficA2O04f5JG1",0.627,0.455,181.498,-16.185,0.0806,0.0475,0.0543,0.0432,235507
+"77","Sleeping Bag","ZZ Top",1986,"1ESuT2y9AKu1zMdxq47qW5",0.62,0.688,112.122,-12.892,0.0435,0.00181,0.00482,0.0464,242333
+"78","Tonight She Comes","The Cars",1986,"2SPzaOhoqkP4yQdWZbKsno",0.655,0.837,141.68,-7.984,0.0264,0.053,0.0137,0.104,236733
+"79","Love Touch - 2008 Remastered Version","Rod Stewart",1986,"3LVRM23d9ltvRoquuZy1Yb",0.496,0.911,179.025,-7.733,0.0471,0.0362,1.75e-05,0.0526,244013
+"80","A Love Bizarre","Sheila E.",1986,"5R6ol4f8WCUCWNrB7Ymf99",0.768,0.612,113.798,-13.381,0.0454,0.0217,0.0239,0.0513,738053
+"81","Throwing It All Away (Platinum Collection Version)","Genesis",1986,"3aBgcUxqadc7PC0yeDCpU9",0.624,0.651,84.034,-4.092,0.0242,0.553,0.00132,0.0846,230093
+"82","Election Day","Arcadia",1986,"0UhZkk4agmJpbMCvT3OgLG",0.716,0.552,110.791,-14.746,0.0353,0.0113,1.42e-05,0.343,328093
+"83","Nikita","Elton John",1986,"6LWW998TfGPyxPVWuO88iR",0.65,0.661,86.595,-8.068,0.0269,0.305,6.75e-05,0.0609,343841
+"84","Take Me Home","Phil Collins",1986,"2o1dXMSuM4p6SsI2RREUL6",0.612,0.557,118.787,-16.531,0.0434,0.412,0.0817,0.0649,353200
+"85","Walk This Way","Run–D.M.C.",1986,"6qUEOWqOzu1rLPUPQ1ECpx",0.759,0.578,105.598,-12.56,0.0468,0.00796,8.18e-05,0.0605,309760
+"86","Sweet Love","Anita Baker",1986,"6b8pYhpXu2pHHvRZW3FBXp",0.352,0.672,175.244,-7.732,0.0276,0.412,0,0.0551,264080
+"87","Your Wildest Dreams","The Moody Blues",1986,"1I5PbTAcWMqV66XR8B2vzK",0.541,0.683,141.373,-12.411,0.0397,0.307,0.0347,0.322,291573
+"88","Object Of My Desire","Starpoint",1986,"63Ql2zSLiBryLRPihaUToK",0.78,0.695,116.122,-10.906,0.0539,0.0412,0.0036,0.0345,306453
+"89","Dreamtime","Daryl Hall",1986,"7kZZ2Hmkg1zfwrQLsmypNE",0.617,0.773,121.675,-10.03,0.0323,0.0333,1.46e-06,0.0994,285093
+"90","Tender Love","Force M.D.'s",1986,"0rEFyT5IzHweiULf6QZXmz",0.34,0.336,142.631,-7.288,0.0289,0.765,0.000114,0.126,234053
+"91","King For A Day","Thompson Twins",1986,"7sRe0zpDlI1e2qSQsesrP7",0.721,0.624,108.769,-12.672,0.0301,0.112,0.000195,0.305,359373
+"92","Love Will Conquer All","Lionel Richie",1986,"6nbi2AJ9hAi2SE8jH6mRKV",0.787,0.446,98.047,-10.001,0.0266,0.177,1.76e-06,0.237,340987
+"93","A Different Corner","George Michael",1986,"0rccl5Uy9vojxmoRgO7hAT",0.316,0.225,70.552,-12.791,0.0295,0.885,0.00116,0.0961,242400
+"94","I'll Be Over You","Toto",1986,"6ItrvGfgojJRtTAKgaOXvw",0.525,0.491,82.213,-8.557,0.0253,0.0221,0,0.251,229733
+"95","Go Home","Stevie Wonder",1986,"6VhcdIKG4xM8sTX9amSO4n",0.767,0.803,119.308,-7.462,0.0362,0.31,7.27e-05,0.051,250013

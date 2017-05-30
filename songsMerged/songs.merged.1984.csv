@@ -1,98 +1,98 @@
-"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
-"1","When Doves Cry","Prince",1984,"51H2y6YrNNXcy3dfc3qSbA",0.729,0.989,126.47,-4.613,0.049,0.0102,4.45e-05,0.443
-"2","What's Love Got To Do WIth It - 1997 Digital Remaster","Tina Turner",1984,"4QjjabJx7K14tHwxEVI0Xc",0.848,0.567,97.854,-5.636,0.0476,0.214,1.55e-06,0.0916
-"3","Say Say Say","Paul McCartney",1984,"4InXjGfCi4hJVWlqPuY6Im",0.813,0.54,117.526,-15.603,0.0565,0.0464,0.000507,0.0335
-"4","Footloose","Kenny Loggins",1984,"4FA8jE1vcop4S3XqUWdSnP",0.583,0.905,173.982,-6.132,0.0733,0.0984,0.00019,0.0593
-"5","Against All Odds","Phil Collins",1984,"2Wl3rABbAd3Hl3zNFM6hQ7",0.355,0.448,99.147,-10.929,0.0388,0.458,0.794,0.779
-"6","Jump - Remastered Version","Van Halen",1984,"19kuZ0IExry8qYJ4lU2A0r",0.546,0.843,129.894,-5.821,0.0326,0.12,4.98e-05,0.0618
-"7","Hello","Lionel Richie",1984,"1vFO4WIvw4fQ0oHkyt4rEC",0.413,0.356,60.741,-9.789,0.0325,0.503,0,0.125
-"8","Owner Of A Lonely Heart","Yes",1984,"2GoPjrA7Hs6uI5A3MG3Me4",0.736,0.734,125.011,-7.978,0.0339,0.251,0.00306,0.306
-"9","Ghostbusters","Ray Parker, Jr.",1984,"300zfRaCgTmEm5Eqe3HqZZ",0.779,0.717,115.384,-9.7,0.0335,0.0125,0.0536,0.355
-"10","Karma Chameleon","Culture Club",1984,"48O0GrGJWml3DzHhC5sJ7a",0.676,0.577,91.98,-12.031,0.0365,0.186,0,0.148
-"11","Missing You","John Waite",1984,"5P6Wv0hlcnczhElizTY0UE",0.742,0.493,104.313,-12.055,0.0283,0.118,0,0.0484
-"12","All Night Long (All Night)","Lionel Richie",1984,"2P0COBqN70Hd2KYQj4KRjk",0.736,0.625,108.85,-10.977,0.0475,0.124,0.00122,0.0533
-"13","Let's Hear It For The Boy","Deniece Williams",1984,"5TIc5WzpyxVZxAjYm9oJi8",0.783,0.573,122.744,-8.521,0.0462,0.177,8.5e-05,0.043
-"14","Dancing In The Dark","Bruce Springsteen",1984,"4moXVLw4YS7tVNmjs8v60A",0.525,0.842,148.803,-12.12,0.0353,0.0549,0,0.275
-"15","Girls Just Want to Have Fun","Cyndi Lauper",1984,"0uqOqX59mgWBqfPAdX0BDK",0.704,0.646,120.54,-9.415,0.037,0.453,1.42e-05,0.549
-"16","The Reflex","Duran Duran",1984,"4DDgVahgRnITUk6Wnu5FWR",0.556,0.9,126.686,-6.11,0.097,0.123,0,0.571
-"17","Time After Time","Cyndi Lauper",1984,"5tzbM8m70V977Ezpfk8IPS",0.726,0.449,130.388,-9.206,0.0286,0.487,1.34e-06,0.0824
-"18","Jump (For My Love) - Single Remix","The Pointer Sisters",1984,"2TIKxe1afsEcYWBvyTgQt3",0.858,0.752,134.386,-10.577,0.0889,0.108,1.56e-05,0.145
-"19","Talking in Your Sleep","The Romantics",1984,"08JKuFJCHJVw1SgHHjwsS9",0.734,0.821,129.771,-11.586,0.0329,0.0208,0.000103,0.0932
-"20","Self Control","Laura Branigan",1984,"6JNJERZGJwDVgkmbohBw7u",0.814,0.686,106.68,-12.172,0.0342,0.219,0.00386,0.155
-"21","Let's Go Crazy","Prince",1984,"6BkX6DnUG80xPlBfb2zmrZ",0.309,0.93,195.815,-6.399,0.125,0.0192,0.0022,0.106
-"22","Say It Isn't So - Remastered","Daryl Hall & John Oates",1984,"2bZswvNGESo7MKeg7SQ9rp",0.769,0.595,113.971,-11.796,0.028,0.0588,0,0.18
-"23","Hold Me Now","Thompson Twins",1984,"0b5eH3euyAs3pyfoebeWaZ",0.789,0.738,108.239,-5.693,0.0327,0.694,7.36e-06,0.136
-"24","Joanna","Kool & The Gang",1984,"38OkyePa219s8OK4zEiKrT",0.544,0.777,116.395,-10.163,0.0482,0.241,0.00219,0.883
-"25","I Just Called To Say I Love You","Stevie Wonder",1984,"6VAKyYoJQu1hwjWNvxQVTt",0.748,0.551,113.524,-8.624,0.0235,0.198,0,0.0978
-"26","Somebody's Watching Me","Rockwell",1984,"7ozMJf8OMc9vRcZmAN8wPt",0.774,0.626,124.131,-6.821,0.0317,0.123,4.01e-05,0.125
-"27","Break My Stride","Matthew Wilder",1984,"2ZqT3GcisHUBsEaqhLGHwU",0.901,0.654,110.131,-10.15,0.0655,0.2,0,0.165
-"28","99 Luftballons","Nena",1984,"6HA97v4wEGQ5TUClRM0XLc",0.466,0.438,193.1,-12.858,0.0608,0.089,5.62e-06,0.113
-"29","I Can Dream About You","Dan Hartman",1984,"2cPA0enjH2vdQSyCPzCKFb",0.725,0.655,109.586,-5.422,0.0336,0.00162,0.00125,0.0532
-"30","The Glamorous Life","Sheila E.",1984,"179SfVFJ0ZN41toTxnpgRD",0.759,0.675,127.522,-14.366,0.0422,0.0261,0.0341,0.431
-"31","Oh Sherrie","Steve Perry",1984,"3wqoAzrr5htxSZ7KzxhLHg",0.577,0.665,101.807,-5.572,0.0285,0.312,8.89e-05,0.138
-"32","Stuck On You","Lionel Richie",1984,"3L9SXYL2XOl0JJ754YgBsS",0.511,0.293,131.805,-17.131,0.0308,0.336,6.98e-05,0.101
-"33","I Guess That's Why They Call It The Blues","Elton John",1984,"4kwFh3RBxE5n9a6FwFw2tl",0.645,0.704,120.552,-7.005,0.0301,0.363,0.000193,0.213
-"34","She Bop","Cyndi Lauper",1984,"4mhIed8oGCswH4d5pxClnv",0.583,0.891,136.794,-4.565,0.0345,0.00088,0.000163,0.103
-"35","Borderline","Madonna",1984,"4FMNpPI7mkhdeFCCk6fZiE",0.807,0.764,119.867,-5.186,0.0312,0.082,3.87e-05,0.115
-"36","Sunglasses At Night","Corey Hart",1984,"1QbQL5m30YNvukitIqAnFG",0.686,0.609,127.736,-11.469,0.0444,0.258,0.00015,0.113
-"37","Eyes Without A Face - 1999 - Remaster","Billy Idol",1984,"7pzVqCZdYKM7oEPwaiQchB",0.33,0.723,83.433,-8,0.0521,0.00666,0.128,0.158
-"38","Here Comes The Rain Again - Remastered Version","Eurythmics",1984,"5vYhr2kgOonJtWeJq5qZzU",0.648,0.755,126.341,-7.901,0.03,0.0141,0.000249,0.225
-"39","Uptown Girl","Billy Joel",1984,"3CSpzkoL1XgDBZ1q9aDCUV",0.696,0.943,129.003,-2.962,0.0431,0.0736,0,0.653
-"40","Sister Christian","Night Ranger",1984,"3pOgDNzXKISD4zCj3mQ6t9",0.249,0.476,174.349,-10.308,0.0339,0.0179,2.89e-06,0.942
-"41","Drive","The Cars",1984,"3wfujdbamR3Z46F4xav7LM",0.582,0.606,111.441,-9.961,0.0289,0.124,0.00139,0.151
-"42","Twist Of Fate","Olivia Newton-John",1984,"1ytzrpWRCpUasHmT5P4LRt",0.597,0.822,164.384,-5.602,0.0398,0.375,0.000114,0.128
-"43","Union Of The Snake","Duran Duran",1984,"2iitSsbNPH0EJPyyEpvSgg",0.705,0.846,115.076,-4.618,0.0466,0.231,2.1e-05,0.71
-"44","The Heart Of Rock And Roll - 1999 - Remaster","Huey Lewis & The News",1984,"6reKyht76Fw6fnF5Mnc8Hs",0.602,0.558,143.511,-13.73,0.041,0.0129,0.000185,0.12
-"45","Hard Habit To Break - Live in Chicago, Il. - 1999","Chicago",1984,"0xpfe8QQWplGO09WN3vdN0",0.554,0.625,82.011,-8.046,0.0277,0.236,2.09e-06,0.891
-"46","The Warrior","Scandal",1984,"2hQnLzly0jRPpLPp23sA4i",0.606,0.777,123.077,-11.034,0.0347,0.089,0,0.321
-"47","If Ever You're In My Arms Again - Remastered Version","Peabo Bryson",1984,"4TIkesxpN5caX6XpsiirnH",0.599,0.442,96.213,-9.755,0.0239,0.667,0,0.143
-"48","Automatic - Single Version","The Pointer Sisters",1984,"5mooLgb601ws7PbKe2m1HQ",0.808,0.611,110.898,-9.298,0.0493,0.156,0,0.49
-"49","Let The Music Play","Shannon",1984,"5RgGHpa9S3txqJTxyRChx4",0.783,0.856,118.093,-5.302,0.0945,0.000454,0.196,0.221
-"50","To All the Girls I've Loved Before - Live","Julio Iglesias",1984,"0uBwcaTkY1BPpIZhxuhS67",0.551,0.572,82.22,-7.244,0.0328,0.521,1.86e-05,0.0859
-"51","Caribbean Queen (No More Love On the Run)","Billy Ocean",1984,"0ObLFkX9bnGBZMFVeLFRN4",0.82,0.596,113.799,-8.384,0.0275,0.295,8.54e-06,0.0635
-"52","That's All (Platinum Collection Version)","Genesis",1984,"3DDNT4gjsx3RF7jsEf03FH",0.702,0.71,87.701,-5.251,0.0323,0.233,0.01,0.0817
-"53","Running With The Night - Single Version","Lionel Richie",1984,"7xMb5yLHaSpQa6V6np64Z4",0.765,0.609,120.191,-9.629,0.0377,0.0278,0.000417,0.545
-"54","Sad Songs (Say So Much)","Elton John",1984,"1fF2dvBsbTk2wrOEaR6f5B",0.741,0.885,107.255,-6.232,0.028,0.156,0.000306,0.345
-"55","I Want A New Drug - 2006 Digital Remaster","Huey Lewis & The News",1984,"0mZNKyrUmsrlDRoYHWsyMu",0.672,0.897,110.289,-4.92,0.0541,0.0786,6.4e-06,0.389
-"56","Islands In The Stream","Kenny Rogers",1984,"4WrwO9Un3ji5wnNySDGHwQ",0.589,0.641,204.003,-5.533,0.0313,0.427,0,0.0558
-"57","Love Is A Battlefield","Pat Benatar",1984,"7cgSsrrbpdgmiuyuxCUg4u",0.646,0.796,90.667,-3.865,0.0743,0.0392,0.00716,0.0588
-"58","Infatuation - 2008 Remastered Version","Rod Stewart",1984,"0SO4oJBmDNjniJwjlHaIhO",0.708,0.805,107.153,-7.997,0.0306,0.0673,0.00213,0.097
-"59","Almost Paradise (Love Theme ""Footloose"")","Mike Reno feat. Ann Wilson",1984,"1NAarOU6vhcd1AEoOxUFMg",0.598,0.333,129.048,-11.055,0.0313,0.553,3.33e-06,0.0773
-"60","Legs (2008 Remastered Album Edit Version)","ZZ Top",1984,"7t6CAWplijBj4sdl0q3z0e",0.611,0.946,125.398,-5.357,0.0378,0.00957,0.0708,0.36
-"61","State of Shock","The Jacksons",1984,"5ERyzOyC3N6JXgVdmD8kUR",0.978,0.879,121.796,-4.073,0.155,0.211,0.0589,0.054
-"62","Love Somebody","Rick Springfield",1984,"4wX7kEkj1UgFDMFbZIR3kZ",0.576,0.904,138.94,-5.671,0.0324,0.0145,0.00167,0.0996
-"63","Miss Me Blind","Culture Club",1984,"11Vl4RR9geS1m9at8BkVgO",0.763,0.812,121.936,-7.05,0.0415,0.395,0,0.101
-"64","If This Is It - 2006 Digital Remaster","Huey Lewis & The News",1984,"2h41e1ebabMfij3upGdymH",0.507,0.697,146.659,-6.26,0.0304,0.185,6.97e-06,0.31
-"65","You Might Think","The Cars",1984,"6BwWWFhkLzTkLNyH3CNt28",0.71,0.774,133.924,-9.335,0.0333,0.141,0.0136,0.0348
-"66","Lucky Star","Madonna",1984,"7nRwpTzjrFFNFpdHT76NOz",0.766,0.872,118.465,-4.096,0.0421,0.117,0.000545,0.314
-"67","Cover Me","Bruce Springsteen",1984,"6RXBjCDKM6vAGiX4ojUD1E",0.517,0.776,120.571,-11.476,0.052,0.0198,0.00066,0.0851
-"68","Cum on Feel the Noize","Quiet Riot",1984,"5eAenB0ByMTzoobdTGmtJN",0.441,0.908,145.439,-4.627,0.115,0.000183,0.00328,0.0612
-"69","Adult Education - Remastered","Daryl Hall & John Oates",1984,"7ADFqIjMLrhRXyWoxeEhGf",0.655,0.684,91.119,-11.748,0.0412,0.00554,0.000293,0.181
-"70","They Don't Know In the Style of Tracy Ullman","Tracy Ullman",1984,"2myNPDdVHkEZkJp9CfkI5O",0.663,0.764,119.833,-8.696,0.0302,0.00323,0.476,0.106
-"71","An Innocent Man","Billy Joel",1984,"4x1LynYPM9qOtmB7ggoVz0",0.51,0.389,105.753,-9.343,0.0326,0.0473,0,0.111
-"72","Cruel Summer","Bananarama",1984,"34kNeqnJJqO4wDiEJdQhxo",0.691,0.899,108.445,-4.871,0.0271,0.114,0.00708,0.231
-"73","Dance Hall Days","Wang Chung",1984,"66Dcq5SlqgLArzsYcRedq1",0.681,0.705,102.659,-10.34,0.0441,0.266,0.0087,0.201
-"74","Give It Up","KC & The Sunshine Band",1984,"40CPeIs7x2gKmSzNCvgLiU",0.84,0.594,125.683,-14.279,0.0713,0.0762,0.000198,0.0796
-"75","I'm So Excited","The Pointer Sisters",1984,"3AgvZyLH4sWkII5bnU80aQ",0.581,0.7,182.415,-10.723,0.0377,0.107,0.0031,0.118
-"76","I Still Can't Get Over Loving You","Ray Parker, Jr.",1984,"6ISiiE2puBueLDGhsItsuV",0.624,0.602,83.487,-11.624,0.0386,0.185,1.19e-05,0.0767
-"77","Thriller","Michael Jackson",1984,"1D9KEXIrlmPUkMTdYzqgX4",0.775,0.857,118.419,-4.943,0.0699,0.0906,0.000172,0.918
-"78","Holiday","Madonna",1984,"4k6ktr10Hczmh55NY3LfJy",0.854,0.796,115.625,-5.567,0.0399,0.0542,0.00184,0.151
-"79","Nobody Told Me","The Sounds Of John Lennon",1984,"51DdbbwE892KCdS0SQjNd5",0.595,0.708,121.375,-6.049,0.0366,0.071,0.000535,0.208
-"80","Church of the Poison Mind","Culture Club",1984,"4BNOhILWVg7NThwsNhpSs8",0.606,0.781,130.778,-10.555,0.0343,0.105,0,0.409
-"81","Think Of Laura","Christopher Cross",1984,"1s5LDroPGxBAFkY5Bth6SK",0.514,0.187,172.023,-14.612,0.03,0.841,1.02e-06,0.0917
-"82","Time Will Reveal","DeBarge",1984,"6lKuAmGY6FB0vaNOzrbQ5p",0.699,0.391,129.698,-8.822,0.0328,0.53,1.22e-06,0.0473
-"83","Wrapped Around Your Finger","The Police",1984,"2bQI01HjqtcZmqAVTjE8CA",0.739,0.367,127.674,-14.656,0.0425,0.0531,0.000196,0.0638
-"84","Pink Houses","John Mellencamp",1984,"2EVMlbOZkfU5htC0C3BUGa",0.638,0.802,114.996,-4.992,0.0277,0.0639,5.57e-06,0.0985
-"85","Round and Round","Ratt",1984,"0SFS1LxNP5wgnoDA7nGKQu",0.616,0.965,126.535,-4.464,0.0613,0.0135,0.000174,0.119
-"86","Head Over Heels","The Go-Go's",1984,"3rjONa9b7zc16b8nmXAuCG",0.552,0.722,157.01,-10.817,0.0388,0.000827,2.37e-05,0.108
-"87","The Longest Time","Billy Joel",1984,"5v23eOAHQNRi67BWtzHajx",0.637,0.395,84.079,-7.355,0.0255,0.187,0,0.08
-"88","Tonight","Kool & The Gang",1984,"0Sgwnqlmp2pNqE5N3XHRTa",0.634,0.883,126.717,-8.112,0.0563,0.0117,2.08e-05,0.569
-"89","Got A Hold On Me","Christine McVie",1984,"0FCgqHNdcbhGIEmU8r6ZF1",0.75,0.787,129.37,-5.127,0.0292,0.144,1.88e-05,0.0513
-"90","Dancing In The Sheets","Shalamar",1984,"1D3h6J0N28uxTLpHVGwq6p",0.874,0.556,122.849,-9.322,0.0708,0.00643,0.311,0.0445
-"91","Undercover Of The Night - Remastered","The Rolling Stones",1984,"4duMzlV6ZXExTL0L3o6PH9",0.632,0.938,122.829,-7.461,0.109,0.0331,0.00615,0.445
-"92","On the Dark Side","John Cafferty",1984,"0ce2SIAFrEsPCiEXpv9X11",0.294,0.822,156.921,-7.195,0.0536,0.0845,0.000627,0.649
-"93","New Moon On Monday","Duran Duran",1984,"3IGF7wqKKovBhyPx9HaYgw",0.67,0.87,122.277,-4.694,0.0812,0.369,0,0.579
-"94","Major Tom (Coming Home) [In the Style of Peter Schilling] {Karaoke Lead Vocal Version}","The Karaoke Channel",1984,"3WuK4KMYVkr1CMHZcZm6G6",0.768,0.321,81.497,-13.656,0.0705,0.31,0.0137,0.102
-"95","Magic","The Cars",1984,"7z8k6KAvjHX3RtkYNhIC9B",0.683,0.806,118.032,-7.574,0.042,0.125,0.000548,0.191
-"96","When You Close Your Eyes","Night Ranger",1984,"5Al4Jbso4nYdZgJ2gSCEzT",0.489,0.619,136.995,-13.531,0.0311,0.00723,0,0.131
-"97","Rock Me Tonite","Billy Squier",1984,"76zNJvuD3JtuiaWH0OdrWM",0.485,0.618,126.982,-6.204,0.0547,0.0479,0,0.121
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness","duration_ms"
+"1","When Doves Cry","Prince",1984,"51H2y6YrNNXcy3dfc3qSbA",0.729,0.989,126.47,-4.613,0.049,0.0102,4.45e-05,0.443,352906
+"2","What's Love Got To Do WIth It - 1997 Digital Remaster","Tina Turner",1984,"4QjjabJx7K14tHwxEVI0Xc",0.848,0.567,97.854,-5.636,0.0476,0.214,1.55e-06,0.0916,228733
+"3","Say Say Say","Paul McCartney",1984,"4InXjGfCi4hJVWlqPuY6Im",0.813,0.54,117.526,-15.603,0.0565,0.0464,0.000507,0.0335,234160
+"4","Footloose","Kenny Loggins",1984,"4FA8jE1vcop4S3XqUWdSnP",0.583,0.905,173.982,-6.132,0.0733,0.0984,0.00019,0.0593,226827
+"5","Against All Odds","Phil Collins",1984,"2Wl3rABbAd3Hl3zNFM6hQ7",0.355,0.448,99.147,-10.929,0.0388,0.458,0.794,0.779,304067
+"6","Jump - Remastered Version","Van Halen",1984,"19kuZ0IExry8qYJ4lU2A0r",0.546,0.843,129.894,-5.821,0.0326,0.12,4.98e-05,0.0618,244107
+"7","Hello","Lionel Richie",1984,"1vFO4WIvw4fQ0oHkyt4rEC",0.413,0.356,60.741,-9.789,0.0325,0.503,0,0.125,249267
+"8","Owner Of A Lonely Heart","Yes",1984,"2GoPjrA7Hs6uI5A3MG3Me4",0.736,0.734,125.011,-7.978,0.0339,0.251,0.00306,0.306,269773
+"9","Ghostbusters","Ray Parker, Jr.",1984,"300zfRaCgTmEm5Eqe3HqZZ",0.779,0.717,115.384,-9.7,0.0335,0.0125,0.0536,0.355,240800
+"10","Karma Chameleon","Culture Club",1984,"48O0GrGJWml3DzHhC5sJ7a",0.676,0.577,91.98,-12.031,0.0365,0.186,0,0.148,241600
+"11","Missing You","John Waite",1984,"5P6Wv0hlcnczhElizTY0UE",0.742,0.493,104.313,-12.055,0.0283,0.118,0,0.0484,269773
+"12","All Night Long (All Night)","Lionel Richie",1984,"2P0COBqN70Hd2KYQj4KRjk",0.736,0.625,108.85,-10.977,0.0475,0.124,0.00122,0.0533,259013
+"13","Let's Hear It For The Boy","Deniece Williams",1984,"5TIc5WzpyxVZxAjYm9oJi8",0.783,0.573,122.744,-8.521,0.0462,0.177,8.5e-05,0.043,261893
+"14","Dancing In The Dark","Bruce Springsteen",1984,"4moXVLw4YS7tVNmjs8v60A",0.525,0.842,148.803,-12.12,0.0353,0.0549,0,0.275,239733
+"15","Girls Just Want to Have Fun","Cyndi Lauper",1984,"0uqOqX59mgWBqfPAdX0BDK",0.704,0.646,120.54,-9.415,0.037,0.453,1.42e-05,0.549,227867
+"16","The Reflex","Duran Duran",1984,"4DDgVahgRnITUk6Wnu5FWR",0.556,0.9,126.686,-6.11,0.097,0.123,0,0.571,266933
+"17","Time After Time","Cyndi Lauper",1984,"5tzbM8m70V977Ezpfk8IPS",0.726,0.449,130.388,-9.206,0.0286,0.487,1.34e-06,0.0824,241333
+"18","Jump (For My Love) - Single Remix","The Pointer Sisters",1984,"2TIKxe1afsEcYWBvyTgQt3",0.858,0.752,134.386,-10.577,0.0889,0.108,1.56e-05,0.145,262467
+"19","Talking in Your Sleep","The Romantics",1984,"08JKuFJCHJVw1SgHHjwsS9",0.734,0.821,129.771,-11.586,0.0329,0.0208,0.000103,0.0932,234867
+"20","Self Control","Laura Branigan",1984,"6JNJERZGJwDVgkmbohBw7u",0.814,0.686,106.68,-12.172,0.0342,0.219,0.00386,0.155,246440
+"21","Let's Go Crazy","Prince",1984,"6BkX6DnUG80xPlBfb2zmrZ",0.309,0.93,195.815,-6.399,0.125,0.0192,0.0022,0.106,280000
+"22","Say It Isn't So - Remastered","Daryl Hall & John Oates",1984,"2bZswvNGESo7MKeg7SQ9rp",0.769,0.595,113.971,-11.796,0.028,0.0588,0,0.18,256673
+"23","Hold Me Now","Thompson Twins",1984,"0b5eH3euyAs3pyfoebeWaZ",0.789,0.738,108.239,-5.693,0.0327,0.694,7.36e-06,0.136,286733
+"24","Joanna","Kool & The Gang",1984,"38OkyePa219s8OK4zEiKrT",0.544,0.777,116.395,-10.163,0.0482,0.241,0.00219,0.883,216320
+"25","I Just Called To Say I Love You","Stevie Wonder",1984,"6VAKyYoJQu1hwjWNvxQVTt",0.748,0.551,113.524,-8.624,0.0235,0.198,0,0.0978,260613
+"26","Somebody's Watching Me","Rockwell",1984,"7ozMJf8OMc9vRcZmAN8wPt",0.774,0.626,124.131,-6.821,0.0317,0.123,4.01e-05,0.125,237027
+"27","Break My Stride","Matthew Wilder",1984,"2ZqT3GcisHUBsEaqhLGHwU",0.901,0.654,110.131,-10.15,0.0655,0.2,0,0.165,180240
+"28","99 Luftballons","Nena",1984,"6HA97v4wEGQ5TUClRM0XLc",0.466,0.438,193.1,-12.858,0.0608,0.089,5.62e-06,0.113,233000
+"29","I Can Dream About You","Dan Hartman",1984,"2cPA0enjH2vdQSyCPzCKFb",0.725,0.655,109.586,-5.422,0.0336,0.00162,0.00125,0.0532,360067
+"30","The Glamorous Life","Sheila E.",1984,"179SfVFJ0ZN41toTxnpgRD",0.759,0.675,127.522,-14.366,0.0422,0.0261,0.0341,0.431,543560
+"31","Oh Sherrie","Steve Perry",1984,"3wqoAzrr5htxSZ7KzxhLHg",0.577,0.665,101.807,-5.572,0.0285,0.312,8.89e-05,0.138,228800
+"32","Stuck On You","Lionel Richie",1984,"3L9SXYL2XOl0JJ754YgBsS",0.511,0.293,131.805,-17.131,0.0308,0.336,6.98e-05,0.101,191493
+"33","I Guess That's Why They Call It The Blues","Elton John",1984,"4kwFh3RBxE5n9a6FwFw2tl",0.645,0.704,120.552,-7.005,0.0301,0.363,0.000193,0.213,284200
+"34","She Bop","Cyndi Lauper",1984,"4mhIed8oGCswH4d5pxClnv",0.583,0.891,136.794,-4.565,0.0345,0.00088,0.000163,0.103,229267
+"35","Borderline","Madonna",1984,"4FMNpPI7mkhdeFCCk6fZiE",0.807,0.764,119.867,-5.186,0.0312,0.082,3.87e-05,0.115,238360
+"36","Sunglasses At Night","Corey Hart",1984,"1QbQL5m30YNvukitIqAnFG",0.686,0.609,127.736,-11.469,0.0444,0.258,0.00015,0.113,320528
+"37","Eyes Without A Face - 1999 - Remaster","Billy Idol",1984,"7pzVqCZdYKM7oEPwaiQchB",0.33,0.723,83.433,-8,0.0521,0.00666,0.128,0.158,298280
+"38","Here Comes The Rain Again - Remastered Version","Eurythmics",1984,"5vYhr2kgOonJtWeJq5qZzU",0.648,0.755,126.341,-7.901,0.03,0.0141,0.000249,0.225,294587
+"39","Uptown Girl","Billy Joel",1984,"3CSpzkoL1XgDBZ1q9aDCUV",0.696,0.943,129.003,-2.962,0.0431,0.0736,0,0.653,194867
+"40","Sister Christian","Night Ranger",1984,"3pOgDNzXKISD4zCj3mQ6t9",0.249,0.476,174.349,-10.308,0.0339,0.0179,2.89e-06,0.942,319547
+"41","Drive","The Cars",1984,"3wfujdbamR3Z46F4xav7LM",0.582,0.606,111.441,-9.961,0.0289,0.124,0.00139,0.151,234493
+"42","Twist Of Fate","Olivia Newton-John",1984,"1ytzrpWRCpUasHmT5P4LRt",0.597,0.822,164.384,-5.602,0.0398,0.375,0.000114,0.128,220520
+"43","Union Of The Snake","Duran Duran",1984,"2iitSsbNPH0EJPyyEpvSgg",0.705,0.846,115.076,-4.618,0.0466,0.231,2.1e-05,0.71,264133
+"44","The Heart Of Rock And Roll - 1999 - Remaster","Huey Lewis & The News",1984,"6reKyht76Fw6fnF5Mnc8Hs",0.602,0.558,143.511,-13.73,0.041,0.0129,0.000185,0.12,303960
+"45","Hard Habit To Break - Live in Chicago, Il. - 1999","Chicago",1984,"0xpfe8QQWplGO09WN3vdN0",0.554,0.625,82.011,-8.046,0.0277,0.236,2.09e-06,0.891,315787
+"46","The Warrior","Scandal",1984,"2hQnLzly0jRPpLPp23sA4i",0.606,0.777,123.077,-11.034,0.0347,0.089,0,0.321,240827
+"47","If Ever You're In My Arms Again - Remastered Version","Peabo Bryson",1984,"4TIkesxpN5caX6XpsiirnH",0.599,0.442,96.213,-9.755,0.0239,0.667,0,0.143,255720
+"48","Automatic - Single Version","The Pointer Sisters",1984,"5mooLgb601ws7PbKe2m1HQ",0.808,0.611,110.898,-9.298,0.0493,0.156,0,0.49,241133
+"49","Let The Music Play","Shannon",1984,"5RgGHpa9S3txqJTxyRChx4",0.783,0.856,118.093,-5.302,0.0945,0.000454,0.196,0.221,214960
+"50","To All the Girls I've Loved Before - Live","Julio Iglesias",1984,"0uBwcaTkY1BPpIZhxuhS67",0.551,0.572,82.22,-7.244,0.0328,0.521,1.86e-05,0.0859,212667
+"51","Caribbean Queen (No More Love On the Run)","Billy Ocean",1984,"0ObLFkX9bnGBZMFVeLFRN4",0.82,0.596,113.799,-8.384,0.0275,0.295,8.54e-06,0.0635,246293
+"52","That's All (Platinum Collection Version)","Genesis",1984,"3DDNT4gjsx3RF7jsEf03FH",0.702,0.71,87.701,-5.251,0.0323,0.233,0.01,0.0817,265147
+"53","Running With The Night - Single Version","Lionel Richie",1984,"7xMb5yLHaSpQa6V6np64Z4",0.765,0.609,120.191,-9.629,0.0377,0.0278,0.000417,0.545,249347
+"54","Sad Songs (Say So Much)","Elton John",1984,"1fF2dvBsbTk2wrOEaR6f5B",0.741,0.885,107.255,-6.232,0.028,0.156,0.000306,0.345,249227
+"55","I Want A New Drug - 2006 Digital Remaster","Huey Lewis & The News",1984,"0mZNKyrUmsrlDRoYHWsyMu",0.672,0.897,110.289,-4.92,0.0541,0.0786,6.4e-06,0.389,211840
+"56","Islands In The Stream","Kenny Rogers",1984,"4WrwO9Un3ji5wnNySDGHwQ",0.589,0.641,204.003,-5.533,0.0313,0.427,0,0.0558,249880
+"57","Love Is A Battlefield","Pat Benatar",1984,"7cgSsrrbpdgmiuyuxCUg4u",0.646,0.796,90.667,-3.865,0.0743,0.0392,0.00716,0.0588,322412
+"58","Infatuation - 2008 Remastered Version","Rod Stewart",1984,"0SO4oJBmDNjniJwjlHaIhO",0.708,0.805,107.153,-7.997,0.0306,0.0673,0.00213,0.097,313160
+"59","Almost Paradise (Love Theme ""Footloose"")","Mike Reno feat. Ann Wilson",1984,"1NAarOU6vhcd1AEoOxUFMg",0.598,0.333,129.048,-11.055,0.0313,0.553,3.33e-06,0.0773,228667
+"60","Legs (2008 Remastered Album Edit Version)","ZZ Top",1984,"7t6CAWplijBj4sdl0q3z0e",0.611,0.946,125.398,-5.357,0.0378,0.00957,0.0708,0.36,273907
+"61","State of Shock","The Jacksons",1984,"5ERyzOyC3N6JXgVdmD8kUR",0.978,0.879,121.796,-4.073,0.155,0.211,0.0589,0.054,269613
+"62","Love Somebody","Rick Springfield",1984,"4wX7kEkj1UgFDMFbZIR3kZ",0.576,0.904,138.94,-5.671,0.0324,0.0145,0.00167,0.0996,214053
+"63","Miss Me Blind","Culture Club",1984,"11Vl4RR9geS1m9at8BkVgO",0.763,0.812,121.936,-7.05,0.0415,0.395,0,0.101,271947
+"64","If This Is It - 2006 Digital Remaster","Huey Lewis & The News",1984,"2h41e1ebabMfij3upGdymH",0.507,0.697,146.659,-6.26,0.0304,0.185,6.97e-06,0.31,232360
+"65","You Might Think","The Cars",1984,"6BwWWFhkLzTkLNyH3CNt28",0.71,0.774,133.924,-9.335,0.0333,0.141,0.0136,0.0348,185026
+"66","Lucky Star","Madonna",1984,"7nRwpTzjrFFNFpdHT76NOz",0.766,0.872,118.465,-4.096,0.0421,0.117,0.000545,0.314,218960
+"67","Cover Me","Bruce Springsteen",1984,"6RXBjCDKM6vAGiX4ojUD1E",0.517,0.776,120.571,-11.476,0.052,0.0198,0.00066,0.0851,208240
+"68","Cum on Feel the Noize","Quiet Riot",1984,"5eAenB0ByMTzoobdTGmtJN",0.441,0.908,145.439,-4.627,0.115,0.000183,0.00328,0.0612,287400
+"69","Adult Education - Remastered","Daryl Hall & John Oates",1984,"7ADFqIjMLrhRXyWoxeEhGf",0.655,0.684,91.119,-11.748,0.0412,0.00554,0.000293,0.181,273531
+"70","They Don't Know In the Style of Tracy Ullman","Tracy Ullman",1984,"2myNPDdVHkEZkJp9CfkI5O",0.663,0.764,119.833,-8.696,0.0302,0.00323,0.476,0.106,185160
+"71","An Innocent Man","Billy Joel",1984,"4x1LynYPM9qOtmB7ggoVz0",0.51,0.389,105.753,-9.343,0.0326,0.0473,0,0.111,318040
+"72","Cruel Summer","Bananarama",1984,"34kNeqnJJqO4wDiEJdQhxo",0.691,0.899,108.445,-4.871,0.0271,0.114,0.00708,0.231,209587
+"73","Dance Hall Days","Wang Chung",1984,"66Dcq5SlqgLArzsYcRedq1",0.681,0.705,102.659,-10.34,0.0441,0.266,0.0087,0.201,239133
+"74","Give It Up","KC & The Sunshine Band",1984,"40CPeIs7x2gKmSzNCvgLiU",0.84,0.594,125.683,-14.279,0.0713,0.0762,0.000198,0.0796,245707
+"75","I'm So Excited","The Pointer Sisters",1984,"3AgvZyLH4sWkII5bnU80aQ",0.581,0.7,182.415,-10.723,0.0377,0.107,0.0031,0.118,233533
+"76","I Still Can't Get Over Loving You","Ray Parker, Jr.",1984,"6ISiiE2puBueLDGhsItsuV",0.624,0.602,83.487,-11.624,0.0386,0.185,1.19e-05,0.0767,246493
+"77","Thriller","Michael Jackson",1984,"1D9KEXIrlmPUkMTdYzqgX4",0.775,0.857,118.419,-4.943,0.0699,0.0906,0.000172,0.918,357493
+"78","Holiday","Madonna",1984,"4k6ktr10Hczmh55NY3LfJy",0.854,0.796,115.625,-5.567,0.0399,0.0542,0.00184,0.151,368280
+"79","Nobody Told Me","The Sounds Of John Lennon",1984,"51DdbbwE892KCdS0SQjNd5",0.595,0.708,121.375,-6.049,0.0366,0.071,0.000535,0.208,209400
+"80","Church of the Poison Mind","Culture Club",1984,"4BNOhILWVg7NThwsNhpSs8",0.606,0.781,130.778,-10.555,0.0343,0.105,0,0.409,211173
+"81","Think Of Laura","Christopher Cross",1984,"1s5LDroPGxBAFkY5Bth6SK",0.514,0.187,172.023,-14.612,0.03,0.841,1.02e-06,0.0917,204755
+"82","Time Will Reveal","DeBarge",1984,"6lKuAmGY6FB0vaNOzrbQ5p",0.699,0.391,129.698,-8.822,0.0328,0.53,1.22e-06,0.0473,256667
+"83","Wrapped Around Your Finger","The Police",1984,"2bQI01HjqtcZmqAVTjE8CA",0.739,0.367,127.674,-14.656,0.0425,0.0531,0.000196,0.0638,313733
+"84","Pink Houses","John Mellencamp",1984,"2EVMlbOZkfU5htC0C3BUGa",0.638,0.802,114.996,-4.992,0.0277,0.0639,5.57e-06,0.0985,284000
+"85","Round and Round","Ratt",1984,"0SFS1LxNP5wgnoDA7nGKQu",0.616,0.965,126.535,-4.464,0.0613,0.0135,0.000174,0.119,266627
+"86","Head Over Heels","The Go-Go's",1984,"3rjONa9b7zc16b8nmXAuCG",0.552,0.722,157.01,-10.817,0.0388,0.000827,2.37e-05,0.108,217440
+"87","The Longest Time","Billy Joel",1984,"5v23eOAHQNRi67BWtzHajx",0.637,0.395,84.079,-7.355,0.0255,0.187,0,0.08,219333
+"88","Tonight","Kool & The Gang",1984,"0Sgwnqlmp2pNqE5N3XHRTa",0.634,0.883,126.717,-8.112,0.0563,0.0117,2.08e-05,0.569,259507
+"89","Got A Hold On Me","Christine McVie",1984,"0FCgqHNdcbhGIEmU8r6ZF1",0.75,0.787,129.37,-5.127,0.0292,0.144,1.88e-05,0.0513,232907
+"90","Dancing In The Sheets","Shalamar",1984,"1D3h6J0N28uxTLpHVGwq6p",0.874,0.556,122.849,-9.322,0.0708,0.00643,0.311,0.0445,244733
+"91","Undercover Of The Night - Remastered","The Rolling Stones",1984,"4duMzlV6ZXExTL0L3o6PH9",0.632,0.938,122.829,-7.461,0.109,0.0331,0.00615,0.445,272613
+"92","On the Dark Side","John Cafferty",1984,"0ce2SIAFrEsPCiEXpv9X11",0.294,0.822,156.921,-7.195,0.0536,0.0845,0.000627,0.649,350000
+"93","New Moon On Monday","Duran Duran",1984,"3IGF7wqKKovBhyPx9HaYgw",0.67,0.87,122.277,-4.694,0.0812,0.369,0,0.579,258880
+"94","Major Tom (Coming Home) [In the Style of Peter Schilling] {Karaoke Lead Vocal Version}","The Karaoke Channel",1984,"3WuK4KMYVkr1CMHZcZm6G6",0.768,0.321,81.497,-13.656,0.0705,0.31,0.0137,0.102,248926
+"95","Magic","The Cars",1984,"7z8k6KAvjHX3RtkYNhIC9B",0.683,0.806,118.032,-7.574,0.042,0.125,0.000548,0.191,237093
+"96","When You Close Your Eyes","Night Ranger",1984,"5Al4Jbso4nYdZgJ2gSCEzT",0.489,0.619,136.995,-13.531,0.0311,0.00723,0,0.131,258093
+"97","Rock Me Tonite","Billy Squier",1984,"76zNJvuD3JtuiaWH0OdrWM",0.485,0.618,126.982,-6.204,0.0547,0.0479,0,0.121,295947

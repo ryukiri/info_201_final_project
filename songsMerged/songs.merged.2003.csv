@@ -1,89 +1,89 @@
-"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
-"1","In Da Club","50 Cent",2003,"7iL6o9tox1zgHpKUfh9vuC",0.899,0.713,90.051,-2.752,0.366,0.255,0,0.0708
-"2","Ignition (Remix)","R. Kelly",2003,"0nmxH6IsSQVT1YEsCB9UMi",0.787,0.527,133.107,-6.981,0.0512,0.0615,0,0.0656
-"3","Get Busy","Sean Paul",2003,"7C86DVl6REN8VPeGEMOf9q",0.735,0.824,100.202,-4.143,0.036,0.615,0,0.158
-"4","When I'm Gone","3 Doors Down",2003,"1Nuqm2gavvcmZtEFWvbDbK",0.455,0.764,74.021,-5.633,0.0327,0.00446,0,0.105
-"5","Unwell - Remastered Version","Matchbox Twenty",2003,"0PXWpNBYg52gABrn1qL1bD",0.442,0.793,80.985,-5.152,0.0347,0.0456,0,0.328
-"6","Right Thurr","Chingy",2003,"0l3GEbH3CviUytD6iX4wzg",0.866,0.749,92.077,-3.977,0.253,0.15,0,0.0591
-"7","Miss You","Aaliyah",2003,"47mdv9ScE1lLbKPTMgxtqg",0.547,0.334,109.757,-10.096,0.0355,0.624,0,0.229
-"8","Beautiful","Christina Aguilera",2003,"0Ri6sPso4CNTnHn7RroCt4",0.457,0.573,76.193,-3.866,0.0275,0.578,3.05e-06,0.114
-"9","I'm with You","Avril Lavigne",2003,"2jHujamO9UuZv8im9eLdOB",0.457,0.406,151.95,-7.462,0.0291,0.08,0,0.117
-"10","P.I.M.P.","50 Cent",2003,"1IRNjfivqiDhzey02C11ge",0.684,0.773,78.66,-3.05,0.351,0.0521,1.49e-05,0.0328
-"11","Bump, Bump, Bump","B2K",2003,"5tKbrFMvQJlG1reK5aDmkc",0.838,0.661,95.493,-6.387,0.196,0.107,0,0.115
-"12","Where Is The Love?","The Black Eyed Peas",2003,"4DH9KwQ31wVFUsNFM47bEb",0.835,0.687,94.059,-3.18,0.184,0.101,0,0.132
-"13","Lose Yourself - Soundtrack Version","Eminem",2003,"0j5X6DrzkgY64Mm8NQp5mi",0.69,0.747,171.367,-4.583,0.264,0.00984,0.000685,0.355
-"14","Rock Wit U (Awww Baby)","Ashanti",2003,"0mI5eE0IuermT57lb0Szas",0.71,0.797,94.994,-3.005,0.0718,0.409,0,0.155
-"15","Cry Me a River","Justin Timberlake",2003,"7Lf7oSEVdzZqTA0kEDSlS5",0.624,0.653,73.884,-6.582,0.176,0.575,0,0.104
-"16","How You Gonna Act Like That","Tyrese",2003,"3OUApyz3jDB3syGUNGqB1d",0.733,0.521,112.913,-3.657,0.0457,0.107,0,0.0692
-"17","Rock Your Body","Justin Timberlake",2003,"1AWQoqb9bSvzTjaLralEkT",0.891,0.714,100.972,-6.055,0.14,0.202,0.000234,0.0521
-"18","No Letting Go","Wayne Wonder",2003,"1A0KS49SPUTb5HpVXOiSbZ",0.473,0.832,100.157,-5.257,0.0528,0.0675,0.000151,0.302
-"19","Landslide","Dixie Chicks",2003,"7GzN0UuX8rdMp8BHzJhwAr",0.571,0.394,145.944,-8.483,0.0272,0.569,4.21e-06,0.141
-"20","Work It","Missy Elliott",2003,"3jagJCUbdqhDSPuxP8cAqF",0.884,0.677,101.868,-5.603,0.283,0.0778,0,0.0732
-"21","So Gone","Monica",2003,"6BIcjFZIVDZxNAcofRFPx4",0.618,0.552,81.975,-6.863,0.0981,0.176,0,0.252
-"22","Never Leave You - Uh Ooh, Uh Oooh! - Main","Lumidee",2003,"0gNWux0dyHOx6iRNAFev3I",0.805,0.639,199.996,-6.35,0.38,0.0421,0.601,0.0797
-"23","Miss Independent","Kelly Clarkson",2003,"3v4yDypfo94dachEvmjQdj",0.656,0.615,175.943,-6.359,0.137,0.0769,0.000415,0.0706
-"24","Calling All Angels","Train",2003,"0E29BKKGCJHcb7b9oIWgGB",0.454,0.839,166.166,-5.368,0.0441,0.0746,0,0.279
-"25","This Is The Night","Clay Aiken",2003,"6QP46GKcggdxLbVLWilLVc",0.53,0.562,98.994,-8.314,0.0275,0.137,1.22e-06,0.225
-"26","Headstrong","Trapt",2003,"1AEYT6VxrxXPMoQUxsY0E4",0.492,0.896,184.981,-5.819,0.117,0.000172,2.78e-06,0.189
-"27","In Those Jeans","Ginuwine",2003,"5ojJNnX5ND2gMGojPd3NiO",0.691,0.541,127.683,-5.873,0.0776,0.508,0,0.0753
-"28","The Remedy - Live On Earth Version","Jason Mraz",2003,"6nRoGs2NWVeYO1pGSxoDLY",0.497,0.882,87.27,-4.047,0.0658,0.0832,0,0.929
-"29","Excuse Me Miss","JAY Z",2003,"5igi8eXou8md6Hpdo4TQm0",0.714,0.86,92.956,-5.519,0.295,0.034,0,0.103
-"30","Are You Happy Now?","Michelle Branch",2003,"5B7XIcS5T76NJZFOHX30Io",0.484,0.827,179.566,-5.324,0.046,0.0039,0.00143,0.0876
-"31","Forever And For Always - Red Album Version","Shania Twain",2003,"25Bk9xtboDmCN8SUiWDXve",0.519,0.753,85.937,-5.893,0.037,0.205,1.06e-06,0.12
-"32","I Can","Nas",2003,"4E2j9dtimUItAjUhafldtX",0.839,0.893,95.314,-3.963,0.198,0.109,0,0.0545
-"33","If You're Not The One","Daniel Bedingfield",2003,"2Xc8yEoFXNdjE9tqb6myCI",0.683,0.45,120.027,-11.049,0.0319,0.628,0,0.0811
-"34","Thoia Thoing","R. Kelly",2003,"1ePm7iM48W0ayPCQLAjoUN",0.582,0.642,85.565,-4.925,0.307,0.274,2.98e-05,0.0717
-"35","Here Without You","3 Doors Down",2003,"7qQfI2F80t2MZcLLVuH6M2",0.544,0.55,144.028,-6.756,0.0248,0.0541,0,0.243
-"36","Wanksta - From ""8 Mile"" Soundtrack","50 Cent",2003,"2eXlwgFPe6HgFaPJO8xQHK",0.802,0.863,81.008,-3.552,0.2,0.0199,0,0.141
-"37","My Love Is Like...Wo - Main Mix/Album Version","M<U+00FD>a",2003,"3Hv5C8sbNd8i6LhfrIY3Yo",0.813,0.627,132.825,-8.4,0.106,0.131,0,0.196
-"38","Like Glue","Sean Paul",2003,"2thQ8Zi2V8z6XJuCvxHm7V",0.757,0.78,97.917,-5.038,0.319,0.0811,0,0.113
-"39","My Front Porch Looking In","Lonestar",2003,"3infEr3WNjesDtV7JqDPwY",0.552,0.808,102.87,-5.569,0.0444,0.0381,0,0.312
-"40","Angel","Amanda Perez",2003,"2T4rXDppGlcy2lLuF4IyHq",0.638,0.54,143.772,-6.849,0.0473,0.506,0,0.157
-"41","She Hates Me","Puddle Of Mudd",2003,"1b7W82wt7cFgOQQ5XVKKoN",0.577,0.751,110.167,-5.319,0.0337,0.0085,0,0.778
-"42","Don't Wanna Try","Frankie J",2003,"02y3FRLRlmzIpi2y8ZbN2w",0.677,0.422,130.2,-8.443,0.0356,0.395,0,0.288
-"43","Intuition","Jewel",2003,"21CCDnq8ROJEnQ7CL72xFA",0.715,0.776,100.019,-4.604,0.0556,0.00912,0.000314,0.114
-"44","Fighter","Christina Aguilera",2003,"0qbNSBQ0oKt55pUsO6Mw7A",0.435,0.92,188.899,-1.357,0.201,0.235,0.000353,0.552
-"45","Thugz Mansion - 2Pac Original/Acoustic (Explicit)","2Pac",2003,"5qJPRg0Ph69qE6E64zAMmG",0.731,0.417,88.161,-8.708,0.168,0.657,0,0.115
-"46","Clocks","Coldplay",2003,"0BCPKOYdS2jbQ8iyB56Zns",0.577,0.749,130.969,-7.215,0.0279,0.599,0.0112,0.183
-"47","Rain On Me","Ashanti",2003,"4v5WnO30GpzdHasUOY3UsH",0.606,0.699,83.698,-3.103,0.0337,0.344,1.93e-06,0.0776
-"48","19 Somethin<U+2019>","Mark Wills",2003,"2TBR4T0kFjlE8YtwZzBVvw",0.64,0.653,90.045,-9.145,0.0575,0.0945,0,0.28
-"49","Can't Stop, Won't Stop - Album Version Remix (Explicit)","Young Gunz",2003,"0a0HVlMAWI25EDo9Hr7aR7",0.873,0.809,99.989,-5.185,0.224,0.00837,0,0.371
-"50","Red Dirt Road","Brooks & Dunn",2003,"5QHElgktygMkgRdpPhXfn2",0.553,0.864,136.128,-4.038,0.0414,0.0736,0.000311,0.138
-"51","What Was I Thinkin'","Dierks Bentley",2003,"0r8iDf65NHgFgZOGLwj5r8",0.551,0.825,164.857,-6.24,0.044,0.152,6.2e-06,0.0999
-"52","Flying Without Wings","Ruben Studdard",2003,"4vzYcDxBXAUPYDUna4BVeE",0.498,0.493,146.049,-7.748,0.0369,0.75,0,0.115
-"53","Sing For The Moment","Eminem",2003,"3C7RbG9Co0zjO7CsuEOqRa",0.677,0.812,163.851,-4.235,0.13,0.0018,1.93e-06,0.0741
-"54","A Good Day To Run","Darryl Worley",2003,"7xX9mZmjCVzNeAcceLuUiD",0.597,0.787,147.36,-5.322,0.0285,0.222,3.7e-05,0.0982
-"55","No Shoes, No Shirt, No Problems","Kenny Chesney",2003,"4LZqNiZHiQvGLlt0RkXtqt",0.718,0.603,117.928,-8.455,0.0317,0.255,0.0146,0.47
-"56","Come Over","Aaliyah",2003,"0RSqCqUTTd7sdaSp1wkZvX",0.757,0.452,109.165,-7.886,0.0775,0.517,0.000133,0.204
-"57","Sick Of Being Lonely","Field Mob",2003,"7kScbS865xisYyLJUUHwY6",0.567,0.568,89.33,-8.888,0.299,0.0375,1.17e-06,0.0381
-"58","Step In the Name of Love - Remix","R. Kelly",2003,"22HX8moAHWULPAu6t5CivV",0.78,0.53,95.001,-6.486,0.121,0.213,0,0.288
-"59","Like a Stone","Audioslave",2003,"3YuaBvuZqcwN3CEAyyoaei",0.614,0.568,107.849,-5.477,0.0276,0.00797,0,0.0997
-"60","Don't Know Why","Norah Jones",2003,"6ybViy2qrO9sIi41EgRJgx",0.732,0.198,88.174,-11.775,0.028,0.883,1.1e-05,0.0659
-"61","Superman","Eminem",2003,"5voKHxbIqgBU7fZMX8Lu0T",0.803,0.757,130.019,-3.212,0.0597,0.0175,0,0.195
-"62","Real Good Man","Tim McGraw",2003,"0VnaN6GDSyzGNDP49MViC1",0.56,0.827,89.93,-5.393,0.0266,0.00986,1.13e-05,0.328
-"63","Say Yes","Floetry",2003,"3Noa5kppo2crIEMpwOmsHf",0.747,0.398,117.901,-12.932,0.0743,0.211,1.42e-06,0.113
-"64","Bring Me To Life","Evanescence",2003,"2gpffYGJGvhgqgA0Aw8wKi",0.328,0.941,189.961,-3.185,0.0975,0.00691,1.35e-06,0.249
-"65","Get Low","Ying Yang Twins",2003,"0r2Bul2NuCViraT2zX1l5j",0.521,0.625,101.019,-7.47,0.067,0.0301,0,0.121
-"66","21 Questions","50 Cent",2003,"5LUparNaT5mHPHTIjNvzB5",0.573,0.825,89.251,-3.988,0.322,0.369,0.000185,0.0422
-"67","I Know What You Want","Busta Rhymes",2003,"440JHgcmlgu65MbKBg20ba",0.563,0.751,85.789,-4.325,0.317,0.0141,0,0.636
-"68","Drift Away","Uncle Kracker",2003,"0RFgvrhkf9FiDRLA0BhzpZ",0.583,0.66,151.956,-5.078,0.0377,0.181,0,0.0979
-"69","Into You (feat. Ashanti)","Fabolous",2003,"4b5aJdOgxps6z0dPe6wCHF",0.726,0.568,91.906,-8.358,0.0298,0.179,0,0.0488
-"70","Can't Let You Go (feat. Mike Shorey & Lil' Mo)","Fabolous",2003,"6lrRIfQDcikJ5y5DtyZPuJ",0.646,0.6,192.082,-6.569,0.458,0.231,0,0.0794
-"71","Mesmerize","Ja Rule",2003,"2iclfHORMqpR3TxuhwVRhD",0.762,0.641,90.089,-6.784,0.209,0.0554,0,0.454
-"72","Air Force Ones","Nelly",2003,"7kAFSrTIOiVZ0gnHBuAH3l",0.777,0.474,164.123,-10.211,0.316,0.087,0,0.089
-"73","Beautiful - Feat. Pharrell, Uncle Charlie Wilson","Snoop Dogg",2003,"4675yUu8AUbE72T94BkLCD",0.893,0.74,101.025,-4.936,0.132,0.299,0,0.0881
-"74","Gossip Folks (feat. Ludacris)","Missy Elliott",2003,"75DjPjiIp2fvJDjtt41Jfs",0.707,0.538,121.732,-5.264,0.505,0.362,0,0.317
-"75","Stand Up","Ludacris",2003,"2CtCwQhY0ZLvr8L2l8Bo6e",0.745,0.841,97.909,-4.774,0.357,0.358,0,0.111
-"76","Underneath It All","No Doubt",2003,"6wFemJ1Oh4gnTalNKgtvBg",0.727,0.73,138.177,-4.731,0.0812,0.247,0,0.39
-"77","Can't Hold Us Down","Christina Aguilera",2003,"0cv1Mnb47oMvjVKMc2cyZw",0.859,0.658,98.989,-4.481,0.192,0.0326,0.00181,0.0651
-"78","The Jump Off","Lil' Kim",2003,"08cqYeYWTjDUqNLVOiJMUF",0.837,0.736,104.907,-8.367,0.378,0.225,0,0.0549
-"79","Hell Yeah","Ginuwine",2003,"1p149YJfXkHkSzYp4UZUxV",0.631,0.714,87.98,-7.259,0.355,0.0272,0,0.564
-"80","Beer For My Horses","Toby Keith",2003,"7E2DqvnVtbIrFrL5X6YH9Q",0.721,0.85,118.991,-5.207,0.0511,0.353,0,0.0459
-"81","Holidae In","Chingy",2003,"0FmCLEHfINGqwlyzvklNqy",0.81,0.791,153.067,-5.909,0.181,0.0893,0,0.0838
-"82","Suga Suga","Baby Bash",2003,"14B2bUopOga5V3ypld7d6n",0.694,0.752,82.529,-3.071,0.26,0.635,6.44e-06,0.114
-"83","I Want You","Thal<U+00ED>a",2003,"1HCPjfa02m5JwcO37LHfYb",0.803,0.773,91.915,-3.628,0.121,0.0107,0,0.0632
-"84","All I Have","Jennifer Lopez",2003,"3kgutGd839IOYRl6ekeq6V",0.699,0.668,83.074,-5.305,0.106,0.265,0,0.141
-"85","Baby Boy (feat. Beyonce)","Sean Paul",2003,"29LHe8kG3PraghUZOZYsw4",0.658,0.621,91.267,-5.725,0.231,0.0667,2.46e-06,0.142
-"86","Crazy In Love","Beyonc<U+00E9>",2003,"5IVuqXILoxVWvWEPm82Jxr",0.646,0.77,99.165,-6.596,0.226,0.00249,0,0.0715
-"87","Put That Woman First","Jaheim",2003,"0FPuNzimOamZvt7ysiP7Pt",0.651,0.527,78.927,-8.586,0.178,0.556,0,0.209
-"88","Your Body Is a Wonderland","John Mayer",2003,"3wmQ8VhzARrFQj7GcnhtBM",0.647,0.729,94.01,-6.251,0.0236,0.0206,0.0489,0.134
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness","duration_ms"
+"1","In Da Club","50 Cent",2003,"7iL6o9tox1zgHpKUfh9vuC",0.899,0.713,90.051,-2.752,0.366,0.255,0,0.0708,193467
+"2","Ignition (Remix)","R. Kelly",2003,"0nmxH6IsSQVT1YEsCB9UMi",0.787,0.527,133.107,-6.981,0.0512,0.0615,0,0.0656,187733
+"3","Get Busy","Sean Paul",2003,"7C86DVl6REN8VPeGEMOf9q",0.735,0.824,100.202,-4.143,0.036,0.615,0,0.158,211666
+"4","When I'm Gone","3 Doors Down",2003,"1Nuqm2gavvcmZtEFWvbDbK",0.455,0.764,74.021,-5.633,0.0327,0.00446,0,0.105,260507
+"5","Unwell - Remastered Version","Matchbox Twenty",2003,"0PXWpNBYg52gABrn1qL1bD",0.442,0.793,80.985,-5.152,0.0347,0.0456,0,0.328,237267
+"6","Right Thurr","Chingy",2003,"0l3GEbH3CviUytD6iX4wzg",0.866,0.749,92.077,-3.977,0.253,0.15,0,0.0591,249800
+"7","Miss You","Aaliyah",2003,"47mdv9ScE1lLbKPTMgxtqg",0.547,0.334,109.757,-10.096,0.0355,0.624,0,0.229,245211
+"8","Beautiful","Christina Aguilera",2003,"0Ri6sPso4CNTnHn7RroCt4",0.457,0.573,76.193,-3.866,0.0275,0.578,3.05e-06,0.114,238560
+"9","I'm with You","Avril Lavigne",2003,"2jHujamO9UuZv8im9eLdOB",0.457,0.406,151.95,-7.462,0.0291,0.08,0,0.117,223067
+"10","P.I.M.P.","50 Cent",2003,"1IRNjfivqiDhzey02C11ge",0.684,0.773,78.66,-3.05,0.351,0.0521,1.49e-05,0.0328,249840
+"11","Bump, Bump, Bump","B2K",2003,"5tKbrFMvQJlG1reK5aDmkc",0.838,0.661,95.493,-6.387,0.196,0.107,0,0.115,279000
+"12","Where Is The Love?","The Black Eyed Peas",2003,"4DH9KwQ31wVFUsNFM47bEb",0.835,0.687,94.059,-3.18,0.184,0.101,0,0.132,272533
+"13","Lose Yourself - Soundtrack Version","Eminem",2003,"0j5X6DrzkgY64Mm8NQp5mi",0.69,0.747,171.367,-4.583,0.264,0.00984,0.000685,0.355,326640
+"14","Rock Wit U (Awww Baby)","Ashanti",2003,"0mI5eE0IuermT57lb0Szas",0.71,0.797,94.994,-3.005,0.0718,0.409,0,0.155,208980
+"15","Cry Me a River","Justin Timberlake",2003,"7Lf7oSEVdzZqTA0kEDSlS5",0.624,0.653,73.884,-6.582,0.176,0.575,0,0.104,288333
+"16","How You Gonna Act Like That","Tyrese",2003,"3OUApyz3jDB3syGUNGqB1d",0.733,0.521,112.913,-3.657,0.0457,0.107,0,0.0692,294693
+"17","Rock Your Body","Justin Timberlake",2003,"1AWQoqb9bSvzTjaLralEkT",0.891,0.714,100.972,-6.055,0.14,0.202,0.000234,0.0521,267267
+"18","No Letting Go","Wayne Wonder",2003,"1A0KS49SPUTb5HpVXOiSbZ",0.473,0.832,100.157,-5.257,0.0528,0.0675,0.000151,0.302,200733
+"19","Landslide","Dixie Chicks",2003,"7GzN0UuX8rdMp8BHzJhwAr",0.571,0.394,145.944,-8.483,0.0272,0.569,4.21e-06,0.141,228627
+"20","Work It","Missy Elliott",2003,"3jagJCUbdqhDSPuxP8cAqF",0.884,0.677,101.868,-5.603,0.283,0.0778,0,0.0732,263227
+"21","So Gone","Monica",2003,"6BIcjFZIVDZxNAcofRFPx4",0.618,0.552,81.975,-6.863,0.0981,0.176,0,0.252,242773
+"22","Never Leave You - Uh Ooh, Uh Oooh! - Main","Lumidee",2003,"0gNWux0dyHOx6iRNAFev3I",0.805,0.639,199.996,-6.35,0.38,0.0421,0.601,0.0797,184960
+"23","Miss Independent","Kelly Clarkson",2003,"3v4yDypfo94dachEvmjQdj",0.656,0.615,175.943,-6.359,0.137,0.0769,0.000415,0.0706,214773
+"24","Calling All Angels","Train",2003,"0E29BKKGCJHcb7b9oIWgGB",0.454,0.839,166.166,-5.368,0.0441,0.0746,0,0.279,242200
+"25","This Is The Night","Clay Aiken",2003,"6QP46GKcggdxLbVLWilLVc",0.53,0.562,98.994,-8.314,0.0275,0.137,1.22e-06,0.225,211960
+"26","Headstrong","Trapt",2003,"1AEYT6VxrxXPMoQUxsY0E4",0.492,0.896,184.981,-5.819,0.117,0.000172,2.78e-06,0.189,285570
+"27","In Those Jeans","Ginuwine",2003,"5ojJNnX5ND2gMGojPd3NiO",0.691,0.541,127.683,-5.873,0.0776,0.508,0,0.0753,243307
+"28","The Remedy - Live On Earth Version","Jason Mraz",2003,"6nRoGs2NWVeYO1pGSxoDLY",0.497,0.882,87.27,-4.047,0.0658,0.0832,0,0.929,381640
+"29","Excuse Me Miss","JAY Z",2003,"5igi8eXou8md6Hpdo4TQm0",0.714,0.86,92.956,-5.519,0.295,0.034,0,0.103,281240
+"30","Are You Happy Now?","Michelle Branch",2003,"5B7XIcS5T76NJZFOHX30Io",0.484,0.827,179.566,-5.324,0.046,0.0039,0.00143,0.0876,230760
+"31","Forever And For Always - Red Album Version","Shania Twain",2003,"25Bk9xtboDmCN8SUiWDXve",0.519,0.753,85.937,-5.893,0.037,0.205,1.06e-06,0.12,283600
+"32","I Can","Nas",2003,"4E2j9dtimUItAjUhafldtX",0.839,0.893,95.314,-3.963,0.198,0.109,0,0.0545,254600
+"33","If You're Not The One","Daniel Bedingfield",2003,"2Xc8yEoFXNdjE9tqb6myCI",0.683,0.45,120.027,-11.049,0.0319,0.628,0,0.0811,252560
+"34","Thoia Thoing","R. Kelly",2003,"1ePm7iM48W0ayPCQLAjoUN",0.582,0.642,85.565,-4.925,0.307,0.274,2.98e-05,0.0717,221267
+"35","Here Without You","3 Doors Down",2003,"7qQfI2F80t2MZcLLVuH6M2",0.544,0.55,144.028,-6.756,0.0248,0.0541,0,0.243,236920
+"36","Wanksta - From ""8 Mile"" Soundtrack","50 Cent",2003,"2eXlwgFPe6HgFaPJO8xQHK",0.802,0.863,81.008,-3.552,0.2,0.0199,0,0.141,219400
+"37","My Love Is Like...Wo - Main Mix/Album Version","M<U+00FD>a",2003,"3Hv5C8sbNd8i6LhfrIY3Yo",0.813,0.627,132.825,-8.4,0.106,0.131,0,0.196,202533
+"38","Like Glue","Sean Paul",2003,"2thQ8Zi2V8z6XJuCvxHm7V",0.757,0.78,97.917,-5.038,0.319,0.0811,0,0.113,232507
+"39","My Front Porch Looking In","Lonestar",2003,"3infEr3WNjesDtV7JqDPwY",0.552,0.808,102.87,-5.569,0.0444,0.0381,0,0.312,223933
+"40","Angel","Amanda Perez",2003,"2T4rXDppGlcy2lLuF4IyHq",0.638,0.54,143.772,-6.849,0.0473,0.506,0,0.157,218760
+"41","She Hates Me","Puddle Of Mudd",2003,"1b7W82wt7cFgOQQ5XVKKoN",0.577,0.751,110.167,-5.319,0.0337,0.0085,0,0.778,215992
+"42","Don't Wanna Try","Frankie J",2003,"02y3FRLRlmzIpi2y8ZbN2w",0.677,0.422,130.2,-8.443,0.0356,0.395,0,0.288,245063
+"43","Intuition","Jewel",2003,"21CCDnq8ROJEnQ7CL72xFA",0.715,0.776,100.019,-4.604,0.0556,0.00912,0.000314,0.114,227160
+"44","Fighter","Christina Aguilera",2003,"0qbNSBQ0oKt55pUsO6Mw7A",0.435,0.92,188.899,-1.357,0.201,0.235,0.000353,0.552,245960
+"45","Thugz Mansion - 2Pac Original/Acoustic (Explicit)","2Pac",2003,"5qJPRg0Ph69qE6E64zAMmG",0.731,0.417,88.161,-8.708,0.168,0.657,0,0.115,252293
+"46","Clocks","Coldplay",2003,"0BCPKOYdS2jbQ8iyB56Zns",0.577,0.749,130.969,-7.215,0.0279,0.599,0.0112,0.183,307880
+"47","Rain On Me","Ashanti",2003,"4v5WnO30GpzdHasUOY3UsH",0.606,0.699,83.698,-3.103,0.0337,0.344,1.93e-06,0.0776,297680
+"48","19 Somethin<U+2019>","Mark Wills",2003,"2TBR4T0kFjlE8YtwZzBVvw",0.64,0.653,90.045,-9.145,0.0575,0.0945,0,0.28,229120
+"49","Can't Stop, Won't Stop - Album Version Remix (Explicit)","Young Gunz",2003,"0a0HVlMAWI25EDo9Hr7aR7",0.873,0.809,99.989,-5.185,0.224,0.00837,0,0.371,262800
+"50","Red Dirt Road","Brooks & Dunn",2003,"5QHElgktygMkgRdpPhXfn2",0.553,0.864,136.128,-4.038,0.0414,0.0736,0.000311,0.138,260017
+"51","What Was I Thinkin'","Dierks Bentley",2003,"0r8iDf65NHgFgZOGLwj5r8",0.551,0.825,164.857,-6.24,0.044,0.152,6.2e-06,0.0999,260827
+"52","Flying Without Wings","Ruben Studdard",2003,"4vzYcDxBXAUPYDUna4BVeE",0.498,0.493,146.049,-7.748,0.0369,0.75,0,0.115,226133
+"53","Sing For The Moment","Eminem",2003,"3C7RbG9Co0zjO7CsuEOqRa",0.677,0.812,163.851,-4.235,0.13,0.0018,1.93e-06,0.0741,340267
+"54","A Good Day To Run","Darryl Worley",2003,"7xX9mZmjCVzNeAcceLuUiD",0.597,0.787,147.36,-5.322,0.0285,0.222,3.7e-05,0.0982,188573
+"55","No Shoes, No Shirt, No Problems","Kenny Chesney",2003,"4LZqNiZHiQvGLlt0RkXtqt",0.718,0.603,117.928,-8.455,0.0317,0.255,0.0146,0.47,209347
+"56","Come Over","Aaliyah",2003,"0RSqCqUTTd7sdaSp1wkZvX",0.757,0.452,109.165,-7.886,0.0775,0.517,0.000133,0.204,234293
+"57","Sick Of Being Lonely","Field Mob",2003,"7kScbS865xisYyLJUUHwY6",0.567,0.568,89.33,-8.888,0.299,0.0375,1.17e-06,0.0381,275200
+"58","Step In the Name of Love - Remix","R. Kelly",2003,"22HX8moAHWULPAu6t5CivV",0.78,0.53,95.001,-6.486,0.121,0.213,0,0.288,431827
+"59","Like a Stone","Audioslave",2003,"3YuaBvuZqcwN3CEAyyoaei",0.614,0.568,107.849,-5.477,0.0276,0.00797,0,0.0997,293960
+"60","Don't Know Why","Norah Jones",2003,"6ybViy2qrO9sIi41EgRJgx",0.732,0.198,88.174,-11.775,0.028,0.883,1.1e-05,0.0659,186147
+"61","Superman","Eminem",2003,"5voKHxbIqgBU7fZMX8Lu0T",0.803,0.757,130.019,-3.212,0.0597,0.0175,0,0.195,350227
+"62","Real Good Man","Tim McGraw",2003,"0VnaN6GDSyzGNDP49MViC1",0.56,0.827,89.93,-5.393,0.0266,0.00986,1.13e-05,0.328,254600
+"63","Say Yes","Floetry",2003,"3Noa5kppo2crIEMpwOmsHf",0.747,0.398,117.901,-12.932,0.0743,0.211,1.42e-06,0.113,268373
+"64","Bring Me To Life","Evanescence",2003,"2gpffYGJGvhgqgA0Aw8wKi",0.328,0.941,189.961,-3.185,0.0975,0.00691,1.35e-06,0.249,235893
+"65","Get Low","Ying Yang Twins",2003,"0r2Bul2NuCViraT2zX1l5j",0.521,0.625,101.019,-7.47,0.067,0.0301,0,0.121,334067
+"66","21 Questions","50 Cent",2003,"5LUparNaT5mHPHTIjNvzB5",0.573,0.825,89.251,-3.988,0.322,0.369,0.000185,0.0422,224427
+"67","I Know What You Want","Busta Rhymes",2003,"440JHgcmlgu65MbKBg20ba",0.563,0.751,85.789,-4.325,0.317,0.0141,0,0.636,324307
+"68","Drift Away","Uncle Kracker",2003,"0RFgvrhkf9FiDRLA0BhzpZ",0.583,0.66,151.956,-5.078,0.0377,0.181,0,0.0979,255560
+"69","Into You (feat. Ashanti)","Fabolous",2003,"4b5aJdOgxps6z0dPe6wCHF",0.726,0.568,91.906,-8.358,0.0298,0.179,0,0.0488,274333
+"70","Can't Let You Go (feat. Mike Shorey & Lil' Mo)","Fabolous",2003,"6lrRIfQDcikJ5y5DtyZPuJ",0.646,0.6,192.082,-6.569,0.458,0.231,0,0.0794,223973
+"71","Mesmerize","Ja Rule",2003,"2iclfHORMqpR3TxuhwVRhD",0.762,0.641,90.089,-6.784,0.209,0.0554,0,0.454,278720
+"72","Air Force Ones","Nelly",2003,"7kAFSrTIOiVZ0gnHBuAH3l",0.777,0.474,164.123,-10.211,0.316,0.087,0,0.089,304000
+"73","Beautiful - Feat. Pharrell, Uncle Charlie Wilson","Snoop Dogg",2003,"4675yUu8AUbE72T94BkLCD",0.893,0.74,101.025,-4.936,0.132,0.299,0,0.0881,299147
+"74","Gossip Folks (feat. Ludacris)","Missy Elliott",2003,"75DjPjiIp2fvJDjtt41Jfs",0.707,0.538,121.732,-5.264,0.505,0.362,0,0.317,234893
+"75","Stand Up","Ludacris",2003,"2CtCwQhY0ZLvr8L2l8Bo6e",0.745,0.841,97.909,-4.774,0.357,0.358,0,0.111,213760
+"76","Underneath It All","No Doubt",2003,"6wFemJ1Oh4gnTalNKgtvBg",0.727,0.73,138.177,-4.731,0.0812,0.247,0,0.39,302040
+"77","Can't Hold Us Down","Christina Aguilera",2003,"0cv1Mnb47oMvjVKMc2cyZw",0.859,0.658,98.989,-4.481,0.192,0.0326,0.00181,0.0651,255267
+"78","The Jump Off","Lil' Kim",2003,"08cqYeYWTjDUqNLVOiJMUF",0.837,0.736,104.907,-8.367,0.378,0.225,0,0.0549,234093
+"79","Hell Yeah","Ginuwine",2003,"1p149YJfXkHkSzYp4UZUxV",0.631,0.714,87.98,-7.259,0.355,0.0272,0,0.564,338733
+"80","Beer For My Horses","Toby Keith",2003,"7E2DqvnVtbIrFrL5X6YH9Q",0.721,0.85,118.991,-5.207,0.0511,0.353,0,0.0459,204000
+"81","Holidae In","Chingy",2003,"0FmCLEHfINGqwlyzvklNqy",0.81,0.791,153.067,-5.909,0.181,0.0893,0,0.0838,314352
+"82","Suga Suga","Baby Bash",2003,"14B2bUopOga5V3ypld7d6n",0.694,0.752,82.529,-3.071,0.26,0.635,6.44e-06,0.114,243493
+"83","I Want You","Thal<U+00ED>a",2003,"1HCPjfa02m5JwcO37LHfYb",0.803,0.773,91.915,-3.628,0.121,0.0107,0,0.0632,226027
+"84","All I Have","Jennifer Lopez",2003,"3kgutGd839IOYRl6ekeq6V",0.699,0.668,83.074,-5.305,0.106,0.265,0,0.141,254467
+"85","Baby Boy (feat. Beyonce)","Sean Paul",2003,"29LHe8kG3PraghUZOZYsw4",0.658,0.621,91.267,-5.725,0.231,0.0667,2.46e-06,0.142,246707
+"86","Crazy In Love","Beyonc<U+00E9>",2003,"5IVuqXILoxVWvWEPm82Jxr",0.646,0.77,99.165,-6.596,0.226,0.00249,0,0.0715,236133
+"87","Put That Woman First","Jaheim",2003,"0FPuNzimOamZvt7ysiP7Pt",0.651,0.527,78.927,-8.586,0.178,0.556,0,0.209,246107
+"88","Your Body Is a Wonderland","John Mayer",2003,"3wmQ8VhzARrFQj7GcnhtBM",0.647,0.729,94.01,-6.251,0.0236,0.0206,0.0489,0.134,249627

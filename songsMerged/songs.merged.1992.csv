@@ -1,97 +1,97 @@
-"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
-"1","End Of The Road","Boyz II Men",1992,"1c48FSKfpobDF3VzopU10V",0.642,0.421,74.849,-9.32,0.0237,0.074,0,0.0676
-"2","Baby Got Back","Sir Mix-A-Lot",1992,"4pnUuOx2Y5CKqnu2EnUB7A",0.932,0.76,128.492,-7.835,0.281,0.00595,3.79e-06,0.0325
-"3","Jump","Kris Kross",1992,"27AHAtAirQapVldIm4c9ZX",0.749,0.745,101.972,-10.625,0.164,0.000501,0.00403,0.333
-"4","Save The Best For Last","Vanessa Williams",1992,"4yRUjOBsj0cpjabtum0fML",0.525,0.258,95.958,-14.465,0.0285,0.674,0,0.203
-"5","Baby-Baby-Baby","TLC",1992,"1zTuB57LYZa7xu7KUH8kF0",0.679,0.597,184.174,-8.601,0.0439,0.0913,0.000673,0.0487
-"6","Tears In Heaven","Eric Clapton",1992,"2lJOKQmXQ5yiRyCTE5FyDE",0.705,0.324,79.051,-11.217,0.0246,0.842,0.00386,0.201
-"7","My Lovin' (You're Never Gonna Get It) - Live","En Vogue",1992,"1i5vkLObqwYuvcO4eb8hyI",0.593,0.885,100.182,-4.035,0.269,0.132,0,0.917
-"8","All 4 Love","Color Me Badd",1992,"2q6D2o8qRY5vcOC4jut0ku",0.807,0.75,106.389,-8.29,0.0315,0.0347,0.00017,0.149
-"9","Just Another Day","Jon Secada",1992,"5AoBNJQDXXEnIJGjJjZu3y",0.717,0.642,105.894,-10.727,0.0287,0.0194,0.000249,0.043
-"10","I Love Your Smile","Shanice",1992,"5BE3DOk0C26VCMxxT84bec",0.669,0.813,93.905,-9.707,0.137,0.0119,9.58e-06,0.135
-"11","To Be With You","Mr. Big",1992,"0Yi128S6QgQDnAKg5A0OZw",0.696,0.419,83.653,-7.289,0.0419,0.245,0,0.0785
-"12","I'm Too Sexy","Right Said Fred",1992,"2WElktskrNJEwgpp5Vouxk",0.683,0.739,122.113,-12.831,0.0494,4.91e-05,0.0122,0.293
-"13","Black or White - Remastered Version","Michael Jackson",1992,"2PdFSWL1Zpg0lRnujLnNJJ",0.52,0.86,114.999,-5.64,0.0817,0.117,0.072,0.072
-"14","Achy Breaky Heart","Billy Ray Cyrus",1992,"5PuY53BL7j4zjTFPRRA2zL",0.768,0.723,121.828,-6.384,0.0288,0.0729,0,0.112
-"15","I'll Be There","Mariah Carey",1992,"7zAgg3PU31pQAnzEY9dJPr",0.402,0.509,81.509,-9.392,0.0324,0.68,0,0.823
-"16","November Rain","Guns N' Roses",1992,"11C3oTzP4WJ2UlU3TzHtCK",0.329,0.679,80.029,-8.219,0.0314,0.0259,0.315,0.123
-"17","Life Is A Highway","Tom Cochrane",1992,"0hKF8N8aflF1uDzEEnPr2j",0.683,0.751,103.036,-10.184,0.0346,0.0681,8.36e-06,0.248
-"18","Remember the Time","Michael Jackson",1992,"6v5O3M2svc11Z9TMr6yVxI",0.836,0.896,107.901,-3.506,0.0599,0.144,0.00334,0.3
-"19","Finally","CeCe Peniston",1992,"0uqvSVhGgQTIdj9G51vhvv",0.807,0.653,120.08,-11.01,0.0474,0.00757,0,0.0505
-"20","This Used To Be My Playground","Madonna",1992,"637V2ymBt4Ljlbz4EmRys8",0.499,0.308,75.91,-11.692,0.0264,0.754,0.000928,0.125
-"21","Sometimes Love Just Ain't Enough","Patty Smyth",1992,"3CUV8wsoTTKznGpEovrnZw",0.557,0.448,82.98,-10.677,0.0248,0.35,0,0.213
-"22","Can't Let Go","Mariah Carey",1992,"6zRlkREcJby1wIoyj6DFQ5",0.477,0.533,162.368,-11.049,0.0408,0.591,0.00685,0.139
-"23","Jump Around","House Of Pain",1992,"2oTDOIAdsxPTE7yAp4YOcv",0.854,0.71,106.894,-6.32,0.0793,0.0113,8.72e-05,0.166
-"24","Diamonds and Pearls - Edit","Prince",1992,"5lpv6SbsynNEvUVpLW74t0",0.548,0.659,81.001,-7.904,0.0345,0.0486,0.16,0.0676
-"25","Don't Let the Sun Go Down on Me","George Michael",1992,"7l2xCa0dkGV3eiERFEXupj",0.444,0.458,137.241,-12.006,0.0301,0.481,6.49e-06,0.761
-"26","Masterpiece","Atlantic Starr",1992,"6LmiFEbuHqw8xWJfVBEJyV",0.642,0.448,137.831,-10.418,0.0259,0.492,1.74e-05,0.0646
-"27","If You Asked Me To","Céline Dion",1992,"1dfvK7X30CkKBOLQ2NfBCW",0.457,0.552,172.35,-6.644,0.0318,0.103,0,0.0317
-"28","Giving Him Something He Can Feel","En Vogue",1992,"70aBlCLalffIq1c1cng6zO",0.496,0.298,203.824,-10.175,0.0405,0.306,1.72e-06,0.0875
-"29","Live and Learn","Joe Public",1992,"4ScNzmyZZId9kGK9iXuqjn",0.745,0.891,106.641,-9.464,0.0746,0.0867,0,0.124
-"30","Come & Talk To Me","Jodeci",1992,"1w837FKxs4YJJ2zp7W1pB6",0.598,0.798,172.068,-7.196,0.121,0.257,0,0.23
-"31","Smells Like Teen Spirit","Nirvana",1992,"6FyfOXMpEkiIV6cuVx5PgH",0.5,0.878,116.697,-5.928,0.0484,1.64e-05,0.000249,0.112
-"32","Damn I Wish I Was Your Lover","Sophie B. Hawkins",1992,"0RmEn2jcbyrLV4em3bnDZJ",0.563,0.806,95.188,-6.826,0.0496,0.281,1.49e-05,0.363
-"33","Tell Me What You Want Me To Do","Tevin Campbell",1992,"5FFD1qfYfW3b4zM2vYlMOx",0.609,0.551,127.956,-7.93,0.0291,0.0233,0,0.234
-"34","Ain't 2 Proud 2 Beg","TLC",1992,"5kVSEpbyuLIVuPM1i2KivC",0.674,0.707,104.854,-10.799,0.0343,0.00265,0.00214,0.352
-"35","It's So Hard To Say Goodbye To Yesterday","Boyz II Men",1992,"264JdkdtNRAGL4M4PnDYHC",0.199,0.227,73.861,-10.927,0.0322,0.913,0,0.176
-"36","Move This (Shake That Body)","Technotronic",1992,"0PAGmTNpVASXq2tegMxSOs",0.782,0.96,120.682,-4.047,0.0347,0.0637,0,0.0788
-"37","Bohemian Rhapsody","Queen",1992,"4339TrijLVEhPLlbMrVsW4",0.425,0.341,72.523,-12.381,0.0531,0.166,0,0.306
-"38","Tennessee - 2001 - Remaster","Arrested Development",1992,"5K8qwhQQSAj9ebIvlNJY8q",0.815,0.851,99.915,-3.667,0.178,0.0284,0,0.343
-"39","The Best Things In Life Are Free - Classic Club Edit","Luther Vandross",1992,"3E9wmxhFXGLFJJEooJR3Dn",0.775,0.846,120.638,-5.48,0.0322,0.0125,0,0.327
-"40","Make It Happen","Mariah Carey",1992,"0yaj3EAVZbhqmi0ZKQxmkE",0.811,0.53,107.853,-8.537,0.0355,0.0067,0.0285,0.0801
-"41","The One","Elton John",1992,"5QXNPpRqJuDKTi297tfjh2",0.424,0.638,76.497,-7.852,0.0283,0.0291,0.00229,0.101
-"42","Set Adrift On Memory Bliss - Radio Edit","P.M. Dawn",1992,"4TK1YzdHTJp3RKxJpllBa9",0.717,0.85,99.769,-6.612,0.0663,0.00566,0.042,0.1
-"43","Stay [ Feat. Rachel Whitbread & Laura Harding ]","Rachel Whitbread",1992,"3gSQhilNTA4DpPzD632CJF",0.497,0.715,119.966,-10.108,0.038,0.161,0.109,0.12
-"44","2 Legit 2 Quit - feat. Saja","MC Hammer",1992,"4ZnKSrukEcPuMxGrcZEEh1",0.853,0.889,124.542,-6.771,0.0828,0.0395,6.88e-06,0.0313
-"45","Breakin' My Heart (Pretty Brown Eyes)","Mint Condition",1992,"5x6v2IFiiDwPVQ9Q8D7TS3",0.354,0.678,135.097,-10.991,0.102,0.00257,0.000223,0.98
-"46","Wishing On a Star","The Cover Girls",1992,"7EE5va6hu88TSdtbXrEl0J",0.353,0.544,88.898,-10.812,0.0331,0.581,9.95e-05,0.0835
-"47","She's Playing Hard To Get","Hi-Five",1992,"3xRbymJj98leHL7K8Y94WS",0.525,0.811,199.977,-6.148,0.0602,0.00847,0,0.266
-"48","I'd Die Without You","P.M. Dawn",1992,"7kFAwFdZcvvqOggZ2dY5jg",0.543,0.266,79.992,-18.813,0.0443,0.256,0.00093,0.0993
-"49","Good For Me","Amy Grant",1992,"2GwDKcTJlvoRDaJXkA7ULJ",0.594,0.883,89.997,-4.279,0.0451,0.329,8.33e-05,0.276
-"50","All I Want","Toad The Wet Sprocket",1992,"2GHYJ0dhVds3PODKnTdiGE",0.6,0.811,124.303,-7.693,0.0788,0.0558,6.82e-06,0.109
-"51","When A Man Loves A Woman","Michael Bolton",1992,"2iiN3nqlkEMIefqSmGgiXe",0.592,0.361,82.498,-10.91,0.0263,0.191,0,0.0502
-"52","I Can't Dance - 2007 Remastered Version","Genesis",1992,"0No5Hr1LxZjJHGsQSTy2bm",0.914,0.528,107.557,-9.114,0.0508,0.499,4.38e-06,0.0454
-"53","Hazard","Richard Marx",1992,"6aILdORvFPD0mO7y5q8O1t",0.674,0.546,124.845,-11.461,0.0262,0.176,0.0045,0.0672
-"54","Mysterious Ways","U2",1992,"4mWqDrhS85tk5MMV3eCQ9A",0.676,0.72,99.775,-7.141,0.0287,0.00175,0.00962,0.081
-"55","Freedom! '90","George Michael",1992,"0hAtIbMd1YPINM7dvr2Us5",0.671,0.873,91.753,-7.701,0.0439,0.0943,1.36e-05,0.0533
-"56","How Do You Talk To An Angel","Jamie Walters & The Heights",1992,"6ujN3aI6Rip9InBqJTUUK9",0.555,0.378,80.892,-11.79,0.0289,0.0457,6.02e-06,0.107
-"57","One","U2",1992,"5miTDKGqE3V9iI1NFpNEtB",0.534,0.559,90.648,-7.436,0.0289,0.199,0.00148,0.274
-"58","Keep On Walkin'","CeCe Peniston",1992,"0s2AuUkqr6BN5GjLoTbjaw",0.78,0.818,104.991,-8.197,0.0431,0.00287,0.0134,0.117
-"59","Hold On My Heart - 2007 Remastered Version","Genesis",1992,"1MyBPvZABdqqvCDYcS9TjF",0.465,0.365,171.904,-12.633,0.0295,0.618,0.0113,0.0747
-"60","The Way I Feel About You","Karyn White",1992,"5LLRxnEQAbnQNzLK0mAC2R",0.673,0.888,110.772,-7.056,0.0364,0.261,0.000134,0.234
-"61","Beauty And The Beast","Peabo Bryson",1992,"5W9bQBePJYAJg6i9g75qHN",0.452,0.208,77.398,-18.649,0.0341,0.628,0.000175,0.102
-"62","Warm It Up","Kris Kross",1992,"4Gv46S98aguDKuKTrbRBus",0.865,0.778,103.008,-10.05,0.249,0.0411,0,0.303
-"63","In the Closet - Single Version","Michael Jackson",1992,"00r8TWNSkGnMDLqpxd4wia",0.861,0.812,111.655,-6.092,0.0584,0.0702,0.000867,0.0589
-"64","People Everyday","Arrested Development",1992,"6JvodgYcsthsORxPsEYUoe",0.839,0.508,80.014,-12.359,0.219,0.0126,3.06e-05,0.0928
-"65","No Son Of Mine - 2007 Remastered Version","Genesis",1992,"0zFNXLSVDKoHB6NV584U4l",0.658,0.595,103.975,-8.704,0.0251,0.133,0.000358,0.0978
-"66","Wildside","Marky Mark And The Funky Bunch",1992,"2U25Ne3teRZLF1wsRnjcfW",0.765,0.358,105.415,-15.551,0.113,0.182,0.238,0.1
-"67","Do I Have To Say The Words?","Bryan Adams",1992,"2jstyP5wqWuPfH8GCRUrwr",0.507,0.581,128.095,-9.315,0.0294,0.0804,3.19e-06,0.167
-"68","Friday I'm In Love","The Cure",1992,"0ZEXLvA1oGRMZCbbfRNdky",0.541,0.943,135.956,-4.297,0.0377,0.00075,0.0021,0.368
-"69","Everything About You","Ugly Kid Joe",1992,"1O2ACd0zg4GYgQRhLBGYDV",0.494,0.817,122.671,-8.409,0.0516,0.00878,2.26e-06,0.0958
-"70","Blowing Kisses In The Wind","Paula Abdul",1992,"1uhsVQi7IADIxZXN1xJnk5",0.524,0.544,147.674,-9.059,0.0337,0.574,0,0.236
-"71","Thought I'd Died And Gone To Heaven","Bryan Adams",1992,"68Qv4S2uJ0nLvdtWPrlOVt",0.438,0.735,174.335,-8.114,0.0301,0.0632,0,0.0943
-"72","Rhythm Is A Dancer - 12'' Version","SNAP!",1992,"5dle7lDSqNS2AcFtbvgkud",0.768,0.874,124.251,-7.303,0.034,0.117,0.0628,0.0842
-"73","Addams Groove","MC Hammer",1992,"46jqxETXUwgLRsoMGuwFLa",0.912,0.582,119.996,-9.408,0.271,0.0333,0,0.0572
-"74","Missing You Now","Michael Bolton",1992,"4O8G0ANVI4ec7KKmcamrCM",0.619,0.582,95.023,-9.386,0.027,0.12,0,0.263
-"75","Back To The Hotel - Original","N2DEEP",1992,"3BiOCElA3ESRyMsefIgA0L",0.794,0.611,100.864,-5.754,0.0286,0.000233,9.96e-06,0.167
-"76","Everything Changes","Kathy Troccoli",1992,"6EpkaTVcNIXtP0yRJB4avh",0.747,0.755,117.789,-8.769,0.0338,0.115,7.17e-06,0.0354
-"77","Take This Heart","Richard Marx",1992,"1aHCn2d62m0Gghu0nLeaw3",0.612,0.694,115.53,-8.277,0.026,0.00142,0.0012,0.0749
-"78","When I Look Into Your Eyes","Firehouse",1992,"1yJWqYYDQge60nZKdLyiZU",0.39,0.619,146.821,-7.827,0.0278,0.00254,4.88e-05,0.161
-"79","I Wanna Love You","Jade",1992,"2BDRHFw5170t2kRHD3uEMU",0.731,0.707,200.306,-9.79,0.0769,0.0596,0.00654,0.264
-"80","Uhh Ahh - Original Version","Boyz II Men",1992,"5ldINBZXmoh6qoAzwXl5wX",0.75,0.459,125.996,-13.851,0.105,0.238,0,0.0983
-"81","Real Love","Mary J. Blige",1992,"6l3FFojHwLpo4W2Vmpy0Ox",0.76,0.674,95.039,-9.051,0.0842,0.0978,0.000619,0.067
-"82","Justified And Ancient","The Klf",1992,"7L7VSuZMQOUSOPNJkuAqde",0.636,0.525,103.967,-16.407,0.0299,0.146,0.00196,0.15
-"83","Slow Motion","Color Me Badd",1992,"03GzYByXsXHcoEAxjsWv9G",0.783,0.885,92.042,-7.747,0.0648,0.00531,0.752,0.0435
-"84","What About Your Friends","TLC",1992,"63PIgPkDf3rswlU4ZWCYAM",0.744,0.851,105.882,-10.108,0.049,0.0267,0.00738,0.0989
-"85","Thinkin' Back","Color Me Badd",1992,"5OI4XbIHmAGDNnmP01sD82",0.587,0.326,90.813,-11.204,0.0242,0.208,1.01e-05,0.133
-"86","Would I Lie To You?","Charles & Eddie",1992,"21MLFi0ISlqDBp7DQHPi7p",0.547,0.538,202.409,-11.39,0.0567,0.473,0,0.0369
-"87","That's What Love Is For","Amy Grant",1992,"367dmPOxuMP8FsrZHenNnq",0.544,0.699,141.844,-4.148,0.0341,0.258,0,0.144
-"88","Keep Coming Back","Richard Marx",1992,"0GMFC1osUTm2qKycgHdwWD",0.72,0.478,97.073,-11.074,0.0239,0.115,2.27e-05,0.104
-"89","Free Your Mind","En Vogue",1992,"1bHwmGAPsDShzHi4b23TBY",0.773,0.86,100.01,-6.367,0.0607,0.107,3.43e-05,0.375
-"90","Keep It Comin'","Keith Sweat",1992,"2W2ezEfjZdjsXYmaqcCd7M",0.667,0.899,101.477,-7.084,0.0809,0.0371,4.12e-06,0.541
-"91","Just Take My Heart","Mr. Big",1992,"36xlzCtJPntK4Sf5jJbL6r",0.511,0.303,168.725,-12.361,0.0419,0.53,0,0.0997
-"92","I Will Remember You","Amy Grant",1992,"76crWZqaiFzlTPGzNtT4w1",0.513,0.658,177.625,-6.432,0.0277,0.0329,9.3e-05,0.0805
-"93","We Got A Love Thang - Silky 7""","Four Tops",1992,"459Ld3Od21fp65HwcYNwuv",0.661,0.684,119.988,-10.563,0.0299,7.11e-05,0.00479,0.115
-"94","Let's Get Rocked - Live","Def Leppard",1992,"223kkcMeZ8v5VwzJDkaPR0",0.374,0.925,101.287,-6.444,0.09,0.000203,5.02e-05,0.981
-"95","They Want EFX","Das EFX",1992,"2rQDtzREtofoyhDNYk95jf",0.866,0.534,98.852,-10.407,0.321,0.0838,0,0.0848
-"96","I Can't Make You Love Me","Bonnie Raitt",1992,"69uJi5QsBtqlYkGURTBli8",0.588,0.149,124.689,-16.728,0.0319,0.846,9.65e-05,0.236
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness","duration_ms"
+"1","End Of The Road","Boyz II Men",1992,"1c48FSKfpobDF3VzopU10V",0.642,0.421,74.849,-9.32,0.0237,0.074,0,0.0676,348893
+"2","Baby Got Back","Sir Mix-A-Lot",1992,"4pnUuOx2Y5CKqnu2EnUB7A",0.932,0.76,128.492,-7.835,0.281,0.00595,3.79e-06,0.0325,261933
+"3","Jump","Kris Kross",1992,"27AHAtAirQapVldIm4c9ZX",0.749,0.745,101.972,-10.625,0.164,0.000501,0.00403,0.333,195107
+"4","Save The Best For Last","Vanessa Williams",1992,"4yRUjOBsj0cpjabtum0fML",0.525,0.258,95.958,-14.465,0.0285,0.674,0,0.203,219133
+"5","Baby-Baby-Baby","TLC",1992,"1zTuB57LYZa7xu7KUH8kF0",0.679,0.597,184.174,-8.601,0.0439,0.0913,0.000673,0.0487,315040
+"6","Tears In Heaven","Eric Clapton",1992,"2lJOKQmXQ5yiRyCTE5FyDE",0.705,0.324,79.051,-11.217,0.0246,0.842,0.00386,0.201,276867
+"7","My Lovin' (You're Never Gonna Get It) - Live","En Vogue",1992,"1i5vkLObqwYuvcO4eb8hyI",0.593,0.885,100.182,-4.035,0.269,0.132,0,0.917,141973
+"8","All 4 Love","Color Me Badd",1992,"2q6D2o8qRY5vcOC4jut0ku",0.807,0.75,106.389,-8.29,0.0315,0.0347,0.00017,0.149,211493
+"9","Just Another Day","Jon Secada",1992,"5AoBNJQDXXEnIJGjJjZu3y",0.717,0.642,105.894,-10.727,0.0287,0.0194,0.000249,0.043,327427
+"10","I Love Your Smile","Shanice",1992,"5BE3DOk0C26VCMxxT84bec",0.669,0.813,93.905,-9.707,0.137,0.0119,9.58e-06,0.135,259627
+"11","To Be With You","Mr. Big",1992,"0Yi128S6QgQDnAKg5A0OZw",0.696,0.419,83.653,-7.289,0.0419,0.245,0,0.0785,208067
+"12","I'm Too Sexy","Right Said Fred",1992,"2WElktskrNJEwgpp5Vouxk",0.683,0.739,122.113,-12.831,0.0494,4.91e-05,0.0122,0.293,170467
+"13","Black or White - Remastered Version","Michael Jackson",1992,"2PdFSWL1Zpg0lRnujLnNJJ",0.52,0.86,114.999,-5.64,0.0817,0.117,0.072,0.072,256280
+"14","Achy Breaky Heart","Billy Ray Cyrus",1992,"5PuY53BL7j4zjTFPRRA2zL",0.768,0.723,121.828,-6.384,0.0288,0.0729,0,0.112,204960
+"15","I'll Be There","Mariah Carey",1992,"7zAgg3PU31pQAnzEY9dJPr",0.402,0.509,81.509,-9.392,0.0324,0.68,0,0.823,263933
+"16","November Rain","Guns N' Roses",1992,"11C3oTzP4WJ2UlU3TzHtCK",0.329,0.679,80.029,-8.219,0.0314,0.0259,0.315,0.123,536960
+"17","Life Is A Highway","Tom Cochrane",1992,"0hKF8N8aflF1uDzEEnPr2j",0.683,0.751,103.036,-10.184,0.0346,0.0681,8.36e-06,0.248,266560
+"18","Remember the Time","Michael Jackson",1992,"6v5O3M2svc11Z9TMr6yVxI",0.836,0.896,107.901,-3.506,0.0599,0.144,0.00334,0.3,239893
+"19","Finally","CeCe Peniston",1992,"0uqvSVhGgQTIdj9G51vhvv",0.807,0.653,120.08,-11.01,0.0474,0.00757,0,0.0505,245000
+"20","This Used To Be My Playground","Madonna",1992,"637V2ymBt4Ljlbz4EmRys8",0.499,0.308,75.91,-11.692,0.0264,0.754,0.000928,0.125,310267
+"21","Sometimes Love Just Ain't Enough","Patty Smyth",1992,"3CUV8wsoTTKznGpEovrnZw",0.557,0.448,82.98,-10.677,0.0248,0.35,0,0.213,267600
+"22","Can't Let Go","Mariah Carey",1992,"6zRlkREcJby1wIoyj6DFQ5",0.477,0.533,162.368,-11.049,0.0408,0.591,0.00685,0.139,266560
+"23","Jump Around","House Of Pain",1992,"2oTDOIAdsxPTE7yAp4YOcv",0.854,0.71,106.894,-6.32,0.0793,0.0113,8.72e-05,0.166,214947
+"24","Diamonds and Pearls - Edit","Prince",1992,"5lpv6SbsynNEvUVpLW74t0",0.548,0.659,81.001,-7.904,0.0345,0.0486,0.16,0.0676,260093
+"25","Don't Let the Sun Go Down on Me","George Michael",1992,"7l2xCa0dkGV3eiERFEXupj",0.444,0.458,137.241,-12.006,0.0301,0.481,6.49e-06,0.761,348293
+"26","Masterpiece","Atlantic Starr",1992,"6LmiFEbuHqw8xWJfVBEJyV",0.642,0.448,137.831,-10.418,0.0259,0.492,1.74e-05,0.0646,295347
+"27","If You Asked Me To","Céline Dion",1992,"1dfvK7X30CkKBOLQ2NfBCW",0.457,0.552,172.35,-6.644,0.0318,0.103,0,0.0317,234947
+"28","Giving Him Something He Can Feel","En Vogue",1992,"70aBlCLalffIq1c1cng6zO",0.496,0.298,203.824,-10.175,0.0405,0.306,1.72e-06,0.0875,235707
+"29","Live and Learn","Joe Public",1992,"4ScNzmyZZId9kGK9iXuqjn",0.745,0.891,106.641,-9.464,0.0746,0.0867,0,0.124,262333
+"30","Come & Talk To Me","Jodeci",1992,"1w837FKxs4YJJ2zp7W1pB6",0.598,0.798,172.068,-7.196,0.121,0.257,0,0.23,270573
+"31","Smells Like Teen Spirit","Nirvana",1992,"6FyfOXMpEkiIV6cuVx5PgH",0.5,0.878,116.697,-5.928,0.0484,1.64e-05,0.000249,0.112,301453
+"32","Damn I Wish I Was Your Lover","Sophie B. Hawkins",1992,"0RmEn2jcbyrLV4em3bnDZJ",0.563,0.806,95.188,-6.826,0.0496,0.281,1.49e-05,0.363,323400
+"33","Tell Me What You Want Me To Do","Tevin Campbell",1992,"5FFD1qfYfW3b4zM2vYlMOx",0.609,0.551,127.956,-7.93,0.0291,0.0233,0,0.234,256040
+"34","Ain't 2 Proud 2 Beg","TLC",1992,"5kVSEpbyuLIVuPM1i2KivC",0.674,0.707,104.854,-10.799,0.0343,0.00265,0.00214,0.352,336560
+"35","It's So Hard To Say Goodbye To Yesterday","Boyz II Men",1992,"264JdkdtNRAGL4M4PnDYHC",0.199,0.227,73.861,-10.927,0.0322,0.913,0,0.176,168627
+"36","Move This (Shake That Body)","Technotronic",1992,"0PAGmTNpVASXq2tegMxSOs",0.782,0.96,120.682,-4.047,0.0347,0.0637,0,0.0788,296986
+"37","Bohemian Rhapsody","Queen",1992,"4339TrijLVEhPLlbMrVsW4",0.425,0.341,72.523,-12.381,0.0531,0.166,0,0.306,355040
+"38","Tennessee - 2001 - Remaster","Arrested Development",1992,"5K8qwhQQSAj9ebIvlNJY8q",0.815,0.851,99.915,-3.667,0.178,0.0284,0,0.343,272707
+"39","The Best Things In Life Are Free - Classic Club Edit","Luther Vandross",1992,"3E9wmxhFXGLFJJEooJR3Dn",0.775,0.846,120.638,-5.48,0.0322,0.0125,0,0.327,241760
+"40","Make It Happen","Mariah Carey",1992,"0yaj3EAVZbhqmi0ZKQxmkE",0.811,0.53,107.853,-8.537,0.0355,0.0067,0.0285,0.0801,307000
+"41","The One","Elton John",1992,"5QXNPpRqJuDKTi297tfjh2",0.424,0.638,76.497,-7.852,0.0283,0.0291,0.00229,0.101,353440
+"42","Set Adrift On Memory Bliss - Radio Edit","P.M. Dawn",1992,"4TK1YzdHTJp3RKxJpllBa9",0.717,0.85,99.769,-6.612,0.0663,0.00566,0.042,0.1,239000
+"43","Stay [ Feat. Rachel Whitbread & Laura Harding ]","Rachel Whitbread",1992,"3gSQhilNTA4DpPzD632CJF",0.497,0.715,119.966,-10.108,0.038,0.161,0.109,0.12,225640
+"44","2 Legit 2 Quit - feat. Saja","MC Hammer",1992,"4ZnKSrukEcPuMxGrcZEEh1",0.853,0.889,124.542,-6.771,0.0828,0.0395,6.88e-06,0.0313,333627
+"45","Breakin' My Heart (Pretty Brown Eyes)","Mint Condition",1992,"5x6v2IFiiDwPVQ9Q8D7TS3",0.354,0.678,135.097,-10.991,0.102,0.00257,0.000223,0.98,371773
+"46","Wishing On a Star","The Cover Girls",1992,"7EE5va6hu88TSdtbXrEl0J",0.353,0.544,88.898,-10.812,0.0331,0.581,9.95e-05,0.0835,281200
+"47","She's Playing Hard To Get","Hi-Five",1992,"3xRbymJj98leHL7K8Y94WS",0.525,0.811,199.977,-6.148,0.0602,0.00847,0,0.266,276573
+"48","I'd Die Without You","P.M. Dawn",1992,"7kFAwFdZcvvqOggZ2dY5jg",0.543,0.266,79.992,-18.813,0.0443,0.256,0.00093,0.0993,250693
+"49","Good For Me","Amy Grant",1992,"2GwDKcTJlvoRDaJXkA7ULJ",0.594,0.883,89.997,-4.279,0.0451,0.329,8.33e-05,0.276,239493
+"50","All I Want","Toad The Wet Sprocket",1992,"2GHYJ0dhVds3PODKnTdiGE",0.6,0.811,124.303,-7.693,0.0788,0.0558,6.82e-06,0.109,196116
+"51","When A Man Loves A Woman","Michael Bolton",1992,"2iiN3nqlkEMIefqSmGgiXe",0.592,0.361,82.498,-10.91,0.0263,0.191,0,0.0502,231000
+"52","I Can't Dance - 2007 Remastered Version","Genesis",1992,"0No5Hr1LxZjJHGsQSTy2bm",0.914,0.528,107.557,-9.114,0.0508,0.499,4.38e-06,0.0454,241360
+"53","Hazard","Richard Marx",1992,"6aILdORvFPD0mO7y5q8O1t",0.674,0.546,124.845,-11.461,0.0262,0.176,0.0045,0.0672,316733
+"54","Mysterious Ways","U2",1992,"4mWqDrhS85tk5MMV3eCQ9A",0.676,0.72,99.775,-7.141,0.0287,0.00175,0.00962,0.081,243227
+"55","Freedom! '90","George Michael",1992,"0hAtIbMd1YPINM7dvr2Us5",0.671,0.873,91.753,-7.701,0.0439,0.0943,1.36e-05,0.0533,389160
+"56","How Do You Talk To An Angel","Jamie Walters & The Heights",1992,"6ujN3aI6Rip9InBqJTUUK9",0.555,0.378,80.892,-11.79,0.0289,0.0457,6.02e-06,0.107,268519
+"57","One","U2",1992,"5miTDKGqE3V9iI1NFpNEtB",0.534,0.559,90.648,-7.436,0.0289,0.199,0.00148,0.274,277893
+"58","Keep On Walkin'","CeCe Peniston",1992,"0s2AuUkqr6BN5GjLoTbjaw",0.78,0.818,104.991,-8.197,0.0431,0.00287,0.0134,0.117,270200
+"59","Hold On My Heart - 2007 Remastered Version","Genesis",1992,"1MyBPvZABdqqvCDYcS9TjF",0.465,0.365,171.904,-12.633,0.0295,0.618,0.0113,0.0747,276373
+"60","The Way I Feel About You","Karyn White",1992,"5LLRxnEQAbnQNzLK0mAC2R",0.673,0.888,110.772,-7.056,0.0364,0.261,0.000134,0.234,275467
+"61","Beauty And The Beast","Peabo Bryson",1992,"5W9bQBePJYAJg6i9g75qHN",0.452,0.208,77.398,-18.649,0.0341,0.628,0.000175,0.102,244933
+"62","Warm It Up","Kris Kross",1992,"4Gv46S98aguDKuKTrbRBus",0.865,0.778,103.008,-10.05,0.249,0.0411,0,0.303,248333
+"63","In the Closet - Single Version","Michael Jackson",1992,"00r8TWNSkGnMDLqpxd4wia",0.861,0.812,111.655,-6.092,0.0584,0.0702,0.000867,0.0589,288813
+"64","People Everyday","Arrested Development",1992,"6JvodgYcsthsORxPsEYUoe",0.839,0.508,80.014,-12.359,0.219,0.0126,3.06e-05,0.0928,206893
+"65","No Son Of Mine - 2007 Remastered Version","Genesis",1992,"0zFNXLSVDKoHB6NV584U4l",0.658,0.595,103.975,-8.704,0.0251,0.133,0.000358,0.0978,399107
+"66","Wildside","Marky Mark And The Funky Bunch",1992,"2U25Ne3teRZLF1wsRnjcfW",0.765,0.358,105.415,-15.551,0.113,0.182,0.238,0.1,307267
+"67","Do I Have To Say The Words?","Bryan Adams",1992,"2jstyP5wqWuPfH8GCRUrwr",0.507,0.581,128.095,-9.315,0.0294,0.0804,3.19e-06,0.167,371173
+"68","Friday I'm In Love","The Cure",1992,"0ZEXLvA1oGRMZCbbfRNdky",0.541,0.943,135.956,-4.297,0.0377,0.00075,0.0021,0.368,215293
+"69","Everything About You","Ugly Kid Joe",1992,"1O2ACd0zg4GYgQRhLBGYDV",0.494,0.817,122.671,-8.409,0.0516,0.00878,2.26e-06,0.0958,255160
+"70","Blowing Kisses In The Wind","Paula Abdul",1992,"1uhsVQi7IADIxZXN1xJnk5",0.524,0.544,147.674,-9.059,0.0337,0.574,0,0.236,281840
+"71","Thought I'd Died And Gone To Heaven","Bryan Adams",1992,"68Qv4S2uJ0nLvdtWPrlOVt",0.438,0.735,174.335,-8.114,0.0301,0.0632,0,0.0943,348400
+"72","Rhythm Is A Dancer - 12'' Version","SNAP!",1992,"5dle7lDSqNS2AcFtbvgkud",0.768,0.874,124.251,-7.303,0.034,0.117,0.0628,0.0842,316133
+"73","Addams Groove","MC Hammer",1992,"46jqxETXUwgLRsoMGuwFLa",0.912,0.582,119.996,-9.408,0.271,0.0333,0,0.0572,239040
+"74","Missing You Now","Michael Bolton",1992,"4O8G0ANVI4ec7KKmcamrCM",0.619,0.582,95.023,-9.386,0.027,0.12,0,0.263,272960
+"75","Back To The Hotel - Original","N2DEEP",1992,"3BiOCElA3ESRyMsefIgA0L",0.794,0.611,100.864,-5.754,0.0286,0.000233,9.96e-06,0.167,305533
+"76","Everything Changes","Kathy Troccoli",1992,"6EpkaTVcNIXtP0yRJB4avh",0.747,0.755,117.789,-8.769,0.0338,0.115,7.17e-06,0.0354,262360
+"77","Take This Heart","Richard Marx",1992,"1aHCn2d62m0Gghu0nLeaw3",0.612,0.694,115.53,-8.277,0.026,0.00142,0.0012,0.0749,250667
+"78","When I Look Into Your Eyes","Firehouse",1992,"1yJWqYYDQge60nZKdLyiZU",0.39,0.619,146.821,-7.827,0.0278,0.00254,4.88e-05,0.161,240040
+"79","I Wanna Love You","Jade",1992,"2BDRHFw5170t2kRHD3uEMU",0.731,0.707,200.306,-9.79,0.0769,0.0596,0.00654,0.264,271400
+"80","Uhh Ahh - Original Version","Boyz II Men",1992,"5ldINBZXmoh6qoAzwXl5wX",0.75,0.459,125.996,-13.851,0.105,0.238,0,0.0983,227933
+"81","Real Love","Mary J. Blige",1992,"6l3FFojHwLpo4W2Vmpy0Ox",0.76,0.674,95.039,-9.051,0.0842,0.0978,0.000619,0.067,272493
+"82","Justified And Ancient","The Klf",1992,"7L7VSuZMQOUSOPNJkuAqde",0.636,0.525,103.967,-16.407,0.0299,0.146,0.00196,0.15,302600
+"83","Slow Motion","Color Me Badd",1992,"03GzYByXsXHcoEAxjsWv9G",0.783,0.885,92.042,-7.747,0.0648,0.00531,0.752,0.0435,265667
+"84","What About Your Friends","TLC",1992,"63PIgPkDf3rswlU4ZWCYAM",0.744,0.851,105.882,-10.108,0.049,0.0267,0.00738,0.0989,293600
+"85","Thinkin' Back","Color Me Badd",1992,"5OI4XbIHmAGDNnmP01sD82",0.587,0.326,90.813,-11.204,0.0242,0.208,1.01e-05,0.133,322533
+"86","Would I Lie To You?","Charles & Eddie",1992,"21MLFi0ISlqDBp7DQHPi7p",0.547,0.538,202.409,-11.39,0.0567,0.473,0,0.0369,279600
+"87","That's What Love Is For","Amy Grant",1992,"367dmPOxuMP8FsrZHenNnq",0.544,0.699,141.844,-4.148,0.0341,0.258,0,0.144,257293
+"88","Keep Coming Back","Richard Marx",1992,"0GMFC1osUTm2qKycgHdwWD",0.72,0.478,97.073,-11.074,0.0239,0.115,2.27e-05,0.104,409360
+"89","Free Your Mind","En Vogue",1992,"1bHwmGAPsDShzHi4b23TBY",0.773,0.86,100.01,-6.367,0.0607,0.107,3.43e-05,0.375,293040
+"90","Keep It Comin'","Keith Sweat",1992,"2W2ezEfjZdjsXYmaqcCd7M",0.667,0.899,101.477,-7.084,0.0809,0.0371,4.12e-06,0.541,246373
+"91","Just Take My Heart","Mr. Big",1992,"36xlzCtJPntK4Sf5jJbL6r",0.511,0.303,168.725,-12.361,0.0419,0.53,0,0.0997,265200
+"92","I Will Remember You","Amy Grant",1992,"76crWZqaiFzlTPGzNtT4w1",0.513,0.658,177.625,-6.432,0.0277,0.0329,9.3e-05,0.0805,300560
+"93","We Got A Love Thang - Silky 7""","Four Tops",1992,"459Ld3Od21fp65HwcYNwuv",0.661,0.684,119.988,-10.563,0.0299,7.11e-05,0.00479,0.115,268533
+"94","Let's Get Rocked - Live","Def Leppard",1992,"223kkcMeZ8v5VwzJDkaPR0",0.374,0.925,101.287,-6.444,0.09,0.000203,5.02e-05,0.981,371440
+"95","They Want EFX","Das EFX",1992,"2rQDtzREtofoyhDNYk95jf",0.866,0.534,98.852,-10.407,0.321,0.0838,0,0.0848,221093
+"96","I Can't Make You Love Me","Bonnie Raitt",1992,"69uJi5QsBtqlYkGURTBli8",0.588,0.149,124.689,-16.728,0.0319,0.846,9.65e-05,0.236,332960

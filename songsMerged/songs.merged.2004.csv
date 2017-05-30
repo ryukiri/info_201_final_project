@@ -1,97 +1,97 @@
-"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness"
-"1","Burn - Confession Special Edition Version","Usher",2004,"6pttm4dCF7dEe20oY5vuvF",0.8,0.459,119.944,-7.143,0.115,0.319,0,0.117
-"2","If I Ain't Got You","Alicia Keys",2004,"3XVBdLihbNbxUwZosxcGuJ",0.609,0.445,118.393,-9.129,0.106,0.603,6.77e-06,0.104
-"3","This Love","Maroon 5",2004,"5zF2zGPkL6Ipsn9AfAK6RP",0.714,0.868,95.05,-4.596,0.0363,0.0551,0,0.0987
-"4","The Reason","Hoobastank",2004,"7afSN5zhUhkbpRFpYKYztK",0.472,0.671,82.952,-4.649,0.029,0.0129,0,0.159
-"5","Hey Ya! - Radio Mix / Club Mix","OutKast",2004,"3AszgPDZd9q0DpDFt4HFBy",0.715,0.97,79.504,-2.206,0.0648,0.0644,0.000156,0.205
-"6","Lean Back","Terror Squad",2004,"6H7w7e8zC8QYJyqe7fZHVa",0.799,0.916,126.687,-3.344,0.471,0.11,0,0.0746
-"7","Tipsy - Club Mix","J-Kwon",2004,"6fqqAsCYfDOtXAD8Ydo06K",0.925,0.741,93.035,-5.827,0.314,0.0659,0,0.044
-"8","Confessions Part II - Confessions Special Edition Version","Usher",2004,"2VNJdBmlWLZfz9SQo8ob6V",0.837,0.469,138.052,-7.666,0.137,0.0508,0,0.0664
-"9","Freek-A-Leek Remix - feat. Twista and Jermaine Dupri Edited Version","Petey Pablo",2004,"3UmhLD8OUCwyvK5AMnE23U",0.809,0.761,105.008,-2.955,0.151,0.0617,0,0.106
-"10","Here Without You","3 Doors Down",2004,"7qQfI2F80t2MZcLLVuH6M2",0.544,0.55,144.028,-6.756,0.0248,0.0541,0,0.243
-"11","Someday","Nickelback",2004,"4PkJ7c9y1CwpuVOiJODnCZ",0.455,0.858,163.118,-5.659,0.0391,0.000616,0.000247,0.226
-"12","Naughty Girl","Beyonc<U+00E9>",2004,"0YGQ3hZcRLC5YX7o0hdmHg",0.588,0.461,200.053,-8.686,0.161,0.237,1.54e-05,0.0913
-"13","My Immortal","Evanescence",2004,"72iNjNcripCtyG8AZEPVBo",0.251,0.333,97.195,-7.828,0.0336,0.748,1.22e-05,0.0847
-"14","Dirt Off Your Shoulder","JAY Z",2004,"5Kh4cypbGZnhxlopwh0Cd6",0.782,0.791,163.916,-3.81,0.33,0.0711,0,0.25
-"15","Dip It Low","Christina Milian",2004,"1897ys2ueZMgGUSmoP90CJ",0.781,0.64,84.561,-7.064,0.0944,0.016,8.48e-05,0.0666
-"16","Me, Myself and I","Beyonc<U+00E9>",2004,"6XsT5UGfpaFeHQf5LRIy4W",0.75,0.458,83.61,-9.092,0.0803,0.226,3.25e-05,0.137
-"17","Turn Me On","Kevin Lyttle",2004,"0RmXtDH1cBMGImRrmn5xL6",0.677,0.682,106.279,-6.879,0.0361,0.0405,0,0.0351
-"18","The First Cut Is The Deepest - Acoustic Version","Sheryl Crow",2004,"4PzPvpE63ttEbKyMDRWB6q",0.638,0.336,78.86,-7.52,0.0248,0.759,0,0.0728
-"19","You Don't Know My Name","Alicia Keys",2004,"6OxlaGRzSQ42foonOTlrKz",0.267,0.67,165.588,-7.944,0.191,0.597,0.0111,0.325
-"20","Overnight Celebrity - Edited","Twista",2004,"0dSXCfhfXfalMhfv7rJn9V",0.835,0.797,134.226,-5.285,0.152,0.171,7.23e-06,0.276
-"21","Numb","Linkin Park",2004,"0kO3njY9N1Rxgv27Ha1lLh",0.496,0.863,110.018,-4.153,0.0381,0.0046,0,0.639
-"22","She Will Be Loved","Maroon 5",2004,"2vICzUUia22chV8mQKk1Pt",0.697,0.592,102.046,-9.667,0.03,0.058,0,0.136
-"23","White Flag","Dido",2004,"2nQ91qeD9XijGu1mqhBdiu",0.514,0.539,170.105,-6.821,0.038,0.333,4.85e-06,0.0912
-"24","Heaven","Los Lonely Boys",2004,"2mQ1RBK7s87mdPCzh97RSH",0.664,0.862,91.91,-5.403,0.0679,0.378,4.19e-06,0.0824
-"25","It's My Life","No Doubt",2004,"19EQUqnUXEeiBrY10JhPEF",0.606,0.75,126.316,-4.535,0.0306,0.00264,0.000788,0.321
-"26","Pieces Of Me","Ashlee Simpson",2004,"5IIQ7vg9HvA4QSNtFDGJVT",0.505,0.799,173.999,-4.286,0.077,0.0572,0,0.11
-"27","Leave Get Out","JoJo",2004,"1bYubJyLO1fCa6umTXpUeJ",0.686,0.575,86.992,-6.89,0.22,0.169,9.11e-05,0.0899
-"28","Milkshake","Kelis",2004,"2cMTIlktg3M9mXYqCPqw1J",0.881,0.774,112.968,-6.068,0.0439,0.00986,0.0346,0.206
-"29","Splash Waterfalls","Ludacris",2004,"48alwd8sAqkRUmfCF7GFue",0.728,0.846,145.813,-6.102,0.407,0.102,0,0.233
-"30","Jesus Walks","Kanye West",2004,"79ek2oolIYyGUO4aVK5IY2",0.637,0.834,87.312,-4.686,0.323,0.614,0,0.317
-"31","Toxic","Britney Spears",2004,"26nr9XnFCYWxBTIP7HyWXg",0.774,0.839,142.985,-3.948,0.114,0.027,0.0166,0.252
-"32","With You","Jessica Simpson",2004,"7pNJ1T9TGbVbNHKaLhhPri",0.553,0.756,94.487,-4.583,0.108,0.0923,0,0.215
-"33","Meant to Live","Switchfoot",2004,"79cAPxneo5AvbNgR6ch3Cj",0.396,0.905,151.503,-3.948,0.0467,0.00415,0,0.42
-"34","Sorry 2004","Ruben Studdard",2004,"4vey3VC7ZROIESUu0kgiBc",0.711,0.475,129.934,-7.394,0.0633,0.0734,0,0.332
-"35","My Happy Ending","Avril Lavigne",2004,"5uA4ZpS2DTLwbHpKHlsSqd",0.414,0.936,170.229,-2.407,0.0758,0.00136,0,0.369
-"36","On Fire","Lloyd Banks",2004,"6XVwF0Q3wYJPMMQj81CQlD",0.777,0.807,95.005,-4.789,0.184,0.0898,0.00127,0.283
-"37","Roses","OutKast",2004,"7KViJE5WtqHzztR9APTDl0",0.761,0.694,108.977,-4.704,0.0564,0.00699,1.08e-05,0.117
-"38","Walked Outta Heaven","Jagged Edge",2004,"06ZDLodo1UDVavc3MXREZ3",0.67,0.616,120.129,-6.123,0.225,0.573,0,0.0535
-"39","Lose My Breath","Destiny's Child",2004,"2n4uOdMHzEvcZ0KP7iQnay",0.814,0.899,119.011,-5.958,0.0637,0.00727,0.219,0.0979
-"40","My Band","The Allstars Cover D12",2004,"3tV32imVw91bmmgGMEvSnr",0.936,0.59,120.005,-6.405,0.167,0.364,0,0.0609
-"41","Through The Wire","Kanye West",2004,"1pHmmvnRsCqI56r8NZecvq",0.571,0.739,83.089,-6.11,0.247,0.00865,5.21e-06,0.158
-"42","Why - Album Version (Edited)","Jadakiss",2004,"6KSNouHU95rpfqO4i0ca8s",0.594,0.946,168.393,-3.295,0.256,0.0226,0,0.131
-"43","Fuck It (I Don't Want You Back)","Eamon",2004,"7bchsHDaf9CRoe64ceIDYQ",0.827,0.612,68.505,-6.347,0.0613,0.1,4.33e-06,0.0461
-"44","Read Your Mind","Avant",2004,"5mkdXimSsS0Aj6Ok51qvnl",0.759,0.341,145.934,-7.613,0.148,0.307,1.67e-06,0.24
-"45","Game Over (Flip) - Clean Album Version","Lil' Flip",2004,"4tNuZJbMukwqC4IG7lDEk3",0.821,0.596,160.004,-9.129,0.372,0.0012,8.88e-05,0.102
-"46","One Thing","Finger Eleven",2004,"7mR9V41ciTWv9Xup84U3iJ",0.596,0.546,151.95,-9.407,0.0363,0.454,0,0.0801
-"47","Headsprung","LL Cool J",2004,"1Ya9CafQ0UKGk1Vhy66U5b",0.57,0.788,199.797,-6.01,0.0419,0.00975,3.33e-05,0.0702
-"48","U Should've Known Better","Monica",2004,"0EQuu6hyNACWI7LT7N5pRv",0.753,0.516,122.019,-5.164,0.0308,0.191,0,0.275
-"49","On The Way Down","Ryan Cabrera",2004,"1GwVi2ceNb8dMFA3DZGnnY",0.5,0.845,95.199,-5.015,0.0369,0.00184,0,0.106
-"50","Because of You","Kelly Clarkson",2004,"3PHYPaguCDKLK1a9cp3uXZ",0.586,0.586,139.915,-5.314,0.0316,0.251,0,0.124
-"51","Are You Gonna Be My Girl","Jet",2004,"305WCRhhS10XUcH6AEwZk6",0.613,0.953,105.046,-3.435,0.0855,0.00148,0.000582,0.152
-"52","100 Years: Music Video","Five For Fighting",2004,"64qxxqjUynL5vjkXP104I9",0.643,0.569,120.507,-7.459,0.0276,0.544,2.17e-05,0.178
-"53","Step In the Name of Love - Remix","R. Kelly",2004,"22HX8moAHWULPAu6t5CivV",0.78,0.53,95.001,-6.486,0.121,0.213,0,0.288
-"54","Breaking The Habit","Linkin Park",2004,"4HcDu9IGRCvSTJE4yW5Ugv",0.579,0.849,100.021,-5.218,0.0303,0.108,0,0.0909
-"55","Live Like You Were Dying","Tim McGraw",2004,"2nFyF0yoW6xyFgUWfpXnKl",0.386,0.606,159.575,-6.267,0.0311,0.376,0,0.119
-"56","Remember When","Alan Jackson",2004,"1nCSr7oGeUv7sUEoYuAJFF",0.558,0.314,125.59,-10.623,0.0295,0.709,0.000319,0.193
-"57","Everytime","Britney Spears",2004,"5r55eZvOijyYZRPCdQbu85",0.562,0.286,109.561,-12.84,0.0288,0.965,4.45e-05,0.115
-"58","Dude","Beenie Man",2004,"5XWjx5tHMsOI7BZh8wjeSu",0.71,0.653,94.007,-8.305,0.236,0.111,0,0.11
-"59","Let's Get It Started","The Black Eyed Peas",2004,"05qXhd5dgfDS5mDEf7dbfN",0.775,0.743,104.992,-5.037,0.106,0.115,0,0.123
-"60","American Soldier","Toby Keith",2004,"6EverpxjXS71qTCGVxbPDh",0.565,0.541,82.006,-8.426,0.0376,0.193,3.45e-06,0.0582
-"61","Change Clothes","JAY Z",2004,"62RQawqgBUqWcPHmGGxZyw",0.895,0.628,104.009,-3.79,0.0473,0.0412,0,0.059
-"62","Don't Tell Me","Avril Lavigne",2004,"2TG5eOKa1PpurB3Z6KOTmJ",0.525,0.797,144.128,-2.914,0.0375,0.0042,1.02e-06,0.358
-"63","You'll Think Of Me","Keith Urban",2004,"1tcUtrQt5LyGZ3Gcu8LUTH",0.59,0.553,82.94,-8.738,0.0335,0.294,2.41e-06,0.0938
-"64","Happy People","R. Kelly",2004,"41uWkGOCpz0CA5vJ1nIKI6",0.762,0.638,96.995,-5.178,0.0965,0.0963,0,0.0878
-"65","Hey Mama","The Black Eyed Peas",2004,"7K60xqY6EZrN7nHBZNNLK1",0.86,0.866,100.15,-6.345,0.232,0.104,1.42e-06,0.584
-"66","Redneck Woman","Gretchen Wilson",2004,"6vCu5rwYDkSo9tFZdwf3uP",0.499,0.825,185.069,-5.146,0.177,0.13,0,0.306
-"67","Just Lose It","Eminem",2004,"6v6WjsyLdY189IewecL2x7",0.951,0.623,121.006,-3.603,0.0503,0.0596,4.36e-05,0.251
-"68","Letters From Home","John Michael Montgomery",2004,"15cGdiAHmezm0P04jVAjMo",0.644,0.626,128.029,-7.243,0.0258,0.367,5.78e-06,0.155
-"69","I Go Back","Kenny Chesney",2004,"0Ox458KpvZQ1Kuj9mUNPLL",0.513,0.805,89.963,-6.918,0.0466,0.0421,0,0.208
-"70","Baby Boy (feat. Beyonce)","Sean Paul",2004,"29LHe8kG3PraghUZOZYsw4",0.658,0.621,91.267,-5.725,0.231,0.0667,2.46e-06,0.142
-"71","Yeah!","Usher",2004,"5rb9QrpfcKFHM1EUbSIurX",0.894,0.791,105.018,-4.699,0.112,0.0183,0,0.0388
-"72","The Way You Move","OutKast",2004,"6LiDErJMV0ZK3sHEAw92XC",0.872,0.516,125.982,-7.671,0.0504,0.119,0.000176,0.062
-"73","Goodies","Ciara",2004,"3dFwpxh2yH7C7p9BGEKLVB",0.826,0.647,102.017,-6.306,0.0491,0.0277,1.52e-06,0.298
-"74","Slow Motion","Juvenile",2004,"3v6EFjtberbRPg43EZmiug",0.78,0.62,144.347,-7.633,0.367,0.626,0,0.801
-"75","Sunshine","Lil' Flip",2004,"7FH0VxmvgfPJWfvillVzfE",0.867,0.432,94.017,-7.466,0.188,0.0119,0,0.069
-"76","Move Ya Body","Nina Sky",2004,"2ndnVdR8si7CW9T8vJRHyW",0.876,0.71,121.072,-6.446,0.0446,0.0234,0.000161,0.0573
-"77","My Boo","Usher",2004,"68vgtRHr7iZHpzGpon6Jlo",0.662,0.507,86.412,-8.238,0.118,0.257,0,0.0465
-"78","One Call Away","Chingy",2004,"3gx2PLHJfnXRvUwmLJyzbY",0.756,0.817,162.519,-5.906,0.19,0.094,0,0.221
-"79","My Place - Album Version / Explicit","Nelly",2004,"7E0JWvn76JdtJKfUfkBvfy",0.62,0.583,163.315,-5.742,0.0455,0.0958,5.7e-06,0.0668
-"80","Hotel","Cassidy",2004,"61S6qpVRNxRrnGvjWfce2i",0.688,0.651,91.271,-6.889,0.202,0.103,0,0.0979
-"81","Diary","Alicia Keys",2004,"5dxHF4lrDimKqnI3GaZUmC",0.664,0.465,127.932,-9.711,0.0317,0.559,0.00174,0.125
-"82","Locked Up","Akon",2004,"0YUrjFy4qFKOO5NhM9tYdV",0.823,0.567,89.979,-4.392,0.103,0.0355,0,0.103
-"83","Stand Up","Ludacris",2004,"2CtCwQhY0ZLvr8L2l8Bo6e",0.745,0.841,97.909,-4.774,0.357,0.358,0,0.111
-"84","Suga Suga","Baby Bash",2004,"14B2bUopOga5V3ypld7d6n",0.694,0.752,82.529,-3.071,0.26,0.635,6.44e-06,0.114
-"85","All Falls Down","Kanye West",2004,"2cYZpcIV39X48RnOFM7w2V",0.643,0.717,90.893,-4.876,0.506,0.184,0,0.152
-"86","Salt Shaker","Ying Yang Twins",2004,"4Kd0FzFpOgIGxlBl4HXuFn",0.884,0.697,101.965,-6.022,0.128,0.0509,0,0.094
-"87","I Like That - Feat. Chingy, Nate Dogg & I-20","Houston",2004,"6T5ptIqLd4kv7kG6N31Mcn",0.798,0.495,106.977,-3.99,0.105,0.0175,0,0.111
-"88","I'm Still In Love With You","Sean Paul",2004,"1krEIUPOFxNHWD5anxAKJP",0.759,0.687,86.981,-4.606,0.15,0.0644,0,0.0957
-"89","Get Low","Ying Yang Twins",2004,"0r2Bul2NuCViraT2zX1l5j",0.521,0.625,101.019,-7.47,0.067,0.0301,0,0.121
-"90","Drop It Like It's Hot","Snoop Dogg",2004,"1CDjORoMxLHFURZhH8n0TS",0.91,0.563,91.986,-5.098,0.212,0.206,0,0.103
-"91","Gigolo","Nick Cannon",2004,"1T1ZUKX4X87tVLaBGjwFv4",0.896,0.552,93.001,-6.11,0.102,0.273,0,0.0662
-"92","Southside","Lloyd",2004,"3X8JREdtkxxOFIyeIHekUm",0.672,0.415,74.978,-9.45,0.113,0.386,0,0.081
-"93","Wanna Get To Know You","G-Unit",2004,"6mU3a8GcwOt1FiT06TiTFF",0.746,0.817,83.964,-3.677,0.104,0.107,0,0.0797
-"94","Holidae In","Chingy",2004,"0FmCLEHfINGqwlyzvklNqy",0.81,0.791,153.067,-5.909,0.181,0.0893,0,0.0838
-"95","When the Sun Goes Down","Kenny Chesney",2004,"6KbpvmsV6L8JsON1C3JHAV",0.797,0.7,104.932,-7.876,0.0283,0.0546,2.91e-06,0.231
-"96","Over And Over - Album Version / Explicit","Nelly",2004,"2b8QQqf8Vwb7bfz22ja8Fk",0.69,0.509,84.885,-10.116,0.0779,0.00803,2.1e-06,0.245
+"","Song","Artist","Year","Spotify.ID","danceability","energy","tempo","loudness","speechiness","acousticness","instrumentalness","liveness","duration_ms"
+"1","Burn - Confession Special Edition Version","Usher",2004,"6pttm4dCF7dEe20oY5vuvF",0.8,0.459,119.944,-7.143,0.115,0.319,0,0.117,231933
+"2","If I Ain't Got You","Alicia Keys",2004,"3XVBdLihbNbxUwZosxcGuJ",0.609,0.445,118.393,-9.129,0.106,0.603,6.77e-06,0.104,228707
+"3","This Love","Maroon 5",2004,"5zF2zGPkL6Ipsn9AfAK6RP",0.714,0.868,95.05,-4.596,0.0363,0.0551,0,0.0987,206200
+"4","The Reason","Hoobastank",2004,"7afSN5zhUhkbpRFpYKYztK",0.472,0.671,82.952,-4.649,0.029,0.0129,0,0.159,232800
+"5","Hey Ya! - Radio Mix / Club Mix","OutKast",2004,"3AszgPDZd9q0DpDFt4HFBy",0.715,0.97,79.504,-2.206,0.0648,0.0644,0.000156,0.205,239240
+"6","Lean Back","Terror Squad",2004,"6H7w7e8zC8QYJyqe7fZHVa",0.799,0.916,126.687,-3.344,0.471,0.11,0,0.0746,247427
+"7","Tipsy - Club Mix","J-Kwon",2004,"6fqqAsCYfDOtXAD8Ydo06K",0.925,0.741,93.035,-5.827,0.314,0.0659,0,0.044,247107
+"8","Confessions Part II - Confessions Special Edition Version","Usher",2004,"2VNJdBmlWLZfz9SQo8ob6V",0.837,0.469,138.052,-7.666,0.137,0.0508,0,0.0664,211200
+"9","Freek-A-Leek Remix - feat. Twista and Jermaine Dupri Edited Version","Petey Pablo",2004,"3UmhLD8OUCwyvK5AMnE23U",0.809,0.761,105.008,-2.955,0.151,0.0617,0,0.106,243902
+"10","Here Without You","3 Doors Down",2004,"7qQfI2F80t2MZcLLVuH6M2",0.544,0.55,144.028,-6.756,0.0248,0.0541,0,0.243,236920
+"11","Someday","Nickelback",2004,"4PkJ7c9y1CwpuVOiJODnCZ",0.455,0.858,163.118,-5.659,0.0391,0.000616,0.000247,0.226,207467
+"12","Naughty Girl","Beyonc<U+00E9>",2004,"0YGQ3hZcRLC5YX7o0hdmHg",0.588,0.461,200.053,-8.686,0.161,0.237,1.54e-05,0.0913,208573
+"13","My Immortal","Evanescence",2004,"72iNjNcripCtyG8AZEPVBo",0.251,0.333,97.195,-7.828,0.0336,0.748,1.22e-05,0.0847,273360
+"14","Dirt Off Your Shoulder","JAY Z",2004,"5Kh4cypbGZnhxlopwh0Cd6",0.782,0.791,163.916,-3.81,0.33,0.0711,0,0.25,241441
+"15","Dip It Low","Christina Milian",2004,"1897ys2ueZMgGUSmoP90CJ",0.781,0.64,84.561,-7.064,0.0944,0.016,8.48e-05,0.0666,196400
+"16","Me, Myself and I","Beyonc<U+00E9>",2004,"6XsT5UGfpaFeHQf5LRIy4W",0.75,0.458,83.61,-9.092,0.0803,0.226,3.25e-05,0.137,301133
+"17","Turn Me On","Kevin Lyttle",2004,"0RmXtDH1cBMGImRrmn5xL6",0.677,0.682,106.279,-6.879,0.0361,0.0405,0,0.0351,192107
+"18","The First Cut Is The Deepest - Acoustic Version","Sheryl Crow",2004,"4PzPvpE63ttEbKyMDRWB6q",0.638,0.336,78.86,-7.52,0.0248,0.759,0,0.0728,230973
+"19","You Don't Know My Name","Alicia Keys",2004,"6OxlaGRzSQ42foonOTlrKz",0.267,0.67,165.588,-7.944,0.191,0.597,0.0111,0.325,366600
+"20","Overnight Celebrity - Edited","Twista",2004,"0dSXCfhfXfalMhfv7rJn9V",0.835,0.797,134.226,-5.285,0.152,0.171,7.23e-06,0.276,233500
+"21","Numb","Linkin Park",2004,"0kO3njY9N1Rxgv27Ha1lLh",0.496,0.863,110.018,-4.153,0.0381,0.0046,0,0.639,185587
+"22","She Will Be Loved","Maroon 5",2004,"2vICzUUia22chV8mQKk1Pt",0.697,0.592,102.046,-9.667,0.03,0.058,0,0.136,256440
+"23","White Flag","Dido",2004,"2nQ91qeD9XijGu1mqhBdiu",0.514,0.539,170.105,-6.821,0.038,0.333,4.85e-06,0.0912,240040
+"24","Heaven","Los Lonely Boys",2004,"2mQ1RBK7s87mdPCzh97RSH",0.664,0.862,91.91,-5.403,0.0679,0.378,4.19e-06,0.0824,227347
+"25","It's My Life","No Doubt",2004,"19EQUqnUXEeiBrY10JhPEF",0.606,0.75,126.316,-4.535,0.0306,0.00264,0.000788,0.321,225867
+"26","Pieces Of Me","Ashlee Simpson",2004,"5IIQ7vg9HvA4QSNtFDGJVT",0.505,0.799,173.999,-4.286,0.077,0.0572,0,0.11,217440
+"27","Leave Get Out","JoJo",2004,"1bYubJyLO1fCa6umTXpUeJ",0.686,0.575,86.992,-6.89,0.22,0.169,9.11e-05,0.0899,241867
+"28","Milkshake","Kelis",2004,"2cMTIlktg3M9mXYqCPqw1J",0.881,0.774,112.968,-6.068,0.0439,0.00986,0.0346,0.206,182627
+"29","Splash Waterfalls","Ludacris",2004,"48alwd8sAqkRUmfCF7GFue",0.728,0.846,145.813,-6.102,0.407,0.102,0,0.233,290760
+"30","Jesus Walks","Kanye West",2004,"79ek2oolIYyGUO4aVK5IY2",0.637,0.834,87.312,-4.686,0.323,0.614,0,0.317,193733
+"31","Toxic","Britney Spears",2004,"26nr9XnFCYWxBTIP7HyWXg",0.774,0.839,142.985,-3.948,0.114,0.027,0.0166,0.252,198813
+"32","With You","Jessica Simpson",2004,"7pNJ1T9TGbVbNHKaLhhPri",0.553,0.756,94.487,-4.583,0.108,0.0923,0,0.215,191827
+"33","Meant to Live","Switchfoot",2004,"79cAPxneo5AvbNgR6ch3Cj",0.396,0.905,151.503,-3.948,0.0467,0.00415,0,0.42,199813
+"34","Sorry 2004","Ruben Studdard",2004,"4vey3VC7ZROIESUu0kgiBc",0.711,0.475,129.934,-7.394,0.0633,0.0734,0,0.332,261907
+"35","My Happy Ending","Avril Lavigne",2004,"5uA4ZpS2DTLwbHpKHlsSqd",0.414,0.936,170.229,-2.407,0.0758,0.00136,0,0.369,242413
+"36","On Fire","Lloyd Banks",2004,"6XVwF0Q3wYJPMMQj81CQlD",0.777,0.807,95.005,-4.789,0.184,0.0898,0.00127,0.283,187440
+"37","Roses","OutKast",2004,"7KViJE5WtqHzztR9APTDl0",0.761,0.694,108.977,-4.704,0.0564,0.00699,1.08e-05,0.117,369320
+"38","Walked Outta Heaven","Jagged Edge",2004,"06ZDLodo1UDVavc3MXREZ3",0.67,0.616,120.129,-6.123,0.225,0.573,0,0.0535,270880
+"39","Lose My Breath","Destiny's Child",2004,"2n4uOdMHzEvcZ0KP7iQnay",0.814,0.899,119.011,-5.958,0.0637,0.00727,0.219,0.0979,242013
+"40","My Band","The Allstars Cover D12",2004,"3tV32imVw91bmmgGMEvSnr",0.936,0.59,120.005,-6.405,0.167,0.364,0,0.0609,288107
+"41","Through The Wire","Kanye West",2004,"1pHmmvnRsCqI56r8NZecvq",0.571,0.739,83.089,-6.11,0.247,0.00865,5.21e-06,0.158,221227
+"42","Why - Album Version (Edited)","Jadakiss",2004,"6KSNouHU95rpfqO4i0ca8s",0.594,0.946,168.393,-3.295,0.256,0.0226,0,0.131,242267
+"43","Fuck It (I Don't Want You Back)","Eamon",2004,"7bchsHDaf9CRoe64ceIDYQ",0.827,0.612,68.505,-6.347,0.0613,0.1,4.33e-06,0.0461,225627
+"44","Read Your Mind","Avant",2004,"5mkdXimSsS0Aj6Ok51qvnl",0.759,0.341,145.934,-7.613,0.148,0.307,1.67e-06,0.24,254787
+"45","Game Over (Flip) - Clean Album Version","Lil' Flip",2004,"4tNuZJbMukwqC4IG7lDEk3",0.821,0.596,160.004,-9.129,0.372,0.0012,8.88e-05,0.102,234104
+"46","One Thing","Finger Eleven",2004,"7mR9V41ciTWv9Xup84U3iJ",0.596,0.546,151.95,-9.407,0.0363,0.454,0,0.0801,279573
+"47","Headsprung","LL Cool J",2004,"1Ya9CafQ0UKGk1Vhy66U5b",0.57,0.788,199.797,-6.01,0.0419,0.00975,3.33e-05,0.0702,267133
+"48","U Should've Known Better","Monica",2004,"0EQuu6hyNACWI7LT7N5pRv",0.753,0.516,122.019,-5.164,0.0308,0.191,0,0.275,257787
+"49","On The Way Down","Ryan Cabrera",2004,"1GwVi2ceNb8dMFA3DZGnnY",0.5,0.845,95.199,-5.015,0.0369,0.00184,0,0.106,212045
+"50","Because of You","Kelly Clarkson",2004,"3PHYPaguCDKLK1a9cp3uXZ",0.586,0.586,139.915,-5.314,0.0316,0.251,0,0.124,218964
+"51","Are You Gonna Be My Girl","Jet",2004,"305WCRhhS10XUcH6AEwZk6",0.613,0.953,105.046,-3.435,0.0855,0.00148,0.000582,0.152,213800
+"52","100 Years: Music Video","Five For Fighting",2004,"64qxxqjUynL5vjkXP104I9",0.643,0.569,120.507,-7.459,0.0276,0.544,2.17e-05,0.178,244600
+"53","Step In the Name of Love - Remix","R. Kelly",2004,"22HX8moAHWULPAu6t5CivV",0.78,0.53,95.001,-6.486,0.121,0.213,0,0.288,431827
+"54","Breaking The Habit","Linkin Park",2004,"4HcDu9IGRCvSTJE4yW5Ugv",0.579,0.849,100.021,-5.218,0.0303,0.108,0,0.0909,196907
+"55","Live Like You Were Dying","Tim McGraw",2004,"2nFyF0yoW6xyFgUWfpXnKl",0.386,0.606,159.575,-6.267,0.0311,0.376,0,0.119,297480
+"56","Remember When","Alan Jackson",2004,"1nCSr7oGeUv7sUEoYuAJFF",0.558,0.314,125.59,-10.623,0.0295,0.709,0.000319,0.193,271280
+"57","Everytime","Britney Spears",2004,"5r55eZvOijyYZRPCdQbu85",0.562,0.286,109.561,-12.84,0.0288,0.965,4.45e-05,0.115,230320
+"58","Dude","Beenie Man",2004,"5XWjx5tHMsOI7BZh8wjeSu",0.71,0.653,94.007,-8.305,0.236,0.111,0,0.11,254867
+"59","Let's Get It Started","The Black Eyed Peas",2004,"05qXhd5dgfDS5mDEf7dbfN",0.775,0.743,104.992,-5.037,0.106,0.115,0,0.123,228707
+"60","American Soldier","Toby Keith",2004,"6EverpxjXS71qTCGVxbPDh",0.565,0.541,82.006,-8.426,0.0376,0.193,3.45e-06,0.0582,263333
+"61","Change Clothes","JAY Z",2004,"62RQawqgBUqWcPHmGGxZyw",0.895,0.628,104.009,-3.79,0.0473,0.0412,0,0.059,258427
+"62","Don't Tell Me","Avril Lavigne",2004,"2TG5eOKa1PpurB3Z6KOTmJ",0.525,0.797,144.128,-2.914,0.0375,0.0042,1.02e-06,0.358,202013
+"63","You'll Think Of Me","Keith Urban",2004,"1tcUtrQt5LyGZ3Gcu8LUTH",0.59,0.553,82.94,-8.738,0.0335,0.294,2.41e-06,0.0938,293653
+"64","Happy People","R. Kelly",2004,"41uWkGOCpz0CA5vJ1nIKI6",0.762,0.638,96.995,-5.178,0.0965,0.0963,0,0.0878,363760
+"65","Hey Mama","The Black Eyed Peas",2004,"7K60xqY6EZrN7nHBZNNLK1",0.86,0.866,100.15,-6.345,0.232,0.104,1.42e-06,0.584,214893
+"66","Redneck Woman","Gretchen Wilson",2004,"6vCu5rwYDkSo9tFZdwf3uP",0.499,0.825,185.069,-5.146,0.177,0.13,0,0.306,221333
+"67","Just Lose It","Eminem",2004,"6v6WjsyLdY189IewecL2x7",0.951,0.623,121.006,-3.603,0.0503,0.0596,4.36e-05,0.251,248600
+"68","Letters From Home","John Michael Montgomery",2004,"15cGdiAHmezm0P04jVAjMo",0.644,0.626,128.029,-7.243,0.0258,0.367,5.78e-06,0.155,267533
+"69","I Go Back","Kenny Chesney",2004,"0Ox458KpvZQ1Kuj9mUNPLL",0.513,0.805,89.963,-6.918,0.0466,0.0421,0,0.208,240347
+"70","Baby Boy (feat. Beyonce)","Sean Paul",2004,"29LHe8kG3PraghUZOZYsw4",0.658,0.621,91.267,-5.725,0.231,0.0667,2.46e-06,0.142,246707
+"71","Yeah!","Usher",2004,"5rb9QrpfcKFHM1EUbSIurX",0.894,0.791,105.018,-4.699,0.112,0.0183,0,0.0388,250373
+"72","The Way You Move","OutKast",2004,"6LiDErJMV0ZK3sHEAw92XC",0.872,0.516,125.982,-7.671,0.0504,0.119,0.000176,0.062,234213
+"73","Goodies","Ciara",2004,"3dFwpxh2yH7C7p9BGEKLVB",0.826,0.647,102.017,-6.306,0.0491,0.0277,1.52e-06,0.298,223000
+"74","Slow Motion","Juvenile",2004,"3v6EFjtberbRPg43EZmiug",0.78,0.62,144.347,-7.633,0.367,0.626,0,0.801,306267
+"75","Sunshine","Lil' Flip",2004,"7FH0VxmvgfPJWfvillVzfE",0.867,0.432,94.017,-7.466,0.188,0.0119,0,0.069,225319
+"76","Move Ya Body","Nina Sky",2004,"2ndnVdR8si7CW9T8vJRHyW",0.876,0.71,121.072,-6.446,0.0446,0.0234,0.000161,0.0573,232000
+"77","My Boo","Usher",2004,"68vgtRHr7iZHpzGpon6Jlo",0.662,0.507,86.412,-8.238,0.118,0.257,0,0.0465,223440
+"78","One Call Away","Chingy",2004,"3gx2PLHJfnXRvUwmLJyzbY",0.756,0.817,162.519,-5.906,0.19,0.094,0,0.221,276800
+"79","My Place - Album Version / Explicit","Nelly",2004,"7E0JWvn76JdtJKfUfkBvfy",0.62,0.583,163.315,-5.742,0.0455,0.0958,5.7e-06,0.0668,337840
+"80","Hotel","Cassidy",2004,"61S6qpVRNxRrnGvjWfce2i",0.688,0.651,91.271,-6.889,0.202,0.103,0,0.0979,247613
+"81","Diary","Alicia Keys",2004,"5dxHF4lrDimKqnI3GaZUmC",0.664,0.465,127.932,-9.711,0.0317,0.559,0.00174,0.125,284160
+"82","Locked Up","Akon",2004,"0YUrjFy4qFKOO5NhM9tYdV",0.823,0.567,89.979,-4.392,0.103,0.0355,0,0.103,235067
+"83","Stand Up","Ludacris",2004,"2CtCwQhY0ZLvr8L2l8Bo6e",0.745,0.841,97.909,-4.774,0.357,0.358,0,0.111,213760
+"84","Suga Suga","Baby Bash",2004,"14B2bUopOga5V3ypld7d6n",0.694,0.752,82.529,-3.071,0.26,0.635,6.44e-06,0.114,243493
+"85","All Falls Down","Kanye West",2004,"2cYZpcIV39X48RnOFM7w2V",0.643,0.717,90.893,-4.876,0.506,0.184,0,0.152,223507
+"86","Salt Shaker","Ying Yang Twins",2004,"4Kd0FzFpOgIGxlBl4HXuFn",0.884,0.697,101.965,-6.022,0.128,0.0509,0,0.094,252440
+"87","I Like That - Feat. Chingy, Nate Dogg & I-20","Houston",2004,"6T5ptIqLd4kv7kG6N31Mcn",0.798,0.495,106.977,-3.99,0.105,0.0175,0,0.111,236520
+"88","I'm Still In Love With You","Sean Paul",2004,"1krEIUPOFxNHWD5anxAKJP",0.759,0.687,86.981,-4.606,0.15,0.0644,0,0.0957,277400
+"89","Get Low","Ying Yang Twins",2004,"0r2Bul2NuCViraT2zX1l5j",0.521,0.625,101.019,-7.47,0.067,0.0301,0,0.121,334067
+"90","Drop It Like It's Hot","Snoop Dogg",2004,"1CDjORoMxLHFURZhH8n0TS",0.91,0.563,91.986,-5.098,0.212,0.206,0,0.103,270053
+"91","Gigolo","Nick Cannon",2004,"1T1ZUKX4X87tVLaBGjwFv4",0.896,0.552,93.001,-6.11,0.102,0.273,0,0.0662,237840
+"92","Southside","Lloyd",2004,"3X8JREdtkxxOFIyeIHekUm",0.672,0.415,74.978,-9.45,0.113,0.386,0,0.081,277840
+"93","Wanna Get To Know You","G-Unit",2004,"6mU3a8GcwOt1FiT06TiTFF",0.746,0.817,83.964,-3.677,0.104,0.107,0,0.0797,265027
+"94","Holidae In","Chingy",2004,"0FmCLEHfINGqwlyzvklNqy",0.81,0.791,153.067,-5.909,0.181,0.0893,0,0.0838,314352
+"95","When the Sun Goes Down","Kenny Chesney",2004,"6KbpvmsV6L8JsON1C3JHAV",0.797,0.7,104.932,-7.876,0.0283,0.0546,2.91e-06,0.231,289973
+"96","Over And Over - Album Version / Explicit","Nelly",2004,"2b8QQqf8Vwb7bfz22ja8Fk",0.69,0.509,84.885,-10.116,0.0779,0.00803,2.1e-06,0.245,253933
