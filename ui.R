@@ -76,7 +76,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                       textInput("text", label = h3("Search"), value = "Love Yourself"),
                       
                       # Action button
-                       actionButton("action", label = "Search"),
+                      actionButton("action", label = "Search"),
                       
                       #submitButton("Get Recommendations"),
                       dataTableOutput('table'),
