@@ -23,7 +23,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                                        label = "Plot Type",
                                        choices = c("Barplot", "Boxplot", "Quantile", "Violin"),
                                        selected = "Barplot"),
-                          width = 4
+                          width = 3
                         ),
                         
                         
