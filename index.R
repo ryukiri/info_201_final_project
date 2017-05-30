@@ -53,187 +53,187 @@ source("functions/GetSongData.R")
 merge.2016 <- features.2016 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2016, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2015 <- features.2015 %>% 
   mutate(Spotify.ID= id) %>% 
   left_join(songs.2015, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2014 <- features.2014 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2014, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2013 <- features.2013 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2013, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2012 <- features.2012 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2012, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2011 <- features.2011 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2011, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2010 <- features.2010 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2010, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2009 <- features.2009 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2009, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2008 <- features.2008 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2008, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2007 <- features.2007 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2007, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2006 <- features.2006 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2006, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2005 <- features.2005 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2005, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2004 <- features.2004 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2004, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2003 <- features.2003 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2003, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2002 <- features.2002 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2002, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2001 <- features.2001 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2001, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.2000 <- features.2000 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2000, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1999 <- features.1999 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1999, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1998 <- features.1998 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1998, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1997 <- features.1997 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1997, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1996 <- features.1996 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1996, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1995 <- features.1995 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1995, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1994 <- features.1994 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1994, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1993 <- features.1993 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1993, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1992 <- features.1992 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1992, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1991 <- features.1991 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1991, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1990 <- features.1990 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.2000, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1989 <- features.1989 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1989, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1988 <- features.1988 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1988, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1987 <- features.1987 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1987, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1986 <- features.1986 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1986, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1985 <- features.1985 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1985, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1984 <- features.1984 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1984, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1983 <- features.1983 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1983, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1982 <- features.1982 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1982, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1981 <- features.1981 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1981, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1980 <- features.1980 %>% 
   mutate(Spotify.ID = id) %>% 
   left_join(songs.1980, by = 'Spotify.ID') %>%
-  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness)
+  select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 write.csv(merge.2016, file="songsMerged/songs.merged.2016.csv")
 write.csv(merge.2015, file="songsMerged/songs.merged.2015.csv")
