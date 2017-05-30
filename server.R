@@ -458,6 +458,45 @@ shinyServer(function(input, output) {
   features.1982.instrumentalness <- mean(X.features.1982$instrumentalness)
   features.1981.instrumentalness <- mean(X.features.1981$instrumentalness)
   features.1980.instrumentalness <- mean(X.features.1980$instrumentalness)
+  
+  ## Calculate Song Length averages
+  features.2016.duration_ms <- mean(X.features.2016$duration_ms)
+  features.2015.duration_ms <- mean(X.features.2015$duration_ms)
+  features.2014.duration_ms <- mean(X.features.2014$duration_ms)
+  features.2013.duration_ms <- mean(X.features.2013$duration_ms)
+  features.2012.duration_ms <- mean(X.features.2012$duration_ms)
+  features.2011.duration_ms <- mean(X.features.2011$duration_ms)
+  features.2010.duration_ms <- mean(X.features.2010$duration_ms)
+  features.2009.duration_ms <- mean(X.features.2009$duration_ms)
+  features.2008.duration_ms <- mean(X.features.2008$duration_ms)
+  features.2007.duration_ms <- mean(X.features.2007$duration_ms)
+  features.2006.duration_ms <- mean(X.features.2006$duration_ms)
+  features.2005.duration_ms <- mean(X.features.2005$duration_ms)
+  features.2004.duration_ms <- mean(X.features.2004$duration_ms)
+  features.2003.duration_ms <- mean(X.features.2003$duration_ms)
+  features.2002.duration_ms <- mean(X.features.2002$duration_ms)
+  features.2001.duration_ms <- mean(X.features.2001$duration_ms)
+  features.2000.duration_ms <- mean(X.features.2000$duration_ms)
+  features.1999.duration_ms <- mean(X.features.1999$duration_ms)
+  features.1998.duration_ms <- mean(X.features.1998$duration_ms)
+  features.1997.duration_ms <- mean(X.features.1997$duration_ms)
+  features.1996.duration_ms <- mean(X.features.1996$duration_ms)
+  features.1995.duration_ms <- mean(X.features.1995$duration_ms)
+  features.1994.duration_ms <- mean(X.features.1994$duration_ms)
+  features.1993.duration_ms <- mean(X.features.1993$duration_ms)
+  features.1992.duration_ms <- mean(X.features.1992$duration_ms)
+  features.1991.duration_ms <- mean(X.features.1991$duration_ms)
+  features.1990.duration_ms <- mean(X.features.1990$duration_ms)
+  features.1989.duration_ms <- mean(X.features.1989$duration_ms)
+  features.1988.duration_ms <- mean(X.features.1988$duration_ms)
+  features.1987.duration_ms <- mean(X.features.1987$duration_ms)
+  features.1986.duration_ms <- mean(X.features.1986$duration_ms)
+  features.1985.duration_ms <- mean(X.features.1985$duration_ms)
+  features.1984.duration_ms <- mean(X.features.1984$duration_ms)
+  features.1983.duration_ms <- mean(X.features.1983$duration_ms)
+  features.1982.duration_ms <- mean(X.features.1982$duration_ms)
+  features.1981.duration_ms <- mean(X.features.1981$duration_ms)
+  features.1980.duration_ms <- mean(X.features.1980$duration_ms)
 
     # Select audio features to show
     if(input$features == "Danceability") {
@@ -810,7 +849,49 @@ shinyServer(function(input, output) {
                          features.2016.instrumentalness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'instrumentalness'))
         feature.years <- features.all.songs%>%select(feature = instrumentalness, Year)
-    }
+    } else if(input$features == "Song Length"){
+      dat <- data.frame(
+        year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
+                      levels=c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),        
+        stat_average = c(features.1980.duration_ms,
+                         features.1981.duration_ms,
+                         features.1982.duration_ms,
+                         features.1983.duration_ms,
+                         features.1984.duration_ms,
+                         features.1985.duration_ms,
+                         features.1986.duration_ms,
+                         features.1987.duration_ms,
+                         features.1988.duration_ms,
+                         features.1989.duration_ms,
+                         features.1990.duration_ms,
+                         features.1991.duration_ms,
+                         features.1992.duration_ms,
+                         features.1993.duration_ms,
+                         features.1994.duration_ms,
+                         features.1995.duration_ms,
+                         features.1996.duration_ms,
+                         features.1997.duration_ms,
+                         features.1998.duration_ms,
+                         features.1999.duration_ms,
+                         features.2000.duration_ms,
+                         features.2001.duration_ms,
+                         features.2002.duration_ms,
+                         features.2003.duration_ms,
+                         features.2004.duration_ms,
+                         features.2005.duration_ms,
+                         features.2006.duration_ms,
+                         features.2007.duration_ms,
+                         features.2008.duration_ms,
+                         features.2009.duration_ms,
+                         features.2010.duration_ms,
+                         features.2011.duration_ms,
+                         features.2012.duration_ms,
+                         features.2013.duration_ms,
+                         features.2014.duration_ms,
+                         features.2015.duration_ms,
+                         features.2016.duration_ms))
+      all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'Song Length'))
+      feature.years <- features.all.songs%>%select(feature = duration_ms, Year)
   
     if(input$plot_types == "Barplot") {
       ggplot(data=dat, aes(x=year, y=stat_average, fill=year)) +
@@ -822,7 +903,7 @@ shinyServer(function(input, output) {
         labs(x = "Years", y = input$features, color = "Year")
     } else if(input$plot_types == "Quantile") {
       qplot(Year, feature,data = feature.years,
-            xlab = 'Year', ylab = input$features,geom = c("point", "smooth"),span = 0.2,  col = Year)
+           xlab = 'Year', ylab = input$features,geom = c("point", "smooth"),span = 0.2,  col = Year)
     } else if(input$plot_types == "Violin") {
       ggplot(stack(all.years.feature[,-1]), aes(x = ind, y = values, color = ind)) +
         geom_violin() +
@@ -967,3 +1048,4 @@ shinyServer(function(input, output) {
     })
   })
 })
+

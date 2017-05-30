@@ -16,7 +16,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                           
                           selectInput(inputId = "features",
                                       label = "Features:",
-                                      choices = c("Danceability", "Energy", "Tempo", "Loudness", "Speechiness", "Acousticness", "Liveness", "Instrumentalness"),
+                                      choices = c("Danceability", "Energy", "Tempo", "Loudness", "Speechiness", "Acousticness", "Liveness", "Instrumentalness", "Song Length"),
                                       selected = "Danceability"),
                           
                           radioButtons(inputId = "plot_types",
