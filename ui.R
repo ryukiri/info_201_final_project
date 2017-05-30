@@ -46,7 +46,8 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                         a list of 10 chosen based off the audio features of the given song.'),
                       p('The \"Table\" page will provide users the ability to find and view the song charts we used dating back to 1080.'),
                       h3('Our Team', align = 'Center'),
-                      p('CURRENTLY STILL IN PROGRESS.')
+                      
+                      img(src="Group.jpg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;")
                       
                       ),
              tabPanel("Table", 

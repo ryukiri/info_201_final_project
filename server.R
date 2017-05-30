@@ -5,7 +5,7 @@ library(dplyr)
 library(knitr)
 library(DT)
 
-shinyServer(function(input, output) {
+shinyServer(function(input, output, session) {
   ## Authorizes Spotify API with keys
   keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
   source("functions/GetSongData.R")
@@ -1004,9 +1004,9 @@ shinyServer(function(input, output) {
     track.id <- GetTrackID(searched.song)
     recommendations <- GetRecommendations(track.id)
     year.recommendations <- GetRecommendedYears(track.id)
-    output$table <- renderDataTable({
-      datatable(year.recommendations, options = list(dom = 't'))
-    })
+    #output$table <- renderDataTable({
+    #  datatable(year.recommendations, options = list(dom = 't'))
+    #})
     output$tablep <- renderDataTable({
       datatable(recommendations, options = list(dom = 't'))
     })
