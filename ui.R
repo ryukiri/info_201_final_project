@@ -44,7 +44,9 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                         instrumentalness of each song.'),
                       p('Users will be able to find song recommendations under our \"Search\" page. It will take in a song, and then display 
                         a list of 10 chosen based off the audio features of the given song.'),
-                      p('The \"Table\" page will provide users the ability to find and view the song charts we used dating back to 1080.')
+                      p('The \"Table\" page will provide users the ability to find and view the song charts we used dating back to 1080.'),
+                      h3('Our Team', align = 'Center'),
+                      p('CURRENTLY STILL IN PROGRESS.')
                       
                       ),
              tabPanel("Table", 
