@@ -36,7 +36,17 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                       
                       
                       ),
-             tabPanel("Summary"),
+             tabPanel("About",
+                      h1('About', align = 'Center'),
+                      p('In this project, we have utilized data found from Billboards Annual Hot-100 charts and from past Spotify Playlists
+                        to build visual representations depicting how pop music has changed since 1980. Our plots show song trends by 
+                        using audio features taken from Spotify for each song. Some of these feautures include the danceability, tempo, and
+                        instrumentalness of each song.'),
+                      p('Users will be able to find song recommendations under our \"Search\" page. It will take in a song, and then display 
+                        a list of 10 chosen based off the audio features of the given song.'),
+                      p('The \"Table\" page will provide users the ability to find and view the song charts we used dating back to 1080.')
+                      
+                      ),
              tabPanel("Table", 
                       sidebarLayout(
                         sidebarPanel(
