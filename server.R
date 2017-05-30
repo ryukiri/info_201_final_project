@@ -892,6 +892,7 @@ shinyServer(function(input, output) {
                          features.2016.duration_ms))
       all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'duration_ms'))
       feature.years <- features.all.songs%>%select(feature = duration_ms, Year)
+    }
   
     if(input$plot_types == "Barplot") {
       ggplot(data=dat, aes(x=year, y=stat_average, fill=year)) +
