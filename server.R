@@ -65,6 +65,34 @@ shinyServer(function(input, output) {
   features.2010 <- read.csv("features/features.2010.csv")
   features.2009 <- read.csv("features/features.2009.csv")
   features.2008 <- read.csv("features/features.2008.csv")
+  features.2007 <- read.csv("features/features.2007.csv")
+  features.2006 <- read.csv("features/features.2006.csv")
+  features.2005 <- read.csv("features/features.2005.csv")
+  features.2004 <- read.csv("features/features.2004.csv")
+  features.2003 <- read.csv("features/features.2003.csv")
+  features.2002 <- read.csv("features/features.2002.csv")
+  features.2001 <- read.csv("features/features.2001.csv")
+  features.2000 <- read.csv("features/features.2000.csv")
+  features.1999 <- read.csv("features/features.1999.csv")
+  features.1998 <- read.csv("features/features.1998.csv")
+  features.1997 <- read.csv("features/features.1997.csv")
+  features.1996 <- read.csv("features/features.1996.csv")
+  features.1995 <- read.csv("features/features.1995.csv")
+  features.1994 <- read.csv("features/features.1994.csv")
+  features.1993 <- read.csv("features/features.1993.csv")
+  features.1992 <- read.csv("features/features.1992.csv")
+  features.1991 <- read.csv("features/features.1991.csv")
+  features.1990 <- read.csv("features/features.1990.csv")
+  features.1989 <- read.csv("features/features.1989.csv")
+  features.1988 <- read.csv("features/features.1988.csv")
+  features.1987 <- read.csv("features/features.1987.csv")
+  features.1986 <- read.csv("features/features.1986.csv")
+  features.1985 <- read.csv("features/features.1985.csv")
+  features.1984 <- read.csv("features/features.1984.csv")
+  features.1983 <- read.csv("features/features.1983.csv")
+  features.1982 <- read.csv("features/features.1982.csv")
+  features.1981 <- read.csv("features/features.1981.csv")
+  features.1980 <- read.csv("features/features.1980.csv")
 
   ## Get all the features for hte years nad put them into data frame (import all the csv file in "features" folder)
   temp = list.files(path = paste0(getwd(), '/features'),pattern="*.csv", full.names = TRUE)
@@ -75,6 +103,34 @@ shinyServer(function(input, output) {
   
   ## all the features and years list
   all.features <- list(
+      'features.1980' = X.features.1980,
+      'features.1981' = X.features.1981,
+      'features.1982' = X.features.1982,
+      'features.1983' = X.features.1983,
+      'features.1984' = X.features.1984,
+      'features.1985' = X.features.1985,
+      'features.1986' = X.features.1986,
+      'features.1987' = X.features.1987,
+      'features.1988' = X.features.1988,
+      'features.1989' = X.features.1989,
+      'features.1990' = X.features.1990,
+      'features.1991' = X.features.1991,
+      'features.1992' = X.features.1992,
+      'features.1993' = X.features.1993,
+      'features.1994' = X.features.1994,
+      'features.1995' = X.features.1995,
+      'features.1996' = X.features.1996,
+      'features.1997' = X.features.1997,
+      'features.1998' = X.features.1998,
+      'features.1999' = X.features.1999,
+      'features.2000' = X.features.2000,
+      'features.2001' = X.features.2001,
+      'features.2002' = X.features.2002,
+      'features.2003' = X.features.2003,
+      'features.2004' = X.features.2004,
+      'features.2005' = X.features.2005,
+      'features.2006' = X.features.2006,
+      'features.2007' = X.features.2007,
       'features.2008' = X.features.2008,
       'features.2009' = X.features.2009,
       'features.2010' = X.features.2010,
@@ -140,6 +196,34 @@ shinyServer(function(input, output) {
   features.2010.energy <- mean(X.features.2010$energy)
   features.2009.energy <- mean(X.features.2009$energy)
   features.2008.energy <- mean(X.features.2008$energy)
+  features.2007.energy <- mean(X.features.2007$energy)
+  features.2006.energy <- mean(X.features.2006$energy)
+  features.2005.energy <- mean(X.features.2005$energy)
+  features.2004.energy <- mean(X.features.2004$energy)
+  features.2003.energy <- mean(X.features.2003$energy)
+  features.2002.energy <- mean(X.features.2002$energy)
+  features.2001.energy <- mean(X.features.2001$energy)
+  features.2000.energy <- mean(X.features.2000$energy)
+  features.1999.energy <- mean(X.features.1999$energy)
+  features.1998.energy <- mean(X.features.1998$energy)
+  features.1997.energy <- mean(X.features.1997$energy)
+  features.1996.energy <- mean(X.features.1996$energy)
+  features.1995.energy <- mean(X.features.1995$energy)
+  features.1994.energy <- mean(X.features.1994$energy)
+  features.1993.energy <- mean(X.features.1993$energy)
+  features.1992.energy <- mean(X.features.1992$energy)
+  features.1991.energy <- mean(X.features.1991$energy)
+  features.1990.energy <- mean(X.features.1990$energy)
+  features.1989.energy <- mean(X.features.1989$energy)
+  features.1988.energy <- mean(X.features.1988$energy)
+  features.1987.energy <- mean(X.features.1987$energy)
+  features.1986.energy <- mean(X.features.1986$energy)
+  features.1985.energy <- mean(X.features.1985$energy)
+  features.1984.energy <- mean(X.features.1984$energy)
+  features.1983.energy <- mean(X.features.1983$energy)
+  features.1982.energy <- mean(X.features.1982$energy)
+  features.1981.energy <- mean(X.features.1981$energy)
+  features.1980.energy <- mean(X.features.1980$energy)
   
   ## Calculate tempo averages
   features.2016.tempo <- mean(X.features.2016$tempo)
@@ -151,6 +235,34 @@ shinyServer(function(input, output) {
   features.2010.tempo <- mean(X.features.2010$tempo)
   features.2009.tempo <- mean(X.features.2009$tempo)
   features.2008.tempo <- mean(X.features.2008$tempo)
+  features.2007.tempo <- mean(X.features.2007$tempo)
+  features.2006.tempo <- mean(X.features.2006$tempo)
+  features.2005.tempo <- mean(X.features.2005$tempo)
+  features.2004.tempo <- mean(X.features.2004$tempo)
+  features.2003.tempo <- mean(X.features.2003$tempo)
+  features.2002.tempo <- mean(X.features.2002$tempo)
+  features.2001.tempo <- mean(X.features.2001$tempo)
+  features.2000.tempo <- mean(X.features.2000$tempo)
+  features.1999.tempo <- mean(X.features.1999$tempo)
+  features.1998.tempo <- mean(X.features.1998$tempo)
+  features.1997.tempo <- mean(X.features.1997$tempo)
+  features.1996.tempo <- mean(X.features.1996$tempo)
+  features.1995.tempo <- mean(X.features.1995$tempo)
+  features.1994.tempo <- mean(X.features.1994$tempo)
+  features.1993.tempo <- mean(X.features.1993$tempo)
+  features.1992.tempo <- mean(X.features.1992$tempo)
+  features.1991.tempo <- mean(X.features.1991$tempo)
+  features.1990.tempo <- mean(X.features.1990$tempo)
+  features.1989.tempo <- mean(X.features.1989$tempo)
+  features.1988.tempo <- mean(X.features.1988$tempo)
+  features.1987.tempo <- mean(X.features.1987$tempo)
+  features.1986.tempo <- mean(X.features.1986$tempo)
+  features.1985.tempo <- mean(X.features.1985$tempo)
+  features.1984.tempo <- mean(X.features.1984$tempo)
+  features.1983.tempo <- mean(X.features.1983$tempo)
+  features.1982.tempo <- mean(X.features.1982$tempo)
+  features.1981.tempo <- mean(X.features.1981$tempo)
+  features.1980.tempo <- mean(X.features.1980$tempo)
   
   ## Calculate loudness averages
   features.2016.loudness <- mean(X.features.2016$loudness)
@@ -162,6 +274,34 @@ shinyServer(function(input, output) {
   features.2010.loudness <- mean(X.features.2010$loudness)
   features.2009.loudness <- mean(X.features.2009$loudness)
   features.2008.loudness <- mean(X.features.2008$loudness)
+  features.2007.loudness <- mean(X.features.2007$loudness)
+  features.2006.loudness <- mean(X.features.2006$loudness)
+  features.2005.loudness <- mean(X.features.2005$loudness)
+  features.2004.loudness <- mean(X.features.2004$loudness)
+  features.2003.loudness <- mean(X.features.2003$loudness)
+  features.2002.loudness <- mean(X.features.2002$loudness)
+  features.2001.loudness <- mean(X.features.2001$loudness)
+  features.2000.loudness <- mean(X.features.2000$loudness)
+  features.1999.loudness <- mean(X.features.1999$loudness)
+  features.1998.loudness <- mean(X.features.1998$loudness)
+  features.1997.loudness <- mean(X.features.1997$loudness)
+  features.1996.loudness <- mean(X.features.1996$loudness)
+  features.1995.loudness <- mean(X.features.1995$loudness)
+  features.1994.loudness <- mean(X.features.1994$loudness)
+  features.1993.loudness <- mean(X.features.1993$loudness)
+  features.1992.loudness <- mean(X.features.1992$loudness)
+  features.1991.loudness <- mean(X.features.1991$loudness)
+  features.1990.loudness <- mean(X.features.1990$loudness)
+  features.1989.loudness <- mean(X.features.1989$loudness)
+  features.1988.loudness <- mean(X.features.1988$loudness)
+  features.1987.loudness <- mean(X.features.1987$loudness)
+  features.1986.loudness <- mean(X.features.1986$loudness)
+  features.1985.loudness <- mean(X.features.1985$loudness)
+  features.1984.loudness <- mean(X.features.1984$loudness)
+  features.1983.loudness <- mean(X.features.1983$loudness)
+  features.1982.loudness <- mean(X.features.1982$loudness)
+  features.1981.loudness <- mean(X.features.1981$loudness)
+  features.1980.loudness <- mean(X.features.1980$loudness)
   
   ## Calculate speechiness averages
   features.2016.speechiness <- mean(X.features.2016$speechiness)
@@ -173,6 +313,34 @@ shinyServer(function(input, output) {
   features.2010.speechiness <- mean(X.features.2010$speechiness)
   features.2009.speechiness <- mean(X.features.2009$speechiness)
   features.2008.speechiness <- mean(X.features.2008$speechiness)
+  features.2007.speechiness <- mean(X.features.2007$speechiness)
+  features.2006.speechiness <- mean(X.features.2006$speechiness)
+  features.2005.speechiness <- mean(X.features.2005$speechiness)
+  features.2004.speechiness <- mean(X.features.2004$speechiness)
+  features.2003.speechiness <- mean(X.features.2003$speechiness)
+  features.2002.speechiness <- mean(X.features.2002$speechiness)
+  features.2001.speechiness <- mean(X.features.2001$speechiness)
+  features.2000.speechiness <- mean(X.features.2000$speechiness)
+  features.1999.speechiness <- mean(X.features.1999$speechiness)
+  features.1998.speechiness <- mean(X.features.1998$speechiness)
+  features.1997.speechiness <- mean(X.features.1997$speechiness)
+  features.1996.speechiness <- mean(X.features.1996$speechiness)
+  features.1995.speechiness <- mean(X.features.1995$speechiness)
+  features.1994.speechiness <- mean(X.features.1994$speechiness)
+  features.1993.speechiness <- mean(X.features.1993$speechiness)
+  features.1992.speechiness <- mean(X.features.1992$speechiness)
+  features.1991.speechiness <- mean(X.features.1991$speechiness)
+  features.1990.speechiness <- mean(X.features.1990$speechiness)
+  features.1989.speechiness <- mean(X.features.1989$speechiness)
+  features.1988.speechiness <- mean(X.features.1988$speechiness)
+  features.1987.speechiness <- mean(X.features.1987$speechiness)
+  features.1986.speechiness <- mean(X.features.1986$speechiness)
+  features.1985.speechiness <- mean(X.features.1985$speechiness)
+  features.1984.speechiness <- mean(X.features.1984$speechiness)
+  features.1983.speechiness <- mean(X.features.1983$speechiness)
+  features.1982.speechiness <- mean(X.features.1982$speechiness)
+  features.1981.speechiness <- mean(X.features.1981$speechiness)
+  features.1980.speechiness <- mean(X.features.1980$speechiness)
   
   ## Calculate acousticness averages
   features.2016.acousticness <- mean(X.features.2016$acousticness)
@@ -184,6 +352,34 @@ shinyServer(function(input, output) {
   features.2010.acousticness <- mean(X.features.2010$acousticness)
   features.2009.acousticness <- mean(X.features.2009$acousticness)
   features.2008.acousticness <- mean(X.features.2008$acousticness)
+  features.2007.acousticness <- mean(X.features.2007$acousticness)
+  features.2006.acousticness <- mean(X.features.2006$acousticness)
+  features.2005.acousticness <- mean(X.features.2005$acousticness)
+  features.2004.acousticness <- mean(X.features.2004$acousticness)
+  features.2003.acousticness <- mean(X.features.2003$acousticness)
+  features.2002.acousticness <- mean(X.features.2002$acousticness)
+  features.2001.acousticness <- mean(X.features.2001$acousticness)
+  features.2000.acousticness <- mean(X.features.2000$acousticness)
+  features.1999.acousticness <- mean(X.features.1999$acousticness)
+  features.1998.acousticness <- mean(X.features.1998$acousticness)
+  features.1997.acousticness <- mean(X.features.1997$acousticness)
+  features.1996.acousticness <- mean(X.features.1996$acousticness)
+  features.1995.acousticness <- mean(X.features.1995$acousticness)
+  features.1994.acousticness <- mean(X.features.1994$acousticness)
+  features.1993.acousticness <- mean(X.features.1993$acousticness)
+  features.1992.acousticness <- mean(X.features.1992$acousticness)
+  features.1991.acousticness <- mean(X.features.1991$acousticness)
+  features.1990.acousticness <- mean(X.features.1990$acousticness)
+  features.1989.acousticness <- mean(X.features.1989$acousticness)
+  features.1988.acousticness <- mean(X.features.1988$acousticness)
+  features.1987.acousticness <- mean(X.features.1987$acousticness)
+  features.1986.acousticness <- mean(X.features.1986$acousticness)
+  features.1985.acousticness <- mean(X.features.1985$acousticness)
+  features.1984.acousticness <- mean(X.features.1984$acousticness)
+  features.1983.acousticness <- mean(X.features.1983$acousticness)
+  features.1982.acousticness <- mean(X.features.1982$acousticness)
+  features.1981.acousticness <- mean(X.features.1981$acousticness)
+  features.1980.acousticness <- mean(X.features.1980$acousticness)
   
   ## Calculate acousticness averages
   features.2016.liveness <- mean(X.features.2016$liveness)
@@ -195,6 +391,34 @@ shinyServer(function(input, output) {
   features.2010.liveness <- mean(X.features.2010$liveness)
   features.2009.liveness <- mean(X.features.2009$liveness)
   features.2008.liveness <- mean(X.features.2008$liveness)
+  features.2007.liveness <- mean(X.features.2007$liveness)
+  features.2006.liveness <- mean(X.features.2006$liveness)
+  features.2005.liveness <- mean(X.features.2005$liveness)
+  features.2004.liveness <- mean(X.features.2004$liveness)
+  features.2003.liveness <- mean(X.features.2003$liveness)
+  features.2002.liveness <- mean(X.features.2002$liveness)
+  features.2001.liveness <- mean(X.features.2001$liveness)
+  features.2000.liveness <- mean(X.features.2000$liveness)
+  features.1999.liveness <- mean(X.features.1999$liveness)
+  features.1998.liveness <- mean(X.features.1998$liveness)
+  features.1997.liveness <- mean(X.features.1997$liveness)
+  features.1996.liveness <- mean(X.features.1996$liveness)
+  features.1995.liveness <- mean(X.features.1995$liveness)
+  features.1994.liveness <- mean(X.features.1994$liveness)
+  features.1993.liveness <- mean(X.features.1993$liveness)
+  features.1992.liveness <- mean(X.features.1992$liveness)
+  features.1991.liveness <- mean(X.features.1991$liveness)
+  features.1990.liveness <- mean(X.features.1990$liveness)
+  features.1989.liveness <- mean(X.features.1989$liveness)
+  features.1988.liveness <- mean(X.features.1988$liveness)
+  features.1987.liveness <- mean(X.features.1987$liveness)
+  features.1986.liveness <- mean(X.features.1986$liveness)
+  features.1985.liveness <- mean(X.features.1985$liveness)
+  features.1984.liveness <- mean(X.features.1984$liveness)
+  features.1983.liveness <- mean(X.features.1983$liveness)
+  features.1982.liveness <- mean(X.features.1982$liveness)
+  features.1981.liveness <- mean(X.features.1981$liveness)
+  features.1980.liveness <- mean(X.features.1980$liveness)
   
   ## Calculate instrumentalness averages
   features.2016.instrumentalness <- mean(X.features.2016$instrumentalness)
@@ -206,6 +430,34 @@ shinyServer(function(input, output) {
   features.2010.instrumentalness <- mean(X.features.2010$instrumentalness)
   features.2009.instrumentalness <- mean(X.features.2009$instrumentalness)
   features.2008.instrumentalness <- mean(X.features.2008$instrumentalness)
+  features.2007.instrumentalness <- mean(X.features.2007$instrumentalness)
+  features.2006.instrumentalness <- mean(X.features.2006$instrumentalness)
+  features.2005.instrumentalness <- mean(X.features.2005$instrumentalness)
+  features.2004.instrumentalness <- mean(X.features.2004$instrumentalness)
+  features.2003.instrumentalness <- mean(X.features.2003$instrumentalness)
+  features.2002.instrumentalness <- mean(X.features.2002$instrumentalness)
+  features.2001.instrumentalness <- mean(X.features.2001$instrumentalness)
+  features.2000.instrumentalness <- mean(X.features.2000$instrumentalness)
+  features.1999.instrumentalness <- mean(X.features.1999$instrumentalness)
+  features.1998.instrumentalness <- mean(X.features.1998$instrumentalness)
+  features.1997.instrumentalness <- mean(X.features.1997$instrumentalness)
+  features.1996.instrumentalness <- mean(X.features.1996$instrumentalness)
+  features.1995.instrumentalness <- mean(X.features.1995$instrumentalness)
+  features.1994.instrumentalness <- mean(X.features.1994$instrumentalness)
+  features.1993.instrumentalness <- mean(X.features.1993$instrumentalness)
+  features.1992.instrumentalness <- mean(X.features.1992$instrumentalness)
+  features.1991.instrumentalness <- mean(X.features.1991$instrumentalness)
+  features.1990.instrumentalness <- mean(X.features.1990$instrumentalness)
+  features.1989.instrumentalness <- mean(X.features.1989$instrumentalness)
+  features.1988.instrumentalness <- mean(X.features.1988$instrumentalness)
+  features.1987.instrumentalness <- mean(X.features.1987$instrumentalness)
+  features.1986.instrumentalness <- mean(X.features.1986$instrumentalness)
+  features.1985.instrumentalness <- mean(X.features.1985$instrumentalness)
+  features.1984.instrumentalness <- mean(X.features.1984$instrumentalness)
+  features.1983.instrumentalness <- mean(X.features.1983$instrumentalness)
+  features.1982.instrumentalness <- mean(X.features.1982$instrumentalness)
+  features.1981.instrumentalness <- mean(X.features.1981$instrumentalness)
+  features.1980.instrumentalness <- mean(X.features.1980$instrumentalness)
 
     # Select audio features to show
     if(input$features == "Danceability") {
@@ -249,12 +501,41 @@ shinyServer(function(input, output) {
                          features.2014.danceability,
                          features.2015.danceability,
                          features.2016.danceability))
-        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'danceability'))
-        feature.years <- features.all.songs%>%select(feature = danceability, Year)
+        #all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'danceability'))
+        #feature.years <- features.all.songs%>%select(feature = danceability, Year)
     } else if(input$features == "Energy"){
         dat <- data.frame(
-        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
-        stat_average = c(features.2008.energy,
+        year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
+                      levels=c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.1980.energy,
+                         features.1981.energy,
+                         features.1982.energy,
+                         features.1983.energy,
+                         features.1984.energy,
+                         features.1985.energy,
+                         features.1986.energy,
+                         features.1987.energy,
+                         features.1988.energy,
+                         features.1989.energy,
+                         features.1990.energy,
+                         features.1991.energy,
+                         features.1992.energy,
+                         features.1993.energy,
+                         features.1994.energy,
+                         features.1995.energy,
+                         features.1996.energy,
+                         features.1997.energy,
+                         features.1998.energy,
+                         features.1999.energy,
+                         features.2000.energy,
+                         features.2001.energy,
+                         features.2002.energy,
+                         features.2003.energy,
+                         features.2004.energy,
+                         features.2005.energy,
+                         features.2006.energy,
+                         features.2007.energy,
+                         features.2008.energy,
                          features.2009.energy,
                          features.2010.energy,
                          features.2011.energy,
@@ -263,13 +544,42 @@ shinyServer(function(input, output) {
                          features.2014.energy,
                          features.2015.energy,
                          features.2016.energy))
-        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'energy'))
-        feature.years <- features.all.songs%>%select(feature = energy, Year)
+        #all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'energy'))
+        #feature.years <- features.all.songs%>%select(feature = energy, Year)
         
     } else if(input$features == "Tempo"){
         dat <- data.frame(
-        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
-        stat_average = c(features.2008.tempo,
+          year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
+                        levels=c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.1980.tempo,
+                         features.1981.tempo,
+                         features.1982.tempo,
+                         features.1983.tempo,
+                         features.1984.tempo,
+                         features.1985.tempo,
+                         features.1986.tempo,
+                         features.1987.tempo,
+                         features.1988.tempo,
+                         features.1989.tempo,
+                         features.1990.tempo,
+                         features.1991.tempo,
+                         features.1992.tempo,
+                         features.1993.tempo,
+                         features.1994.tempo,
+                         features.1995.tempo,
+                         features.1996.tempo,
+                         features.1997.tempo,
+                         features.1998.tempo,
+                         features.1999.tempo,
+                         features.2000.tempo,
+                         features.2001.tempo,
+                         features.2002.tempo,
+                         features.2003.tempo,
+                         features.2004.tempo,
+                         features.2005.tempo,
+                         features.2006.tempo,
+                         features.2007.tempo,
+                         features.2008.tempo,
                          features.2009.tempo,
                          features.2010.tempo,
                          features.2011.tempo,
@@ -278,58 +588,174 @@ shinyServer(function(input, output) {
                          features.2014.tempo,
                          features.2015.tempo,
                          features.2016.tempo))
-        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'tempo'))
-        feature.years <- features.all.songs%>%select(feature = tempo, Year)
+        #all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'tempo'))
+        #feature.years <- features.all.songs%>%select(feature = tempo, Year)
 
     } else if(input$features == "Loudness"){
       dat <- data.frame(
-        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
-        stat_average = c(features.2008.loudness,
-                  features.2009.loudness,
-                  features.2010.loudness,
-                  features.2011.loudness,
-                  features.2012.loudness,
-                  features.2013.loudness,
-                  features.2014.loudness,
-                  features.2015.loudness,
-                  features.2016.loudness))
-        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'loudness'))
-        feature.years <- features.all.songs%>%select(feature = loudness, Year)
+        year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
+                      levels=c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c( features.1980.loudness,
+                          features.1981.loudness,
+                          features.1982.loudness,
+                          features.1983.loudness,
+                          features.1984.loudness,
+                          features.1985.loudness,
+                          features.1986.loudness,
+                          features.1987.loudness,
+                          features.1988.loudness,
+                          features.1989.loudness,
+                          features.1990.loudness,
+                          features.1991.loudness,
+                          features.1992.loudness,
+                          features.1993.loudness,
+                          features.1994.loudness,
+                          features.1995.loudness,
+                          features.1996.loudness,
+                          features.1997.loudness,
+                          features.1998.loudness,
+                          features.1999.loudness,
+                          features.2000.loudness,
+                          features.2001.loudness,
+                          features.2002.loudness,
+                          features.2003.loudness,
+                          features.2004.loudness,
+                          features.2005.loudness,
+                          features.2006.loudness,
+                          features.2007.loudness,
+                          features.2008.loudness,
+                          features.2009.loudness,
+                          features.2010.loudness,
+                          features.2011.loudness,
+                          features.2012.loudness,
+                          features.2013.loudness,
+                          features.2014.loudness,
+                          features.2015.loudness,
+                          features.2016.loudness))
+        #all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'loudness'))
+        #feature.years <- features.all.songs%>%select(feature = loudness, Year)
 
     } else if(input$features == "Speechiness"){
       dat <- data.frame(
-        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
-        stat_average = c(features.2008.speechiness,
-                     features.2009.speechiness,
-                     features.2010.speechiness,
-                     features.2011.speechiness,
-                     features.2012.speechiness,
-                     features.2013.speechiness,
-                     features.2014.speechiness,
-                     features.2015.speechiness,
-                     features.2016.speechiness))
-        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'speechiness'))
-        feature.years <- features.all.songs%>%select(feature = speechiness, Year)
+        year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
+                      levels=c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c(features.1980.speechiness,
+                         features.1981.speechiness,
+                         features.1982.speechiness,
+                         features.1983.speechiness,
+                         features.1984.speechiness,
+                         features.1985.speechiness,
+                         features.1986.speechiness,
+                         features.1987.speechiness,
+                         features.1988.speechiness,
+                         features.1989.speechiness,
+                         features.1990.speechiness,
+                         features.1991.speechiness,
+                         features.1992.speechiness,
+                         features.1993.speechiness,
+                         features.1994.speechiness,
+                         features.1995.speechiness,
+                         features.1996.speechiness,
+                         features.1997.speechiness,
+                         features.1998.speechiness,
+                         features.1999.speechiness,
+                         features.2000.speechiness,
+                         features.2001.speechiness,
+                         features.2002.speechiness,
+                         features.2003.speechiness,
+                         features.2004.speechiness,
+                         features.2005.speechiness,
+                         features.2006.speechiness,
+                         features.2007.speechiness,
+                         features.2008.speechiness,
+                         features.2009.speechiness,
+                         features.2010.speechiness,
+                         features.2011.speechiness,
+                         features.2012.speechiness,
+                         features.2013.speechiness,
+                         features.2014.speechiness,
+                         features.2015.speechiness,
+                         features.2016.speechiness))
+        #all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'speechiness'))
+        #feature.years <- features.all.songs%>%select(feature = speechiness, Year)
 
     } else if(input$features == "Acousticness"){
       dat <- data.frame(
-        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
-        stat_average = c(features.2008.acousticness,
-                        features.2009.acousticness,
-                        features.2010.acousticness,
-                        features.2011.acousticness,
-                        features.2012.acousticness,
-                        features.2013.acousticness,
-                        features.2014.acousticness,
-                        features.2015.acousticness,
-                        features.2016.acousticness))
-        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'acousticness'))
-        feature.years <- features.all.songs%>%select(feature = acousticness, Year)
+        year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
+                      levels=c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
+        stat_average = c( features.1980.acousticness,
+                          features.1981.acousticness,
+                          features.1982.acousticness,
+                          features.1983.acousticness,
+                          features.1984.acousticness,
+                          features.1985.acousticness,
+                          features.1986.acousticness,
+                          features.1987.acousticness,
+                          features.1988.acousticness,
+                          features.1989.acousticness,
+                          features.1990.acousticness,
+                          features.1991.acousticness,
+                          features.1992.acousticness,
+                          features.1993.acousticness,
+                          features.1994.acousticness,
+                          features.1995.acousticness,
+                          features.1996.acousticness,
+                          features.1997.acousticness,
+                          features.1998.acousticness,
+                          features.1999.acousticness,
+                          features.2000.acousticness,
+                          features.2001.acousticness,
+                          features.2002.acousticness,
+                          features.2003.acousticness,
+                          features.2004.acousticness,
+                          features.2005.acousticness,
+                          features.2006.acousticness,
+                          features.2007.acousticness,
+                          features.2008.acousticness,
+                          features.2009.acousticness,
+                          features.2010.acousticness,
+                          features.2011.acousticness,
+                          features.2012.acousticness,
+                          features.2013.acousticness,
+                          features.2014.acousticness,
+                          features.2015.acousticness,
+                          features.2016.acousticness))
+        #all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'acousticness'))
+        #feature.years <- features.all.songs%>%select(feature = acousticness, Year)
 
     } else if(input$features == "Liveness"){
       dat <- data.frame(
-        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
-        stat_average = c(features.2008.liveness,
+        year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
+                      levels=c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),        
+        stat_average = c(features.1980.liveness,
+                         features.1981.liveness,
+                         features.1982.liveness,
+                         features.1983.liveness,
+                         features.1984.liveness,
+                         features.1985.liveness,
+                         features.1986.liveness,
+                         features.1987.liveness,
+                         features.1988.liveness,
+                         features.1989.liveness,
+                         features.1990.liveness,
+                         features.1991.liveness,
+                         features.1992.liveness,
+                         features.1993.liveness,
+                         features.1994.liveness,
+                         features.1995.liveness,
+                         features.1996.liveness,
+                         features.1997.liveness,
+                         features.1998.liveness,
+                         features.1999.liveness,
+                         features.2000.liveness,
+                         features.2001.liveness,
+                         features.2002.liveness,
+                         features.2003.liveness,
+                         features.2004.liveness,
+                         features.2005.liveness,
+                         features.2006.liveness,
+                         features.2007.liveness,
+                         features.2008.liveness,
                          features.2009.liveness,
                          features.2010.liveness,
                          features.2011.liveness,
@@ -338,23 +764,52 @@ shinyServer(function(input, output) {
                          features.2014.liveness,
                          features.2015.liveness,
                          features.2016.liveness))
-        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'liveness'))
-        feature.years <- features.all.songs%>%select(feature = liveness, Year)
+        #all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'liveness'))
+        #feature.years <- features.all.songs%>%select(feature = liveness, Year)
 
     } else if(input$features == "Instrumentalness"){
       dat <- data.frame(
-        year = factor(c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), levels=c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),
-        stat_average = c(features.2008.instrumentalness,
-                     features.2009.instrumentalness,
-                     features.2010.instrumentalness,
-                     features.2011.instrumentalness,
-                     features.2012.instrumentalness,
-                     features.2013.instrumentalness,
-                     features.2014.instrumentalness,
-                     features.2015.instrumentalness,
-                     features.2016.instrumentalness))
-        all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'instrumentalness'))
-        feature.years <- features.all.songs%>%select(feature = instrumentalness, Year)
+        year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
+                      levels=c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),        
+        stat_average = c(features.1980.instrumentalness,
+                         features.1981.instrumentalness,
+                         features.1982.instrumentalness,
+                         features.1983.instrumentalness,
+                         features.1984.instrumentalness,
+                         features.1985.instrumentalness,
+                         features.1986.instrumentalness,
+                         features.1987.instrumentalness,
+                         features.1988.instrumentalness,
+                         features.1989.instrumentalness,
+                         features.1990.instrumentalness,
+                         features.1991.instrumentalness,
+                         features.1992.instrumentalness,
+                         features.1993.instrumentalness,
+                         features.1994.instrumentalness,
+                         features.1995.instrumentalness,
+                         features.1996.instrumentalness,
+                         features.1997.instrumentalness,
+                         features.1998.instrumentalness,
+                         features.1999.instrumentalness,
+                         features.2000.instrumentalness,
+                         features.2001.instrumentalness,
+                         features.2002.instrumentalness,
+                         features.2003.instrumentalness,
+                         features.2004.instrumentalness,
+                         features.2005.instrumentalness,
+                         features.2006.instrumentalness,
+                         features.2007.instrumentalness,
+                         features.2008.instrumentalness,
+                         features.2009.instrumentalness,
+                         features.2010.instrumentalness,
+                         features.2011.instrumentalness,
+                         features.2012.instrumentalness,
+                         features.2013.instrumentalness,
+                         features.2014.instrumentalness,
+                         features.2015.instrumentalness,
+                         features.2016.instrumentalness))
+        #all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'instrumentalness'))
+        #feature.years <- features.all.songs%>%select(feature = instrumentalness, Year)
     }
   
     if(input$plot_types == "Barplot") {
