@@ -65,6 +65,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                        actionButton("action", label = "Search"),
                       
                       #submitButton("Get Recommendations"),
+                      dataTableOutput('table'),
                       dataTableOutput('tablep'),
                       
                       hr(),

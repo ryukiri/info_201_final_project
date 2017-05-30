@@ -958,6 +958,10 @@ shinyServer(function(input, output) {
     searched.song <- input$text
     track.id <- GetTrackID(searched.song)
     recommendations <- GetRecommendations(track.id)
+    year.recommendations <- GetRecommendedYears(track.id)
+    output$table <- renderDataTable({
+      datatable(year.recommendations, options = list(dom = 't'))
+    })
     output$tablep <- renderDataTable({
       datatable(recommendations, options = list(dom = 't'))
     })
