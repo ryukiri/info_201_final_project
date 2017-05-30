@@ -891,7 +891,7 @@ shinyServer(function(input, output) {
                          features.2015.duration_ms,
                          features.2016.duration_ms))
       all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'duration_ms'))
-      feature.years <- features.all.songs%>%select(feature = duration_ms/1000, Year)
+      feature.years <- features.all.songs%>%select(feature = duration_ms, Year)
     }
   
     if(input$plot_types == "Barplot") {
