@@ -16,8 +16,14 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                         to build visual representations depicting how pop music has changed since 1980. Our plots show song trends by 
                         using audio features taken from Spotify for each song. Some of these feautures include the danceability, tempo, and
                         instrumentalness of each song.'),
+                      p('Our target users are people interested in music and its trends throughout the years. Because music is so universal, 
+                        our users vary from a wide range of age groups and come from different backgrounds. For instance, students looking for 
+                        new music and adults interested in music trends are both users we are trying to serve. Responding to the need of our 
+                        target users, our dataset not only allows them to understand the progression of Billboard music trends throughout years, 
+                        but also gives song recommendations based on their favorite music through the Spotify API.'),
                       p('Users will be able to find song recommendations under our \"Search\" page. It will take in a song, and then display 
-                        a list of 10 chosen based off the audio features of the given song.'),
+                        a list of 10 chosen based off the audio features of the given song. It will also display a table of year recommendaions
+                        based off of these audio features.'),
                       p('The \"Table\" page will provide users the ability to find and view the song charts we used dating back to 1080.'),
                       h3('Our Team', align = 'Center'),
                       
