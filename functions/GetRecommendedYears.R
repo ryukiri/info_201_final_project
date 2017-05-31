@@ -4,9 +4,11 @@ library(Rspotify)
 GetRecommendedYears <- function(track.id) {
   keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
   
+  #Get audio features of user's track
   track.audio.features <- getFeatures(track.id, token=keys)
   track.features <- track.audio.features %>% select(danceability, energy, tempo, loudness, speechiness, acousticness, liveness, instrumentalness)
   
+  #Audio features from 1980-2016
   features.2016 <- read.csv("features/features.2016.csv")
   features.2015 <- read.csv("features/features.2015.csv")
   features.2014 <- read.csv("features/features.2014.csv")
@@ -367,8 +369,8 @@ GetRecommendedYears <- function(track.id) {
   
   year <- c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)
   
+  #Differences in features values
   features <- data.frame(year, danceability, energy, tempo, loudness, speechiness, acousticness, liveness, instrumentalness)
-  #features.diff <- data.frame(year, danceability, energy, tempo, loudness, speechiness, acousticness, liveness, instrumentalness)
   features$danceability <- abs(track.features$danceability - features$danceability)
   features$energy <- abs(track.features$energy - features$energy)
   features$tempo <- abs(track.features$tempo - features$tempo)
@@ -378,6 +380,7 @@ GetRecommendedYears <- function(track.id) {
   features$liveness <- abs(track.features$liveness - features$liveness)
   features$instrumentalness <- abs(track.features$instrumentalness - features$instrumentalness)
   
+  #Find years with least difference in each feature
   least.diff.danceability <- (features %>% filter(danceability == min(danceability)) %>% select(year))[[1]]
   least.diff.energy <- (features %>% filter(energy == min(energy)) %>% select(year))[[1]]
   least.diff.tempo <- (features %>% filter(tempo == min(tempo)) %>% select(year))[[1]]
@@ -387,6 +390,7 @@ GetRecommendedYears <- function(track.id) {
   least.diff.liveness <- (features %>% filter(liveness == min(liveness)) %>% select(year))[[1]]
   least.diff.instrumentalness <- (features %>% filter(instrumentalness == min(instrumentalness)) %>% select(year))[[1]]
   
+  #Find the year(s) with features closest to the user's song
   least.diff.years <- c(least.diff.danceability, least.diff.energy, least.diff.tempo, least.diff.loudness, least.diff.speechiness, least.diff.acousticness, least.diff.liveness, least.diff.instrumentalness)
   least.diff.years.df <- data.frame(least.diff.years)
   least.diff.years.freq <- data.frame(table(least.diff.years.df %>% group_by(least.diff.years)))
