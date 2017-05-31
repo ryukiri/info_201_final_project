@@ -1,6 +1,7 @@
 library(dplyr)
 library(Rspotify)
 
+#Recommends year(s) based on audio features of user's track
 GetRecommendedYears <- function(track.id) {
   keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
   
