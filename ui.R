@@ -45,7 +45,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                         # Show a plot of the generated distribution
                         mainPanel(
                           #give your plot a descriptive name
-                          plotOutput("rolePlot")
+                          plotlyOutput("rolePlot")
                         )
                       )
                       
