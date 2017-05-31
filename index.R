@@ -182,7 +182,7 @@ merge.1991 <- features.1991 %>%
 
 merge.1990 <- features.1990 %>% 
   mutate(Spotify.ID = id) %>% 
-  left_join(songs.2000, by = 'Spotify.ID') %>%
+  left_join(songs.1990, by = 'Spotify.ID') %>%
   select(Song, Artist, Year, Spotify.ID, danceability, energy, tempo, loudness, speechiness, acousticness, instrumentalness, liveness, duration_ms)
 
 merge.1989 <- features.1989 %>% 
@@ -317,6 +317,46 @@ features.1983 <- as.data.frame(do.call(rbind, lapply(songs.1983$Spotify.ID, getA
 features.1982 <- as.data.frame(do.call(rbind, lapply(songs.1982$Spotify.ID, getAudioFeatures) ))
 features.1981 <- as.data.frame(do.call(rbind, lapply(songs.1981$Spotify.ID, getAudioFeatures) ))
 features.1980 <- as.data.frame(do.call(rbind, lapply(songs.1980$Spotify.ID, getAudioFeatures) ))
+
+## Grabbing audio features for the years and putting them into respective data frames
+ features.2016 <- read.csv("features/features.2016.csv")
+ features.2015 <- read.csv("features/features.2015.csv")
+ features.2014 <- read.csv("features/features.2014.csv")
+ features.2013 <- read.csv("features/features.2013.csv")
+ features.2012 <- read.csv("features/features.2012.csv")
+ features.2011 <- read.csv("features/features.2011.csv")
+ features.2010 <- read.csv("features/features.2010.csv")
+ features.2009 <- read.csv("features/features.2009.csv")
+ features.2008 <- read.csv("features/features.2008.csv")
+ features.2007 <- read.csv("features/features.2007.csv")
+ features.2006 <- read.csv("features/features.2006.csv")
+ features.2005 <- read.csv("features/features.2005.csv")
+ features.2004 <- read.csv("features/features.2004.csv")
+ features.2003 <- read.csv("features/features.2003.csv")
+ features.2002 <- read.csv("features/features.2002.csv")
+ features.2001 <- read.csv("features/features.2001.csv")
+ features.2000 <- read.csv("features/features.2000.csv")
+ features.1999 <- read.csv("features/features.1999.csv")
+ features.1998 <- read.csv("features/features.1998.csv")
+ features.1997 <- read.csv("features/features.1997.csv")
+ features.1996 <- read.csv("features/features.1996.csv")
+ features.1995 <- read.csv("features/features.1995.csv")
+ features.1994 <- read.csv("features/features.1994.csv")
+ features.1993 <- read.csv("features/features.1993.csv")
+ features.1992 <- read.csv("features/features.1992.csv")
+ features.1991 <- read.csv("features/features.1991.csv")
+ features.1990 <- read.csv("features/features.1990.csv")
+ features.1989 <- read.csv("features/features.1989.csv")
+ features.1988 <- read.csv("features/features.1988.csv")
+ features.1987 <- read.csv("features/features.1987.csv")
+ features.1986 <- read.csv("features/features.1986.csv")
+ features.1985 <- read.csv("features/features.1985.csv")
+ features.1984 <- read.csv("features/features.1984.csv")
+ features.1983 <- read.csv("features/features.1983.csv")
+ features.1982 <- read.csv("features/features.1982.csv")
+ features.1981 <- read.csv("features/features.1981.csv")
+ features.1980 <- read.csv("features/features.1980.csv")
+
 
 ## Writing audio features to a file
 write.csv(as.data.frame(do.call(rbind, lapply(songs.2016[["Spotify.ID"]], getAudioFeatures) )), file="features/features.2016.csv")
