@@ -1004,9 +1004,9 @@ shinyServer(function(input, output, session) {
     track.id <- GetTrackID(searched.song)
     recommendations <- GetRecommendations(track.id)
     year.recommendations <- GetRecommendedYears(track.id)
-    #output$table <- renderDataTable({
-    #  datatable(year.recommendations, options = list(dom = 't'))
-    #})
+    output$table <- renderDataTable({
+      datatable(year.recommendations, options = list(dom = 't'))
+    })
     output$tablep <- renderDataTable({
       datatable(recommendations, options = list(dom = 't'))
     })
