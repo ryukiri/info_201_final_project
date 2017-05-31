@@ -60,6 +60,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
              
              tabPanel("Analysis",
                       h2('Introduction and Data Observation', align = 'Center'),
+                      p(' '),
                       p('Our dataset not only allows users to understand the progression of Billboard music trends throughout years, but also 
                         gives song recommendations based on their favorite music through the Spotify API. '),
                       p('To begin with, our dataset portrayed in plots allows them to understand the development of different audio features of 
@@ -72,12 +73,12 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                         down while the danceability is slowly rising up. There are also regressional and obvious patterns in some of the other features.
                         In overall, the loudness is gradually increasing throughout the years. This can reflect a preference of people nowadays to 
                         more up-hype and high-volume music compared to those of 1980. '),
-                      img(src="loudness.jpg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;"),
+                      img(src="loudness.jpeg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;"),
                       p('The Speechiness has gone up from 1980, reaching a peak in 2003. It then dropped a bit but has been on the rise again since 2014.'),
-                      img(src="speechiness.jpg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;"),
+                      img(src="speechiness.jpeg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;"),
                       p('From looking at the Quantile plot, we can see that Instrumentalness has been steadily decreasing since 1980. The increase we 
                         see in Speechiness and the decrease in Instrumentalness may be due to the rise in popularity of rap music.'),
-                      img(src="instrumentalness.jpg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;"),
+                      img(src="instrumentalness.jpeg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;"),
                       p('Acousticness has varied throughout the years, but has been dropping in general. Liveness has also varied throughout the years 
                         but has stayed pretty consistent overall. Song length peaked around 1992 and has been slowly dropping since.'),
                       p('In addition, there is also a personalized functionality achieved through our website in that users can get 10 song 
