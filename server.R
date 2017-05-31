@@ -907,7 +907,7 @@ shinyServer(function(input, output) {
         labs(x = "Years", y = input$features, color = "Year") +
         theme(axis.text.x = element_text(angle = 90, vjust=0.5, hjust=0))
     } else if(input$plot_types == "Quantile") {
-      qplot(Year, feature,data = feature.years,
+      qplot(Year, feature, data = feature.years,
            xlab = 'Year', ylab = input$features,geom = c("point", "smooth"),span = 0.2,  col = Year)
     } else if(input$plot_types == "Violin") {
       ggplot(stack(all.years.feature[,-1]), aes(x = ind, y = values, color = ind)) +
