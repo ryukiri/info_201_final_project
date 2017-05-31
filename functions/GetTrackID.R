@@ -1,6 +1,7 @@
 library(httr)
 library(jsonlite)
 
+#Get Spotify track ID fro user's song
 GetTrackID <- function(my.song) {
   keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
   
