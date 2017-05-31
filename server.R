@@ -903,7 +903,7 @@ shinyServer(function(input, output) {
         geom_boxplot() +
         labs(x = "Years", y = input$features, color = "Year")
     } else if(input$plot_types == "Quantile") {
-      qplot(Year, feature,data = feature.years,
+      qplot(Year, feature, data = feature.years,
            xlab = 'Year', ylab = input$features,geom = c("point", "smooth"),span = 0.2,  col = Year)
     } else if(input$plot_types == "Violin") {
       ggplot(stack(all.years.feature[,-1]), aes(x = ind, y = values, color = ind)) +
