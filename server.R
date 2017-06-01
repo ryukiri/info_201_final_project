@@ -1,4 +1,4 @@
-# server.R
+# This is the server.R file of our shiny app.
 library(devtools)
 library(Rspotify)
 library(dplyr)
@@ -459,7 +459,7 @@ shinyServer(function(input, output) {
   features.1981.duration_ms <- mean(X.features.1981$duration_ms)
   features.1980.duration_ms <- mean(X.features.1980$duration_ms)
 
-    # Select audio features to show
+    # Select audio features to show (draws the "Danceability" graph based on input)
     if(input$features == "Danceability") {
         dat <- data.frame(
         year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
@@ -503,6 +503,7 @@ shinyServer(function(input, output) {
                          features.2016.danceability))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'danceability'))
         feature.years <- features.all.songs%>%select(feature = danceability, Year)
+    # draws the "Energy" graph based on input
     } else if(input$features == "Energy"){
         dat <- data.frame(
         year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
@@ -546,7 +547,7 @@ shinyServer(function(input, output) {
                          features.2016.energy))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'energy'))
         feature.years <- features.all.songs%>%select(feature = energy, Year)
-        
+    # draws the "Tempo" graph based on input        
     } else if(input$features == "Tempo"){
         dat <- data.frame(
           year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
@@ -590,7 +591,7 @@ shinyServer(function(input, output) {
                          features.2016.tempo))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'tempo'))
         feature.years <- features.all.songs%>%select(feature = tempo, Year)
-
+    # draws the "Loudness" graph based on input
     } else if(input$features == "Loudness"){
       dat <- data.frame(
         year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
@@ -634,7 +635,7 @@ shinyServer(function(input, output) {
                           features.2016.loudness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'loudness'))
         feature.years <- features.all.songs%>%select(feature = loudness, Year)
-
+    # draws the "Speechiness" graph based on input
     } else if(input$features == "Speechiness"){
       dat <- data.frame(
         year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
@@ -678,7 +679,7 @@ shinyServer(function(input, output) {
                          features.2016.speechiness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'speechiness'))
         feature.years <- features.all.songs%>%select(feature = speechiness, Year)
-
+    # draws the "Acoustiness" graph based on input
     } else if(input$features == "Acousticness"){
       dat <- data.frame(
         year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
@@ -722,7 +723,7 @@ shinyServer(function(input, output) {
                           features.2016.acousticness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'acousticness'))
         feature.years <- features.all.songs%>%select(feature = acousticness, Year)
-
+   # draws the "Liveness" graph based on input
     } else if(input$features == "Liveness"){
       dat <- data.frame(
         year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
@@ -766,7 +767,7 @@ shinyServer(function(input, output) {
                          features.2016.liveness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'liveness'))
         feature.years <- features.all.songs%>%select(feature = liveness, Year)
-
+        # draws the "Instrumentalness" graph based on input
     } else if(input$features == "Instrumentalness"){
       dat <- data.frame(
         year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
@@ -810,7 +811,7 @@ shinyServer(function(input, output) {
                          features.2016.instrumentalness))
         all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'instrumentalness'))
         feature.years <- features.all.songs%>%select(feature = instrumentalness, Year)
-    } else if(input$features == "Song Length"){
+    } else if(input$features == "Song Length"){  # draws the "Song length" graph based on input
       dat <- data.frame(
         year = factor(c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016), 
                       levels=c(1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016)),        
@@ -854,7 +855,8 @@ shinyServer(function(input, output) {
       all.years.feature <-Reduce(function(...) merge(..., by='X', all=T), lapply(names(all.features), Merge.feature.year, 'duration_ms'))
       feature.years <- features.all.songs%>%select(feature = duration_ms, Year)
     }
-  
+    
+  # draws different kinds of graphs based on the different input
     if(input$plot_types == "Barplot") {
       ggplot(data=dat, aes(x=year, y=stat_average, fill=year)) +
         geom_bar(stat="identity") +
@@ -872,7 +874,7 @@ shinyServer(function(input, output) {
         labs(x = "Years", y = input$features, color = 'Year')
     }
   })
-  
+  # reads in years
   output$tablePlot <- renderDataTable({
     merged.2016 <- read.csv("songsMerged/songs.merged.2016.csv")
     merged.2015 <- read.csv("songsMerged/songs.merged.2015.csv")

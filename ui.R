@@ -1,4 +1,4 @@
-# ui.R
+# This is the ui.R file of our shiny app.
 library(shiny)
 library(plotly)
 library(knitr)
@@ -9,22 +9,28 @@ shinyUI(fluidPage(theme = "bootstrap.css",
   titlePanel("Spotify Audio Features"),
   
   navbarPage("Team inflatable Pizza",
-             
+             # creates the first "introduction" tab
              tabPanel("About",
                       h1('About', align = 'Center'),
                       p('In this project, we have utilized data found from Billboards Annual Hot-100 charts and from past Spotify Playlists
                         to build visual representations depicting how pop music has changed since 1980. Our plots show song trends by 
                         using audio features taken from Spotify for each song. Some of these feautures include the danceability, tempo, and
                         instrumentalness of each song.'),
+                      p('Our target users are people interested in music and its trends throughout the years. Because music is so universal, 
+                        our users vary from a wide range of age groups and come from different backgrounds. For instance, students looking for 
+                        new music and adults interested in music trends are both users we are trying to serve. Responding to the need of our 
+                        target users, our dataset not only allows them to understand the progression of Billboard music trends throughout years, 
+                        but also gives song recommendations based on their favorite music through the Spotify API.'),
                       p('Users will be able to find song recommendations under our \"Search\" page. It will take in a song, and then display 
-                        a list of 10 chosen based off the audio features of the given song.'),
+                        a list of 10 chosen based off the audio features of the given song. It will also display a table of year recommendaions
+                        based off of these audio features.'),
                       p('The \"Table\" page will provide users the ability to find and view the song charts we used dating back to 1080.'),
                       h3('Our Team', align = 'Center'),
                       
                       img(src="Group.jpg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;")
                       
                       ),
-             
+             # creates the second "plot" tab with graphs inside
              tabPanel("Plot",
                       sidebarLayout(
                         sidebarPanel(
@@ -51,7 +57,35 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                       
                       
                       ),
-
+             # creates the third tab "Analysis" with texts and pictures inside
+             tabPanel("Analysis",
+                      h2('Introduction and Data Observation', align = 'Center'),
+                      p(' '),
+                      p('Our dataset not only allows users to understand the progression of Billboard music trends throughout years, but also 
+                        gives song recommendations based on their favorite music through the Spotify API. '),
+                      p('To begin with, our dataset portrayed in plots allows them to understand the development of different audio features of 
+                        Billboard top 100 songs from 1980 to 2016. There are four types of plots including Barplot, Boxplot, Quantile and Violin 
+                        that enable users to comprehensively approach and understand music trends. '),
+                      p('The music features we include throughout the years are Danceability, Energy, Tempo, Loudness, Speechiness, Acousticness,
+                        Liveness and Instrumentalness. There are some trends and patterns from 1980 to 2016 that we have observed in these features.
+                        The Danceability, Energy and Tempo features slightly vary throughout the years, but they mostly stay consistent around 0.6 
+                        for Danceability, 0.58 for Energy and 115 for Tempo. Interestingly, in recent years dated from 2010, the energy is going 
+                        down while the danceability is slowly rising up. There are also regressional and obvious patterns in some of the other features.
+                        In overall, the loudness is gradually increasing throughout the years. This can reflect a preference of people nowadays to 
+                        more up-hype and high-volume music compared to those of 1980. '),
+                      img(src="loudness.jpeg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;"),
+                      p('The Speechiness has gone up from 1980, reaching a peak in 2003. It then dropped a bit but has been on the rise again since 2014.'),
+                      img(src="speechiness.jpeg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;"),
+                      p('From looking at the Quantile plot, we can see that Instrumentalness has been steadily decreasing since 1980. The increase we 
+                        see in Speechiness and the decrease in Instrumentalness may be due to the rise in popularity of rap music.'),
+                      img(src="instrumentalness.jpeg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;"),
+                      p('Acousticness has varied throughout the years, but has been dropping in general. Liveness has also varied throughout the years 
+                        but has stayed pretty consistent overall. Song length peaked around 1992 and has been slowly dropping since.'),
+                      p('In addition, there is also a personalized functionality achieved through our website in that users can get 10 song 
+                        recommendations by inputting the title of their favorite song.')
+                      
+                      ),
+             # creates the fourth tab "table" with table inside
              tabPanel("Table", 
                       sidebarLayout(
                         sidebarPanel(
@@ -74,6 +108,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                       )
  
                       ),
+             # creates the fifth tab "search" with recommendation function inside
              tabPanel("Search", 
                       # Text input box
                       textInput("text", label = h3("Search"), value = "Love Yourself"),
