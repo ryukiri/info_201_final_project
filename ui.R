@@ -1,4 +1,4 @@
-# ui.R
+# This is the ui.R file of our shiny app.
 library(shiny)
 library(plotly)
 library(knitr)
@@ -9,7 +9,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
   titlePanel("Spotify Audio Features"),
   
   navbarPage("Team inflatable Pizza",
-             
+             # creates the first "introduction" tab
              tabPanel("About",
                       h1('About', align = 'Center'),
                       p('In this project, we have utilized data found from Billboards Annual Hot-100 charts and from past Spotify Playlists
@@ -30,7 +30,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                       img(src="Group.jpg", width = 1000, style="display: block; margin-left: auto; margin-right: auto;")
                       
                       ),
-             
+             # creates the second "plot" tab with graphs inside
              tabPanel("Plot",
                       sidebarLayout(
                         sidebarPanel(
@@ -57,7 +57,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                       
                       
                       ),
-             
+             # creates the third tab "Analysis" with texts and pictures inside
              tabPanel("Analysis",
                       h2('Introduction and Data Observation', align = 'Center'),
                       p(' '),
@@ -85,7 +85,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                         recommendations by inputting the title of their favorite song.')
                       
                       ),
-
+             # creates the fourth tab "table" with table inside
              tabPanel("Table", 
                       sidebarLayout(
                         sidebarPanel(
@@ -108,6 +108,7 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                       )
  
                       ),
+             # creates the fifth tab "search" with recommendation function inside
              tabPanel("Search", 
                       # Text input box
                       textInput("text", label = h3("Search"), value = "Love Yourself"),

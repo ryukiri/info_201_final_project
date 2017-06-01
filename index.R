@@ -1,3 +1,6 @@
+# This file uses the orginal Billboard song name and Spotify ID chart to get the song's features 
+# danceability, energy etc from Spotify.
+
 install.packages("devtools")
 install_github("tiagomendesdantas/Rspotify")
 library(devtools)

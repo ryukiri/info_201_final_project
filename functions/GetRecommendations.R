@@ -3,11 +3,11 @@ library(jsonlite)
 library(Rspotify)
 library(dplyr)
 
-#Grabs top 10 recommended songs from Spotify based on user's track
+# Grabs top 10 recommended songs from Spotify based on user's track
 GetRecommendations <- function(track.id) {
   keys <- spotifyOAuth("Info 201","ae706b417cc645f78c559186204dadd4","5f5769652ae24ceca43e05074b8b84eb")
   
-  #Grab top 10 recommended songs from Spotify
+  # Grab top 10 recommended songs from Spotify
   rec.params <- list(seed_tracks = track.id, limit = 10)
   rec.response <- httr::GET("https://api.spotify.com/v1/recommendations", query = rec.params, httr::config(token = keys))
   rec.body <- content(rec.response, "text")
